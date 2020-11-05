@@ -1,0 +1,105 @@
+/* @theme kuruslide */
+
+// @import "default";
+
+section {
+}
+
+section.title {
+	color:#fff;
+	background-color: #000000;
+}
+section.title {
+	color:#fff;
+	background-color: #000000;
+		h1 {
+			color: #000 !important;
+		}
+	}
+}
+section.title-chapter {
+	background-color: #000000;
+}
+section.title-chapter h1{
+	color: #fff !important;
+}
+section.title-chapter-sub {
+	background-color: #e5e5e5;
+}
+
+h1 {
+	font-size: 64px !important;
+	/* color: #000 !important; */
+}
+h2 {
+	font-size: 56px !important;
+	border-bottom: 1px solid #ccc !important;
+	margin-bottom: 50px;
+}
+h2::first-letter {
+	color: #337ab7;
+}
+h3 {
+	font-size: 48px !important;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+h4 {
+	font-size: 42px !important;
+}
+p,
+li {
+	font-size: 38px;
+}
+ul {
+	margin-bottom: 50px;
+}
+
+p i {
+	position: relative;
+	top: 2px;
+	margin-right: 0.4em;
+}
+/* p .center { text-align: center !important;margin-left;margin-right; } */
+.txt-tsunagi {
+	font-size: 50px;
+}
+
+.color_key {
+	color: #337ab7 !important;
+}
+.color_gray {
+	color: #e5e5e5 !important;
+}
+
+.arrow-bottom {
+	text-align: center;
+	color: #337ab7;
+}
+.arrow-bottom i {
+	font-size: 80px;
+}
+
+.caption {
+	font-size: 0.8em;
+}
+
+.text-size-sm,
+.text-size-sm li {
+	font-size: 24px !important;
+}
+.text-size-lg {
+	font-size: 1.5em !important;
+}
+
+.fa-rotate-45 {
+	-moz-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+}
+
+pre,
+code {
+	font-size: 2em !important;
+}
