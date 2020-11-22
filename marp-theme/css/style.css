@@ -1,4 +1,64 @@
-/* @theme kuruslide */
-
+/* @theme my_theme */
 @import "default";
-@import "common";
+@charset "UTF-8";
+section {
+  /* padding: 50px; */
+  font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word; }
+  section.title {
+    border-left: 20px solid #c00; }
+  section.title h1 {
+    color: #000; }
+
+section.title-chapter {
+  border-left: 20px solid #000;
+  background-color: #e5e5e5; }
+
+section.title-chapter h1 {
+  color: #000; }
+
+section.title-chapter-sub {
+  background-color: #e5e5e5; }
+
+section.functions li {
+  font-size: 30px; }
+
+section.index {
+  background-color: #e5e5e5; }
+
+section h1 {
+  font-size: 64px !important;
+  color: #000; }
+
+h2 {
+  font-size: 56px !important;
+  border-bottom: 1px solid #ccc !important;
+  margin-bottom: 50px; }
+
+h2::first-letter {
+  color: #c00; }
+
+h3 {
+  font-size: 48px !important;
+  margin-bottom: 40px;
+  margin-top: 40px; }
+
+h4 {
+  font-size: 42px !important; }
+
+p,
+li {
+  font-size: 38px; }
+
+ul {
+  margin-bottom: 50px; }
+
+p i {
+  position: relative;
+  top: 2px;
+  margin-right: 0.4em; }
+
+pre,
+code {
+  font-size: 2em !important; }

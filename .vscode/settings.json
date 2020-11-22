@@ -1,7 +1,5 @@
 {
 	"markdown.marp.themes": [
-		// "./marp-theme/common/css/bootstrap-copy.css",
-		// "./marp-theme/css/style.css",
-		"./marp-theme/css/common.css
+		"./marp-theme/css/style.css"
 	  ]
 }
