@@ -9,27 +9,27 @@ var concat = require("gulp-concat");
 // error handling
 // var plumber = require('gulp-plumber');
 gulp.task('sass', function(done) {
-    gulp.src('./marp-theme/_scss/*.scss')
+    gulp.src('./theme/_scss/*.scss')
         .pipe(sass())
-		.pipe(gulp.dest('./marp-theme/css/'));
+		.pipe(gulp.dest('./theme/css/'));
 		done();
 });
 
 gulp.task("marge_css", function(done) {
 	return gulp
 		.src([
-			"./marp-theme/css/_default_import.css",
-			"./marp-theme/css/raw.css"
+			"./theme/css/_default_import.css",
+			"./theme/css/raw.css"
 		])
 		.pipe(concat("style.css"))
-		.pipe(gulp.dest("./marp-theme/css/"));
+		.pipe(gulp.dest("./theme/css/"));
 		// done();
 });
 
 gulp.task('default', function() {
-    gulp.watch('./marp-theme/_scss/**.scss',gulp.task('watch'));
+    gulp.watch('./theme/_scss/**.scss',gulp.task('watch'));
 });
 
 gulp.task('watch', function() {
-	gulp.watch('./marp-theme/_scss/**/*.scss',gulp.series('sass','marge_css'));
+	gulp.watch('./theme/_scss/**/*.scss',gulp.series('sass','marge_css'));
 });
