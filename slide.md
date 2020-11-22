@@ -21,11 +21,25 @@ section{
 # Marp スライド雛形
 
 ---
+
+## スライドとしての使い方
+
+まず md ファイルの一番最初の marp: false を true に変更すると marp のスライドモードになります。
+
+公式ドキュメント
+
+https://marpit.marp.app/directives?id=usage
+
+---
 ## カスタマイズ方法
 
 スライドのデザインはCSSでカスタマイズする事ができます。
 
 直接手動でカスタマイズする場合は themes/css/style.css を書き換えてください。
+
+#### テーマのCSSドキュメント
+
+https://marpit.marp.app/theme-css
 
 ---
 
