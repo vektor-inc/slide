@@ -18,163 +18,209 @@ section{
 */
 </style>
 
-# 開発者に喜ばれる<br>フォーラムの使い方
-2020/11/26
-オオハシナオキ 
+# VWS 勉強会 #016
+
+* 新機能解説
+* 超初心者向けハンズオン
+* 開発者に喜ばれるフォーラムの使い方
+* 質問相談会
+* 連絡事項
+* 懇親会
+
+kurudrive@Vektor,Inc.
 
 ---
 
-# プロフィール
-オオハシナオキ / Naoki Ohashi
-Engineer / VK Blocks・Pro 開発担当
-Twitter: [@naogify](https://twitter.com/naogify)
+## はじめに
+
+* 随時途中で質問などいただいてかまいません。
+* 発言時以外はミュートにしてください。
+（テレビ・同居人・外部の騒音）
+* 質問はチャットでいただいても結構です。
+* 一部録画・公開します。
+* ライブビューイングのノリでチャットでわいわいいただければと思います。
 
 ---
 
-# 対象者
-- 何を/どう質問すれば良いか分からず、悩んでしまう。
-- 早く適切な回答が欲しい。
+## ミーティング中のチャット
+
+今回はミーティング中のチャットはzoomの中ではなく slack で行います。
+以下の #ミーティング チャンネルで行いますので、事前にテストで適当に挨拶など書き込んでみてください。
+
+https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
 
 ---
 
-# フォーラムでの聞き方大事
-- なぜか？
-    * 素早くサポートが受けれる
-    * 解決方法の検索の仕方が分かる
----
-
-## AWSの質問ガイドライン
-![](./images/aws-support-guides.png)
+※上記URLでなくても普通にSlackのアプリを既にご利用されている方はSlackアプリから参加いただければ結構です。
+https://slack.com/intl/ja-jp/downloads/
 
 ---
 
-# ベクトルのサポート窓口
+## Slackにまだ登録していない
 
-|  フォーラム  |  プライベート<br>サポートプラン  | Slack（β）|
-| ---- | ---- | ---- |
-|  有料ユーザーのみ投稿<br>（閲覧無料）|  有料  |  無料  |
-|  開発者 + ユーザー回答  |  開発者回答 |  ユーザー回答  |
+vwsのslackに登録していない方は予め下記より申請ください。
 
-<!-- - フォーラム
-  - 有料ユーザー投稿可 / 無料ユーザー閲覧可
-  - 開発者 + ユーザーで回答
-- プライベートサポートプラン
-  - 有料
-  - メールで質問
-- Slack（β）
-  - 無料
-  - ユーザーで回答 -->
+https://vws.vektor-inc.co.jp/vws-community
 
+---
+
+## Slackログイン情報がわからない
+
+申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください
+https://vektor-vws.slack.com/forgot/signin
+
+■ VWSのSlackのURL
+https://vektor-vws.slack.com
+
+---
+
+## 本日の内容
+
+* 新機能解説
+* 超初心者向けハンズオン
+* 開発者に喜ばれるフォーラムの使い方
+* 質問相談会
+* 連絡事項
+* 懇親会
+
+---
+
+<!-- _class: title-chapter -->
+
+# 今月の新機能紹介
+
+---
+
+## ExUnit
+
+* VK 最新記事 ウィジェット
+カテゴリーラベルに色反映
+https://www.vektor-inc.co.jp/product-update/exunit-9-44/
+* 管理バーにプラグインへのリンク追加
+https://www.vektor-inc.co.jp/product-update/exunit-9-45-x/
+
+---
+* VK アーカイブリストウィジェット
+ドロップダウンに対応
+https://www.vektor-inc.co.jp/product-update/exunit-9-46-x/
+
+---
+
+## VK Blocks
+* ブロックアイコンが新しくなりました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-icon-new/
+* アイコンの識別をしやすくしました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-0-57-0/
+
+---
+
+* 固定ページ本文ブロック追加
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-0-56-0-page-content-block-add/
+* 吹き出しブロックの枠線指定機能追加
+https://www.vektor-inc.co.jp/product-update/vk-blocks-0-56-0-balloon-boader-add/
+* 改行禁止機能追加
 
 
 ---
 
- # 質問をする前に…
- 
-  - 似たような投稿がないかフォーラムを検索
-  - 以下を確認
-    - [Lightning 設定ガイド](https://lightning.nagoya/ja/setting)
-    - [よくある質問](https://vws.vektor-inc.co.jp/contact/faq)
-  - 各プラグインを停止したりテーマを変更したり原因を探してみる
+VK Blcoks Pro
+
+* Outerブロックで背景リピート対応
 
 ---
 
- # 質問の具体例
+## Lightning
+
+* ページヘッダーとパンくずの出し分けができるようになりました。
+https://www.vektor-inc.co.jp/product-update/lightning-13-x-pro-8-x-page-header/
 
 ---
 
-## Q. 画面が真っ白になりました
+## Lightning Pro / Katawara 
+
+* ページヘッダー画像部分の画面サイズでの出し分けとオーバーレイ機能追加
+https://www.vektor-inc.co.jp/product-update/lightning-pro-8-x-katawara-1-x-page-header-update/
 
 ---
 
-## 良い質問例
-- LighitngPro x.x.x と、VK Blocks Pro x.x.xを使用しています。
+## Lightning Pro / Katawara / VK Blocks Pro
 
-- VK Blocks Proを最新版にアップデート後、コンテンツを再編集すると、画面が真っ白になりました。
-
-- コンソールにエラーが出ているのでスクリーンショット送ります。
+* 投稿リストのカードタイプで 線なし と 分類の全件ヒョ時ができるようになりました。
+https://www.vektor-inc.co.jp/product-update/lightning-pro-8-x-katawara-1-x-vk-blocks-pro-0-54-x-vk-posts/
 
 ---
 
-## ⭕️ 良いポイント
-- バージョンを伝える + 最新版を使う
-- 「最新版にアップデート後」のように直前の作業を伝える
-- 可能な限りスクリーンショットやエラーメッセージを使って、正確にエラー内容を伝える
+## Lightning / Katawara / ExUnit / VK Blocks
+
+* CSS最適化設定の追加
+
+https://www.vektor-inc.co.jp/product-update/lightning-12-10-0-lightning-pro-7-10-0/
 
 ---
 
-## Q. スライダーの画像が表示されません
+## VK Filter Search
+
+* 絞り込み検索 VK Filter Search リリース
+https://www.vektor-inc.co.jp/info/vk-filter-search-release/
 
 ---
 
-## 良い質問例
+## BillVektor
 
-- VK Blocks Pro x.x.x
-- スライダーブロックで背景画像を指定したのですが、画像が表示されません。
-- サイトをSSL化した直後に表示されなくなりました。
-- 該当ページのURLを投稿します。
+* 継続性のない取引先を直接入力できるようにしました。
+https://www.vektor-inc.co.jp/product-update/billvektor-1-6-x/
 
 ---
 
-## ⭕️ 良いポイント
-- やりたいことを明確に書く。
-  - ❌：スライダーの画像が表示されない
-  - ⭕️：スライダーブロックで背景画像を指定したい
-- 「SSL化した後」とエラーがおきる直前の作業を伝える
-- URLでエラーを正確に伝える
+<!-- _class: title-chapter -->
+
+# 超初心者向けハンズオン
 
 ---
 
-## Q. デザインをカスタマイズしたいです
+<!-- _class: title-chapter -->
+
+# 開発者に喜ばれるフォーラムの使い方
 
 ---
 
-## 良い質問例
-- Lighitnig Proを使っています。
-- パンくずリストの文字サイズを変更したいのですが、どのようにすれば良いでしょうか？
+<!-- _class: title-chapter -->
+
+# その他の連絡事項など
 
 ---
 
-## ⭕️ 良いポイント
-- やりたいことを明確に書く。
-  - ❌：文字サイズをカスタマイズしたい
-  - ⭕️：パンくずリストの文字サイズを変更したい
-- 注：vwsやvektorサイトに情報がある場合もあるので、まずそちらをチェック!
-  - [cssをピンポイントで変更](https://www.vektor-inc.co.jp/post/css_customize/)
-  - [スタッフブログ | Vektor,Inc](https://www.vektor-inc.co.jp/post/)
-  - [カスタマイズと設定TIPS | VWS](https://vws.vektor-inc.co.jp/archives/customize_tips)
+## お知らせと更新情報を分離
+
+https://www.vektor-inc.co.jp/product-update/
 
 ---
 
-## 便利ツール
+## フォーラム投稿の際に確認事項
 
-- デベロッパーツール
-  - エラーメッセージが分かる。
-  - [【初心者向け】コンソールによるJavascriptのエラー表示方法
-](https://eng-entrance.com/javascript-display-error)
-
-- mevie
-  - 動画URLで共有できる / 登録不要 
-  - [公式サイト](https://mevie.it/)
+https://vws.vektor-inc.co.jp/forums/forum/lightning
 
 
 ---
-## まとめ
 
-- 解決したい課題を明確にする
-- 状況を正確に共有する
-  - スクショやURLを使う
-  - プラグイン/テーマのバージョンを共有
-- 経緯を共有する
-  - 直前の作業や試したこと
+## アドベントカレンダー
+
+登録よろしくお願いいたします。
+
+https://adventar.org/calendars/5169
 
 ---
 
-## 回答される方へ
-#### 困っている人がいればぜひ助けてあげてください!
-ベストアンサーに選ばれることで300ポイント付与されます！ポイントはvwsサイト内で利用できますのでバシバシ回答してくださいね！
+## ショーケースについて
+
+https://github.com/vektor-inc/vk-showcase
 
 ---
-# 参考URL
-- [技術的なお問い合わせに関するガイドライン | AWS](https://aws.amazon.com/jp/premiumsupport/tech-support-guidelines/)
-- [【新人エンジニア向け】AWSのお問い合わせガイドラインから学ぶ良い質問のポイント | Qiita](https://qiita.com/ooooouchi/items/10e99c9dd701772f29a3)
+
+<!-- _class: title-chapter -->
+
+# そのほか質問などあれば
+
+---
+
+# ありがとうございました
