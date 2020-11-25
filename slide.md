@@ -18,7 +18,7 @@ section{
 */
 </style>
 
-# 開発者に喜ばれるバグ報告の仕方
+# 開発者に喜ばれるフォーラムの使い方
 2020/11/26
 オオハシナオキ 
 
@@ -64,6 +64,15 @@ Twitter: [@naogify](https://twitter.com/naogify)
 - Slack（β）
   - 無料
   - ユーザーで回答 -->
+
+
+
+---
+
+ # 質問をする前に…
+ 似たような投稿がないかフォーラム内を検索し、無ければ以下も確認してください。
+  - [Lightning 設定ガイド](https://lightning.nagoya/ja/setting)
+  - [よくある質問](https://vws.vektor-inc.co.jp/contact/faq)
 
 ---
 
@@ -119,15 +128,16 @@ Twitter: [@naogify](https://twitter.com/naogify)
 
 ## 良い質問例
 - Lighitnig Proを使っています。
-- 見出しや本文の文字サイズを変更したいのですが、どのようにすれば良いでしょうか？
+- 見出しの文字サイズを変更したいのですが、どのようにすれば良いでしょうか？
 
 ---
 
 ## ⭕️ 良いポイント
 - やりたいことを明確に書く。
   - ❌：デザインをカスタマイズしたい
-  - ⭕️：見出しや本文の文字サイズを変更したい
+  - ⭕️：見出しの文字サイズを変更したい
 - 注：vwsやvektorサイトに情報がある場合もあるので、まずそちらをチェック!
+  - [cssをピンポイントで変更](https://www.vektor-inc.co.jp/post/css_customize/)
   - [スタッフブログ | Vektor,Inc](https://www.vektor-inc.co.jp/post/)
   - [カスタマイズと設定TIPS | VWS](https://vws.vektor-inc.co.jp/archives/customize_tips)
 
@@ -157,7 +167,9 @@ Twitter: [@naogify](https://twitter.com/naogify)
 
 ---
 
-## ぜひ困っている人がいれば、助けてあげてください!
+## 回答される方へ
+#### 困っている人がいればぜひ助けてあげてください!
+ベストアンサーに選ばれることで300ポイント付与されます！ポイントはvwsサイト内で利用できますのでバシバシ回答してくださいね！
 
 ---
 # 参考URL
