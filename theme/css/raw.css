@@ -1270,3 +1270,7 @@ section {
   section pre,
   section code {
     font-size: 2rem !important; }
+  section table th,
+  section table td {
+    padding-left: 1em;
+    padding-right: 1em; }

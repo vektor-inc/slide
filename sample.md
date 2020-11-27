@@ -24,6 +24,17 @@ section{
 
 ---
 
+## 表
+
+| | 表示名 | スラッグ |
+|-| ------------- | ------------- |
+| 投稿タイプ | 制作実績  | showcase  |
+| カスタム分類 | サイト種別・機能  | site_type  |
+| カスタム分類 | 担当範囲 | in_charge  |
+| カスタム分類 | 業種  | industry  |
+
+---
+
 ## アラート
 
 <div class="alert alert-info">テスト</div>
@@ -31,17 +42,3 @@ section{
 <div class="alert alert-warning">テスト</div>
 <div class="alert alert-danger">テスト</div>
 
----
-
-# Font Awesome
-
-だめ？
-
-
-<i class="fas fa-exclamation-triangle"></i>
-<i class="far fa-arrow-alt-circle-right"></i>
-<i class="fas fa-arrow-circle-right"></i>
-<i class="fas fa-arrow-circle-right"></i>
-<i class="fas fa-arrow-circle-right"></i>
-<i class="fas fa-arrow-circle-right"></i>
-<i class="fas fa-arrow-circle-right"></i>
