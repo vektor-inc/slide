@@ -30,3 +30,18 @@ section{
 <div class="alert alert-success">テスト</div>
 <div class="alert alert-warning">テスト</div>
 <div class="alert alert-danger">テスト</div>
+
+---
+
+# Font Awesome
+
+だめ？
+
+
+<i class="fas fa-exclamation-triangle"></i>
+<i class="far fa-arrow-alt-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>
+<i class="fas fa-arrow-circle-right"></i>

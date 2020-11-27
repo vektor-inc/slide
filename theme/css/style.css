@@ -1234,26 +1234,20 @@ section {
     border-left: 20px solid #c00; }
   section.title h1 {
     color: #000; }
-
-section.title-chapter {
-  border-left: 20px solid #000;
-  background-color: #e5e5e5; }
-
-section.title-chapter h1 {
-  color: #000; }
-
-section.title-chapter-sub {
-  background-color: #e5e5e5; }
-
-section.functions li {
-  font-size: 30px; }
-
-section.index {
-  background-color: #e5e5e5; }
-
-section h1 {
-  font-size: 64px !important;
-  color: #000; }
+  section.title-chapter {
+    border-left: 20px solid #000;
+    background-color: #e5e5e5; }
+  section.title-chapter h1 {
+    color: #000; }
+  section.title-chapter-sub {
+    background-color: #e5e5e5; }
+  section.functions li {
+    font-size: 30px; }
+  section.index {
+    background-color: #e5e5e5; }
+  section h1 {
+    font-size: 64px !important;
+    color: #000; }
 
 h2 {
   font-size: 56px !important;
