@@ -13,10 +13,14 @@ section {
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
 	&.title {
-			border-left: 20px solid #c00;
-		}
-	&.title h1{
-	color :#000;
+			// border-left: 20px solid #000;
+			// // background-color: #fff;
+			// background: #fff url('../images/vws_logo_tate.png') no-repeat right bottom;
+			// // background-size: 100px 100px;
+			// // background-position: 50% 50%;
+			h1{
+				color :#000;
+			}
 	}
 
 	&.title-chapter {

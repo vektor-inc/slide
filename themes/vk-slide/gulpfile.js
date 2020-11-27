@@ -19,25 +19,25 @@ gulp.task('sass', function(done) {
 		// 	"@fontawesome": "./node_modules/@fontawesome/fontawesome-free"
 		// }))
         .pipe(sass())
-		.pipe(gulp.dest('./theme/css/'));
+		.pipe(gulp.dest('./css/'));
 		done();
 });
 
 gulp.task("marge_css", function(done) {
 	return gulp
 		.src([
-			"./theme/css/_default_import.css",
-			"./theme/css/raw.css"
+			"./css/_default_import.css",
+			"./css/raw.css"
 		])
 		.pipe(concat("style.css"))
-		.pipe(gulp.dest("./theme/css/"));
+		.pipe(gulp.dest("./css/"));
 		// done();
 });
 
 gulp.task('default', function() {
-    gulp.watch('./theme/_scss/**.scss',gulp.task('watch'));
+    gulp.watch('./_scss/**.scss',gulp.task('watch'));
 });
 
 gulp.task('watch', function() {
-	gulp.watch('./theme/_scss/**/*.scss',gulp.series('sass','marge_css'));
+	gulp.watch('./_scss/**/*.scss',gulp.series('sass','marge_css'));
 });
