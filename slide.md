@@ -79,6 +79,9 @@ https://vektor-vws.slack.com
 # 運営者紹介
 
 
+---
+
+ #wpvektor
 
 ---
 
