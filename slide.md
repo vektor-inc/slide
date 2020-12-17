@@ -10,24 +10,17 @@ _paginate: false
 -->
 <!-- _class: title -->
 <!-- Scoped style -->
-<style scoped>
-  /*
-section{
-  background: yellow;
-}
-*/
-</style>
 
-サブタイトル1
+WordPress超初心者向け
 
-# スライドサンプル
+# 簡単なデザイン（CSS）<br>カスタマイズ方法
 
 
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
 ---
 
-# 見出し１
+
 
 ---
 

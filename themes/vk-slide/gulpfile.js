@@ -11,13 +11,10 @@ const aliases = require('gulp-style-aliases')
 // error handling
 // var plumber = require('gulp-plumber');
 gulp.task('sass', function(done) {
-	gulp.src('./theme/_scss/*.scss')
+	gulp.src('./_scss/*.scss')
 		.pipe(aliases({
 			"@bootstrap": "./node_modules/bootstrap/scss"
 		}))
-		// .pipe(aliases({
-		// 	"@fontawesome": "./node_modules/@fontawesome/fontawesome-free"
-		// }))
         .pipe(sass())
 		.pipe(gulp.dest('./css/'));
 		done();
