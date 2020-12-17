@@ -81,7 +81,13 @@ https://vektor-vws.slack.com
 
 ---
 
- #wpvektor
+## ハッシュタグは #wpvektor
+
+## コメントスクリーンはこちらから 
+
+https://commentscreen.com/comments?id=llNSmnBNFclf8ZxooY5M
+
+※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
 ---
 
