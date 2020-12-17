@@ -1261,10 +1261,10 @@ section {
     padding-left: 1em;
     padding-right: 1em; }
   section.title-chapter {
-    border-left: 20px solid #000;
+    border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
     section.title-chapter h1 {
-      color: #000; }
+      color: #444444; }
   section.functions li {
     font-size: 30px; }
   section.index {

@@ -8,17 +8,21 @@ paginate: true
 style: |
 _paginate: false 
 -->
-<!-- _class: title -->
+
 <!-- Scoped style -->
-
-
+<style scoped>
+  /*
+section{
+  background: yellow;
+}
+*/
+</style>
 
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #017
+# VWS オンライン勉強会 #016
 
-# 実績紹介サイト解説＆年末忘年会
 
 ---
 
@@ -29,6 +33,7 @@ VWS オンライン勉強会 #017
 # はじめに
 
 ---
+
 
 * 随時途中で質問などいただいてかまいません。
 * 発言時以外はミュートにしてください。
@@ -69,33 +74,15 @@ https://vektor-vws.slack.com/forgot/signin
 ■ VWSのSlackのURL
 https://vektor-vws.slack.com
 
-
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 運営者紹介
-
-
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 本日の内容
-
----
+## 本日の内容
 
 * 新機能解説
-* 実績紹介サイト説明
+* 
 * 質問相談会
-* 年末プレゼント企画
 * 連絡事項
-* 懇親会（続ゲーム大会&質問相談会）
+* 懇親会
 
 ---
 
@@ -107,7 +94,19 @@ https://vektor-vws.slack.com
 
 ---
 
-https://www.vektor-inc.co.jp/product-update/
+![bg](images/update-info_ex-unit.png)
+
+---
+
+![bg](images/update-info_vk-blocks.png)
+
+---
+
+![bg](images/update-info_lightning.png)
+
+---
+
+![bg](images/update-info_katawara.png)
 
 ---
 
@@ -115,11 +114,7 @@ https://www.vektor-inc.co.jp/product-update/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 実績サイト解説
-
----
-
-https://showcase.vektor-inc.co.jp/
+# メインセッション
 
 ---
 
@@ -127,19 +122,15 @@ https://showcase.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 今年の振り返り & <br>アドベントカレンダー関連
+# その他の連絡事項など
 
 ---
 
-https://adventar.org/calendars/5169
+<!-- _class: title-chapter -->
 
----
+## ショーケースについて
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 年末特別企画 クイズ大会
+https://github.com/vektor-inc/vk-showcase
 
 ---
 
