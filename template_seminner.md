@@ -147,3 +147,5 @@ https://github.com/vektor-inc/vk-showcase
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
 # ありがとうございました
+
+# ありがとうございました!!
