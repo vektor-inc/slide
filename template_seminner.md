@@ -94,7 +94,9 @@ https://vektor-vws.slack.com
 ## 本日の内容
 
 * 新機能解説
+* 実績紹介サイトについて
 * 本編「初心者のためのCSSカスタマイズ」
+* 意見交換
 * 質問相談会
 * 連絡事項
 * 懇親会
@@ -107,21 +109,6 @@ https://vektor-vws.slack.com
 
 # 今月の新機能紹介
 
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# メインセッション
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# その他の連絡事項など
 
 ---
 
@@ -131,13 +118,32 @@ https://vektor-vws.slack.com
 
 https://github.com/vektor-inc/vk-showcase
 
----
+LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトがオープンしています。
 
+---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# そのほか質問などあれば
+# メインセッション
+
+#018 CSSカスタマイズ
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 意見交換
+
+Lightningに関する仕様や今後どういう活動をしていけばメリットがあるかなど意見交換したいと思います。
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 使い方・設定方法相談＆雑談会
 
 ---
 <!-- _class: title-chapter  -->
@@ -145,6 +151,19 @@ https://github.com/vektor-inc/vk-showcase
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # 次回の勉強会
+
+2021/02/18(木) 20:00 〜
+VWSオンライン勉強会 #019 
+「最低限知っておきたいPHP超入門」
+https://vektor.connpass.com/event/201521/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# その他の連絡事項、告知など
 
 ---
 <!-- _class: title -->
