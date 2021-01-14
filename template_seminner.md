@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #016
+# VWS オンライン勉強会 #018
 
 
 ---
@@ -79,7 +79,7 @@ https://vektor-vws.slack.com
 ## 本日の内容
 
 * 新機能解説
-* 
+* 本編「CSSカスタマイズ」
 * 質問相談会
 * 連絡事項
 * 懇親会
@@ -141,7 +141,13 @@ https://github.com/vektor-inc/vk-showcase
 # そのほか質問などあれば
 
 ---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
+# 次回の勉強会
+
+---
 <!-- _class: title -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
