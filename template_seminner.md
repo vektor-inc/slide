@@ -34,33 +34,48 @@ section{
 
 ---
 
+## この勉強会について
+
+株式会社ベクトルが提供するWordPressテーマ Lightning をメインとした製品の最新機能情報・カスタマイズ・運用について、ご興味がある方であれば、経験や技術レベルに関係なく、どなたでも参加できるオンライン勉強会です。
+
+基本的に、毎月1回、第3木曜日の開催です。
+
+---
+
+## 歓迎されること
+
+* ライブビューイングのノリでチャットでわいわいいただければと思います。
+* ぜひツイートして盛り上げてください <strong>#wpvektor</strong>
+* 初参加者さんを歓迎してください。
+
+---
+
+## ご参加にあたって
 
 * 随時途中で質問などいただいてかまいません。
 * 発言時以外はミュートにしてください。
 （テレビ・同居人・外部の騒音）
 * 質問はチャットでいただいても結構です。
 * 一部録画・公開します。
-* ライブビューイングのノリでチャットでわいわいいただければと思います。
+(Slackで過去の勉強会の動画を振り返りできます)
 
 ---
 
-## ミーティング中のチャット
+## 勉強会中のチャット
 
-今回はミーティング中のチャットはzoomの中ではなく slack で行います。
-以下の #ミーティング チャンネルで行いますので、事前にテストで適当に挨拶など書き込んでみてください。
+勉強会中のチャットはzoom上ではなくslackで行っております。
 
+<strong>VWS の Slack #ミーティング チャンネル:</strong>
 https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
 
----
-
-※上記URLでなくても普通にSlackのアプリを既にご利用されている方はSlackアプリから参加いただければ結構です。
+※Slackのアプリを既にご利用されている方はSlackアプリからご参加ください
 https://slack.com/intl/ja-jp/downloads/
 
 ---
 
 ## Slackにまだ登録していない
 
-vwsのslackに登録していない方は予め下記より申請ください。
+VWSのslackに登録していない方は予め下記より申請ください。
 
 https://vws.vektor-inc.co.jp/vws-community
 
@@ -68,7 +83,7 @@ https://vws.vektor-inc.co.jp/vws-community
 
 ## Slackログイン情報がわからない
 
-申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください
+申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください。
 https://vektor-vws.slack.com/forgot/signin
 
 ■ VWSのSlackのURL
@@ -79,7 +94,7 @@ https://vektor-vws.slack.com
 ## 本日の内容
 
 * 新機能解説
-* 本編「CSSカスタマイズ」
+* 本編「初心者のためのCSSカスタマイズ」
 * 質問相談会
 * 連絡事項
 * 懇親会
@@ -91,22 +106,6 @@ https://vektor-vws.slack.com
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # 今月の新機能紹介
-
----
-
-![bg](images/update-info_ex-unit.png)
-
----
-
-![bg](images/update-info_vk-blocks.png)
-
----
-
-![bg](images/update-info_lightning.png)
-
----
-
-![bg](images/update-info_katawara.png)
 
 ---
 
