@@ -16,9 +16,67 @@ _paginate: false
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #017
 
-# 実績紹介サイト解説＆年末忘年会
+# VK Block Pattern Plugin Generator
+
+独自のブロックパターン集プラグインを"生成"して
+販売及び案件などでの流用を超簡単にするプラグイン
+
+---
+
+## このプラグインでできる事
+
+* ブロックパターンの作成
+* 作成したブロックパターン集のプラグインの生成
+* 一度生成したパターンから簡単に再編集・再書き出し
+
+※細かい機能は沢山ありますが順番に解説していきます
+
+---
+
+## ブロックパターン機能とは？
+
+* WordPress 5.5から実装された機能
+* 複数のブロックを組み合わせたパータンを一括で挿入する事ができる
+
+---
+
+## パターンの登録だけなら難しくない
+
+---
+
+### プラグインを使う場合
+
+VK Block Patterns などのプラグインを使えばで簡単に独自のパターンを登録できます。
+
+しかし...
+
+<div class="alert alert-danger">
+
+❌ 他のサイトで同じパターンをそのまま使う事ができない
+❌ 他のサイトで使おうとするとエクスポート＆インポートが必要だが、キレイに複製するのは知識が必要だったり画像のリンク先などの問題もありかなり手間
+
+</div>
+
+---
+
+### 独自にコードに書いて管理しようとする場合
+
+* まず投稿画面でブロックパターンを作成
+* コードエディタに切り替えて表示されるコードをコピー
+* register_block_pattern() 関数などでパターンとして登録
+* 使用している画像をプラグイン内に複製
+* 画像参照URLをプラグイン内で保持している画像に置換
+
+---
+
+# <center>この手順だけでもう面倒</center>
+
+---
+
+# <center>再編集もほぼ同じ手間</center>
+
+### <center>面倒過ぎて追加・修正する気力がわかない
 
 ---
 
@@ -26,129 +84,48 @@ VWS オンライン勉強会 #017
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# はじめに
+# VK Block Pattern Plugin Generator
 
 ---
 
-* 随時途中で質問などいただいてかまいません。
-* 発言時以外はミュートにしてください。
-（テレビ・同居人・外部の騒音）
-* 質問はチャットでいただいても結構です。
-* 一部録画・公開します。
-* ライブビューイングのノリでチャットでわいわいいただければと思います。
+## １. 専用の投稿タイプでブロックを登録
 
----
-
-## ミーティング中のチャット
-
-今回はミーティング中のチャットはzoomの中ではなく slack で行います。
-以下の #ミーティング チャンネルで行いますので、事前にテストで適当に挨拶など書き込んでみてください。
-
-https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
-
----
-
-※上記URLでなくても普通にSlackのアプリを既にご利用されている方はSlackアプリから参加いただければ結構です。
-https://slack.com/intl/ja-jp/downloads/
-
----
-
-## Slackにまだ登録していない
-
-vwsのslackに登録していない方は予め下記より申請ください。
-
-https://vws.vektor-inc.co.jp/vws-community
-
----
-
-## Slackログイン情報がわからない
-
-申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください
-https://vektor-vws.slack.com/forgot/signin
-
-■ VWSのSlackのURL
-https://vektor-vws.slack.com
+<div class="alert alert-info">投稿の際はカテゴリーも指定してください。未指定の場合使用できません。</div>
 
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+## 2. 設定画面でプラグイン名を入力
 
-# 運営者紹介
-
+データ管理・設定設定画面でプラグイン名を英数字で入力してください。
 
 ---
 
-## ハッシュタグは #wpvektor
+## 3. エクスポートボタンを押すだけ！
 
-## コメントスクリーンはこちらから 
-
-https://commentscreen.com/comments?id=llNSmnBNFclf8ZxooY5M
-
-※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
+「新規プラグインとしてエクスポート」ボタンをクリックするとプラグインとして書き出されます。
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+## 4. プラグインを有効化すれば即時利用可能
 
-# 本日の内容
 
----
 
-* 新機能解説
-* 実績紹介サイト説明
-* 質問相談会
-* 年末プレゼント企画
-* 連絡事項
-* 懇親会（続ゲーム大会&質問相談会）
+--- 
 
----
+## このプラグインのポイント
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 今月の新機能紹介
+* 普通にアップした画像やリモートサーバーの画像を使用している場合も作成したブロックパターンプラグインに書き出します。
+* ブロックパターンとカテゴリー情報はjson形式で書き出して運用します。
+* このプラグインから生成するプラグイン以外のディレクトリへの書き出し・読み込み
+* ブロックパターン用のCSSファイルの適用や管理画面からのCSS編集
+* 利用中のテーマ・プラグインに依存する事なく利用可能
 
 ---
 
-https://www.vektor-inc.co.jp/product-update/
+
 
 ---
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 実績サイト解説
-
----
-
-https://showcase.vektor-inc.co.jp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 今年の振り返り & <br>アドベントカレンダー関連
-
----
-
-https://adventar.org/calendars/5169
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 年末特別企画 クイズ大会
 
 ---
 
