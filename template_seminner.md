@@ -36,7 +36,11 @@ section{
 
 ## この勉強会について
 
-株式会社ベクトルが提供するWordPressテーマ Lightning をメインとした製品の最新機能情報・カスタマイズ・運用について、ご興味がある方であれば、経験や技術レベルに関係なく、どなたでも参加できるオンライン勉強会です。
+株式会社ベクトルが提供している、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催している勉強会です。
+
+ご興味がある方であれば、経験や技術レベルに関係なく、どなたでも参加できるオンライン勉強会です。
+
+また、ベクトル製品のWordPressテーマ Lightning などの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
 基本的に、毎月1回、だいたい第4木曜日の開催です。
 
@@ -103,8 +107,7 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 新機能解説
-* 実績紹介サイトについて
+* 新機能 / 新製品その他お知らせ など
 * 本編「初心者のためのCSSカスタマイズ」
 * 意見交換
 * 質問相談会
@@ -116,7 +119,7 @@ https://vektor-vws.slack.com
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/xxxxxxxxxxx
+https://commentscreen.com/comments?room=wpvektor
 
 ※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
@@ -126,7 +129,7 @@ https://commentscreen.com/xxxxxxxxxxx
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 今月の新機能紹介
+# 今月の新機能 / 新製品その他お知らせ
 
 https://www.vektor-inc.co.jp/product-update/
 
@@ -172,7 +175,7 @@ Lightningに関する仕様や今後どういう活動をしていけばメリ�
 
 # 次回の勉強会
 
-2021/02/18(木) 20:00 〜
+2021/02/25(木) 20:00 〜
 VWSオンライン勉強会 #019 
 「最低限知っておきたいPHP超入門」
 https://vektor.connpass.com/event/201521/
