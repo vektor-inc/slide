@@ -1225,7 +1225,7 @@ input[type="button"].btn-block {
 
 section {
   /* padding: 50px; */
-  font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W5", Hiragino Sans, "Noto Sans JP", sans-serif;
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
