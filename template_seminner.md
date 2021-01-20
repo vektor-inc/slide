@@ -188,6 +188,9 @@ https://vektor.connpass.com/event/201521/
 
 # その他の連絡事項、告知など
 
+
+参加後アンケートのお願い：https://forms.gle/RVqDpePFeJzKoeP36
+
 ---
 <!-- _class: title -->
 <!-- _paginate: false  -->
