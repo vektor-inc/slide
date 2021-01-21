@@ -4,7 +4,7 @@ marp: true
 <!-- 
 theme: vk-slide
 size: 16:9
-paginate: true
+paginate: false
 style: |
 _paginate: false 
 -->
@@ -17,10 +17,13 @@ _paginate: false
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
 
-# VK Block Pattern Plugin Generator
+# VK Block Pattern Plugin Generator（β）
 
-独自のブロックパターン集プラグインを"生成"して
-販売及び案件などでの流用を超簡単にするプラグイン
+プログラム知識不要！
+ブロックパターン集プラグイン生成プラグイン
+
+* 受託案件などでパターンの流用が簡単に
+* オリジナルパターン販売
 
 ---
 
@@ -48,14 +51,14 @@ _paginate: false
 
 ### プラグインを使う場合
 
-VK Block Patterns などのプラグインを使えばで簡単に独自のパターンを登録できます。
+VK Block Patterns などのプラグインを使えばで
+簡単に独自のパターンを登録可能。
 
 しかし...
 
-<div class="alert alert-danger">
-
-❌ 他のサイトで同じパターンをそのまま使う事ができない
-❌ 他のサイトで使おうとするとエクスポート＆インポートが必要だが、キレイに複製するのは知識が必要だったり画像のリンク先などの問題もありかなり手間
+❌ 登録したパターンが使えるのはそのサイトだけ
+移植するにはエクスポート＆インポートが必要
+❌ キレイに複製するのは知識が必要だったり画像のリンク先などの問題もありかなり手間
 
 </div>
 
@@ -98,7 +101,7 @@ VK Block Patterns などのプラグインを使えばで簡単に独自のパ�
 
 ## 2. 設定画面でプラグイン名を入力
 
-データ管理・設定設定画面でプラグイン名を英数字で入力してください。
+データ管理・設定画面でプラグイン名を英数字で入力します。
 
 ---
 
@@ -173,7 +176,7 @@ VK Block Patterns などのプラグインを使えばで簡単に独自のパ�
 
 ## 受託案件でよく使うパターンをプラグイン化
 
-
+自分がよく使う組み合わせをプラグイン化して使い回せば効率よくサイト構築が可能になります。
 
 ---
 
@@ -197,7 +200,7 @@ VK Block Patterns などのプラグインを使えばで簡単に独自のパ�
 
 ## Lightning Pro / Katawara に付属
 
-<div class="alert alert-warning">2021年1月21日〜30日</div>
+<div class="alert alert-warning">2021年1月21日〜31日</div>
 
 正式な販売価格・販売形態は未定ですが、Lightning Pro のライセンスが有効あるいは Katawara 購入者は VWSのマイアカウントページ（ https://vws.vektor-inc.co.jp/my-account ) からダウンロード可能
 
