@@ -45,7 +45,7 @@ section{
 基本的に、毎月1回、だいたい第4木曜日の開催です。
 
 ---
-![bg](images/team-vektor.png)
+![bg](images/Team-Vektor.png)
 
 ---
 
