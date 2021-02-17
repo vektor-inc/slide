@@ -203,8 +203,10 @@ https://vektor.connpass.com/event/204977/
 
 参加後アンケートのお願い：https://forms.gle/h1m6ziRQhNQ3GGmPA
 ＜お聞きしたいこと＞
-データ販売を取りやめることについて
-のご意見をお聞かせください
+コンテンツデータ販売
+https://vws.vektor-inc.co.jp/archives/content_data
+を取りやめることについて、
+よろしければご意見をお聞かせください。
 
 ---
 <!-- _class: title -->
