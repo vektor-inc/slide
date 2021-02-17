@@ -157,16 +157,16 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 意見交換
-
-Lightningに関する仕様や今後どういう活動をしていけばメリットがあるかなど意見交換したいと思います。
+# 使い方・設定方法相談＆雑談会
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 使い方・設定方法相談＆雑談会
+# 意見交換
+
+Lightningに関する仕様や今後どういう活動をしていけばメリットがあるかなど意見交換したいと思います。
 
 ---
 <!-- _class: title-chapter  -->
@@ -202,6 +202,9 @@ https://vektor.connpass.com/event/204977/
 
 
 参加後アンケートのお願い：https://forms.gle/h1m6ziRQhNQ3GGmPA
+＜お聞きしたいこと＞
+データ販売を取りやめることについて
+のご意見をお聞かせください
 
 ---
 <!-- _class: title -->
