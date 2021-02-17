@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #018
+# VWS オンライン勉強会 #019
 
 
 ---
@@ -45,7 +45,7 @@ section{
 基本的に、毎月1回、だいたい第4木曜日の開催です。
 
 ---
-![bg](images/Team-Vektor.png)
+![bg](images/Team-Vektor-2.png)
 
 ---
 
@@ -139,7 +139,7 @@ https://www.vektor-inc.co.jp/product-update/
 
 ## ショーケースについて
 
-https://github.com/vektor-inc/vk-showcase
+https://showcase.vektor-inc.co.jp/
 
 LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトがオープンしています。
 
@@ -150,7 +150,7 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 
 # メインセッション
 
-#018 CSSカスタマイズ
+#019 最低限知っておきたいPHP超入門
 
 ---
 <!-- _class: title-chapter  -->
@@ -173,12 +173,24 @@ Lightningに関する仕様や今後どういう活動をしていけばメリ�
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
+# 次回のもくもく会
+
+2021/03/11(木) 20:00 〜
+
+【要指定プラグイン】オリジナルブロックパターンプラグイン作成もくもく会 #02
+https://vektor.connpass.com/event/204637/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
 # 次回の勉強会
 
-2021/02/25(木) 20:00 〜
-VWSオンライン勉強会 #019 
-「最低限知っておきたいPHP超入門」
-https://vektor.connpass.com/event/201521/
+2021/03/25(木) 20:00 〜
+VWSオンライン勉強会 #020 
+「アクションフックを使ったWordPressカスタマイズに挑戦！」
+https://vektor.connpass.com/event/204977/
 
 ---
 
@@ -189,7 +201,7 @@ https://vektor.connpass.com/event/201521/
 # その他の連絡事項、告知など
 
 
-参加後アンケートのお願い：https://forms.gle/RVqDpePFeJzKoeP36
+参加後アンケートのお願い：https://forms.gle/h1m6ziRQhNQ3GGmPA
 
 ---
 <!-- _class: title -->
