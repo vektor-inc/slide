@@ -1,6 +1,6 @@
 {
 	"markdown.marp.themes": [
 		"./themes/vk-slide/css/style.css"
-	  ],
+	],
 	"markdown.marp.enableHtml": true
 }
