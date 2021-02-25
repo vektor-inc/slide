@@ -214,14 +214,24 @@ VWSオンライン勉強会 #020
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# その他の連絡事項、告知など
+# 参加後アンケートのお願い
 
 
-参加後アンケートのお願い：https://forms.gle/h1m6ziRQhNQ3GGmPA
+https://forms.gle/h1m6ziRQhNQ3GGmPA
+
 ＜お聞きしたいこと＞
 ・今回のPHP基礎はいかがでしたか？続編を希望しますか？
 ・コンテンツデータ販売を取りやめることについて
 よろしければご意見をお聞かせください。
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# その他の連絡事項、告知など
+
 
 ---
 <!-- _class: title -->
