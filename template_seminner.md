@@ -107,11 +107,21 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ など
-* 本編「初心者のためのCSSカスタマイズ」
-* 意見交換
-* 質問相談会
+* 新機能 / 新製品その他お知らせ など（20分程度）
+* 本編「初心者のためのCSSカスタマイズ」（45分程度）
+* 使い方・設定方法相談＆雑談会（15分程度）
 * 懇親会
+
+---
+
+## 本編「初心者のためのCSSカスタマイズ」
+
+
+下記の内容＋αを実演しながら進めていきます。
+https://www.vektor-inc.co.jp/post/wordpress-php-1st-step/
+
+★★★ 今回の範囲について ★★★
+今回の勉強会では、時間の都合上「4. 条件分岐（if文）」くらいまでとなりそうです。 「5. 関数」以降の内容を楽しみにしていた方はご期待に添えず申し訳ありません。続編も検討中ですのでぜひまずは今回の様子を御覧ください。
 
 ---
 
@@ -135,15 +145,7 @@ https://www.vektor-inc.co.jp/product-update/
 
 ---
 
-<!-- _class: title-chapter -->
 
-## ショーケースについて
-
-https://showcase.vektor-inc.co.jp/
-
-LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトがオープンしています。
-
----
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
@@ -166,7 +168,19 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 
 # 意見交換
 
-Lightningに関する仕様や今後どういう活動をしていけばメリットがあるかなど意見交換したいと思います。
+
+
+---
+<!-- _class: title-chapter -->
+
+## ショーケースについて
+
+https://showcase.vektor-inc.co.jp/
+
+LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトがオープンしています。
+
+実績掲載・受注の流れ
+https://showcase.vektor-inc.co.jp/flow
 
 ---
 <!-- _class: title-chapter  -->
@@ -180,6 +194,9 @@ Lightningに関する仕様や今後どういう活動をしていけばメリ�
 【要指定プラグイン】オリジナルブロックパターンプラグイン作成もくもく会 #02
 https://vektor.connpass.com/event/204637/
 
+★ ブロックパターンのプラグインを作成するプラグイン「VK Block Pattern Plugin Generator」のユーザー向けです。
+★「VK Block Pattern Plugin Generator」が必須です。
+
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
@@ -189,8 +206,7 @@ https://vektor.connpass.com/event/204637/
 
 2021/03/25(木) 20:00 〜
 VWSオンライン勉強会 #020 
-「アクションフックを使ったWordPressカスタマイズに挑戦！」
-https://vektor.connpass.com/event/204977/
+内容が決まり次第、ご案内します！
 
 ---
 
@@ -203,9 +219,8 @@ https://vektor.connpass.com/event/204977/
 
 参加後アンケートのお願い：https://forms.gle/h1m6ziRQhNQ3GGmPA
 ＜お聞きしたいこと＞
-コンテンツデータ販売
-https://vws.vektor-inc.co.jp/archives/content_data
-を取りやめることについて、
+・今回のPHP基礎はいかがでしたか？続編を希望しますか？
+・コンテンツデータ販売を取りやめることについて
 よろしければご意見をお聞かせください。
 
 ---
