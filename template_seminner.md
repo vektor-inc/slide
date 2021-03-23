@@ -107,18 +107,10 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ など（20分程度）
+* 新機能 / 新製品その他お知らせ など（30分程度）
 * 本編「アクションフックを使ったWordPressカスタマイズに挑戦！」（45分程度）
-* 使い方・設定方法相談＆雑談会（15分程度）
+* Lightning 意見交換会（20分程度）
 * 懇親会
-
----
-
-## 本編「アクションフックを使ったWordPressカスタマイズに挑戦！」
-
-
-下記の内容＋αを実演しながら進めていきます。
-https://www.vektor-inc.co.jp/post/wordpress-about-action-hook/
 
 ---
 
@@ -156,16 +148,11 @@ https://www.vektor-inc.co.jp/product-update/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 使い方・設定方法相談＆雑談会
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 意見交換
-
-
+# Lightning 意見交換会
+Lightning を使用していて、
+・こういうところが使い勝手が良くて好き
+・こういうところがもっと改善してほしい
+などのご意見をお聞かせください。
 
 ---
 <!-- _class: title-chapter -->
