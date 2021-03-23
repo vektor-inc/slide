@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #019
+# VWS オンライン勉強会 #020
 
 
 ---
@@ -108,20 +108,17 @@ https://vektor-vws.slack.com
 ## 本日の内容
 
 * 新機能 / 新製品その他お知らせ など（20分程度）
-* 本編「最低限知っておきたいPHP超入門」（45分程度）
+* 本編「アクションフックを使ったWordPressカスタマイズに挑戦！」（45分程度）
 * 使い方・設定方法相談＆雑談会（15分程度）
 * 懇親会
 
 ---
 
-## 本編「最低限知っておきたいPHP超入門」
+## 本編「アクションフックを使ったWordPressカスタマイズに挑戦！」
 
 
 下記の内容＋αを実演しながら進めていきます。
-https://www.vektor-inc.co.jp/post/wordpress-php-1st-step/
-
-★★★ 今回の範囲について ★★★
-今回の勉強会では、時間の都合上「4. 条件分岐（if文）」くらいまでとなりそうです。 「5. 関数」以降の内容を楽しみにしていた方はご期待に添えず申し訳ありません。続編も検討中ですのでぜひまずは今回の様子を御覧ください。
+https://www.vektor-inc.co.jp/post/wordpress-about-action-hook/
 
 ---
 
@@ -152,7 +149,7 @@ https://www.vektor-inc.co.jp/product-update/
 
 # メインセッション
 
-#019 最低限知っておきたいPHP超入門
+#020 アクションフックを使ったWordPressカスタマイズに挑戦！
 
 ---
 <!-- _class: title-chapter  -->
@@ -182,20 +179,7 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 実績掲載・受注の流れ
 https://showcase.vektor-inc.co.jp/flow
 
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 次回のもくもく会
-
-2021/03/11(木) 20:00 〜
-
-【要指定プラグイン】オリジナルブロックパターンプラグイン作成もくもく会 #02
-https://vektor.connpass.com/event/204637/
-
-★ ブロックパターンのプラグインを作成するプラグイン「VK Block Pattern Plugin Generator」のユーザー向けです。
-★「VK Block Pattern Plugin Generator」が必須です。
 
 ---
 <!-- _class: title-chapter  -->
@@ -204,8 +188,8 @@ https://vektor.connpass.com/event/204637/
 
 # 次回の勉強会
 
-2021/03/25(木) 20:00 〜
-VWSオンライン勉強会 #020 
+2021/04/22(木) 20:00 〜
+VWSオンライン勉強会 #021 
 内容が決まり次第、ご案内します！
 
 ---
