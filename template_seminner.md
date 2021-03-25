@@ -132,6 +132,8 @@ https://commentscreen.com/comments?room=wpvektor
 
 製品最新情報やアップデートの一覧はこちらから：
 https://www.vektor-inc.co.jp/product-update/
+VK Filter Search – 絞り込み検索プラグイン:
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search/
 Lightning G3 のβ版を公開しております！：
 https://lightning.vektor-inc.co.jp/
 
