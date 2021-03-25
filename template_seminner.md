@@ -130,7 +130,10 @@ https://commentscreen.com/comments?room=wpvektor
 
 # 今月の新機能 / 新製品その他お知らせ
 
+製品最新情報やアップデートの一覧はこちらから：
 https://www.vektor-inc.co.jp/product-update/
+Lightning G3 のβ版を公開しております！：
+https://lightning.vektor-inc.co.jp/
 
 ---
 
