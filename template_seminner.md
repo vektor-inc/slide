@@ -188,11 +188,11 @@ VWSオンライン勉強会 #021
 # 参加後アンケートのお願い
 
 
-https://forms.gle/h1m6ziRQhNQ3GGmPA
+https://forms.gle/292juxKR6qBK7naq5
 
 ＜お聞きしたいこと＞
-・今回のPHP基礎はいかがでしたか？続編を希望しますか？
-・コンテンツデータ販売を取りやめることについて
+・本日の勉強会のご感想
+・G3で気になった機能、使ってみたくなったかどうか
 よろしければご意見をお聞かせください。
 
 ---
@@ -202,7 +202,6 @@ https://forms.gle/h1m6ziRQhNQ3GGmPA
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # その他の連絡事項、告知など
-
 
 ---
 <!-- _class: title -->
