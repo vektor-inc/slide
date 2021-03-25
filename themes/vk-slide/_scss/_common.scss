@@ -49,6 +49,11 @@ section {
 		}
 	}
 
+	img {
+		height:auto;
+		max-height:100%;
+	}
+
 	/* スライドタイトルなどの特殊スタイル ----------------*/
 	&.title {
 

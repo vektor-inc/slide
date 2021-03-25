@@ -41,19 +41,96 @@ Bootstrap4に変更した第２世代、
 ## モード切り替えを行うとG3になります
 
 無料版Lightningユーザーが __アップデートしていきなりG3版が読み込まれるわけではありません。__
-13系（G2）のファイルと新しいG3のファイルがテーマ内にディレクトリ別で共存しており、カスタマイザから Generation3 に設定を切り替える事によって初めてG3になります。
 
 ---
 
-キャプチャ
+![bg right](images/G3_change_generation.png)
+<!--<img src="images/G3_change_generation.png" alt="" />-->
+
+外観 > カスタマイズ > Lightning 機能設定から「Generation3（β）」に切り替えて保存・画面を再読み込みしてください。
 
 ---
+
+## テーマ内でディレクトリが分かれている
+
+テーマ内に 13系（G2）のファイルと新しいG3のファイルが
+それぞれ ___g2__ ディレクトリ、 ___g3__ ディレクトリにわかれています。
+
+---
+
 
 ## 互換性について
 
-G2とG3の互換性はあまりありません。
+G2からG3へモードを切り替えた時互換性はあまりありません。
 __受託案件の既存サイトはG3に変更せずそのまま使ってください。__
 自分で運営しているサイトをG3に切り替える場合は必ずバックアップをとった上で行ってください。
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# Pro版の扱いについて
+
+---
+
+## 拡張プラグインに変更になります
+
+テーマとしての Lightning Pro の G3 版は作りません。
+
+* 無料テーマLightning
+* 有料の機能拡張 __プラグイン Lightning G3 Pro Unit__
+
+という構成に移行します。
+
+---
+
+## 現状の Lightning Pro は継続メンテナンス
+
+基本的に新機能追加はG3版に移行します。
+WordPressのバージョンアップや不具合修正など
+__メンテナンスは引き続き継続__ しますので、
+__受託案件で Lightning Pro をご利用の場合はそのまま継続してください。__
+
+---
+
+## ライセンスと商品構成について（予定）
+
+#### 現状 : Lightning Pro 
+
+製品構成 : 
+* テーマ Lightning Pro（G2）
+* プラグイン VK Blocks Pro
+
+新規 7700円（税込み）
+アップデート更新ライセンス 7150円（年）
+
+---
+
+####  改定後 : Lightning G3 Pro Pack（仮）
+
+製品構成 : 
+* プラグイン : Lightning G3 Pro Unit
+* プラグイン VK Blocks Pro
+* テーマ Lightning Pro（G2）
+
+アップデート１年 9900円（税込）
+アップデート３年 26,400円（税込）
+アップデート５年 39,600円（税込）
+
+---
+
+### 新プランは４月中旬頃販売開始予定
+
+G3 Pro Pack 販売開始までは __既存のPro版ユーザーに
+2022年4月末までの G3 Pro Unit の更新ライセンスが付属__ します。
+
+### G3 にしない場合
+
+Lightning Pro のみの更新ライセンス 7150円（年）は継続販売
+
+※ Lightning Pro 単体での販売は終了します。
 
 ---
 
@@ -119,175 +196,94 @@ https://github.com/vektor-inc/lightning-g3-skin-sample
 
 ---
 
-Pale / Variety / Charm のキャプチャ
+### 現行（G2）版の例
+
+Fort
+https://demo.dev3.biz/fort/
+
+Charm
+https://demo.dev3.biz/charm
+
+Variety
+https://demo.dev3.biz/variety/
 
 ---
 
-ヘッダーカスタマイズキャプチャ
+## G3版
+
+<div class="row"> 
+<div class="col-12"><img src="images/customize-header.png" alt="" style="display:block; width:60%; margin:auto;" /></div>
+</div>
+
+---
+<!-- Scoped style -->
+<style scoped>
+section img{
+  width:99%;
+}
+</style>
+
+### ヘッダーレイアウトバリエーション
+
+##### ナビゲーション回り込み（標準）
+<img src="images/header-layout-float.png" alt="" class="border" />
+
+##### 中央揃え
+<img src="images/header-layout-center.png" alt="" class="border" />
+
+
+
+---
+
+<!-- Scoped style -->
+<style scoped>
+section img{
+  width:90%;
+}
+</style>
+
+
+##### タイトル中央 & ナビ貫通
+<img src="images/header-layout-center-penetrate.png" alt="" class="border" />
+
+##### ヘッダーコンタクトあり & ナビ貫通
+<img src="images/header-layout-sub-contact.png" alt="" class="border" />
+
+##### ヘッダーウィジェットあり & ナビ貫通
+<img src="images/header-layout-sub-widget.png" alt="" class="border" />
+
+---
+
+## ナビゲーションカラーも指定可能に
 
 ---
 
 ## ページヘッダー機能強化
 
 * 投稿ページのページヘッダーの表示要素が切り替え可能
-* 固定ページのページヘッダーに先祖階層を要素を表示可能
 * 固定ページのページヘッダーにサブテキスト表示可能
+* 固定ページのページヘッダーに先祖階層を要素を表示可能
 * 投稿タイプ毎に色やサイズ指定可能
 
 ---
 
+![bg right](images/Lightning-G3-Pro-Unit-setting-page.png)
 
+## 必要な機能のみ<br>有効化
 
----
-
-VK Block Patterns などのプラグインを使えばで
-簡単に独自のパターンを登録可能。
-
-しかし...
-
-❌ 登録したパターンが使えるのはそのサイトだけ
-移植するにはエクスポート＆インポートが必要
-❌ キレイに複製するのは知識が必要だったり画像のリンク先などの問題もありかなり手間
-
-</div>
+使わない機能は設定画面から停止できます。
 
 ---
 
-## Pro版の機能がプラグインになります
+## 非表示機能強化
 
-#### 現状
+各ページ毎に非表示に指定できる部分が増えました
 
-テーマ Lightning Pro（有料）
+| 従来（G2） | G3 |
+| ------------- | ------------- |
+| ページヘッダー<br>パンくずリスト  | ヘッダー<br>ページヘッダー<br>パンくずリスト<br>フッター |
 
-#### G3 版
-
-テーマ Lightning + プラグイン Lightning G3 Pro Unit（有料）
-
----
-
-### 独自にコードに書いて管理しようとする場合
-
-* まず投稿画面でブロックパターンを作成
-* コードエディタに切り替えて表示されるコードをコピー
-* register_block_pattern() 関数などでパターンとして登録
-* 使用している画像をプラグイン内に複製
-* 画像参照URLをプラグイン内で保持している画像URLに置換
-
----
-
-# <center>この手順だけでもう面倒</center>
-
----
-
-# <center>再編集もほぼ同じ手間</center>
-
-### <center>面倒過ぎて追加・修正する気力がわかない
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# VK Block Pattern Plugin Generator
-
----
-
-## １. 専用の投稿タイプでブロックを登録
-
-<div class="alert alert-info">投稿の際はカテゴリーも指定してください。未指定の場合使用できません。</div>
-
-
----
-
-## 2. 設定画面でプラグイン名を入力
-
-データ管理・設定画面でプラグイン名を英数字で入力します。
-
----
-
-## 3. エクスポートボタンを押すだけ！
-
-「新規プラグインとしてエクスポート」ボタンをクリックするとプラグインとして書き出されます。
-
----
-
-## 4. プラグイン有効化で即時利用可能
-
----
-
-## 5. 再編集・再書き出しもワンクリック
-
---- 
-
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# このプラグインのポイント
-
----
-
-## 管理画面からアップした画像も自動複製
-
-ブロックパターンで使う画像を通常の記事作成時のようにWordPressから挿入しても、自動的に複製してプラグインとして出力してくれます。
-
-#### 画像の参照URLも自動置換
-
-パターンデータはjson形式で出力・入力しますが、その際に画像URLを自動置換してくれます。
-
----
-
-## 独自CSS適用可能&管理画面から編集可能
-
-データディレクトリ内にstyle.cssがある場合に読み込んで適用されるので、ブロックパターンに __デザイナーがCSSで独自の装飾を施してプラグイン化__ できます。
-
-管理画面でも style.css ファイルを編集する事ができます。
-
---- 
-
-## 任意のディレクトリにデータ出力可能
-
-このプラグインは作ったパターンをプラグインとして書き出しできますが、指定のディレクトリに書き出し・読み込みも可能なので、 __自作のテーマや既存の自作プラグインなどにブロックパターンを持たせる事が容易__ で管理も簡単です。
-
----
-
-## 利用中のテーマ依存が少ない
-
-ブロックパターンなので、特にテーマの垣根はありません。
-* 特定のブロックプラグインを使用したパターンの場合は、そのプラグインがユーザー環境に入っていない場合はその部分に影響します。
-* VK Blocks / VK Blocks Pro のブロックを使った場合、ユーザー環境にVK Blocksがインストールされていない場合はパターン自体自体が自動的に非表示になります。
-
----
-
-#### その他
-
-* リモートサーバーの画像を使用している場合も自動取得・調整します。
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 想定できる使い方
-
----
-
-## 受託案件でよく使うパターンをプラグイン化
-
-自分がよく使う組み合わせをプラグイン化して使い回せば効率よくサイト構築が可能になります。
-
----
-
-
-## 独自のプラグインとしてとして配布・販売
-
-* デザイナーが独自の装飾を施したセクションパターン集
-* ページまるごとパターン化して業種別・ページ別のテンプレート集
-
-テーマ・ページテンプレートのような製品をプログラムの知識がなくてもプラグイン化して販売できます。
+※ G3無料版からは非表示設定がなくなります。
 
 ---
 
@@ -299,13 +295,18 @@ VK Block Patterns などのプラグインを使えばで
 
 ---
 
-## Lightning Pro / Katawara に付属
+## Lightning 14系
 
-<div class="alert alert-warning">2021年1月21日〜31日</div>
+まだ公式ディレクトリにはアップしていません。
 
-正式な販売価格・販売形態は未定ですが、Lightning Pro のライセンスが有効あるいは Katawara 購入者は VWSのマイアカウントページ（ https://vws.vektor-inc.co.jp/my-account ) からダウンロード可能
+https://lightning.vektor-inc.co.jp/
 
-※正規販売価格は現在の Lightning Pro より高くなる予定です。
+## Lightning G3 Pro Unit
+
+Lightning Pro のライセンスが有効な方は VWSのマイアカウントページよりダウンロードできます。
+
+https://vws.vektor-inc.co.jp/my-account
+
 
 ---
 

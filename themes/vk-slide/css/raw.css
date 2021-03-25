@@ -1260,6 +1260,9 @@ section {
   section table td {
     padding-left: 1em;
     padding-right: 1em; }
+  section img {
+    height: auto;
+    max-height: 100%; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
