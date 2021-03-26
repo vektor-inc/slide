@@ -90,8 +90,8 @@ __受託案件の既存サイトはG3に変更せずそのまま使ってくだ�
 
 基本的に新機能追加はG3版に移行します。
 WordPressのバージョンアップや不具合修正など
-__メンテナンスは引き続き継続__ しますので、
-__受託案件で Lightning Pro をご利用の場合はそのまま継続してください。__
+__<span class="text-danger">メンテナンスは引き続き継続</span>__ しますので、
+__<span class="text-danger">受託案件</span>で利用や、<span class="text-danger">アップデートが頻繁すぎると思われる方</span>は Lightning Pro をそのまま継続してください。__
 
 ---
 

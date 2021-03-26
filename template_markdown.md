@@ -49,3 +49,11 @@ section{
 <div class="alert alert-warning">テスト</div>
 <div class="alert alert-danger">テスト</div>
 
+---
+
+## color
+
+<div class="text-info">テスト</div>
+<div class="text-success">テスト</div>
+<div class="text-warning">テスト</div>
+<div class="text-danger">テスト</div>
