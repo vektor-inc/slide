@@ -3667,8 +3667,9 @@ section {
   word-wrap: break-word;
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
   section h1 {
-    font-size: 64px !important;
-    color: #000; }
+    font-size: 58px !important;
+    color: #000;
+    text-align: center; }
   section h2 {
     font-size: 42px;
     border-bottom: 1px solid #ccc !important;
@@ -3711,14 +3712,25 @@ section {
     background-color: #e5e5e5; }
   section .telop {
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
-    padding: 0.5em 1em;
-    left: 0; }
+    padding: 0.6em 1em;
+    display: block; }
+    section .telop h1, section .telop h2, section .telop h3, section .telop h4 {
+      margin: 0 1em;
+      display: block; }
+    section .telop--center {
+      width: 100%;
+      text-align: center; }
+    section .telop--left {
+      left: 0; }
     section .telop--right {
       right: 0;
       left: auto;
       padding-right: 1em; }
+    section .telop--bg-white {
+      background-color: rgba(255, 255, 255, 0.8);
+      color: #000; }
   section .caption {
     font-size: 18px; }
 

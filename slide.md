@@ -15,7 +15,8 @@ _paginate: false
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_4_3_red.svg)
 
-All New Lightning
+<center>All New Lightning</center>
+
 # Lightning G3 について
 
 ---
@@ -24,7 +25,7 @@ All New Lightning
 
 <div class="telop telop--right" style="top:6em;">ビジネスサイト向け無料WordPressテーマ</div>
 
-<div class="telop" style="bottom:0;">2015年リリース  / おかげ様でアクティブ <b>50,000+</b> インストール</div>
+<div class="telop telop--left" style="bottom:0;">2015年リリース  / おかげ様でアクティブ <b>50,000+</b> インストール</div>
 
 ---
 
@@ -52,7 +53,7 @@ G3 は Generation（世代） の略
 
 ---
 
-## Lightning G3 =<br> Lightning 14.x
+## Lightning G3 = Lightning 14.x
 
 * Lightning G3 は __無料版 Lightning 14.x__
 * テーマとしては今まで通りの「Lightning」
@@ -71,6 +72,120 @@ G3 は Generation（世代） の略
 ![bg](themes/vk-slide/images/vws_title_4_3_lightgray.svg)
 
 # Lightning G3版の特徴
+
+---
+
+
+
+
+
+
+# に行きたいところですが
+
+
+
+
+
+
+---
+
+# 今日の僕は
+
+---
+
+# スケボーの話がしたい！
+
+---
+
+
+![bg](images/sk8_tail_revert.jpg)
+
+
+<div class="telop telop--bg-white telop--left" style="bottom:2em;"><h3>スケボーが好き</h3></div>
+
+---
+
+
+![bg](images/sk8_old_choco_full.jpg)
+
+<div class="telop telop--bg-white telop--right" style="top:2em;"><h3>デッキは消耗品</h3></div>
+
+---
+
+
+
+![bg](images/sk8_old_choco_tail.jpg)
+
+
+<div class="telop telop--bg-white telop--left" style="bottom:2em;"><h3>古くなると弾きが悪くなる</h3></div>
+
+
+---
+
+![bg right:35%](images/sk8_amazon_list.png)
+
+## デッキの相場
+
+グラフィックデッキ : 
+定価 1.1万円（税込）
+無地 : 5千円
+
+いつもグラフィックありの値引きで
+8千円くらいのを
+買ってました
+
+---
+
+# だがしかし
+
+---
+
+# 世界はCOVID-19
+
+---
+
+# <center>デッキーは輸入なので品薄！
+
+### <center>値引きなしでどれも1万円オーバー
+
+---
+
+![bg right](images/sk8_magenta.png)
+
+### しかたないと思いつつ...
+
+好きなブランド
+Magenta
+ロゴデッキ
+
+---
+
+# スケボーって
+
+---
+
+![bg](images/sk8_board_slide.jpg)
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>こういう事するので</h3></div>
+
+---
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>グラフィック剥げちゃうんです</h3></div>
+
+![bg](images/sk8_deck_old_vanished.jpg)
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 <style scoped>
