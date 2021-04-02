@@ -8,7 +8,7 @@ section {
 		color: #000 
 	}
 	h2 {
-		font-size: 56px;
+		font-size: 42px;
 		border-bottom: 1px solid #ccc !important;
 		margin-bottom: 50px; }
 
@@ -25,7 +25,7 @@ section {
 
 	p,
 	li {
-		font-size: 38px; }
+		font-size: 36px; }
 
 	ul {
 		margin-bottom: 50px; }
@@ -70,5 +70,21 @@ section {
 	}
 	&.index {
 		background-color:#e5e5e5;
+	}
+
+	.telop {
+		position:absolute;
+		background-color: rgba( 0,0,0,0.9);
+		color:#fff;
+		padding: 0.5em 1em;
+		left:0;
+		&--right {
+			right:0;
+			left:auto;
+			padding-right:1em;
+		}
+	}
+	.caption {
+		font-size:18px;
 	}
 }

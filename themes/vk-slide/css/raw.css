@@ -3670,7 +3670,7 @@ section {
     font-size: 64px !important;
     color: #000; }
   section h2 {
-    font-size: 56px;
+    font-size: 42px;
     border-bottom: 1px solid #ccc !important;
     margin-bottom: 50px; }
   section h2::first-letter {
@@ -3683,7 +3683,7 @@ section {
     font-size: 42px; }
   section p,
   section li {
-    font-size: 38px; }
+    font-size: 36px; }
   section ul {
     margin-bottom: 50px; }
   section p i {
@@ -3709,6 +3709,18 @@ section {
     font-size: 30px; }
   section.index {
     background-color: #e5e5e5; }
+  section .telop {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 0.5em 1em;
+    left: 0; }
+    section .telop--right {
+      right: 0;
+      left: auto;
+      padding-right: 1em; }
+  section .caption {
+    font-size: 18px; }
 
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;
