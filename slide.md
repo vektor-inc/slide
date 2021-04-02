@@ -4,9 +4,9 @@ marp: true
 <!-- 
 theme: vk-slide
 size: 4:3
-paginate: false
+paginate: true
 style: |
-_paginate: false 
+_paginate: true 
 -->
 <!-- _class: title -->
 <!-- Scoped style -->
@@ -20,6 +20,8 @@ _paginate: false
 # Lightning G3 について
 
 ---
+
+<!-- _paginate: false  -->
 
 ![bg](images/theme-org.png)
 
@@ -38,6 +40,12 @@ _paginate: false
 ---
 
 # Lightning G3 爆誕 
+
+---
+
+<!-- _paginate: false  -->
+
+![bg](images/lightning-anime01.gif)
 
 ---
 
@@ -80,7 +88,7 @@ G3 は Generation（世代） の略
 
 
 
-# に行きたいところですが
+# をPRしたいところですが
 
 
 
@@ -140,11 +148,13 @@ G3 は Generation（世代） の略
 
 ---
 
-# 世界はCOVID-19
+![bg](images/covid_19.jpg)
+
+<div class="telop telop--bg-white telop--left"><h3>世界はCOVID-19</h3></div>
 
 ---
 
-# <center>デッキーは輸入なので品薄！
+# <center>デッキは輸入なので品薄！
 
 ### <center>値引きなしでどれも1万円オーバー
 
@@ -176,18 +186,187 @@ Magenta
 
 ---
 
-
-
-
-
-
-
-
-
-
-
+# ってことは
 
 ---
+
+
+![bg right:45%](images/sk8_magenta_mark.png)
+
+
+# 消えるやん！
+
+---
+
+# 消えて無地になるのに<br>1.1万円はもったいない！
+
+---
+
+### <center>そうだ！</center>
+
+---
+
+# 自作しよう！！
+
+<center>（ブランクデッキに塗装など）</center>
+
+---
+
+<h2 style="position:absolute;top:2em;display:block;width:100%">デザイン案</h2>
+
+![bg](images/sk8_design.svg)
+
+---
+
+## どうやって作る
+
+#### ステッカー : 簡単に剥がれそう
+
+ステッカーだと毎回発注・買わないといけない
+
+#### ステンシル : 塗装がぼやけそう
+
+→ ぼやけるのはやむなしでステンシル塗装で
+
+---
+
+<h2 style="position:absolute;top:2em;display:block;width:100%">ステンシルデータで業者発注</h2>
+
+![bg](images/sk8_design_stencil.svg)
+
+---
+
+
+![bg](images/sk8_blank_deck.jpg)
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>塗装するデッキ！</h3></div>
+
+---
+
+
+![bg](images/sk8_stencil_sheet.jpg)
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>ステンシルシート！</h3></div>
+
+---
+
+# 塗装していきたいと<br>思いまーす！
+
+---
+
+![bg](images/sk8_paint_float.jpg)
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>浮いてしまうので</h3></div>
+
+---
+
+![bg](images/sk8_paint_tape.jpg)
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>両面テープで地道に頑張る</h3></div>
+
+---
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>隙間からある程度滲むのは仕方ない</h3></div>
+
+![bg](images/sk8_paint_vk.jpg)
+
+---
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>マークだけ完了</h3></div>
+
+![bg](images/sk8_paint_vk_complete.jpg)
+
+---
+
+# 正直...
+
+---
+
+# ここでやめとけば...
+
+---
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>ロゴの塗装</h3></div>
+
+![bg](images/sk8_paint_logo_pre.jpg)
+
+<div class="telop telop--bg-white telop--right" style="bottom:2em;">Vの部分は赤く塗るのでマスキング</div>
+ 
+ ---
+
+ <div class="telop telop--bg-white telop--left" style="top:2em;"><h3>ロゴの塗装（途中）</h3></div>
+
+
+![bg](images/sk8_paint_logo.jpg)
+
+<div class="telop telop--bg-white telop--right" style="bottom:2em;">意図せず塗装が浮いてまだらになってまずが、<br>ここで外してもかっこよかったかも...</div>
+
+---
+
+# しかし執拗に塗り重ね...
+
+---
+
+# ステンシルシートを<br>最後に外す時に<br>下地の塗装も剥がれてしまい...
+
+---
+
+# それでもなんとか補修して...
+
+---
+
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>こんな感じに</h3></div>
+
+![bg](images/sk8_paint_complete.jpg)
+
+<div class="telop telop--bg-white telop--right" style="bottom:2em;">もっとキレイにできると思ってた...</div>
+
+---
+
+<div class="telop telop--bg-white telop--left" style="bottom:2em;"><h3>足回りをつけて完成</h3></div>
+
+![bg](images/sk8_add_track.jpg)
+
+---
+
+![bg right:35%](images/sk8_ishikawa.jpg)
+
+## かかった費用
+
+ブランクデッキ : 5000円
+ステンシルシート : 5,500円
+塗料（追加購入）: 1000円
+マスキングテープ類 : 500円
+
+---
+
+ ## まとめ
+
+### ステンシルは必ずボケる<br>ボケる前提でキレイさを追求しない
+
+### みんなもスケボー＆<br>ステンシルをやってみよう！
+
+---
+
+# 余談ですが
+
+---
+<center>WordPressテーマ</center>
+
+# Lightning G3版<br>めっちゃええで！
+
+<center>詳しくは続きのスライドで</center>
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_4_3_lightgray.svg)
+
+# Lightning G3版の特徴
+
+---
+
 <style scoped>
 section table{
   font-size:24px;
