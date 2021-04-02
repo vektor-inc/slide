@@ -39,13 +39,9 @@ _paginate: true
 
 ---
 
-# Lightning G3 爆誕 
-
----
-
 <!-- _paginate: false  -->
 
-![bg](images/lightning-anime01.gif)
+![bg](images/lightning-still.png)
 
 ---
 
@@ -102,7 +98,6 @@ G3 は Generation（世代） の略
 ---
 
 # スケボーの話がしたい！
-
 ---
 
 
@@ -198,7 +193,7 @@ Magenta
 
 ---
 
-# 消えて無地になるのに<br>1.1万円はもったいない！
+# 消えて無地になるのに<br>1万円以上はもったいない！
 
 ---
 
@@ -311,11 +306,11 @@ Magenta
 
 ---
 
-# それでもなんとか補修して...
+# それでもなんとか<br>補修して結局...
 
 ---
 
-<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>こんな感じに</h3></div>
+<div class="telop telop--bg-white telop--left" style="top:2em;"><h3>こんな感じになりました</h3></div>
 
 ![bg](images/sk8_paint_complete.jpg)
 
@@ -337,6 +332,11 @@ Magenta
 ステンシルシート : 5,500円
 塗料（追加購入）: 1000円
 マスキングテープ類 : 500円
+
+---
+
+# 上手くできなかったので<br>めっちゃ悔しい！
+# 次回またリベンジしたい！
 
 ---
 
@@ -665,6 +665,17 @@ https://lightning.vektor-inc.co.jp/
 Lightning Pro のライセンスが有効な方は VWSのマイアカウントページよりダウンロードできます。
 
 https://vws.vektor-inc.co.jp/my-account
+
+
+---
+
+## ついでに
+
+絞り込み検索ができる無料プラグイン
+
+#### VK Filter Search もよろしく
+
+<img src="images/VK-Filter-Search-WordPress-org2.png" alt="" class="border" />
 
 
 ---
