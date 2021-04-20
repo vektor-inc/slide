@@ -130,11 +130,11 @@ https://commentscreen.com/comments?room=wpvektor
 
 # 今月の新機能 / 新製品その他お知らせ
 
-製品最新情報やアップデートの一覧はこちらから：
-https://www.vektor-inc.co.jp/product-update/
-VK Filter Search – 絞り込み検索プラグイン:
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search/
-Lightning G3 のβ版を公開しております！：
+製品最新情報 https://www.vektor-inc.co.jp/product-update/
+- [4/1 VK Block Pro 1.1.0 ] スライダーブロックが複数枚表示のカルーセルに対応
+- [4/14 VK Blocks Pro 1.3.0 ] アコーディオンブロック追加
+
+Lightning G3 のβ版を公開中！
 https://lightning.vektor-inc.co.jp/
 
 ---
@@ -182,9 +182,7 @@ https://showcase.vektor-inc.co.jp/flow
 
 2021/05/27(木) 20:00 〜　VWSオンライン勉強会 #022
 ### 「Lightning をカスタマイズしてつくる実績紹介コンテンツ（仮）」
-Lightningをベースにカスタム投稿タイプ、プラグイン、そしてフィルターフックなどを活用してサイトを構築する様子をご紹介します。
-
-確定次第、ご案内します！
+Lightningをベースにカスタム投稿タイプ、プラグイン、そしてフィルターフックなどを活用してサイトを構築する様子をご紹介予定です。確定次第、ご案内します！
 
 ---
 
@@ -195,7 +193,7 @@ Lightningをベースにカスタム投稿タイプ、プラグイン、そし�
 # 参加後アンケートのお願い
 
 
-https://forms.gle/292juxKR6qBK7naq5
+https://forms.gle/MQsNLzLwCMcu1iSK9
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 次回の勉強会で作成するサイトコンテンツリクエスト（実績紹介が良い？イベントサイト、商品紹介サイト？など）
