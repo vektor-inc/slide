@@ -45,7 +45,7 @@ section{
 基本的に、毎月1回、だいたい第4木曜日の開催です。
 
 ---
-![bg](images/Team-Vektor-2.png)
+![bg](images/Team-Vektor-202104.png)
 
 ---
 
@@ -130,6 +130,10 @@ https://commentscreen.com/comments?room=wpvektor
 
 ## 今月の新機能 / 新製品その他お知らせ
 
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
 https://www.vektor-inc.co.jp/product-update/
 
 [VK Block Pro] 
