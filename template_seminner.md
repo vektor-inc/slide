@@ -128,13 +128,23 @@ https://commentscreen.com/comments?room=wpvektor
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 今月の新機能 / 新製品その他お知らせ
+## 今月の新機能 / 新製品その他お知らせ
 
-製品最新情報 https://www.vektor-inc.co.jp/product-update/
-- [4/1 VK Block Pro 1.1.0 ] スライダーブロックが複数枚表示のカルーセルに対応
-- [4/14 VK Blocks Pro 1.3.0 ] アコーディオンブロック追加
+https://www.vektor-inc.co.jp/product-update/
 
-Lightning G3 のβ版を公開中！
+[VK Block Pro] 
+  * [4/1] スライダーブロックが複数枚表示のカルーセルに対応
+  * [4/14] アコーディオンブロック追加
+
+[VK Filter Search Pro] 販売開始！
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## Lightning G3 β版 公開中！
 https://lightning.vektor-inc.co.jp/
 
 ---
