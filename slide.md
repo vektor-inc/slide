@@ -3,7 +3,7 @@ marp: true
 ---
 <!-- 
 theme: vk-slide
-size: 4:3
+size: 16:9
 paginate: true
 style: |
 _paginate: true 
@@ -13,11 +13,11 @@ _paginate: true
 
 
 <!-- _class: title -->
-![bg](themes/vk-slide/images/vws_title_4_3_red.svg)
+![bg](themes/vk-slide/images/vws_title_16_9_red.svg)
 
-<center>All New Lightning</center>
 
-# Lightning G3 について
+# Lightning でつくる ECサイト 
+<center>feat. WooCommerce と愉快な仲間たち</center>
 
 ---
 
@@ -43,6 +43,10 @@ _paginate: true
 
 ![bg](images/lightning-still.png)
 
+<div class="telop telop--left" style="bottom:0;"><a href="" target="_blank">https://lightning.vektor-inc.co.jp/</a>
+</div>
+
+
 ---
 
 ## Lightning G3 とは
@@ -65,87 +69,75 @@ G3 は Generation（世代） の略
 <center class="alert alert-danger">別テーマではありません</center>
 
 * 基本的に従来版からバージョンアップしても即死しない構造にしています。
-* 従来版も継続メンテナンスです。　（後述）
+* 従来版も継続メンテナンスです。
+
+---
+
+![bg right](images/G3_change_generation.png)
+<!--<img src="images/G3_change_generation.png" alt="" />-->
+
+## G3版の切り替え
+
+外観 > カスタマイズ > Lightning 機能設定から従来版かG3版かを切り替えます。
+
+__アップデートしていきなりG3版が読み込まれるわけではありません。__
+
+
+---
+<style scoped>
+li {
+  font-size:50px;
+}
+</style>
+
+## ウェブ制作向けにカスタマイズしやすくなった
+
+受託案件のベーステーマとしてよりカスタマイズしやすいように
+
+#### テンプレート構造の見直し
+
+部分的にカスタマイズしやすくなった
+
+#### CSS構造の見直し
+
+デザインの上書きや独自デザインが適用しやすくなった
+
+#### 速度改善
+
+
+---
+
+## 爆速セットアップ用データを刷新！
+
+https://demo.dev3.biz/lightning-g3/
+
+新しい Lightning G3 のデモサイトのコンテンツデータを無料で配布しています。
+
+https://lightning.vektor-inc.co.jp/quick-start/
+
+![bg right](images/g3-demo-home.png)
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_4_3_lightgray.svg)
+![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
 
-# Lightning G3版の特徴
+# Lightning G3 Pro Unit
 
----
-
-<style scoped>
-section table{
-  font-size:24px;
-}
-</style>
-
-## 独自デザインの作成が容易
-
-デザインスキンで装飾の切り替えが
-できるようにしていたが...
-
-| | 従来 | G3 |
-|-| ------------- | ------------- |
-| 共通CSS | ブロックエディタ関連  | サイトのレイアウト<br>各パーツのレイアウト等<br>ブロックエディタ関連  |
-| スキンCSS | サイトのレイアウト<br>各パーツのレイアウト等<br>各種装飾  | 各種装飾  |
-
+<center>Lightning 機能拡張プラグイン</center>
 
 ---
 
-### G2以前のデザインカスタマイズ
-
-* 既存のデザインを打ち消すのが手間
-* 最初から自作するとテーマの仕様変更などに対応するのが大変すぎて無理
+<img src="images/g3_plugin_compose.jpg" alt="" />
 
 ---
 
-### G3以降のデザインカスタマイズ
+![bg right](images/Lightning-G3-Pro-Unit-setting-page.png)
 
-* 共通CSS : 基本レイアウト・ブロック
-* スキン : 細かい装飾用
+## 使う機能のみ有効化
 
-独自のデザインスキンが作りやすい構造
-
----
-
-### 装飾を極力省いたスキン<br>「Plain」を用意
-
-デザインスキン Plain を選んで、自分で少しだけCSSを書き足す
-
-### デザインスキンのプラグインサンプルを用意
-
-https://github.com/vektor-inc/lightning-g3-skin-sample
-
----
-
-## 速度改善
-
-* 長年積み重なった古い機能・互換処理のためのコードを削除
-* CSSの構造変更
-
----
-
-<div class="row"> 
-<div class="col-6">
-Lightning Pro
-<img src="images/PageSpeed-Insights-lightning-pro.png" alt="" class="border" /></div>
-<div class="col-6">
-Lightning G3 + Pro Unit 
-<img src="images/PageSpeed-Insights-lightning-g3-pro.png" alt="" class="border" />
-</div>
-</div>
-
-<center>爆速とまではいきませんが
-以前より速くなりました。</center>
-
-
----
-
-# Pro版の新記追加機能
+使わない機能は設定画面から停止できます。
 
 ---
 
@@ -153,84 +145,18 @@ Lightning G3 + Pro Unit
 
 従来はスキンによってヘッダーレイアウトが違ったが、G3からは<strong>スキンに関係なく様々なレイアウト・機能が利用可能</strong>
 
----
-
-### 現行（G2）版の例
-
-Fort
-https://demo.dev3.biz/fort/
-
-Charm
-https://demo.dev3.biz/charm
-
-Variety
-https://demo.dev3.biz/variety/
-
----
-
-## G3版
-
-<div class="row"> 
-<div class="col-12"><img src="images/customize-header.png" alt="" style="display:block; width:60%; margin:auto;" /></div>
-</div>
-
----
-<!-- Scoped style -->
-<style scoped>
-section img{
-  width:99%;
-}
-</style>
-
-### ヘッダーレイアウトバリエーション
-
-##### ナビゲーション回り込み（標準）
-<img src="images/header-layout-float.png" alt="" class="border" />
-
-##### 中央揃え
-<img src="images/header-layout-center.png" alt="" class="border" />
-
-
-
----
-
-<!-- Scoped style -->
-<style scoped>
-section img{
-  width:90%;
-}
-</style>
-
-
-##### タイトル中央 & ナビ貫通
-<img src="images/header-layout-center-penetrate.png" alt="" class="border" />
-
-##### ヘッダーコンタクトあり & ナビ貫通
-<img src="images/header-layout-sub-contact.png" alt="" class="border" />
-
-##### ヘッダーウィジェットあり & ナビ貫通
-<img src="images/header-layout-sub-widget.png" alt="" class="border" />
-
----
-
-## ナビゲーションカラー指定機能
+https://www.youtube.com/watch?v=8NPVxaL3Oeg
 
 ---
 
 ## ページヘッダー機能強化
 
+https://demo.dev3.biz/lightning-g3-pro/
+
 * 投稿ページのページヘッダーの表示要素が切り替え可能
 * 固定ページのページヘッダーにサブテキスト表示可能
 * 固定ページのページヘッダーに先祖階層を要素を表示可能
 * 投稿タイプ毎に色やサイズ指定可能
-
----
-
-![bg right](images/Lightning-G3-Pro-Unit-setting-page.png)
-
-## 使う機能のみ<br>有効化
-
-使わない機能は設定画面から停止できます。
 
 ---
 <style scoped>
@@ -253,135 +179,202 @@ section table{
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_4_3_lightgray.svg)
+## 豊富すぎる機能
 
-# G3版の構造について
+今まで紹介したのは従来版との違いの一部
+豊富な機能をご用意しています。
 
----
-
-## モード切り替えを行うと<br>G3版になります
-
-無料版Lightningユーザーが __アップデートしていきなりG3版が読み込まれるわけではありません。__
-
----
-
-![bg right](images/G3_change_generation.png)
-<!--<img src="images/G3_change_generation.png" alt="" />-->
-
-外観 > カスタマイズ > Lightning 機能設定から「Generation3（β）」に切り替えて保存・画面を再読み込みしてください。
-
----
-
-## テーマ内で<br>ディレクトリが分かれている
-
-テーマ内に 13系（G2）のファイルと新しいG3のファイルが
-それぞれ ___g2__ ディレクトリ、 ___g3__ ディレクトリにわかれています。
-
----
-
-
-## 互換性について
-
-G2からG3へモードを切り替えた時互換性はあまりありません。
-__受託案件の既存サイトはG3に変更せずそのまま使ってください。__
-自分で運営しているサイトをG3に切り替える場合は必ずバックアップをとった上で行ってください。
+https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
 
-# Pro版の扱いについて
-
----
-
-## 拡張プラグインに変更になります
-
-テーマとしての Lightning Pro の G3 版は作りません。
-
-* 無料テーマLightning
-* 有料の機能拡張 __プラグイン Lightning G3 Pro Unit__
-
-という構成に移行します。
+# Lightning と WooCommerce
 
 ---
 
-## 現状の Lightning Pro は継続メンテ
+## Lightning は WooCommerce 対応
 
-基本的に新機能追加はG3版に移行します。
-WordPressのバージョンアップや不具合修正など
-__<span class="text-danger">メンテナンスは引き続き継続</span>__ しますので、
-__<span class="text-danger">受託案件</span>で利用や、<span class="text-danger">アップデートが頻繁すぎると思われる方</span>は Lightning Pro をそのまま継続してください。__
+従来版も新しいG3も特別にアドオンなど入れる事なく標準で対応しています。
 
 ---
 
-## ライセンスと商品構成について（予定）
+## WooCommerceの設定ガイド
 
-#### 現状 : Lightning Pro 
+初心者でもできる！プラグインWooCommerceでネットショップを作る方法
+https://www.vektor-inc.co.jp/post/woocommerce-setup/
 
-製品構成 : 
-* テーマ Lightning Pro（G2）
-* プラグイン VK Blocks Pro
-
-新規 7700円（税込み）
-アップデート更新ライセンス 7150円（年）
+日本向けの決済方法や配送希望日時の設定を追加できる Japanized For WooCommerce の使い方
+https://www.vektor-inc.co.jp/post/japanized-for-woocommerce/
 
 ---
 
-####  改定後 : Lightning G3 Pro Pack（仮）
+## オンライン決済について
 
-製品構成 : 
-* プラグイン : Lightning G3 Pro Unit
-* プラグイン VK Blocks Pro
-* テーマ Lightning Pro（G2）
+初心者でもできる！WooCommerce にクレジットカード決済を導入する PayPal の設定方法
+https://www.vektor-inc.co.jp/post/paypal-account-api/
 
-アップデート１年 9900円（税込）
-アップデート３年 26,400円（税込）
-アップデート５年 39,600円（税込）
+初心者でもできる！WooCommerce にクレジットカード決済を導入する Stripe の設定方法
+https://www.vektor-inc.co.jp/post/stripe-account-api/
 
 ---
 
-### 新プランは４月中旬頃販売開始予定
+## オンラインチケット販売システム「まえチケ」
 
-G3 Pro Pack 販売開始前に Lightning Pro 購入ユーザーは、ライセンス有効期間内は G3 Pro Unit がダウンロード可能
 
-### G3 にしない場合
+<div class="row">
+<div class="col-6">
 
-Lightning Pro のみの更新ライセンス 7150円（年）は継続販売
+https://www.vektor-inc.co.jp/service/wordpress-plugins/maeticket/
 
-※ Lightning Pro 単体での販売は終了します。
+デモサイトのデータも無料で
+ダウンロードできます。
+</div>  
+<div class="col-6">
+<img src="images/mae_top.png" alt="" /></div>
+</div>
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
 
-# β版入手方法
+# 何を売るか？
 
 ---
 
-## Lightning 14系
+## 制作業だし物販のクライアントもいない？
 
-まだ公式ディレクトリにはアップしていません。
+### テーマ・プラグイン開発
 
+確かに技術的な専門知識が必要でハードルが高い
+
+### サイトまるごとのデータ
+
+ベクトルが配布・販売しているコンテンツデータのように、業種毎などでサイトを作ってそのデータをエクスポートして販売する
+
+---
+
+### ブロックパターンプラグイン
+
+ブロックパターンのプラグインが簡単につくれるプラグイン
+VK Block Pattern Plugin Generator（有料）
+
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-block-pattern-plugin-generator/
+
+テーマやプラグイン関係なくすべてのWordPressユーザーに向けて売れる！
+
+---
+
+### デザインスキンプラグイン
+
+Lightning G3 からはデザインスキンも作りやすくなりました。
+
+是非デザインスキンを作って売って欲しいです。
+
+https://www.youtube.com/watch?v=4pwH2SuxgI4
+
+サンプルデータのダウンロード
 https://lightning.vektor-inc.co.jp/
 
-## Lightning G3 Pro Unit
+---
 
-Lightning Pro のライセンスが有効な方は VWSのマイアカウントページよりダウンロードできます。
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
 
-https://vws.vektor-inc.co.jp/my-account
-
+# ベクトルで利用している WooCommerce プラグイン
 
 ---
 
-## ついでに
+<h2>領収書の発行</h2>
 
-絞り込み検索ができる無料プラグイン
+<div class="row">   <div class="col-6">
+
+Print Invoice & Delivery Notes for WooCommerce
+
+<img src="images/Print-Invoice-Delivery-Notes-for-WooCommerce-–-WordPress-plugin-WordPress-org.png" alt="" /></div>
+
+ <div class="col-6">
+ <img src="images/reciept.png" alt="" />
+</div>
+
+</div>
+
+https://wordpress.org/plugins/woocommerce-delivery-notes/
+
+---
+
+## ポイント付与
+
+#### WooCommerce Points and Rewards
+https://woocommerce.com/products/woocommerce-points-and-rewards
+
+* フォーラムのベストアンサーに自動でポイント付与
+（システム自作）
+* 本番環境で購入テスト
+* $129.00 / 年
+
+---
+
+## アフィリエイト
+
+<img src="images/AffiliateWP-Affiliate-Plugin-for-WordPress.png" alt="" />
+
+---
+
+### AffiriateWP
+
+https://affiliatewp.com/
+
+大手のアフィリエイトサービスに高額なみかじめ料を払わなくても
+自分のECサイトに簡単にアフィリエイトシステムを簡単に導入できる
+
+---
+
+<img src="images/AffiliateWP-Pricing.png" alt="" />
+
+<center>安くはないけど費用対効果を考えればすごく安い</center>
+
+---
+
+## アフィリエイトの支払い
+
+PayPal PayOuts
+https://affiliatewp.com/add-ons/pro/paypal-payouts/
+
+支払いを PayPay アカウントに行うので チマチマ個別に振り込みなどしなくて良い
+
+※ PayPalへの申請・審査が必要
+
+---
+
+## セット販売
+
+複数の商品を組み合わせると割引設定が可能
+
+VarkTech Pricing Deals PRO for WooCommerce
+
+https://www.varktech.com/woocommerce/woocommerce-dynamic-pricing-discounts-pro/
+
+---
+
+## WooCommerce Subscription
+
+毎月定額課金ができる。
+VWSではプライベートサポートプランで使用。
+
+https://woocommerce.com/products/woocommerce-subscriptions/
+
+$199 / 年
+
+---
+
+## おまけ
 
 #### VK Filter Search もよろしく
 
