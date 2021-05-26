@@ -21,7 +21,9 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #021
+# VWS オンライン勉強会 #022
+まもなくスタート！
+#wpvektor ツイート大歓迎！
 
 
 ---
@@ -30,7 +32,7 @@ section{
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# はじめに
+# ようこそ！はじめに
 
 ---
 
