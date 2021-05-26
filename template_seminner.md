@@ -107,15 +107,6 @@ https://vektor-vws.slack.com
 
 ---
 
-## 本日の内容
-
-* 新機能 / 新製品その他お知らせ など（30分程度）
-* 本編「Lightning G3 でのデザインスキンの作り方」（40分程度）
-* Q&A、質問相談会（30分程度）
-* 懇親会
-
----
-
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
@@ -123,6 +114,27 @@ https://vektor-vws.slack.com
 https://commentscreen.com/comments?room=wpvektor
 
 ※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
+
+---
+
+## 本日の内容
+
+* 質問・回答 記入シートについて（約5分）
+* 新機能 / 新製品その他お知らせ（約30分）
+* 本編「Lightningで物件情報サイトを作ってみよう」（約45分）
+* Q&A、質問相談会（約30分）
+* 22:00より希望者のみ懇親会
+
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
 
@@ -142,7 +154,7 @@ https://www.vektor-inc.co.jp/product-update/
   * [4/1] スライダーブロックが複数枚表示のカルーセルに対応
   * [4/14] アコーディオンブロック追加
 
-[VK Filter Search Pro] 販売開始！
+[VK Filter Search Pro] リリース記念特価は5/31まで！
 https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
 
 ---
@@ -150,7 +162,10 @@ https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## Lightning G3 β版 公開中！
+## Lightning G3 公式リリース！
+2021年5月11日より配信スタート！
+WordPress公式ディレクトリ掲載なので、
+管理画面からインストールしてご利用いただけます。
 https://lightning.vektor-inc.co.jp/
 
 ---
@@ -162,7 +177,7 @@ https://lightning.vektor-inc.co.jp/
 
 # メインセッション
 
-#021 Lightning G3 でのデザインスキンの作り方
+#022 Lightningで物件情報サイトを作ってみよう
 
 ---
 <!-- _class: title-chapter  -->
