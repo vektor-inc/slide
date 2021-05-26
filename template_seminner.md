@@ -152,8 +152,10 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 https://www.vektor-inc.co.jp/product-update/
 
 [VK Block Pro] 
-  * [4/1] スライダーブロックが複数枚表示のカルーセルに対応
-  * [4/14] アコーディオンブロック追加
+選択投稿リストブロックがURLだけでなく投稿名で検索できるようになりました。
+
+[VK Filter Search] 
+無料版 有効インストール数 2000 突破！ 
 
 [VK Filter Search Pro] リリース記念特価は5/31まで！
 https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
@@ -163,11 +165,25 @@ https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## Lightning G3 公式リリース！
+## Lightning 14系(G3) 公式リリース！
 2021年5月11日より配信スタート！
 WordPress公式ディレクトリ掲載なので、
 管理画面からインストールしてご利用いただけます。
 https://lightning.vektor-inc.co.jp/
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## Lightning 14系(G3) の注意点
+
+Lightning 14系 新規インストール時の注意
+https://www.vektor-inc.co.jp/product-update/lightning-14-clean-install-warning/
+
+Lightning 無料版を子テーマなどでカスタマイズしていて 14系へアップデートする際の注意事項
+https://www.vektor-inc.co.jp/product-update/lightning-13-before-customize/
 
 ---
 
