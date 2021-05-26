@@ -38,7 +38,7 @@ section{
 
 ## この勉強会について
 
-株式会社ベクトルが提供している、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催しているオンライン勉強会です。
+株式会社ベクトルが運営、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催しているオンライン勉強会です。
 
 ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
@@ -91,9 +91,9 @@ https://slack.com/intl/ja-jp/downloads/
 
 ## Slackにまだ登録していない
 
-VWSのslackに登録していない方は予め下記より申請ください。
+VWSのslackに登録していない方は下記よりご登録ください。
 
-https://vws.vektor-inc.co.jp/vws-community
+https://join.slack.com/t/vektor-vws/shared_invite/zt-qpdex5sh-zjw_M3r38GBaewNKcXa7GA
 
 ---
 
