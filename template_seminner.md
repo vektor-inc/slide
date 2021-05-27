@@ -187,6 +187,14 @@ https://www.vektor-inc.co.jp/product-update/lightning-13-before-customize/
 
 ---
 
+Lightning Pro から Lightning 14系 + G3 Pro Unit に切り替え推奨手順
+https://www.vektor-inc.co.jp/post/lightning-pro-to-lightning-g3-pro-unit/
+
+ウィジェットエリアを復活させたい場合
+https://lightning.vektor-inc.co.jp/lightning-g3-expand-widget-areas/
+
+---
+
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
