@@ -73,7 +73,9 @@ G3 は Generation（世代） の略
 
 ---
 
-![bg right](images/G3_change_generation.png)
+<!-- ![bg right](images/G3_change_generation.png) -->
+![bg right](images/change_generation_panel.png)
+
 <!--<img src="images/G3_change_generation.png" alt="" />-->
 
 ## G3版の切り替え
