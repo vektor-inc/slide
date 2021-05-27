@@ -208,20 +208,6 @@ Lightning を使用していて、
 などのご意見をお聞かせください。
 
 ---
-<!-- _class: title-chapter -->
-
-## ショーケースについて
-
-https://showcase.vektor-inc.co.jp/
-
-LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトがオープンしています。
-
-実績掲載・受注の流れ
-https://showcase.vektor-inc.co.jp/flow
-
-
-
----
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
@@ -231,6 +217,13 @@ https://showcase.vektor-inc.co.jp/flow
 2021/05/27(木) 20:00 〜　VWSオンライン勉強会 #022
 ### 「Lightning をカスタマイズしてつくる実績紹介コンテンツ（仮）」
 Lightningをベースにカスタム投稿タイプ、プラグイン、そしてフィルターフックなどを活用してサイトを構築する様子をご紹介予定です。確定次第、ご案内します！
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](images/Shifter.png)
+
 
 ---
 
