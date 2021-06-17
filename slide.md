@@ -16,8 +16,9 @@ _paginate: true
 ![bg](themes/vk-slide/images/vws_title_16_9_red.svg)
 
 
-# Lightning でつくる ECサイト 
-<center>feat. WooCommerce と愉快な仲間たち</center>
+<center>All New Lightning</center>
+
+# Lightning G3 について
 
 ---
 
@@ -84,28 +85,105 @@ G3 は Generation（世代） の略
 
 __アップデートしていきなりG3版が読み込まれるわけではありません。__
 
+---
+
+## テーマ内で<br>ディレクトリが分かれている
+
+テーマ内に 13系（G2）のファイルと新しいG3のファイルが
+それぞれ ___g2__ ディレクトリ、 ___g3__ ディレクトリにわかれています。
 
 ---
+
+
+## 互換性について
+
+G2からG3へモードを切り替えた時互換性はあまりありません。
+__受託案件の既存サイトはG3に変更せずそのまま使ってください。__
+自分で運営しているサイトをG3に切り替える場合は必ずバックアップをとった上で行ってください。
+
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
+
+# Lightning G3 で大きく変わった点
+
+<center>受託案件のベーステーマとしてよりカスタマイズしやすいように</center>
+
+---
+
 <style scoped>
-li {
-  font-size:50px;
+section table{
+  font-size:24px;
 }
 </style>
 
-## ウェブ制作向けにカスタマイズしやすくなった
+## 独自デザインの作成が容易
 
-受託案件のベーステーマとしてよりカスタマイズしやすいように
+デザインスキンで装飾の切り替えが
+できるようにしていたが...
 
-#### テンプレート構造の見直し
+| | 従来 | G3 |
+|-| ------------- | ------------- |
+| 共通CSS | ブロックエディタ関連  | サイトのレイアウト<br>各パーツのレイアウト等<br>ブロックエディタ関連  |
+| スキンCSS | サイトのレイアウト<br>各パーツのレイアウト等<br>各種装飾  | 各種装飾  |
 
-部分的にカスタマイズしやすくなった
 
-#### CSS構造の見直し
+---
 
-デザインの上書きや独自デザインが適用しやすくなった
+### G2以前のデザインカスタマイズ
 
-#### 速度改善
+* 既存のデザインを打ち消すのが手間
+* 最初から自作するとテーマの仕様変更などに対応するのが大変すぎて無理
 
+---
+
+### G3以降のデザインカスタマイズ
+
+* 共通CSS : 基本レイアウト・ブロック
+* スキン : 細かい装飾用
+
+独自のデザインスキンが作りやすい構造
+
+---
+
+### 装飾を極力省いたスキン<br>「Plain」を用意
+
+デザインスキン Plain を選んで、自分で少しだけCSSを書き足す
+
+### デザインスキンのプラグインサンプルを用意
+
+https://github.com/vektor-inc/lightning-g3-skin-sample
+
+---
+
+## 速度改善
+
+* 長年積み重なった古い機能・互換処理のためのコードを削除
+* CSSの構造変更
+
+---
+
+<div class="row"> 
+<div class="col-6">
+Lightning Pro
+<img src="images/PageSpeed-Insights-lightning-pro.png" alt="" class="border" /></div>
+<div class="col-6">
+Lightning G3 + Pro Unit 
+<img src="images/PageSpeed-Insights-lightning-g3-pro.png" alt="" class="border" />
+</div>
+</div>
+
+<center>爆速とまではいきませんが
+以前より速くなりました。</center>
+
+---
+
+## テンプレート構造の見直し
+
+子テーマでカスタマイズした時に親テーマのアップデートの影響をなるべくうけないように、部分的にカスタマイズしやすいようにファイル構成を変更しました。
 
 ---
 
@@ -153,12 +231,12 @@ https://www.youtube.com/watch?v=8NPVxaL3Oeg
 
 ## ページヘッダー機能強化
 
-https://demo.dev3.biz/lightning-g3-pro/
-
 * 投稿ページのページヘッダーの表示要素が切り替え可能
 * 固定ページのページヘッダーにサブテキスト表示可能
 * 固定ページのページヘッダーに先祖階層を要素を表示可能
 * 投稿タイプ毎に色やサイズ指定可能
+
+https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/page-header/
 
 ---
 <style scoped>
@@ -190,88 +268,6 @@ https://lightning.vektor-inc.co.jp/lightning-g3-pro-unit/
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
-
-# Lightning と WooCommerce
-
----
-
-## Lightning は WooCommerce 対応
-
-従来版も新しいG3も特別にアドオンなど入れる事なく標準で対応しています。
-
----
-
-## WooCommerceの設定ガイド
-
-初心者でもできる！プラグインWooCommerceでネットショップを作る方法
-https://www.vektor-inc.co.jp/post/woocommerce-setup/
-
-日本向けの決済方法や配送希望日時の設定を追加できる Japanized For WooCommerce の使い方
-https://www.vektor-inc.co.jp/post/japanized-for-woocommerce/
-
----
-
-## オンライン決済について
-
-初心者でもできる！WooCommerce にクレジットカード決済を導入する PayPal の設定方法
-https://www.vektor-inc.co.jp/post/paypal-account-api/
-
-初心者でもできる！WooCommerce にクレジットカード決済を導入する Stripe の設定方法
-https://www.vektor-inc.co.jp/post/stripe-account-api/
-
----
-
-## オンラインチケット販売システム「まえチケ」
-
-
-<div class="row">
-<div class="col-6">
-
-https://www.vektor-inc.co.jp/service/wordpress-plugins/maeticket/
-
-デモサイトのデータも無料で
-ダウンロードできます。
-</div>  
-<div class="col-6">
-<img src="images/mae_top.png" alt="" /></div>
-</div>
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
-
-# 何を売るか？
-
----
-
-## 制作業だし物販のクライアントもいない？
-
-### テーマ・プラグイン開発
-
-確かに技術的な専門知識が必要でハードルが高い
-
-### サイトまるごとのデータ
-
-ベクトルが配布・販売しているコンテンツデータのように、業種毎などでサイトを作ってそのデータをエクスポートして販売する
-
----
-
-### ブロックパターンプラグイン
-
-ブロックパターンのプラグインが簡単につくれるプラグイン
-VK Block Pattern Plugin Generator（有料）
-
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-block-pattern-plugin-generator/
-
-テーマやプラグイン関係なくすべてのWordPressユーザーに向けて売れる！
-
----
-
 ### デザインスキンプラグイン
 
 Lightning G3 からはデザインスキンも作りやすくなりました。
@@ -282,97 +278,6 @@ https://www.youtube.com/watch?v=4pwH2SuxgI4
 
 サンプルデータのダウンロード
 https://lightning.vektor-inc.co.jp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_16_9_lightgray.svg)
-
-# ベクトルで利用している WooCommerce プラグイン
-
----
-
-<h2>領収書の発行</h2>
-
-<div class="row">   <div class="col-6">
-
-Print Invoice & Delivery Notes for WooCommerce
-
-<img src="images/Print-Invoice-Delivery-Notes-for-WooCommerce-–-WordPress-plugin-WordPress-org.png" alt="" /></div>
-
- <div class="col-6">
- <img src="images/reciept.png" alt="" />
-</div>
-
-</div>
-
-https://wordpress.org/plugins/woocommerce-delivery-notes/
-
----
-
-## ポイント付与
-
-#### WooCommerce Points and Rewards
-https://woocommerce.com/products/woocommerce-points-and-rewards
-
-* フォーラムのベストアンサーに自動でポイント付与
-（システム自作）
-* 本番環境で購入テスト
-* $129.00 / 年
-
----
-
-## アフィリエイト
-
-<img src="images/AffiliateWP-Affiliate-Plugin-for-WordPress.png" alt="" />
-
----
-
-### AffiriateWP
-
-https://affiliatewp.com/
-
-大手のアフィリエイトサービスに高額なみかじめ料を払わなくても
-自分のECサイトに簡単にアフィリエイトシステムを簡単に導入できる
-
----
-
-<img src="images/AffiliateWP-Pricing.png" alt="" />
-
-<center>安くはないけど費用対効果を考えればすごく安い</center>
-
----
-
-## アフィリエイトの支払い
-
-PayPal PayOuts
-https://affiliatewp.com/add-ons/pro/paypal-payouts/
-
-支払いを PayPay アカウントに行うので チマチマ個別に振り込みなどしなくて良い
-
-※ PayPalへの申請・審査が必要
-
----
-
-## セット販売
-
-複数の商品を組み合わせると割引設定が可能
-
-VarkTech Pricing Deals PRO for WooCommerce
-
-https://www.varktech.com/woocommerce/woocommerce-dynamic-pricing-discounts-pro/
-
----
-
-## WooCommerce Subscription
-
-毎月定額課金ができる。
-VWSではプライベートサポートプランで使用。
-
-https://woocommerce.com/products/woocommerce-subscriptions/
-
-$199 / 年
 
 ---
 
