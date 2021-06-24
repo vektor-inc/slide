@@ -143,6 +143,15 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
+## 「いちばんやさしいWordPressの教本 人気講師が教える本格Webサイトの作り方」の改訂版・第5版が6月22日に発売されました！
+
+https://www.vektor-inc.co.jp/info/the-easiest-wp-textbook-sale-v5/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
 ## Lightning 14系(G3) 公式リリース！
 新しくリニューアルしたLightning！
 もう触ってみましたか？
@@ -156,7 +165,7 @@ https://lightning.vektor-inc.co.jp/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-### コンテンツデータを Lightning G3 Pro Unit 専用に構成を変更し、最新にアップデートしました！
+## コンテンツデータを Lightning G3 Pro Unit 専用に構成を変更し、最新にアップデートしました！
 
 https://www.vektor-inc.co.jp/info/lightning-contents-data-change/
 
@@ -164,6 +173,7 @@ https://www.vektor-inc.co.jp/info/lightning-contents-data-change/
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
+### 製品更新情報
 https://www.vektor-inc.co.jp/product-update/
 
 - [Lightning G3 Pro Unit / Lightning Pro]
@@ -249,6 +259,16 @@ https://forms.gle/VyabQVvXawGxxXqy8
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # その他の連絡事項、告知など
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## Slackで他のユーザーと交流しよう
+ベクトル製品の制作の悩み・相談・雑談などをお気軽に交流していただける場を目指しています！チャンネル増設や情報共有がしやすい仕組みなども考えています！
+
 
 ---
 <!-- _class: title -->
