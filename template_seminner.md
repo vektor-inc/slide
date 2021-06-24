@@ -142,16 +142,43 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
+
+### コンテンツデータを Lightning G3 Pro Unit 専用に構成を変更し、最新にアップデートしました！
+
+https://www.vektor-inc.co.jp/info/lightning-contents-data-change/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
 https://www.vektor-inc.co.jp/product-update/
 
-[VK Block Pro] 
-選択投稿リストブロックがURLだけでなく投稿名で検索できるようになりました。
+- [Lightning G3 Pro Unit / Lightning Pro]
+    - [ 仕様変更 ][ 検索結果ページ ] 検索条件にキーワード検索だけでなく「投稿タイプ」が含まれている場合は、外観 > カスタマイズ > Lightning アーカイブ設定 > 検索 で指定した設定ではなく、外観 > カスタマイズ > Lightning アーカイブ設定 > （該当の投稿タイプ） で指定した表示設定が適用されるように変更
 
-[VK Filter Search] 
-無料版 有効インストール数 2000 突破！ 
+---
 
-[VK Filter Search Pro] リリース記念特価は5/31まで！
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+- [VK Blocks / Pro]
+    - 蛍光マーカーのUIを改善しました
+    [https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-5-0/](https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-5-0/)
+
+- [VK Blocks Pro]
+    - グリッドカラムブロックの下部の余白制御機能を追加しました
+    [https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-6-0/](https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-6-0/)
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+- [VK Filter Search]
+    - VK Filter Search Pro 1.3.0で無料版 VK Filter Search の有効化が不要になり単体で動作可能になりました
+    [https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/](https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/)
+- [Lightning]
+    - [機能改善 ] ブログカードがトップページやWordPressサイト以外のURLでも表示されるように独自実装に変更。
 
 ---
 
@@ -159,24 +186,13 @@ https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-filter-search-pro/
 <!-- _paginate: false  -->
 
 ## Lightning 14系(G3) 公式リリース！
-2021年5月11日より配信スタート！
+新しくリニューアルしたLightning！
+もう触ってみましたか？
+2021年5月11日より配信スタートしております！
 WordPress公式ディレクトリ掲載なので、
 管理画面からインストールしてご利用いただけます。
 https://lightning.vektor-inc.co.jp/
 
----
-
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## Lightning 14系(G3) の注意点
-
-Lightning 14系 新規インストール時の注意
-https://www.vektor-inc.co.jp/product-update/lightning-14-clean-install-warning/
-
-Lightning 無料版を子テーマなどでカスタマイズしていて 14系へアップデートする際の注意事項
-https://www.vektor-inc.co.jp/product-update/lightning-13-before-customize/
 
 ---
 
