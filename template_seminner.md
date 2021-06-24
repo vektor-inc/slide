@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #022
+# VWS オンライン勉強会 #023
 まもなくスタート！
 #wpvektor ツイート大歓迎！
 
@@ -84,25 +84,19 @@ section{
 <strong>VWS の Slack #ミーティング チャンネル:</strong>
 https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
 
-※Slackのアプリを既にご利用されている方はSlackアプリからご参加ください
+※Slackのアプリもあります
 https://slack.com/intl/ja-jp/downloads/
 
 ---
 
-## Slackにまだ登録していない
-
-VWSのslackに登録していない方は下記よりご登録ください。
-
+## Slackにまだ登録していない/ログイン情報を忘れた場合
+VWSのSlack新規登録はこちら：
 https://join.slack.com/t/vektor-vws/shared_invite/zt-qpdex5sh-zjw_M3r38GBaewNKcXa7GA
 
----
-
-## Slackログイン情報がわからない
-
-申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください。
+ログイン方法を忘れた場合：
 https://vektor-vws.slack.com/forgot/signin
 
-■ VWSのSlackのURL
+■ ブラウザでVWSのSlackにアクセス：
 https://vektor-vws.slack.com
 
 ---
@@ -120,11 +114,10 @@ https://commentscreen.com/comments?room=wpvektor
 ## 本日の内容
 
 * 質問・回答 記入シートについて（約5分）
-* 新機能 / 新製品その他お知らせ（約30分）
-* 本編「Lightningで物件情報サイトを作ってみよう」(約45分)
-* 6月の勉強会のお知らせ（約5分）
-* Q&A、質問相談会（〜22:00まで）
-* 22:00より希望者のみ懇親会
+* 新機能 / 新製品その他お知らせ（約10分）
+* 本編「Lightningで作るビジネスサイト（ダイジェスト版）」(約30分)
+* Q&A、質問相談会（〜22:15まで）
+* 22:15より希望者のみ懇親会
 
 
 ---
@@ -194,7 +187,7 @@ https://www.vektor-inc.co.jp/product-update/lightning-13-before-customize/
 
 # メインセッション
 
-#022 Lightningで物件情報サイトを作ってみよう
+#023 Lightningで作るビジネスサイト（ダイジェスト版）
 
 ---
 <!-- _class: title-chapter  -->
@@ -221,12 +214,6 @@ https://japan.wordcamp.org/2021/ （参加登録無料）
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](images/Shifter.png)
-
-
----
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
@@ -235,7 +222,7 @@ https://japan.wordcamp.org/2021/ （参加登録無料）
 # 参加後アンケートのお願い
 
 
-https://forms.gle/hjYsSmqESqGPYNtw7
+https://forms.gle/VyabQVvXawGxxXqy8
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
