@@ -143,6 +143,19 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
+## Lightning 14系(G3) 公式リリース！
+新しくリニューアルしたLightning！
+もう触ってみましたか？
+2021年5月11日より配信スタートしております！
+WordPress公式ディレクトリ掲載なので、
+管理画面からインストールしてご利用いただけます。
+https://lightning.vektor-inc.co.jp/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
 ### コンテンツデータを Lightning G3 Pro Unit 専用に構成を変更し、最新にアップデートしました！
 
 https://www.vektor-inc.co.jp/info/lightning-contents-data-change/
@@ -179,20 +192,6 @@ https://www.vektor-inc.co.jp/product-update/
     [https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/](https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/)
 - [Lightning]
     - [機能改善 ] ブログカードがトップページやWordPressサイト以外のURLでも表示されるように独自実装に変更。
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## Lightning 14系(G3) 公式リリース！
-新しくリニューアルしたLightning！
-もう触ってみましたか？
-2021年5月11日より配信スタートしております！
-WordPress公式ディレクトリ掲載なので、
-管理画面からインストールしてご利用いただけます。
-https://lightning.vektor-inc.co.jp/
-
 
 ---
 
