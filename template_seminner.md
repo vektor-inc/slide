@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #023
+# VWS オンライン勉強会 #024
 まもなくスタート！
 #wpvektor ツイート大歓迎！
 
