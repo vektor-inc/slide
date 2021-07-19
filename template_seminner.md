@@ -99,25 +99,19 @@ https://vektor-vws.slack.com/forgot/signin
 ■ ブラウザでVWSのSlackにアクセス：
 https://vektor-vws.slack.com
 
----
 
-## ハッシュタグは #wpvektor
-
-## コメントスクリーンはこちらから 
-
-https://commentscreen.com/comments?room=wpvektor
-
-※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
 ---
 
 ## 本日の内容
 
 * 質問・回答 記入シートについて（約5分）
-* 新機能 / 新製品その他お知らせ（約10分）
-* 本編「Lightningで作るビジネスサイト（ダイジェスト版）」(約30分)
-* Q&A、質問相談会（〜22:15まで）
-* 22:15より希望者のみ懇親会
+* 新機能 / 新製品その他お知らせ（約30分）
+* ベクトレのご紹介(約15分)
+* 〜 5分休憩 (21時前後)　〜
+* 本編「WordPress5.8で使えるイケてるパターン活用例など」(約40分)
+* Q&A、質問相談会（〜22:00まで）
+* 22:00より希望者のみ懇親会
 
 
 ---
@@ -137,6 +131,17 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 今月の新機能 / 新製品その他お知らせ
+
+
+---
+
+## ハッシュタグは #wpvektor
+
+## コメントスクリーンはこちらから 
+
+https://commentscreen.com/comments?room=wpvektor
+
+※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
 ---
 
@@ -212,7 +217,7 @@ https://www.vektor-inc.co.jp/product-update/
 
 # メインセッション
 
-#023 Lightningで作るビジネスサイト（ダイジェスト版）
+#024 WordPress5.8で使えるイケてるパターン活用例など
 
 ---
 <!-- _class: title-chapter  -->
@@ -231,7 +236,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/07/21(水) ※調整中　VWSオンライン勉強会 #024
+2021/08/26(木) ※調整中　VWSオンライン勉強会 #025
 
 内容が決まり次第ご案内します！
 
