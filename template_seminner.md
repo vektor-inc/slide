@@ -139,7 +139,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?room=wpvektor
+https://commentscreen.com/comments?id=Ryap4zVv2WUwqBYj2HZw
 
 ※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
@@ -250,7 +250,7 @@ Lightning を使用していて、
 # 参加後アンケートのお願い
 
 
-https://forms.gle/VyabQVvXawGxxXqy8
+https://forms.gle/1oRiJWwdekSYUyWH6
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
