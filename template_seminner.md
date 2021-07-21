@@ -148,18 +148,9 @@ https://commentscreen.com/comments?id=Ryap4zVv2WUwqBYj2HZw
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## 「いちばんやさしいWordPressの教本 人気講師が教える本格Webサイトの作り方」の改訂版・第5版が6月22日に発売されました！
-
-https://www.vektor-inc.co.jp/info/the-easiest-wp-textbook-sale-v5/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
 ## Lightning 14系(G3) 公式リリース！
-新しくリニューアルしたLightning！
-もう触ってみましたか？
+
+新しくなったLightning！もう触ってみましたか？
 2021年5月11日より配信スタートしております！
 WordPress公式ディレクトリ掲載なので、
 管理画面からインストールしてご利用いただけます。
@@ -170,46 +161,87 @@ https://lightning.vektor-inc.co.jp/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## コンテンツデータを Lightning G3 Pro Unit 専用に構成を変更し、最新にアップデートしました！
+## 縦書きメニューに対応しました
+Lightning **G3 Pro Unit** 0.4.0 にて、以前からリクエストの多かった縦書きメニューに対応しました。
 
-https://www.vektor-inc.co.jp/info/lightning-contents-data-change/
+https://www.vektor-inc.co.jp/product-update/g3-pro-unit-0-4-0/
 
----
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-### 製品更新情報
-https://www.vektor-inc.co.jp/product-update/
-
-- [Lightning G3 Pro Unit / Lightning Pro]
-    - [ 仕様変更 ][ 検索結果ページ ] 検索条件にキーワード検索だけでなく「投稿タイプ」が含まれている場合は、外観 > カスタマイズ > Lightning アーカイブ設定 > 検索 で指定した設定ではなく、外観 > カスタマイズ > Lightning アーカイブ設定 > （該当の投稿タイプ） で指定した表示設定が適用されるように変更
+（※「G3 Pro Unit」とは、テーマLightningの機能を拡張する有料プラグインです。）
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-- [VK Blocks / Pro]
-    - 蛍光マーカーのUIを改善しました
-    [https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-5-0/](https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-5-0/)
+## ページヘッダーの背景画像の固定指定
+Lightning **G3 Pro Unit** 0.5.0 にて、ページヘッダー部分の画像を固定指定できるように変更しました。未設定の場合は従来通りスクロールに追従する状態です。
 
-- [VK Blocks Pro]
-    - グリッドカラムブロックの下部の余白制御機能を追加しました
-    [https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-6-0/](https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-6-0/)
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-page-header/
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-- [VK Filter Search]
-    - VK Filter Search Pro 1.3.0で無料版 VK Filter Search の有効化が不要になり単体で動作可能になりました
-    [https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/](https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-3-0/)
-- [Lightning]
-    - [機能改善 ] ブログカードがトップページやWordPressサイト以外のURLでも表示されるように独自実装に変更。
+## キャンペーンテキスト背景にストライプ追加
+Lightning **G3 Pro Unit** 0.5.0 にて、キャンペーンテキストの背景がストライプを選択できるようになりました。
+キャンペーンテキストの背景が今までは単色のみでしたが、ストライプを選択できるようになりました。
+
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-5-0-campaign/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## 詳細ページの非表示要素設定を追加
+Lightning **G3 Pro Unit** 0.6.0 にて、投稿やカスタム投稿タイプの各記事個別ページで、「公開日 / 更新日 / 投稿者」情報や「前の記事 / 次の記事」の非表示設定ができるようになりました。
+
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-6-0/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## ヘッダー透過（全ページ）
+Lightning **G3 Pro Unit** 0.ｘ.0 にて、xxx
+
+リリース待機
+
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## デザインプリセット機能（調整中）
+Lightning **G3 Pro Unit** 0.ｘ.0 にて、xxx
+
+調整中
+
 
 ---
 
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## VK Blocks / Pro のアップデート情報
+
+1. [機能追加][スペーサー] 共通余白設定のサイズ指定機能追加
+2. [機能追加][スペーサー] 小中大の共通余白サイズ追加
+3. [機能改善] 文字サイズ変更のUIを改善しました https://www.vektor-inc.co.jp/product-update/vk-blocks-1-9-0/
+4. [機能改善] スライダーブロックのコントロール切り替え機能
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 新サービスのお知らせ
+C'mon and Join the ベクトレ!!
+
+---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
