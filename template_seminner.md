@@ -139,7 +139,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=Ryap4zVv2WUwqBYj2HZw
+https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 
 ※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
 
