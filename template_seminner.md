@@ -220,8 +220,6 @@ Lightning **G3 Pro Unit** でデザインプリセット機能が追加されま
 https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-6-0-add-patterns/
 
 ---
-
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
@@ -231,6 +229,20 @@ https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-6-0-add-patterns
 2. [機能追加][スペーサー] 小中大の共通余白サイズ追加
 3. [機能改善] 文字サイズ変更のUIを改善しました https://www.vektor-inc.co.jp/product-update/vk-blocks-1-9-0/
 4. [機能改善] スライダーブロックのコントロール切り替え機能
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## 制作実績へのリンク
+
+showcase.vektor-inc.co.jp に実績を登録している方は
+VWSの マイアカウント > アカウント詳細 で showcase.vektor-inc.co.jp の ID を登録するとフォーラム投稿・回答時に実績のリンクが表示されるようになりました。
+
+表示例：
+https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 
 ---
 
