@@ -141,7 +141,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 
-※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
+※twitterに **#wpvektor** をつけて呟くとこちらにも反映されます。
 
 ---
 
@@ -267,6 +267,9 @@ https://demo.dev3.biz/jpnstyle/
 和のデザイン「Lightning G3 VEKUAN キット」
 販売価格 ¥9,900(税込)
 ## 発売記念特価 ¥8,800 (税込)!
+デザインスキンとコンテンツデータが含まれたキットです。
+別途 Lightning G3 Pro Unit プラグインと一緒に
+ご利用ください。
 
 
 ---
@@ -323,6 +326,8 @@ https://forms.gle/1oRiJWwdekSYUyWH6
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
+- 和のデザイン VEKUAN のご感想
+- ベクトレのご感想
 
 よろしければご意見をお聞かせください。
 
