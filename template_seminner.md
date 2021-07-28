@@ -99,22 +99,7 @@ https://vektor-vws.slack.com/forgot/signin
 ■ ブラウザでVWSのSlackにアクセス：
 https://vektor-vws.slack.com
 
-
-
 ---
-
-## 本日の内容
-
-* 質問・回答 記入シートについて（約5分）
-* 新機能 / 新製品その他お知らせ（約45分）
-* 〜 5分休憩 (21時ごろ)　〜
-* 本編「WordPress5.8で使えるイケてるパターン活用例など」(約45分)
-* Q&A、質問相談会（〜22:00まで）
-* 22:00より希望者のみ懇親会
-
-
----
-
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
@@ -122,6 +107,17 @@ https://vektor-vws.slack.com
 
 ## だれでもお気軽に 質問・回答 記入シート
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+
+---
+
+## 本日の内容
+
+* 新機能 / 新製品その他お知らせ（約45分）
+* 〜 5分休憩 (21時ごろ)　〜
+* 本編「WordPress5.8で使えるイケてるパターン活用例など」(約45分)
+* Q&A、質問相談会（〜22:00まで）
+* 22:00より希望者のみ懇親会
+
 
 ---
 
