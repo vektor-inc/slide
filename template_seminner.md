@@ -253,10 +253,6 @@ https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 ## 「Lightning G3 VEKUAN キット」新発売
 
 
-
-https://demo.dev3.biz/jpnstyle/
-
-
 ---
 
 <!-- _class: title-chapter  -->
