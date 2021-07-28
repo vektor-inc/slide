@@ -148,19 +148,6 @@ https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## Lightning 14系(G3) 公式リリース！
-
-新しくなったLightning！もう触ってみましたか？
-2021年5月11日より配信スタートしております！
-WordPress公式ディレクトリ掲載なので、
-管理画面からインストールしてご利用いただけます。
-https://lightning.vektor-inc.co.jp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
 ## 縦書きメニューに対応しました
 Lightning **G3 Pro Unit** 0.4.0 にて、以前からリクエストの多かった縦書きメニューに対応しました。
 
@@ -204,20 +191,33 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-6-0/
 <!-- _paginate: false  -->
 
 ## ヘッダー透過（全ページ）
-Lightning **G3 Pro Unit** 0.ｘ.0 にて、xxx
-
-リリース待機
+Lightning **G3 Pro Unit** でヘッダーの透過に対応しました。
 
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## デザインプリセット機能（調整中）
-Lightning **G3 Pro Unit** 0.ｘ.0 にて、xxx
+## デザインプリセット機能
+Lightning **G3 Pro Unit** でデザインプリセット機能が追加されました。
 
-調整中
 
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## CTA (Call to Action) 機能強化
+**ExUnit（VK All in One Expansion Unit）** でCTA の機能が強化されました。
+
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+## 新しいパターンブロックの追加
+**VK Block Patterns**  1.6.0 にてカラム系ブロックパターンなどを多数追加しました。
+
+https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-6-0-add-patterns/
 
 ---
 
@@ -231,6 +231,31 @@ Lightning **G3 Pro Unit** 0.ｘ.0 にて、xxx
 2. [機能追加][スペーサー] 小中大の共通余白サイズ追加
 3. [機能改善] 文字サイズ変更のUIを改善しました https://www.vektor-inc.co.jp/product-update/vk-blocks-1-9-0/
 4. [機能改善] スライダーブロックのコントロール切り替え機能
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 和風デザイン「JPNSTYLE」(G3対応版)
+前代G２からの人気デザインがG３対応になって新登場！
+縦書きブロックでより和風の表現が可能に。
+
+https://demo.dev3.biz/jpnstyle/
+
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+和風デザイン「JPNSTYLE」販売価格 ¥9,900(税込)のところ
+## 発売記念特価 ¥8,800 (税込)!
+**G3 Pro Pack 同時購入の場合は¥7,700(税込)に**
+G3 Pro Pack(1年)¥9,900＋JPNSTYLE¥7,700
+ ＝ 合計 ¥16,700(税込) となります。
 
 ---
 
