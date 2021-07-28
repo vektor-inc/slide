@@ -238,9 +238,10 @@ https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-6-0-add-patterns
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 和風デザイン「JPNSTYLE」(G3対応版)
-前代G２からの人気デザインがG３対応になって新登場！
-縦書きブロックでより和風の表現が可能に。
+### 和をイメージした専用デザインスキン
+## 「Lightning G3 VEKUAN キット」新発売
+
+
 
 https://demo.dev3.biz/jpnstyle/
 
@@ -251,11 +252,10 @@ https://demo.dev3.biz/jpnstyle/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-和風デザイン「JPNSTYLE」販売価格 ¥9,900(税込)のところ
+和のデザイン「Lightning G3 VEKUAN キット」
+販売価格 ¥9,900(税込)
 ## 発売記念特価 ¥8,800 (税込)!
-**G3 Pro Pack 同時購入の場合は¥7,700(税込)に**
-G3 Pro Pack(1年)¥9,900＋JPNSTYLE¥7,700
- ＝ 合計 ¥16,700(税込) となります。
+
 
 ---
 
