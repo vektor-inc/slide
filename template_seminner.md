@@ -274,7 +274,8 @@ https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 新サービスのお知らせ
-C'mon and Join the ベクトレ!!
+C'mon and Join the #ベクトレ !!
+https://training.vektor-inc.co.jp/
 
 ---
 
