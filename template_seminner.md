@@ -112,7 +112,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約45分）
+* 新機能 / 新製品その他お知らせ（約50分）
 * 〜 5分休憩 (21時ごろ)　〜
 * 本編「WordPress5.8で使えるイケてるパターン活用例など」(約45分)
 * Q&A、質問相談会（〜22:00まで）
@@ -149,7 +149,7 @@ Lightning **G3 Pro Unit** 0.4.0 にて、以前からリクエストの多かっ
 https://www.vektor-inc.co.jp/product-update/g3-pro-unit-0-4-0/
 
 
-（※「G3 Pro Unit」とは、テーマLightningの機能を拡張する有料プラグインです。）
+（※「G3 Pro Unit」は、テーマLightningの機能を拡張する有料プラグインです。）
 
 ---
 
