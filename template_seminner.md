@@ -245,9 +245,13 @@ https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-### 和をイメージした専用デザインスキン
-## 「Lightning G3 VEKUAN キット」新発売
+**和をイメージした Lightning G3 対応デザインスキン**
+## 「VEKUAN」本日リリース！
 
+デモサイト：
+https://demo.dev3.biz/vekuan/
+リリース情報：
+https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 
 ---
 
@@ -255,10 +259,10 @@ https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-和のデザイン「Lightning G3 VEKUAN キット」
+和風デザイン「Lightning G3 BEKUAN キット」
 販売価格 ¥9,900(税込)
 ## 発売記念特価 ¥8,800(税込) 8月31日まで
-デザインスキンとコンテンツデータが含まれたキットです。
+デザインスキンと専用パターン＋旅館サイト向けコンテンツデータが含まれたキットです。
 別途 Lightning G3 Pro Unit プラグインと一緒に
 ご利用ください。
 
