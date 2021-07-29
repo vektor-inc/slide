@@ -259,7 +259,7 @@ https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-和風デザイン「Lightning G3 BEKUAN キット」
+和風デザイン「Lightning G3 VEKUAN キット」
 販売価格 ¥9,900(税込)
 ## 発売記念特価 ¥8,800(税込) 8月31日まで
 デザインスキンと専用パターン＋旅館サイト向けコンテンツデータが含まれたキットです。
