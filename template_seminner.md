@@ -21,7 +21,7 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #024
+# VWS オンライン勉強会 #025
 まもなくスタート！
 #wpvektor ツイート大歓迎！
 
@@ -112,9 +112,10 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約50分）
+* 新機能 / 新製品その他お知らせ（約20分）
+* 本編１「ブロックパターンを使って効率よくサイト構築しよう」(約30分)
 * 〜 5分休憩 (21時ごろ)　〜
-* 本編「WordPress5.8で使えるイケてるパターン活用例など」(約45分)
+* 本編2「Lightningと和風デザイン拡張キットで旅館サイトを作ろう」(約20分)
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
 
@@ -246,7 +247,7 @@ https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 **和をイメージした Lightning G3 対応デザインスキン**
-## 「VEKUAN」本日リリース！
+## 「VEKUAN」2021年7月リリース！
 
 デモサイト：
 https://demo.dev3.biz/vekuan/
@@ -283,9 +284,18 @@ https://training.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# メインセッション
+# メインセッション１
 
-#024 WordPress5.8で使えるイケてるパターン活用例など
+ブロックパターンを使って効率よくサイト構築しよう
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# メインセッション２
+
+Lightningと和風デザイン拡張キットで旅館サイトを作ろう
 
 ---
 <!-- _class: title-chapter  -->
@@ -304,7 +314,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/08/26(木) ※調整中　VWSオンライン勉強会 #025
+2021/09/23(木) ※調整中　VWSオンライン勉強会 #026
 
 内容が決まり次第ご案内します！
 
