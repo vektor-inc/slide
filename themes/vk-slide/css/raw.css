@@ -1227,37 +1227,23 @@ section {
   /* padding: 50px; */
   font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
   -ms-word-wrap: break-word;
-  word-wrap: break-word; }
-  section.title {
-    border-left: 20px solid #c00; }
-  section.title h1 {
-    color: #000; }
-  section.title-chapter {
-    border-left: 20px solid #000;
-    background-color: #e5e5e5; }
-  section.title-chapter h1 {
-    color: #000; }
-  section.title-chapter-sub {
-    background-color: #e5e5e5; }
-  section.functions li {
-    font-size: 30px; }
-  section.index {
-    background-color: #e5e5e5; }
+  word-wrap: break-word;
+  /* スライドタイトルなどの特殊スタイル ----------------*/ }
   section h1 {
     font-size: 64px !important;
     color: #000; }
   section h2 {
-    font-size: 56px !important;
+    font-size: 56px;
     border-bottom: 1px solid #ccc !important;
     margin-bottom: 50px; }
   section h2::first-letter {
     color: #c00; }
   section h3 {
-    font-size: 48px !important;
+    font-size: 48px;
     margin-bottom: 40px;
     margin-top: 40px; }
   section h4 {
-    font-size: 42px !important; }
+    font-size: 42px; }
   section p,
   section li {
     font-size: 38px; }
@@ -1269,8 +1255,25 @@ section {
     margin-right: 0.4em; }
   section pre,
   section code {
-    font-size: 2rem !important; }
+    font-size: 2rem; }
   section table th,
   section table td {
     padding-left: 1em;
     padding-right: 1em; }
+  section.title-chapter {
+    border-top: 5px solid #B81C22;
+    background-color: #e5e5e5; }
+    section.title-chapter h1 {
+      color: #444444; }
+  section.functions li {
+    font-size: 30px; }
+  section.index {
+    background-color: #e5e5e5; }
+
+section.title {
+  background-image: url("../images/vws_logo_tate.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  color: #fff; }
+  section.title h1 {
+    color: #fff; }

@@ -2,7 +2,7 @@
 marp: true
 ---
 <!-- 
-theme: my_theme
+theme: vk-slide
 size: 16:9
 paginate: true
 style: |
@@ -18,9 +18,16 @@ section{
 */
 </style>
 
----
+サブタイトル1
 
 # スライドサンプル
+
+
+![bg](themes/vk-slide/images/vws_title_01_red.svg)
+
+---
+
+# 見出し１
 
 ---
 

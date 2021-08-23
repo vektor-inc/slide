@@ -1,49 +1,14 @@
-@import "@bootstrap/functions";
-@import "bootstrap_variables";
-@import "@bootstrap/mixins";
-@import "@bootstrap/grid";
-@import "@bootstrap/buttons";
-// @import "@bootstrap/card";
-@import "@bootstrap/alert";
-// @import "@bootstrap/media";
-
 section {
 	/* padding: 50px; */
 	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
-	&.title {
-			border-left: 20px solid #c00;
-		}
-	&.title h1{
-	color :#000;
-	}
-
-	&.title-chapter {
-		border-left: 20px solid #000;
-		background-color: #e5e5e5;
-	}
-
-	&.title-chapter h1 {
-		color :#000;
-	}
-
-	&.title-chapter-sub {
-		background-color: #e5e5e5; }
-
-	&.functions li {
-		font-size:30px;
-	}
-	&.index {
-		background-color:#e5e5e5;
-	}
-
 	h1 {
 		font-size: 64px !important;
 		color: #000 
 	}
 	h2 {
-		font-size: 56px !important;
+		font-size: 56px;
 		border-bottom: 1px solid #ccc !important;
 		margin-bottom: 50px; }
 
@@ -51,12 +16,12 @@ section {
 		color: #c00; }
 
 	h3 {
-		font-size: 48px !important;
+		font-size: 48px;
 		margin-bottom: 40px;
 		margin-top: 40px; }
 
 	h4 {
-		font-size: 42px !important; }
+		font-size: 42px; }
 
 	p,
 	li {
@@ -72,7 +37,7 @@ section {
 		
 	pre,
 	code {
-		font-size: 2rem !important;
+		font-size: 2rem;
 	}
 	table {
 		// width:100%;
@@ -83,5 +48,22 @@ section {
 			padding-right:1em;
 		}
 	}
+
+	/* スライドタイトルなどの特殊スタイル ----------------*/
+	&.title {
+
+	}
+	&.title-chapter {
+		border-top: 5px solid #B81C22;
+		background-color: #e5e5e5;
+		h1 {
+			color :#444444;
+		}
+	}
+	&.functions li {
+		font-size:30px;
+	}
+	&.index {
+		background-color:#e5e5e5;
+	}
 }
-	

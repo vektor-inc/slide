@@ -2,7 +2,7 @@
 marp: false
 ---
 <!-- 
-theme: my_theme
+theme: vk-slide
 size: 4:3
 paginate: true
 style: |
