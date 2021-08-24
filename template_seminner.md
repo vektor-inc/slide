@@ -203,8 +203,40 @@ https://twitter.com/kurudrive/status/1422983130248454145
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
+## 無料で利用できるオンライン学習サービス「ベクトレ」
+Vektor,Inc. のテーマ・プラグインの使い方・カスタマイズや、WordPressのサイト運営及びWeb制作全般の知識を無料で学べます！
+https://training.vektor-inc.co.jp/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 第1部
+
+## ブロックパターンを使って効率よくサイト構築しよう
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 第2部
+
+## Lightningと和風デザイン拡張キットで旅館サイトを作ろう
+
+VEKUAN デモサイト
+https://demo.dev3.biz/vekuan/
+ライブデモンストレーションで構築していきます！
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
 **和をイメージした Lightning G3 対応デザインスキン**
-## 「VEKUAN」本日リリース！
+## 「VEKUAN」2021年7月リリース！
 
 デモサイト：
 https://demo.dev3.biz/vekuan/
@@ -220,30 +252,10 @@ https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 和風デザイン「Lightning G3 VEKUAN キット」
 販売価格 ¥9,900(税込)
 ## 発売記念特価 ¥8,800(税込) 8月31日まで
-デザインスキンと専用パターン＋旅館サイト向けコンテンツデータが含まれたキットです。
+デザインスキンと専用ブロックパターン＋旅館サイト向けコンテンツデータが含まれたキットです。
 別途 Lightning G3 Pro Unit プラグインと一緒に
 ご利用ください。
 
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## 新サービスのお知らせ
-C'mon and Join the #ベクトレ !!
-https://training.vektor-inc.co.jp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# メインセッション
-
-#024 WordPress5.8で使えるイケてるパターン活用例など
 
 ---
 <!-- _class: title-chapter  -->
