@@ -113,10 +113,11 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ## 本日の内容
 
 * 新機能 / 新製品その他お知らせ（約30分）
-* 本編1 (約30分)
+* 本編 第1部 (約30分)
 ブロックパターンを使って効率よくサイト構築しよう
-* 〜 5分休憩 (21:10ごろ)　〜
-* 本編2 (約30分)
+* 5分休憩 (21:10ごろ)　
+
+* 本編 第2部 (約30分)
 Lightningと和風デザイン拡張キットで旅館サイトを作ろう
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
@@ -261,7 +262,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/08/26(木) ※調整中　VWSオンライン勉強会 #025
+2021/09/24(金) ※調整中　VWSオンライン勉強会 #026
 
 内容が決まり次第ご案内します！
 
@@ -274,13 +275,10 @@ Lightning を使用していて、
 
 # 参加後アンケートのお願い
 
-
-https://forms.gle/1oRiJWwdekSYUyWH6
+https://forms.gle/nNgmB9dAJEfT9PrC8
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
-- 和のデザイン VEKUAN のご感想
-- ベクトレのご感想
 
 よろしければご意見をお聞かせください。
 
@@ -291,15 +289,6 @@ https://forms.gle/1oRiJWwdekSYUyWH6
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # その他の連絡事項、告知など
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## Slackで他のユーザーと交流しよう
-ベクトル製品の制作の悩み・相談・雑談などをお気軽に交流していただける場を目指しています！チャンネル増設や情報共有がしやすい仕組みなども考えています！
 
 
 ---
