@@ -295,6 +295,19 @@ https://forms.gle/nNgmB9dAJEfT9PrC8
 よろしければご意見をお聞かせください。
 
 ---
+<!-- _class: title-chapter -->
+
+## ショーケースについて
+
+https://showcase.vektor-inc.co.jp/
+
+LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトです。
+
+実績掲載・受注の流れ
+https://showcase.vektor-inc.co.jp/flow
+
+
+---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
