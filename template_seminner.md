@@ -262,7 +262,7 @@ https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# Lightning 意見交換会
+## Lightning 意見交換会
 Lightning を使用していて、
 ・こういうところが使い勝手が良くて好き
 ・こういうところがもっと改善してほしい
