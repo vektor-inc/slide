@@ -112,10 +112,12 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約20分）
-* 本編１「ブロックパターンを使って効率よくサイト構築しよう」(約30分)
-* 〜 5分休憩 (21時ごろ)　〜
-* 本編2「Lightningと和風デザイン拡張キットで旅館サイトを作ろう」(約20分)
+* 新機能 / 新製品その他お知らせ（約30分）
+* 本編1 (約30分)
+ブロックパターンを使って効率よくサイト構築しよう
+* 〜 5分休憩 (21:10ごろ)　〜
+* 本編2 (約30分)
+Lightningと和風デザイン拡張キットで旅館サイトを作ろう
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
 
@@ -144,10 +146,9 @@ https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## 縦書きメニューに対応しました
-Lightning **G3 Pro Unit** 0.4.0 にて、以前からリクエストの多かった縦書きメニューに対応しました。
+## Lightning G3 Pro Unit 0.8.0 でモバイルメニューとモバイル固定ナビをページ毎に非表示に出来るようになりました
 
-https://www.vektor-inc.co.jp/product-update/g3-pro-unit-0-4-0/
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-8-0-hidden/
 
 
 （※「G3 Pro Unit」は、テーマLightningの機能を拡張する有料プラグインです。）
@@ -157,53 +158,35 @@ https://www.vektor-inc.co.jp/product-update/g3-pro-unit-0-4-0/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## ページヘッダーの背景画像の固定指定
-Lightning **G3 Pro Unit** 0.5.0 にて、ページヘッダー部分の画像を固定指定できるように変更しました。未設定の場合は従来通りスクロールに追従する状態です。
-
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-page-header/
+## VK Blocks1.12.0 でアイコンブロックが追加されました
+アイコンブロックは、FontAwesome のアイコンを単体で配置できる便利なブロックです。無料版 VK Blocks で利用できます。
+https://www.vektor-inc.co.jp/product-update/vk-blocks1-12-0-icon-block/
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## キャンペーンテキスト背景にストライプ追加
-Lightning **G3 Pro Unit** 0.5.0 にて、キャンペーンテキストの背景がストライプを選択できるようになりました。
-キャンペーンテキストの背景が今までは単色のみでしたが、ストライプを選択できるようになりました。
-
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-5-0-campaign/
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## 詳細ページの非表示要素設定を追加
-Lightning **G3 Pro Unit** 0.6.0 にて、投稿やカスタム投稿タイプの各記事個別ページで、「公開日 / 更新日 / 投稿者」情報や「前の記事 / 次の記事」の非表示設定ができるようになりました。
-
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-6-0/
+## VK Blocks Pro アコーディオンブロックのHTMLの変更に関する予告
+2021年8月12日 ー　VK Blocks Pro 1.13.0 にて、アコーディオンブロックのHTML構造の変更を行う予定です。
+アコーディオンブロックのCSSを独自にカスタマイズしている方はご注意ください。
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-accordion-class/
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## ヘッダー透過（全ページ）
-Lightning **G3 Pro Unit** でヘッダーの透過に対応しました。
+## ブロックからブロックパターンへ変換
+WordPress 5.8 で実装された、ブロックに対してブロックパターンに変換してくれる機能に VK Block Patterns が対応しました。
+そしてブロックパターンのプラグインを作るプラグイン VK Block Pattern Plugin Generator も対応。
 
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## デザインプリセット機能
-Lightning **G3 Pro Unit** でデザインプリセット機能が追加されました。
-
+https://twitter.com/kurudrive/status/1422983130248454145
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## CTA (Call to Action) 機能強化
-**ExUnit（VK All in One Expansion Unit）** でCTA の機能が強化されました。
+## レスポンシブスペーサーの機能余白タイプと共通余白のレスポンシブ対応
 
 
 ---
@@ -211,34 +194,7 @@ Lightning **G3 Pro Unit** でデザインプリセット機能が追加されま
 <!-- _paginate: false  -->
 
 ## 新しいパターンブロックの追加
-**VK Block Patterns**  1.6.0 にてカラム系ブロックパターンなどを多数追加しました。
-
-https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-6-0-add-patterns/
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## VK Blocks / Pro のアップデート情報
-
-1. [機能追加][スペーサー] 共通余白設定のサイズ指定機能追加
-2. [機能追加][スペーサー] 小中大の共通余白サイズ追加
-3. [機能改善] 文字サイズ変更のUIを改善しました https://www.vektor-inc.co.jp/product-update/vk-blocks-1-9-0/
-4. [機能改善] スライダーブロックのコントロール切り替え機能
-
----
-
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-
-## 制作実績へのリンク
-
-showcase.vektor-inc.co.jp に実績を登録している方は
-VWSの マイアカウント > アカウント詳細 で showcase.vektor-inc.co.jp の ID を登録するとフォーラム投稿・回答時に実績のリンクが表示されるようになりました。
-
-表示例：
-https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
+**VK Block Patterns**  ブロックパターンを多数追加しました。
 
 ---
 
@@ -247,7 +203,7 @@ https://vws.vektor-inc.co.jp/forums/topic/site-content-padding-all
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 **和をイメージした Lightning G3 対応デザインスキン**
-## 「VEKUAN」2021年7月リリース！
+## 「VEKUAN」本日リリース！
 
 デモサイト：
 https://demo.dev3.biz/vekuan/
@@ -284,18 +240,9 @@ https://training.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# メインセッション１
+# メインセッション
 
-ブロックパターンを使って効率よくサイト構築しよう
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# メインセッション２
-
-Lightningと和風デザイン拡張キットで旅館サイトを作ろう
+#024 WordPress5.8で使えるイケてるパターン活用例など
 
 ---
 <!-- _class: title-chapter  -->
@@ -314,7 +261,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/09/23(木) ※調整中　VWSオンライン勉強会 #026
+2021/08/26(木) ※調整中　VWSオンライン勉強会 #025
 
 内容が決まり次第ご案内します！
 
