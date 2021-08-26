@@ -187,8 +187,9 @@ https://twitter.com/kurudrive/status/1422983130248454145
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
-## レスポンシブスペーサーの機能余白タイプと共通余白のレスポンシブ対応
+## VK Blocks 1.14.0 でレスポンシブスペーサーの共通余白をデバイス毎にサイズ指定できるようになりました
 
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-14-0-responsive-spacer/
 
 ---
 <!-- _class: title-chapter  -->
