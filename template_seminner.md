@@ -143,8 +143,6 @@ https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 ※twitterに **#wpvektor** をつけて呟くとこちらにも反映されます。
 
 ---
-
-<!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
 ## Lightning G3 Pro Unit 0.8.0 でモバイルメニューとモバイル固定ナビをページ毎に非表示に出来るようになりました
@@ -156,7 +154,6 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-8-0-hidden/
 
 ---
 
-<!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
 ## VK Blocks1.12.0 でアイコンブロックが追加されました
@@ -165,7 +162,6 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks1-12-0-icon-block/
 
 ---
 
-<!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
 ## VK Blocks Pro アコーディオンブロックのHTMLの変更に関する予告
@@ -174,7 +170,7 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks1-12-0-icon-block/
 https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-accordion-class/
 
 ---
-<!-- _class: title-chapter  -->
+
 <!-- _paginate: false  -->
 
 ## ブロックからブロックパターンへ変換
@@ -184,7 +180,7 @@ WordPress 5.8 で実装された、ブロックに対してブロックパター
 https://twitter.com/kurudrive/status/1422983130248454145
 
 ---
-<!-- _class: title-chapter  -->
+
 <!-- _paginate: false  -->
 
 ## VK Blocks 1.14.0 でレスポンシブスペーサーの共通余白をデバイス毎にサイズ指定できるようになりました
@@ -196,7 +192,7 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-1-14-0-responsive-spacer/
 <!-- _paginate: false  -->
 
 ## 新しいパターンブロックの追加
-**VK Block Patterns**  ブロックパターンを多数追加しました。
+**VK Block Patterns**  ブロックパターンを少し追加しました。
 
 ---
 
