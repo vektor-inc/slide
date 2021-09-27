@@ -193,27 +193,26 @@ https://demo.dev3.biz/evergreen/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-**スタイリッシュな企業サイトに
- Lightning G3 対応デザインスキン**
+**高品質なビジネスサイトに Lightning G3 対応デザインスキン**
 ## 「Evergreen」リリース！
 
 デモサイト：
 https://demo.dev3.biz/evergreen/
-リリース情報：
+製品詳細：
+https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
 
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-和風デザイン「Lightning G3 Evergreen キット」
+ビジネスサイト向け「Lightning G3 Evergreen キット」
 販売価格 ¥9,900(税込)
-## 発売記念特価¥8,800(税込) 10月31日まで
-デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットです。
-別途 Lightning G3 Pro Unit プラグインと一緒に
-ご利用ください。
+## 発売記念特価¥8,800(税込) 10月31日まで 
+デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットです。別途 Lightning G3 Pro Unit
+ プラグインと一緒にご利用ください。
 
+https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
 
 ---
 <!-- _class: title-chapter  -->
