@@ -21,7 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #025
+# VWS オンライン勉強会 #026
+「Lightning カスタマイズのベストプラクティス」
 まもなくスタート！
 #wpvektor ツイート大歓迎！
 
@@ -113,12 +114,9 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ## 本日の内容
 
 * 新機能 / 新製品その他お知らせ（約30分）
-* 本編 第1部 (約30分)
-ブロックパターンを使って効率よくサイト構築しよう
-* 5分休憩 (21:10ごろ)　
-
-* 本編 第2部 (約30分)
-Lightningと和風デザイン拡張キットで旅館サイトを作ろう
+* 第1部:Lightningカスタマイズのベストプラクティス (約30分)
+* 5分休憩 (21:00ごろ)　
+* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約20分)
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
 
@@ -153,42 +151,6 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-8-0-hidden/
 （※「G3 Pro Unit」は、テーマLightningの機能を拡張する有料プラグインです。）
 
 ---
-
-<!-- _paginate: false  -->
-
-## VK Blocks1.12.0 でアイコンブロックが追加されました
-アイコンブロックは、FontAwesome のアイコンを単体で配置できる便利なブロックです。無料版 VK Blocks で利用できます。
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-12-0-icon-block/
-
----
-
-<!-- _paginate: false  -->
-
-## VK Blocks Pro アコーディオンブロックのHTMLの変更に関する予告
-2021年8月12日 ー　VK Blocks Pro 1.13.0 にて、アコーディオンブロックのHTML構造の変更を行う予定です。
-アコーディオンブロックのCSSを独自にカスタマイズしている方はご注意ください。
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-accordion-class/
-
----
-
-<!-- _paginate: false  -->
-
-## ブロックからブロックパターンへ変換
-WordPress 5.8 で実装された、ブロックに対してブロックパターンに変換してくれる機能に VK Block Patterns が対応しました。
-そしてブロックパターンのプラグインを作るプラグイン VK Block Pattern Plugin Generator も対応。
-
-https://twitter.com/kurudrive/status/1422983130248454145
-
----
-
-<!-- _paginate: false  -->
-
-## VK Blocks 1.14.0 でレスポンシブスペーサーの共通余白をデバイス毎にサイズ指定できるようになりました
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-14-0-responsive-spacer/
-
----
-<!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
 ## 新しいパターンブロックの追加
@@ -196,11 +158,9 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-1-14-0-responsive-spacer/
 
 ---
 
-<!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 無料で利用できるオンライン学習サービス「ベクトレ」
+## 無料で利用できるオンライン学習サービス「ベクトレ」新コース増加中！
 Vektor,Inc. のテーマ・プラグインの使い方・カスタマイズや、WordPressのサイト運営及びWeb制作全般の知識を無料で学べます！
 https://training.vektor-inc.co.jp/
 
@@ -211,7 +171,7 @@ https://training.vektor-inc.co.jp/
 
 # 第1部
 
-## ブロックパターンを使って効率よくサイト構築しよう
+## Lightning カスタマイズのベストプラクティス
 
 ---
 <!-- _class: title-chapter  -->
@@ -220,11 +180,12 @@ https://training.vektor-inc.co.jp/
 
 # 第2部
 
-## Lightningと和風デザイン拡張キットで旅館サイトを作ろう
+**Lightning G3 ProUnit専用**
+## 企業向け新拡張キットでつくるサイト構築
 
-VEKUAN デモサイト
-https://demo.dev3.biz/vekuan/
-ライブデモンストレーションで構築していきます！
+Evergreen（エバーグリーン） デモサイト
+https://demo.dev3.biz/evergreen/
+
 
 ---
 
@@ -232,13 +193,13 @@ https://demo.dev3.biz/vekuan/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-**和をイメージした Lightning G3 対応デザインスキン**
-## 「VEKUAN」2021年7月リリース！
+**スタイリッシュな企業サイトに
+ Lightning G3 対応デザインスキン**
+## 「Evergreen」リリース！
 
 デモサイト：
-https://demo.dev3.biz/vekuan/
+https://demo.dev3.biz/evergreen/
 リリース情報：
-https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 
 ---
 
@@ -246,10 +207,10 @@ https://www.vektor-inc.co.jp/info/vk-filter-search-pro-release/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-和風デザイン「Lightning G3 VEKUAN キット」
+和風デザイン「Lightning G3 Evergreen キット」
 販売価格 ¥9,900(税込)
-## 発売記念特価 ¥8,800(税込) 8月31日まで
-デザインスキンと専用ブロックパターン＋旅館サイト向けコンテンツデータが含まれたキットです。
+## 発売記念特価¥8,800(税込) 10月31日まで
+デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットです。
 別途 Lightning G3 Pro Unit プラグインと一緒に
 ご利用ください。
 
@@ -271,7 +232,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/09/24(金) ※調整中　VWSオンライン勉強会 #026
+2021/10/28(木) ※調整中　VWSオンライン勉強会 #027
 
 内容が決まり次第ご案内します！
 
@@ -284,9 +245,10 @@ Lightning を使用していて、
 
 # 参加後アンケートのお願い
 
-https://forms.gle/nNgmB9dAJEfT9PrC8
+https://forms.gle/ATLwRyQ8kdMMVMVYA
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
+- 「EVERGREEN」のご感想
 - 今後の勉強会でとりあげてほしいテーマ
 
 よろしければご意見をお聞かせください。
