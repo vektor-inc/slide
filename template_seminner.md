@@ -142,12 +142,30 @@ https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 ---
 <!-- _paginate: false  -->
 
-## Lightning G3 Pro Unit 0.8.0 でモバイルメニューとモバイル固定ナビをページ毎に非表示に出来るようになりました
+## ExUnit でスムーススクロール設定を追加しました
 
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-8-0-hidden/
+バージョン9.66.0.0
+https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-smooth-scrolling/
 
+---
+<!-- _paginate: false  -->
 
-（※「G3 Pro Unit」は、テーマLightningの機能を拡張する有料プラグインです。）
+## ExUnit でシェアボタンにクリップボードへのコピーボタンを追加しました
+バージョン9.66.0.0 
+https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-copybutton-add/
+
+---
+<!-- _paginate: false  -->
+
+## Lightning G3 Pro Unit モバイル時のロゴの位置指定機能追加
+バージョン 0.10.0 
+
+---
+<!-- _paginate: false  -->
+
+## Lightning 14.11.0 から カラーパレットに任意の色を追加できるようになりました
+
+https://www.vektor-inc.co.jp/product-update/lightning-14-11-0-color-palette/
 
 ---
 <!-- _paginate: false  -->
