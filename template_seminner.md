@@ -113,13 +113,12 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約30分）
-* 第1部:Lightningカスタマイズのベストプラクティス (約30分)
-* 5分休憩 (21:00ごろ)　
-* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約20分)
+* 新機能 / 新製品その他お知らせ（約15分）
+* 第1部:Lightningカスタマイズのベストプラクティス (約45分)
+* 5分休憩 (21:10ごろ)　
+* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約25分)
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
-
 
 ---
 
@@ -143,12 +142,30 @@ https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
 ---
 <!-- _paginate: false  -->
 
-## Lightning G3 Pro Unit 0.8.0 でモバイルメニューとモバイル固定ナビをページ毎に非表示に出来るようになりました
+## ExUnit でスムーススクロール設定を追加しました
 
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-8-0-hidden/
+バージョン9.66.0.0
+https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-smooth-scrolling/
 
+---
+<!-- _paginate: false  -->
 
-（※「G3 Pro Unit」は、テーマLightningの機能を拡張する有料プラグインです。）
+## ExUnit でシェアボタンにクリップボードへのコピーボタンを追加しました
+バージョン9.66.0.0 
+https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-copybutton-add/
+
+---
+<!-- _paginate: false  -->
+
+## Lightning G3 Pro Unit モバイル時のロゴの位置指定機能追加
+バージョン 0.10.0 
+
+---
+<!-- _paginate: false  -->
+
+## Lightning 14.11.0 から カラーパレットに任意の色を追加できるようになりました
+
+https://www.vektor-inc.co.jp/product-update/lightning-14-11-0-color-palette/
 
 ---
 <!-- _paginate: false  -->
@@ -178,42 +195,38 @@ https://training.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
+# 第2部 21:10~
+
+**Lightning G3 ProUnit専用**
+## 企業向け新拡張キットでつくるサイト構築
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+**高品質なビジネスサイトに Lightning G3 対応デザインスキン**
+## 「Evergreen」リリース！
+
+デモサイト：
+https://demo.dev3.biz/evergreen/
+
+リリースのお知らせ：
+https://www.vektor-inc.co.jp/info/lightning-g3-evergreen-release-campaign/
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
 # 第2部
 
 **Lightning G3 ProUnit専用**
 ## 企業向け新拡張キットでつくるサイト構築
 
-Evergreen（エバーグリーン） デモサイト
-https://demo.dev3.biz/evergreen/
-
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-**スタイリッシュな企業サイトに
- Lightning G3 対応デザインスキン**
-## 「Evergreen」リリース！
-
-デモサイト：
-https://demo.dev3.biz/evergreen/
-リリース情報：
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-和風デザイン「Lightning G3 Evergreen キット」
-販売価格 ¥9,900(税込)
-## 発売記念特価¥8,800(税込) 10月31日まで
-デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットです。
-別途 Lightning G3 Pro Unit プラグインと一緒に
-ご利用ください。
-
+久納さんよろしくおねがいします！
 
 ---
 <!-- _class: title-chapter  -->
@@ -248,7 +261,7 @@ Lightning を使用していて、
 https://forms.gle/ATLwRyQ8kdMMVMVYA
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
-- 「EVERGREEN」のご感想
+- 「Evergreen」のご感想
 - 今後の勉強会でとりあげてほしいテーマ
 
 よろしければご意見をお聞かせください。
