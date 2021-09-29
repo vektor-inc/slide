@@ -195,14 +195,10 @@ https://training.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 第2部
+# 第2部 21:10~
 
 **Lightning G3 ProUnit専用**
 ## 企業向け新拡張キットでつくるサイト構築
-
-Evergreen（エバーグリーン） デモサイト
-https://demo.dev3.biz/evergreen/
-
 
 ---
 
@@ -216,17 +212,21 @@ https://demo.dev3.biz/evergreen/
 デモサイト：
 https://demo.dev3.biz/evergreen/
 
+リリースのお知らせ：
+https://www.vektor-inc.co.jp/info/lightning-g3-evergreen-release-campaign/
+
 ---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-ビジネスサイト向け「Lightning G3 Evergreen キット」
-販売予定価格 ¥9,900(税込)のところ
-## G3 Pro Unit ユーザー様に無料配布！
-デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットを配布いたします。まだの方はこの機会にぜひ G3 Pro Unit の導入をご検討ください！
 
-https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
+# 第2部
+
+**Lightning G3 ProUnit専用**
+## 企業向け新拡張キットでつくるサイト構築
+
+久納さんよろしくおねがいします！
 
 ---
 <!-- _class: title-chapter  -->
