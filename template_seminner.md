@@ -113,13 +113,12 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約30分）
-* 第1部:Lightningカスタマイズのベストプラクティス (約30分)
-* 5分休憩 (21:00ごろ)　
-* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約20分)
+* 新機能 / 新製品その他お知らせ（約15分）
+* 第1部:Lightningカスタマイズのベストプラクティス (約45分)
+* 5分休憩 (21:10ごろ)　
+* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約25分)
 * Q&A、質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
-
 
 ---
 
@@ -198,8 +197,6 @@ https://demo.dev3.biz/evergreen/
 
 デモサイト：
 https://demo.dev3.biz/evergreen/
-製品詳細：
-https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
 
 ---
 
@@ -207,10 +204,9 @@ https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 ビジネスサイト向け「Lightning G3 Evergreen キット」
-販売価格 ¥9,900(税込)
-## 発売記念特価¥8,800(税込) 10月31日まで 
-デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットです。別途 Lightning G3 Pro Unit
- プラグインと一緒にご利用ください。
+販売予定価格 ¥9,900(税込)のところ
+## G3 Pro Unit ユーザー様に無料配布！
+デザインスキンと専用ブロックパターン＋コンテンツデータが含まれたキットを配布いたします。まだの方はこの機会にぜひ G3 Pro Unit の導入をご検討ください！
 
 https://vws.vektor-inc.co.jp/product/lightning-g3-evergreen-kit
 
@@ -247,7 +243,7 @@ Lightning を使用していて、
 https://forms.gle/ATLwRyQ8kdMMVMVYA
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
-- 「EVERGREEN」のご感想
+- 「Evergreen」のご感想
 - 今後の勉強会でとりあげてほしいテーマ
 
 よろしければご意見をお聞かせください。
