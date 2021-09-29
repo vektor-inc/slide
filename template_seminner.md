@@ -173,6 +173,18 @@ https://www.vektor-inc.co.jp/product-update/lightning-14-11-0-color-palette/
 ## 新しいパターンブロックの追加
 **VK Block Patterns**  ブロックパターンを少し追加しました。
 
+* サービスの流れ（先月話した？）
+* PR カラム ボタンあり（ボタンが下端につくように）
+* ソーシャルアイコンとプロフィール
+* セクション_CTA（調整のみ）
+
+---
+<!-- _paginate: false  -->
+
+## 新しいブロックの追加
+横並びアイコンブロック を追加しました。
+
+
 ---
 
 <!-- _paginate: false  -->
