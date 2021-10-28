@@ -134,44 +134,16 @@ https://commentscreen.com/comments?id=fs5ZVWWgksCoFWRUIHkD
 ---
 <!-- _paginate: false  -->
 
-## ExUnit でスムーススクロール設定を追加しました
-
-バージョン9.66.0.0
-https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-smooth-scrolling/
-
----
-<!-- _paginate: false  -->
-
-## ExUnit でシェアボタンにクリップボードへのコピーボタンを追加しました
-バージョン9.66.0.0 
-https://www.vektor-inc.co.jp/product-update/exunit-9-66-0-0-copybutton-add/
+## Lightning G3 Pro Unit でページ毎にヘッダートップのキャッチフレーズの書き換えができるようになりました
+バージョン0.12.0
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-12-0-header-top-catch-phrase/
 
 ---
 <!-- _paginate: false  -->
 
-## Lightning G3 Pro Unit モバイル時のロゴの位置指定機能追加
-バージョン 0.10.0 
-
----
-<!-- _paginate: false  -->
-
-## Lightning 14.11.0 から カラーパレットに任意の色を追加できるようになりました
-
-https://www.vektor-inc.co.jp/product-update/lightning-14-11-0-color-palette/
-
----
-<!-- _paginate: false  -->
-
-## 新しいパターンブロックの追加
-**VK Block Patterns**  ブロックパターンを少し追加しました。
-
----
-
-<!-- _paginate: false  -->
-
-## 無料で利用できるオンライン学習サービス「ベクトレ」新コース増加中！
-Vektor,Inc. のテーマ・プラグインの使い方・カスタマイズや、WordPressのサイト運営及びWeb制作全般の知識を無料で学べます！
-https://training.vektor-inc.co.jp/
+## ExUnit でhtmlのtitleタグの内容を書き換える機能を追加しました
+バージョン9.68.0.0 
+https://www.vektor-inc.co.jp/product-update/exunit-9-68-0-0-head-title-tag/
 
 ---
 <!-- _class: title-chapter  -->
