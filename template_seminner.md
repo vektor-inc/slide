@@ -173,7 +173,14 @@ https://training.vektor-inc.co.jp/courses/wordpress-customize/lessons/add-origin
 
 ## Webデザインは色が決め手?!<br>キーカラーから考える配色のキホン
 
-mimiさんよろしくおねがいします！
+mimiさんご準備よろしくおねがいします！
+
+---
+<!-- _paginate: false  -->
+
+## セッションの内容は後から振り返りできます
+
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
 
 ---
 <!-- _class: title-chapter  -->
