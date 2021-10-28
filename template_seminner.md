@@ -46,7 +46,7 @@ section{
 
 また、ベクトル製品のWordPressテーマ Lightning などの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
-基本的に、毎月1回、だいたい第4木曜日の開催です。
+基本的に、毎月1回、だいたい第4週目に開催しております。
 
 ---
 ![bg](images/Team-Vektor-202104.png)
@@ -144,6 +144,25 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-12-0-header-
 ## ExUnit でhtmlのtitleタグの内容を書き換える機能を追加しました
 バージョン9.68.0.0 
 https://www.vektor-inc.co.jp/product-update/exunit-9-68-0-0-head-title-tag/
+
+---
+<!-- _paginate: false  -->
+
+## ボタンの Outer ブロックを追加
+
+---
+<!-- _paginate: false  -->
+
+## 【重要】VK Filter Search Pro で ラジオボタン / チェックボックス のカラム指定機能追加に対する事前確認のお願い
+バージョン1.4.0  
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-4-0/
+
+---
+<!-- _paginate: false  -->
+
+## ベクトレ「独自のCSSファイルを追加する」
+追加されました！ 
+https://training.vektor-inc.co.jp/courses/wordpress-customize/lessons/add-original-css/
 
 ---
 <!-- _class: title-chapter  -->
