@@ -21,8 +21,9 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #026
-「Lightning カスタマイズのベストプラクティス」
+# VWS オンライン勉強会 #027
+「Webデザインは色が決め手!?
+ 　 キーカラーから考える配色のキホン」
 まもなくスタート！
 #wpvektor ツイート大歓迎！
 
@@ -102,22 +103,13 @@ https://vektor-vws.slack.com
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## だれでもお気軽に 質問・回答 記入シート
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
-
----
-
 ## 本日の内容
 
 * 新機能 / 新製品その他お知らせ（約15分）
-* 第1部:Lightningカスタマイズのベストプラクティス (約45分)
-* 5分休憩 (21:10ごろ)　
-* 第2部:Lightning G3 ProUnit専用 企業向け新拡張キットでつくるサイト構築 (約25分)
-* Q&A、質問相談会（〜22:00まで）
+* 第1部:キーカラーから考える配色のキホン(約40分)
+* みなさんどうしてる？リアルタイムアンケート(10分)
+* 第2部:無料配布中！ビジネスサイト拡張キットでのカラーパターンの展開をイロイロ見てみよう (約30分)
+* 質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
 
 ---
@@ -135,7 +127,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=ToGdajZC9bLFLNFhted0
+https://commentscreen.com/comments?id=fs5ZVWWgksCoFWRUIHkD
 
 ※twitterに **#wpvektor** をつけて呟くとこちらにも反映されます。
 
@@ -188,20 +180,11 @@ https://training.vektor-inc.co.jp/
 
 # 第1部
 
-## Lightning カスタマイズのベストプラクティス
+## Webデザインは色が決め手?!<br>キーカラーから考える配色のキホン
+
+mimiさんよろしくおねがいします！
 
 ---
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 第2部 21:10~
-
-**Lightning G3 ProUnit専用**
-## 企業向け新拡張キットでつくるサイト構築
-
----
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
@@ -212,23 +195,22 @@ https://training.vektor-inc.co.jp/
 デモサイト：
 https://demo.dev3.biz/evergreen/
 
-リリースのお知らせ：
-https://www.vektor-inc.co.jp/info/lightning-g3-evergreen-release-campaign/
+無料配布キャンペーンのお知らせ：
+https://demo.dev3.biz/evergreen/release-campaign/
 
 ---
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 第2部
+# 第2部 21:15~
 
 **Lightning G3 ProUnit専用**
-## 企業向け新拡張キットでつくるサイト構築
-
-久納さんよろしくおねがいします！
+## 無料配布中！ビジネスサイト拡張キットでのカラーパターンの展開を<br>イロイロ見てみよう
+ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
+
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
@@ -245,7 +227,7 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/10/28(木) ※調整中　VWSオンライン勉強会 #027
+2021/11/26(金) ※調整中　VWSオンライン勉強会 #028
 
 内容が決まり次第ご案内します！
 
@@ -258,10 +240,9 @@ Lightning を使用していて、
 
 # 参加後アンケートのお願い
 
-https://forms.gle/ATLwRyQ8kdMMVMVYA
+https://forms.gle/VjHhHWEUtY1XYiPUA
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
-- 「Evergreen」のご感想
 - 今後の勉強会でとりあげてほしいテーマ
 
 よろしければご意見をお聞かせください。
