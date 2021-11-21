@@ -56,6 +56,7 @@ https://marpit.marp.app/theme-css
 scssで編集する場合は以下でgulpが走ります。
 
 ```
+cd themes/vk-slide
 npm install
 gulp
 ````
