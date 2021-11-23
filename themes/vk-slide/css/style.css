@@ -1257,7 +1257,7 @@ section {
     margin-right: 0.4em; }
   section pre,
   section code {
-    font-size: 2rem; }
+    font-size: 1rem; }
   section table th,
   section table td {
     padding-left: 1em;
@@ -1271,6 +1271,8 @@ section {
     font-size: 30px; }
   section.index {
     background-color: #e5e5e5; }
+  section .text-danger {
+    color: #c00; }
 
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;
