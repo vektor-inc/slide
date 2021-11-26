@@ -40,11 +40,11 @@ __Lightningで押さえたいSEO関連設定/アフィリエイト入門__
 
 ## この勉強会について
 
-株式会社ベクトルが運営、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催しているオンライン勉強会です。
+株式会社ベクトルが運営、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催しているオンライン勉強会。
 
 ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
-また、ベクトル製品のWordPressテーマ Lightning などの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
+また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
 基本的に、毎月1回、だいたい第4週目に開催しております。
 
@@ -52,7 +52,6 @@ __Lightningで押さえたいSEO関連設定/アフィリエイト入門__
 ![bg](images/Team-Vektor-202104.png)
 
 ---
-
 
 ## 歓迎されること
 
@@ -105,12 +104,20 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 新機能 / 新製品その他お知らせ（約15分）
-* 第1部:キーカラーから考える配色のキホン(約40分)
-* みなさんどうしてる？リアルタイムアンケート(10分)
-* 第2部:無料配布中！ビジネスサイト拡張キットでのカラーパターンの展開をイロイロ見てみよう (約30分)
+* 製品アップデート・その他お知らせ（約15分）
+* 第1部:Lightningで押さえたいSEO関連設定 (約35分)
+* 第2部:検索に効くブログの書き方のキホン＆VWSアフィリエイトをやってみよう！ (約40分)
 * 質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
+
+---
+
+## ハッシュタグは #wpvektor
+
+## コメントスクリーンはこちらから 
+
+https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
+コメント、リアクションをぜひお願いします！
 
 ---
 
@@ -123,15 +130,6 @@ https://vektor-vws.slack.com
 
 ---
 
-## ハッシュタグは #wpvektor
-
-## コメントスクリーンはこちらから 
-
-https://commentscreen.com/comments?id=fs5ZVWWgksCoFWRUIHkD
-
-※twitterに **#wpvektor** をつけて呟くとこちらにも反映されます。
-
----
 
 ## Lightning G3 Pro Unit でアーカイブページにページヘッダーのサブテキストを設定できるようになりました
 バージョン0.13.0
@@ -163,7 +161,11 @@ https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
 
 ## Lightning G3 以外でもカスタムカラーが使えるようになりました
 
+---
 
+## アドベントカレンダーのお知らせ
+
+Sasakiさんへバトンタッチ！
 
 ---
 <!-- _class: title-chapter  -->
@@ -172,9 +174,8 @@ https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
 
 # 第1部
 
-## Webデザインは色が決め手?!<br>キーカラーから考える配色のキホン
+## Lightningで押さえたいSEO関連設定
 
-mimiさんご準備よろしくおねがいします！
 
 ---
 <!-- _paginate: false  -->
@@ -188,24 +189,10 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-**高品質なビジネスサイトに Lightning G3 対応デザインスキン**
-## 「Evergreen」リリース！
+# 第2部
 
-デモサイト：
-https://demo.dev3.biz/evergreen/
-
-無料配布キャンペーンのお知らせ：
-https://demo.dev3.biz/evergreen/release-campaign/
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 第2部 21:15~
-
-**Lightning G3 ProUnit専用**
-## 無料配布中！ビジネスサイト拡張キットでのカラーパターンの展開を<br>イロイロ見てみよう
+**株式会社ベクトル的**
+## 検索に効くブログの書き方のキホン ＆ <br>VWSアフィリエイトをやってみよう！
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
@@ -226,9 +213,10 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/11/26(金) ※調整中　VWSオンライン勉強会 #028
-
-内容が決まり次第ご案内します！
+2021/12/21(火) 　VWSオンライン勉強会 #029
+VWSオンライン勉強会 #029 Lightning質問大会&年末プレゼント企画他（仮）
+https://vektor.connpass.com/event/231919/
+connpassご参加登録受付中！
 
 ---
 
@@ -239,7 +227,7 @@ Lightning を使用していて、
 
 # 参加後アンケートのお願い
 
-https://forms.gle/VjHhHWEUtY1XYiPUA
+https://forms.gle/VEzkrxj1V1oksNLh6
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
