@@ -132,13 +132,36 @@ https://commentscreen.com/comments?id=fs5ZVWWgksCoFWRUIHkD
 ※twitterに **#wpvektor** をつけて呟くとこちらにも反映されます。
 
 ---
-<!-- _paginate: false  -->
 
-## Lightning G3 Pro Unit でページ毎にヘッダートップのキャッチフレーズの書き換えができるようになりました
-バージョン0.12.0
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-12-0-header-top-catch-phrase/
+## Lightning G3 Pro Unit でアーカイブページにページヘッダーのサブテキストを設定できるようになりました
+バージョン0.13.0
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-archive-pageheader-subtext/
 
 ---
+
+## Lightning G3 Pro Unit でフッターナビゲーションの位置を指定できるようになりました
+
+バージョン0.13.0
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-footer-navi-position/
+
+---
+
+## Lightning Video Unit で Video Unit ブロックが使えるようになりました
+バージョン 1.0.0.0
+
+https://www.vektor-inc.co.jp/product-update/video-unit-block-release/
+
+---
+
+## 404ページの内容を簡単に書き換えられるようになりました。
+Lightning 14.13.0 〜
+Lightning G3 Pro Unit 0.14.0 〜
+ExUnit 9.69.0.0 〜
+https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
+
+---
+
+## Lightning G3 以外でもカスタムカラーが使えるようになりました
 
 
 
