@@ -214,7 +214,7 @@ Lightning を使用していて、
 
 ## 次回の勉強会
 2021/12/21(火) 　VWSオンライン勉強会 #029
-VWSオンライン勉強会 #029 Lightning質問大会&年末プレゼント企画他（仮）
+Lightning質問大会&年末プレゼント企画他（仮）
 https://vektor.connpass.com/event/231919/
 connpassご参加登録受付中！
 
