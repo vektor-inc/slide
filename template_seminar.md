@@ -161,7 +161,11 @@ https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
 
 ## Lightning G3 以外でもカスタムカラーが使えるようになりました
 
+---
 
+## アドベントカレンダーのお知らせ
+
+Sasakiさんへバトンタッチ！
 
 ---
 <!-- _class: title-chapter  -->
