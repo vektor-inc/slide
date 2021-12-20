@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #028
-__Lightningで押さえたいSEO関連設定/アフィリエイト入門__
+# VWS オンライン勉強会 #029
+__Lightning質問大会 & 年末プレゼント企画他__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -104,11 +104,29 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 製品アップデート・その他お知らせ（約15分）
-* 第1部:Lightningで押さえたいSEO関連設定 (約35分)
-* 第2部:検索に効くブログの書き方のキホン＆VWSアフィリエイトをやってみよう！ (約40分)
-* 質問相談会（〜22:00まで）
+* 製品アップデート・その他お知らせ（約20分）
+* 今年の出来事・アドベントカレンダー振り返り (約40分)
+* Lightningユーザー質問相談会 (約15分)
+* Vektor 2021 クリスマスクイズ大会！（〜22:00まで）
 * 22:00より希望者のみ懇親会
+
+---
+<!-- _paginate: false  -->
+
+## セッションの内容は後から振り返りできます
+
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+
+★本日は製品アップデート情報と2021年振り返りの内容を、後日YouTubeに公開予定です
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
 
@@ -116,7 +134,8 @@ https://vektor-vws.slack.com
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
+https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
+
 コメント、リアクションをぜひお願いします！
 
 ---
@@ -127,73 +146,38 @@ https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
 
 ## 今月の新機能 / 新製品その他お知らせ
 
-
 ---
 
 
-## Lightning G3 Pro Unit でアーカイブページにページヘッダーのサブテキストを設定できるようになりました
-バージョン0.13.0
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-archive-pageheader-subtext/
+## VK Filter Search に Post Date Search が加わりました！
 
 ---
 
-## Lightning G3 Pro Unit でフッターナビゲーションの位置を指定できるようになりました
-
-バージョン0.13.0
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-footer-navi-position/
-
----
-
-## Lightning Video Unit で Video Unit ブロックが使えるようになりました
-バージョン 1.0.0.0
-
-https://www.vektor-inc.co.jp/product-update/video-unit-block-release/
-
----
-
-## 404ページの内容を簡単に書き換えられるようになりました。
-Lightning 14.13.0 〜
-Lightning G3 Pro Unit 0.14.0 〜
-ExUnit 9.69.0.0 〜
-https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
-
----
-
-## Lightning G3 以外でもカスタムカラーが使えるようになりました
-
----
-
-## アドベントカレンダーのお知らせ
-
-Sasakiさんへバトンタッチ！
+## カラムカードブロックβ版テストのお願い
+VK Blocks Pro をご利用中の方へ
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 第1部
+# 2021年も後わずか！
 
-## Lightningで押さえたいSEO関連設定
-
-
----
-<!-- _paginate: false  -->
-
-## セッションの内容は後から振り返りできます
-
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+## 今年の出来事・アドベントカレンダー<br>振り返り
 
 ---
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+## アドベントカレンダーへのご参加ありがとうございます！！
+Vektor WordPress Solutions Advent Calendar 2021
 
-# 第2部
+https://adventar.org/calendars/6452
 
-**株式会社ベクトル的**
-## 検索に効くブログの書き方のキホン ＆ <br>VWSアフィリエイトをやってみよう！
-ご感想など **#wpvektor** ツイート大歓迎！
+嬉しい！嬉しい！嬉しい！
+
+---
+## Vektor,Inc. 2021年振り返り<br>– テーマ＆プラグイン新規リリース編 –
+
+https://www.vektor-inc.co.jp/post/vektorinc-2021-new-theme-plugins/
+by ベクトル石川
 
 ---
 
@@ -201,11 +185,25 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## Lightning 意見交換会
+## Lightning ユーザー質問相談会
 Lightning を使用していて、
-・こういうところが使い勝手が良くて好き
-・こういうところがもっと改善してほしい
-などのご意見をお聞かせください。
+・素朴な疑問
+・みんなどうしてる？
+などの質問をみんなでシェア。
+
+音声参加でのご質問も大歓迎です。
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# Go Go Vektor 2021！
+
+## ベクトル X’mas クイズ大会！
+
+- 
+
 
 ---
 <!-- _class: title-chapter  -->
