@@ -297,6 +297,9 @@ https://gather.town/app/T9oN0wATyQOJlcQl/vws-202112
 名前に●がある人は「ゆるっと聞くだけ参加」
 
 ---
+![bg](images/GatherXmas.png)
+
+---
 <!-- _class: title -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
