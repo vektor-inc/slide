@@ -218,12 +218,10 @@ Lightning を使用していて、
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# Go Go Vektor 2021！
-
-## ベクトル X’mas クイズ大会！
+## Go Go Vektor 2021！<br>ベクトル X’mas クイズ大会！
 
 ご参加には、下記２点の情報を先にご登録お願いします！
-* クイズ参加時の表示名
+* クイズ参加時の表示名(ニックネーム可、ユニークなもの)
 * 賞品受け取り用、ご連絡先メールアドレス
 
 ご参加登録フォーム：
