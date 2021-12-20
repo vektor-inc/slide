@@ -264,6 +264,14 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 実績掲載・受注の流れ
 https://showcase.vektor-inc.co.jp/flow
 
+---
+
+<!-- _class: title-chapter -->
+
+## 無料で利用できるオンライン学習サービス「ベクトレ」
+Vektor,Inc. のテーマ・プラグインの使い方・カスタマイズや、WordPressの知識を無料で学べます！
+https://training.vektor-inc.co.jp/
+
 
 ---
 
