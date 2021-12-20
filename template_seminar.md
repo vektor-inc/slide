@@ -167,11 +167,12 @@ VK Blocks Pro をご利用中の方へ
 
 ---
 ## アドベントカレンダーへのご参加ありがとうございます！！
-Vektor WordPress Solutions Advent Calendar 2021
+
+**Vektor WordPress Solutions Advent Calendar 2021**
 
 https://adventar.org/calendars/6452
 
-嬉しい！嬉しい！嬉しい！
+いろんな記事が続々！ぜひご覧ください！
 
 ---
 ## Vektor,Inc. 2021年振り返り<br>– テーマ＆プラグイン新規リリース編 –
@@ -191,7 +192,7 @@ Lightning を使用していて、
 ・みんなどうしてる？
 などの質問をみんなでシェア。
 
-音声参加でのご質問も大歓迎です。
+音声参加でのご質問も大歓迎です!
 
 ---
 <!-- _class: title-chapter  -->
@@ -202,8 +203,6 @@ Lightning を使用していて、
 
 ## ベクトル X’mas クイズ大会！
 
-- 
-
 
 ---
 <!-- _class: title-chapter  -->
@@ -211,9 +210,9 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/12/21(火) 　VWSオンライン勉強会 #029
-Lightning質問大会&年末プレゼント企画他（仮）
-https://vektor.connpass.com/event/231919/
+2021/1/21(金) VWSオンライン勉強会 #030
+WordPress最新バージョン5.9を見てみよう（仮）
+https://vektor.connpass.com/event/234383/
 connpassご参加登録受付中！
 
 ---
@@ -225,7 +224,7 @@ connpassご参加登録受付中！
 
 # 参加後アンケートのお願い
 
-https://forms.gle/VEzkrxj1V1oksNLh6
+https://forms.gle/Xp7TAZ21pVfCVQa17
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
@@ -253,6 +252,17 @@ https://showcase.vektor-inc.co.jp/flow
 
 # その他の連絡事項、告知など
 
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# Gather クリスマス仕様の懇親会場
+https://gather.town/app/T9oN0wATyQOJlcQl/vws-202112
+カメラはオフのままでもOK！ウロウロして楽しんでください！
+名前に★がある人は「気軽に話しかけてね」
+名前に●がある人は「ゆるっと聞くだけ参加」
 
 ---
 <!-- _class: title -->
