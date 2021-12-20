@@ -67,7 +67,7 @@ __Lightning質問大会 & 年末プレゼント企画他__
 
 ---
 
-## ご参加にあたって
+## ご参加にあたって （続き）
 
 * 随時途中で音声でのご質問もOKです。
 * 発言時以外はミュートにしてください。
@@ -161,11 +161,19 @@ VK Blocks Pro をご利用中の方へ
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 2021年も後わずか！
+# 2021年もあと10日！
 
-## 今年の出来事・アドベントカレンダー<br>振り返り
+## VWS今年の出来事・アドベントカレンダー<br>振り返り
 
 ---
+
+## Vektor,Inc. 2021年振り返り<br>– テーマ＆プラグイン新規リリース編 –
+
+https://www.vektor-inc.co.jp/post/vektorinc-2021-new-theme-plugins/
+by ベクトル石川
+
+---
+
 ## アドベントカレンダーへのご参加ありがとうございます！！
 
 **Vektor WordPress Solutions Advent Calendar 2021**
@@ -175,12 +183,23 @@ https://adventar.org/calendars/6452
 いろんな記事が続々！ぜひご覧ください！
 
 ---
-## Vektor,Inc. 2021年振り返り<br>– テーマ＆プラグイン新規リリース編 –
 
-https://www.vektor-inc.co.jp/post/vektorinc-2021-new-theme-plugins/
-by ベクトル石川
+## ご参加くださった皆さんに感謝！
+
+アドベントカレンダーにご参加くださいました皆さん、ありがとうございました！
+
+記事を書き上げて下さった方に、ささやかではございますが、プレゼントをお届けしたいと思っております。ぜひ受け取ってくださいませ！
 
 ---
+
+## 来年のアドベントカレンダーのお誘い💖
+
+こんな感じでご参加いただける方はぜひ来年、
+2022年のアドベントカレンダーの時期にご参加いただけると
+嬉しいです！
+
+---
+
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
@@ -202,6 +221,8 @@ Lightning を使用していて、
 # Go Go Vektor 2021！
 
 ## ベクトル X’mas クイズ大会！
+
+別のスライドへ：
 
 
 ---
@@ -258,9 +279,12 @@ https://showcase.vektor-inc.co.jp/flow
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# Gather クリスマス仕様の懇親会場
+# Gatherで懇親会
+
+クリスマス仕様の懇親会場
 https://gather.town/app/T9oN0wATyQOJlcQl/vws-202112
 カメラはオフのままでもOK！ウロウロして楽しんでください！
+
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
 
