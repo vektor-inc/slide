@@ -153,7 +153,7 @@ https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
 
 ---
 
-## カラムカードブロックβ版テストのお願い
+## グリッドカラムカードブロックβ版テストのお願い
 VK Blocks Pro をご利用中の方へ
 
 ---
@@ -229,19 +229,9 @@ Lightning を使用していて、
 
 ご参加登録フォーム：https://forms.gle/X8TQG3WUn1Dovztu5
 
-
 ---
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+![bg](images/Xmas-Slido.png)
 
-## sli.doにアクセスして４択クイズ！
-https://app.sli.do/event/byxavkBPqoyYsR6r4fbwt4/live/questions
-* スマホからでも、PCからでもアクセス可能。
-* 全部で10問あります。回答は４択から選ぶだけ！
-* 最後の集計結果で、正解数の多さ、回答スピードの早い順で
-ランキングが発表されます。
-* 上位１〜５位の方は景品を選んでいただけます！
 
 ---
 <!-- _class: title-chapter  -->
