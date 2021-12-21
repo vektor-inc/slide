@@ -149,12 +149,12 @@ https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
 ---
 
 
-## VK Filter Search に Post Date Search が加わりました！
+## VK Filter Search Pro 投稿日付検索 が加わりました！
 
 ---
 
 ## グリッドカラムカードブロックβ版テストのお願い
-VK Blocks Pro をご利用中の方へ
+ Ligntning G3 Pro Unit をご利用中の方へ
 
 ---
 <!-- _class: title-chapter  -->
@@ -239,11 +239,14 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 賞品を選んでください
+https://suzuri.jp/vektor
+
 **A賞** ベクトルグッズ（お好みのアイテム１点）
-**B賞** ベクトルグッズ（3,000円以下１点）
+**B賞** ベクトルグッズ（税込3,500円以下１点）
+
 **C賞** ベクトルポイント 4000
 **D賞** ベクトルポイント 2000
-**E賞** プライベートサポート1回（※コード10行程度で対応できるカスタマイズ範囲）
+**E賞** ベクトルポイント 1000
 
 ---
 <!-- _class: title-chapter  -->
@@ -271,6 +274,21 @@ https://forms.gle/Xp7TAZ21pVfCVQa17
 - 今後の勉強会でとりあげてほしいテーマ
 
 よろしければご意見をお聞かせください。
+
+---
+
+<!-- _class: title-chapter -->
+
+
+## ☆VWSフォーラムに回答いただくと！
+ベストアンサーには300ポイントが付与されます！✨
+付与されたポイントは、VWSサイト内でテーマ・プラグインをご購入の際に「1ポイント=1円」として利用できます。
+
+## ★ 質問して解決した方へ
+解決した場合は解決した返信に「ベストアンサー」をつけてください✅
+
+
+
 
 ---
 <!-- _class: title-chapter -->
