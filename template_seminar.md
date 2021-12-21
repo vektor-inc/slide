@@ -214,11 +214,14 @@ Lightning を使用していて、
 音声参加でのご質問も大歓迎です!
 
 ---
+![bg](images/Xmas-Vektor-PREZENT.png)
+
+---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## Go Go Vektor 2021！<br>ベクトル X’mas クイズ大会！
+## ベクトル X’mas クイズ大会2021！！
 
 ご参加には、下記２点の情報を先にご登録お願いします！
 * クイズ参加時の表示名(ニックネーム可、ユニークなもの)
@@ -227,6 +230,30 @@ Lightning を使用していて、
 ご参加登録フォーム：https://forms.gle/X8TQG3WUn1Dovztu5
 
 
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## sli.doにアクセスして４択クイズ！
+https://app.sli.do/event/byxavkBPqoyYsR6r4fbwt4/live/questions
+* スマホからでも、PCからでもアクセス可能。
+* 全部で10問あります。回答は４択から選ぶだけ！
+* 最後の集計結果で、正解数の多さ、回答スピードの早い順で
+ランキングが発表されます。
+* 上位１〜５位の方は景品を選んでいただけます！
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 賞品を選んでください
+**A賞** ベクトルグッズ（お好みのアイテム１点）
+**B賞** ベクトルグッズ（3,000円以下１点）
+**C賞** ベクトルポイント 4000
+**D賞** ベクトルポイント 2000
+**E賞** プライベートサポート1回（※コード10行程度で対応できるカスタマイズ範囲）
 
 ---
 <!-- _class: title-chapter  -->
