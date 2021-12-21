@@ -189,16 +189,16 @@ https://adventar.org/calendars/6452
 
 いろんな記事が続々！ぜひご覧ください！
 
+* 12/3 [「Katawara」購入予定日](https://www.vektor-inc.co.jp/service/wordpress-theme/katawara/) by 五十嵐暢之さま
+* 12/4 [Lightning G3 Pro Unit 限定のニッチなプラグインを作ってみた](https://lightning-g3.hp1.work/niche-plugin-for-lightning-g3-pro-unit/) by 対馬俊彦さま
+
+
 ---
-12/3 [「Katawara」購入予定日](https://www.vektor-inc.co.jp/service/wordpress-theme/katawara/) by 五十嵐暢之さま
-
-12/4 [Lightning G3 Pro Unit 限定のニッチなプラグインを作ってみた](https://lightning-g3.hp1.work/niche-plugin-for-lightning-g3-pro-unit/) by 対馬俊彦さま
-
-12/9 [フリーランスの請求書 – BillVektorをカスタマイズして使ってみよう！](https://taizo.junonet.biz/billvektor/) by ふじたたいぞうさま
-
-12/13 [LIGHTNING テーマを使ってみて感じた「凄い！」と思ったポイント](https://private.hibou-web.com/archives/8830/) by @marushu さま
-
-
+* 12/9 [フリーランスの請求書 – BillVektorをカスタマイズして使ってみよう！](https://taizo.junonet.biz/billvektor/) by ふじたたいぞうさま
+* 12/13 [LIGHTNING テーマを使ってみて感じた「凄い！」と思ったポイント](https://private.hibou-web.com/archives/8830/) by @marushu さま
+* 12/17 [Katawaraテーマを使い続けてみて](https://netamame.com/katawara-theme/) by いずみや様
+* 12/20 [エンドユーザー3人に訊いた、VK Blocks Pro「投稿リスト」の推しポイント！](https://livesketch.net/love-vkpostlist/) by Akira Hashizume様
+* 12/21 [「Lightning」でランディングページを作ったよ！](https://beginners.shifter.community/526/) by 皿海佳子様
 
 ---
 
