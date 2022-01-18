@@ -111,12 +111,31 @@ https://vektor-vws.slack.com
 * 22:00より希望者のみ懇親会
 
 ---
+<!-- _paginate: false  -->
+
+## セッションの内容は後から振り返りできます
+
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+
+★本日は製品アップデート情報と2021年振り返りの内容を、後日YouTubeに公開予定です
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+
+---
 
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
+https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
+
 コメント、リアクションをぜひお願いします！
 
 ---
@@ -142,17 +161,6 @@ https://vws.vektor-inc.co.jp/forums
 
 【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
 https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
-
-
----
-<!-- _paginate: false  -->
-
-## セッションの内容は後から振り返りできます
-
-この後、本編が始まります！
-
-URLリンク情報などはSlackや後日レポートブログで共有いたします。
-動画アーカイブもシェアされますので安心してゆっくり見てください。
 
 ---
 <!-- _class: title-chapter  -->
@@ -212,7 +220,7 @@ Lightningとブロックパターンでサクサク作る歯医者さんサイ�
 
 # 参加後アンケートのお願い
 
-https://forms.gle/VEzkrxj1V1oksNLh6
+https://forms.gle/NmA6Qawfcz9VyWzu7
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
