@@ -146,6 +146,14 @@ https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
 
 ## 今月の新機能 / 新製品その他お知らせ
 
+
+---
+
+## Lightning Video Unit の重要なお知らせ
+
+【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
+https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
+
 ---
 
 ## フォーラムを活用しよう
@@ -155,12 +163,6 @@ https://vws.vektor-inc.co.jp/forums
 
 ✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
 
----
-
-## Lightning Video Unit の重要なお知らせ
-
-【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
-https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
 
 ---
 <!-- _class: title-chapter  -->
