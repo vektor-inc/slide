@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #028
-__Lightningで押さえたいSEO関連設定/アフィリエイト入門__
+# VWS オンライン勉強会 #030
+__WordPress最新バージョン5.9とFSEテーマの未来__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -49,7 +49,7 @@ __Lightningで押さえたいSEO関連設定/アフィリエイト入門__
 基本的に、毎月1回、だいたい第4週目に開催しております。
 
 ---
-![bg](images/Team-Vektor-202104.png)
+![bg](images/Team-Vektor-202201.png)
 
 ---
 
