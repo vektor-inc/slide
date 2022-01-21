@@ -134,7 +134,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=GWrqndUaKU10zYvl3h0B
+https://commentscreen.com/comments?id=4kH3spepmbDWug1qlQaE
 
 コメント、リアクションをぜひお願いします！
 
@@ -156,9 +156,9 @@ https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
 
 ---
 
-## フォーラムを活用しよう
-ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されるようになりました！🎉
-https://vws.vektor-inc.co.jp/forums
+## フォーラムを活用しよう！500ポイントへ増量！キャンペーン実施中です（期間未定）
+ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されます！🎉
+https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
 フォーラムの回答にぜひご参加いただけると嬉しいです！
 
 ✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
