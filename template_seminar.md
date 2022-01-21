@@ -264,6 +264,14 @@ https://showcase.vektor-inc.co.jp/flow
 
 # その他の連絡事項、告知など
 
+---
+
+## Gather の懇親会場
+https://gather.town/app/PiSqUFM7KzFVDdN2/vws30
+カメラはオフのままでもOK！ウロウロして楽しんでください！
+名前に★がある人は「気軽に話しかけてね」
+名前に●がある人は「ゆるっと聞くだけ参加」
+
 
 ---
 <!-- _class: title -->
