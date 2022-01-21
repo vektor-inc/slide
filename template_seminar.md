@@ -165,6 +165,18 @@ https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
 
 ✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
 
+---
+
+▼ Lightning（ベクトル製品）のサポートについてはまずここでご案内しております。ご自身のケースに合わせてご利用ください：
+https://lightning.vektor-inc.co.jp/support/
+
+
+[ 解決済 ] メニューのフォントサイズについて
+https://vws.vektor-inc.co.jp/forums/topic/%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%82%b5%e3%82%a4%e3%82%ba%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6
+
+
+[ 解決済 ] スクロール時にヘッダが変化しない：
+https://vws.vektor-inc.co.jp/forums/topic/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab%e6%99%82%e3%81%ab%e3%83%98%e3%83%83%e3%83%80%e3%81%8c%e5%a4%89%e5%8c%96%e3%81%97%e3%81%aa%e3%81%84
 
 ---
 <!-- _class: title-chapter  -->
