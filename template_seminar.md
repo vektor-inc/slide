@@ -153,6 +153,8 @@ https://commentscreen.com/comments?id=4kH3spepmbDWug1qlQaE
 
 【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
 https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
+製品ご購入の方にはメールをお届けしております。届いていない方は上記お知らせページをご参考ください。
+
 
 ---
 
