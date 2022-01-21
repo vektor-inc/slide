@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #028
-__Lightningで押さえたいSEO関連設定/アフィリエイト入門__
+# VWS オンライン勉強会 #030
+__WordPress最新バージョン5.9とFSEテーマの未来__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -49,7 +49,7 @@ __Lightningで押さえたいSEO関連設定/アフィリエイト入門__
 基本的に、毎月1回、だいたい第4週目に開催しております。
 
 ---
-![bg](images/Team-Vektor-202104.png)
+![bg](images/Team-Vektor-202201.png)
 
 ---
 
@@ -90,7 +90,7 @@ https://slack.com/intl/ja-jp/downloads/
 
 ---
 
-## Slackにまだ登録していない/ログイン情報を忘れた場合
+## Slackにまだ登録していない/ログイン情報を忘れた場合 (connpassにも記載)
 VWSのSlack新規登録はこちら：
 https://join.slack.com/t/vektor-vws/shared_invite/zt-qpdex5sh-zjw_M3r38GBaewNKcXa7GA
 
@@ -104,11 +104,29 @@ https://vektor-vws.slack.com
 
 ## 本日の内容
 
-* 製品アップデート・その他お知らせ（約15分）
-* 第1部:Lightningで押さえたいSEO関連設定 (約35分)
-* 第2部:検索に効くブログの書き方のキホン＆VWSアフィリエイトをやってみよう！ (約40分)
+* 製品アップデート・その他お知らせ（約10分）
+* 第1部: FSEテーマや、FSEで変わる受託制作ワークフローについて (約40分)
+* 第2部: WordPress 5.9 で搭載されるブロックエディタ周りの気になる新機能 (約20分)
 * 質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
+
+---
+<!-- _paginate: false  -->
+
+## セッションの内容は後から振り返りできます
+
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+
+★本日は製品アップデート情報と2021年振り返りの内容を、後日YouTubeに公開予定です
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
 
@@ -116,7 +134,8 @@ https://vektor-vws.slack.com
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
+https://commentscreen.com/comments?id=4kH3spepmbDWug1qlQaE
+
 コメント、リアクションをぜひお願いします！
 
 ---
@@ -130,42 +149,34 @@ https://commentscreen.com/comments?id=eTrcwcb4UzteHXNWHJU8
 
 ---
 
+## Lightning Video Unit の重要なお知らせ
 
-## Lightning G3 Pro Unit でアーカイブページにページヘッダーのサブテキストを設定できるようになりました
-バージョン0.13.0
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-archive-pageheader-subtext/
+【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
+https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
+製品ご購入の方にはメールをお届けしております。届いていない方は上記お知らせページをご参考ください。
 
----
-
-## Lightning G3 Pro Unit でフッターナビゲーションの位置を指定できるようになりました
-
-バージョン0.13.0
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-13-0-footer-navi-position/
 
 ---
 
-## Lightning Video Unit で Video Unit ブロックが使えるようになりました
-バージョン 1.0.0.0
+## フォーラムを活用しよう！500ポイントへ増量！キャンペーン実施中です（期間未定）
+ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されます！🎉
+https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
+フォーラムの回答にぜひご参加いただけると嬉しいです！
 
-https://www.vektor-inc.co.jp/product-update/video-unit-block-release/
-
----
-
-## 404ページの内容を簡単に書き換えられるようになりました。
-Lightning 14.13.0 〜
-Lightning G3 Pro Unit 0.14.0 〜
-ExUnit 9.69.0.0 〜
-https://www.vektor-inc.co.jp/product-update/lightning-14-13-0-404/
+✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
 
 ---
 
-## Lightning G3 以外でもカスタムカラーが使えるようになりました
+▼ Lightning（ベクトル製品）のサポートについてはまずここでご案内しております。ご自身のケースに合わせてご利用ください：
+https://lightning.vektor-inc.co.jp/support/
 
----
 
-## アドベントカレンダーのお知らせ
+[ 解決済 ] メニューのフォントサイズについて
+https://vws.vektor-inc.co.jp/forums/topic/%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%82%b5%e3%82%a4%e3%82%ba%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6
 
-Sasakiさんへバトンタッチ！
+
+[ 解決済 ] スクロール時にヘッダが変化しない：
+https://vws.vektor-inc.co.jp/forums/topic/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab%e6%99%82%e3%81%ab%e3%83%98%e3%83%83%e3%83%80%e3%81%8c%e5%a4%89%e5%8c%96%e3%81%97%e3%81%aa%e3%81%84
 
 ---
 <!-- _class: title-chapter  -->
@@ -174,15 +185,11 @@ Sasakiさんへバトンタッチ！
 
 # 第1部
 
-## Lightningで押さえたいSEO関連設定
+## FSEテーマや、FSEで変わる受託制作ワークフローについて
 
+Speaker：Ishikawa 
 
----
-<!-- _paginate: false  -->
-
-## セッションの内容は後から振り返りできます
-
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 <!-- _class: title-chapter  -->
@@ -191,8 +198,10 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 # 第2部
 
-**株式会社ベクトル的**
-## 検索に効くブログの書き方のキホン ＆ <br>VWSアフィリエイトをやってみよう！
+**クラシックテーマのままで使える**
+## WordPress 5.9 で搭載されるブロックエディタ周りの気になる新機能
+
+Speaker：Kouno
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
@@ -201,11 +210,13 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## Lightning 意見交換会
+## Lightning 質問大会
+
+スプレッドシートで皆さんからの質問・回答を見ていきましょう！
 Lightning を使用していて、
 ・こういうところが使い勝手が良くて好き
 ・こういうところがもっと改善してほしい
-などのご意見をお聞かせください。
+などのご意見もぜひお聞かせください。
 
 ---
 <!-- _class: title-chapter  -->
@@ -213,10 +224,8 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2021/12/21(火) 　VWSオンライン勉強会 #029
-Lightning質問大会&年末プレゼント企画他（仮）
-https://vektor.connpass.com/event/231919/
-connpassご参加登録受付中！
+2022/2/24(木) 　VWSオンライン勉強会 #031
+Lightningとブロックパターンでサクサク作る歯医者さんサイト（仮）
 
 ---
 
@@ -227,7 +236,7 @@ connpassご参加登録受付中！
 
 # 参加後アンケートのお願い
 
-https://forms.gle/VEzkrxj1V1oksNLh6
+https://forms.gle/NmA6Qawfcz9VyWzu7
 ＜お聞きしたいこと＞
 - 本日の勉強会のご感想
 - 今後の勉強会でとりあげてほしいテーマ
@@ -254,6 +263,14 @@ https://showcase.vektor-inc.co.jp/flow
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # その他の連絡事項、告知など
+
+---
+
+## Gather の懇親会場
+https://gather.town/app/PiSqUFM7KzFVDdN2/vws30
+カメラはオフのままでもOK！ウロウロして楽しんでください！
+名前に★がある人は「気軽に話しかけてね」
+名前に●がある人は「ゆるっと聞くだけ参加」
 
 
 ---
