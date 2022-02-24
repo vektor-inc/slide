@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #030
-__WordPress最新バージョン5.9とFSEテーマの未来__
+# VWS オンライン勉強会 #031
+__Lightning とブロックパターンで作る歯医者さんサイト__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -82,31 +82,20 @@ __WordPress最新バージョン5.9とFSEテーマの未来__
 
 勉強会中のチャットはzoom上ではなくslackで行っております。
 
-<strong>VWS の Slack #ミーティング チャンネル:</strong>
-https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
+<strong>VWS の Slack #ミーティング チャンネル に一言どうぞ！</strong>
 
-※Slackのアプリもあります
-https://slack.com/intl/ja-jp/downloads/
+- Slackのデスクトップアプリもあり便利です
 
----
-
-## Slackにまだ登録していない/ログイン情報を忘れた場合 (connpassにも記載)
-VWSのSlack新規登録はこちら：
-https://join.slack.com/t/vektor-vws/shared_invite/zt-qpdex5sh-zjw_M3r38GBaewNKcXa7GA
-
-ログイン方法を忘れた場合：
-https://vektor-vws.slack.com/forgot/signin
-
-■ ブラウザでVWSのSlackにアクセス：
-https://vektor-vws.slack.com
+- Slackにまだ登録していない/ログイン情報を忘れた場合
+→ connpassに記載のURLをご参考ください。
 
 ---
 
 ## 本日の内容
 
-* 製品アップデート・その他お知らせ（約10分）
-* 第1部: FSEテーマや、FSEで変わる受託制作ワークフローについて (約40分)
-* 第2部: WordPress 5.9 で搭載されるブロックエディタ周りの気になる新機能 (約20分)
+* 製品アップデート・その他お知らせ（約20分）
+* 第1部: Lightningで使えるブロックパターンライブラリのご紹介 (約20分)
+* 第2部: Lightningとブロックパターンで作る歯医者さんサイト (約40分)
 * 質問相談会（〜22:00まで）
 * 22:00より希望者のみ懇親会
 
@@ -116,8 +105,6 @@ https://vektor-vws.slack.com
 ## セッションの内容は後から振り返りできます
 
 URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
-
-★本日は製品アップデート情報と2021年振り返りの内容を、後日YouTubeに公開予定です
 
 ---
 
@@ -134,7 +121,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## コメントスクリーンはこちらから 
 
-https://commentscreen.com/comments?id=4kH3spepmbDWug1qlQaE
+https://commentscreen.com/comments?id=pnIqga5AOiB55NtGjlvq
 
 コメント、リアクションをぜひお願いします！
 
@@ -149,12 +136,14 @@ https://commentscreen.com/comments?id=4kH3spepmbDWug1qlQaE
 
 ---
 
-## Lightning Video Unit の重要なお知らせ
+## VWSフォーラムにいいねボタンを設置
 
-【重要】Lightning Video Unit 販売停止のお詫びと新版製品へ切り替えのお願い
-https://www.vektor-inc.co.jp/info/apologize-for-switching-new-video-unit-plugin/
-製品ご購入の方にはメールをお届けしております。届いていない方は上記お知らせページをご参考ください。
+https://www.vektor-inc.co.jp/info/vws-forum-add-like-button/
+VWSにログインすればどなたでもいいねできます！役に立った回答やステキな返信に、ぜひいいねしてください👍👍👍
 
+▼ Lightning（ベクトル製品）のサポートについて
+ご自身のケースに合わせてご利用ください：
+https://lightning.vektor-inc.co.jp/support/
 
 ---
 
@@ -166,17 +155,24 @@ https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
 ✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
 
 ---
+## VK Grid Column Card 0.3.0 で個別のブロックの編集ロック機能を追加しました
 
-▼ Lightning（ベクトル製品）のサポートについてはまずここでご案内しております。ご自身のケースに合わせてご利用ください：
-https://lightning.vektor-inc.co.jp/support/
+https://www.vektor-inc.co.jp/product-update/vk-grid-column-card-0-3-0/
 
+---
+## VK Blocks 1.22.1 で枠線ボックスへ任意の色を指定できるようになりました
+https://www.vektor-inc.co.jp/product-update/vk-blocks1-22-1-borderbox-color/
+カラーパレットからお好きな色を指定できるようになってとても便利になりました🎨✨
 
-[ 解決済 ] メニューのフォントサイズについて
-https://vws.vektor-inc.co.jp/forums/topic/%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc%e3%81%ae%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%82%b5%e3%82%a4%e3%82%ba%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6
+---
 
+## G3 Pro Unit の機能設定でパンくずフッターを有効にするとフッターに移動します
 
-[ 解決済 ] スクロール時にヘッダが変化しない：
-https://vws.vektor-inc.co.jp/forums/topic/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%83%ab%e6%99%82%e3%81%ab%e3%83%98%e3%83%83%e3%83%80%e3%81%8c%e5%a4%89%e5%8c%96%e3%81%97%e3%81%aa%e3%81%84
+---
+
+## ブロックテーマ X-T9を公開しました！
+X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
+https://x-t9.vektor-inc.co.jp/
 
 ---
 <!-- _class: title-chapter  -->
@@ -185,9 +181,9 @@ https://vws.vektor-inc.co.jp/forums/topic/%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e
 
 # 第1部
 
-## FSEテーマや、FSEで変わる受託制作ワークフローについて
+## Lightning で使えるブロックパターンライブラリのご紹介
 
-Speaker：Ishikawa 
+Speaker：Toriyama Yuko 
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
@@ -198,10 +194,9 @@ Speaker：Ishikawa
 
 # 第2部
 
-**クラシックテーマのままで使える**
-## WordPress 5.9 で搭載されるブロックエディタ周りの気になる新機能
+## Lightning とブロックパターンで作る歯医者さんサイト
 
-Speaker：Kouno
+Speaker：Sasaki Kaori
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
@@ -224,8 +219,15 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022/2/24(木) 　VWSオンライン勉強会 #031
-Lightningとブロックパターンでサクサク作る歯医者さんサイト（仮）
+2022/3月、4週目予定 　VWSオンライン勉強会 #032
+
+__「FSEテーマを触ってみようハンズオン（仮）」__
+
+WordPress公式ディレクトリ掲載の
+最新のFSEテーマ「X-T9」を一緒に触ってみましょう！
+テーマの仕組みやFSEを体験できます。
+
+日程と詳細が確定次第ご案内いたします。
 
 ---
 
@@ -236,10 +238,12 @@ Lightningとブロックパターンでサクサク作る歯医者さんサイ�
 
 # 参加後アンケートのお願い
 
-https://forms.gle/NmA6Qawfcz9VyWzu7
-＜お聞きしたいこと＞
-- 本日の勉強会のご感想
-- 今後の勉強会でとりあげてほしいテーマ
+参加後アンケートよろしくおねがいします！（1〜2分）
+https://forms.gle/PckjxwuYUPPWWknc8
+お聞きしたいこと：
+- 勉強会の感想
+- VKパターンライブラリに追加してほしい業種やパターン
+- 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
 
@@ -267,7 +271,7 @@ https://showcase.vektor-inc.co.jp/flow
 ---
 
 ## Gather の懇親会場
-https://gather.town/app/PiSqUFM7KzFVDdN2/vws30
+https://app.gather.town/app/rN9tkVhkZ0kf83Mz/202202-vws
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
