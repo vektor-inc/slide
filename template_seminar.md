@@ -166,7 +166,11 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks1-22-1-borderbox-color/
 
 ---
 
-## G3 Pro Unit の機能設定でパンくずフッターを有効にするとフッターに移動します
+## Lightning G3 Pro Unit でパンくずリストの位置をフッター直上に変更できるようになりました
+
+Lightning 14.17.1 / Lightning G3 Pro Unit 0.16.1 
+
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-breadcrumb-to-footer/
 
 ---
 
