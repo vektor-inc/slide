@@ -174,7 +174,9 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-breadcrumb-to-
 
 ---
 
-### ExUnit パンくず構造化処理について
+### パンくず構造化データ出力機能追加
+
+VK All in One Expansion Unit 9.71.1.0
 
 ---
 
