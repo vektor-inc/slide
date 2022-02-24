@@ -174,6 +174,10 @@ https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-breadcrumb-to-
 
 ---
 
+### ExUnit パンくず構造化処理について
+
+---
+
 ## ブロックテーマ X-T9を公開しました！
 X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
 https://x-t9.vektor-inc.co.jp/
