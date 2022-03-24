@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #031
-__Lightning とブロックパターンで作る歯医者さんサイト__
+# VWS オンライン勉強会 #032
+__Lightningで使える便利なブロック徹底解説__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -93,11 +93,10 @@ __Lightning とブロックパターンで作る歯医者さんサイト__
 
 ## 本日の内容
 
-* 製品アップデート・その他お知らせ（約20分）
-* 第1部: Lightningで使えるブロックパターンライブラリのご紹介 (約20分)
-* 第2部: Lightningとブロックパターンで作る歯医者さんサイト (約40分)
+* 製品アップデート・その他お知らせ（約15分）
+* 本編: Lightningで使える便利なブロック徹底解説 (約45分)
 * 質問相談会（〜22:00まで）
-* 22:00より希望者のみ懇親会
+* 22:05くらいから希望者のみ懇親会（Gather）
 
 ---
 <!-- _paginate: false  -->
@@ -113,6 +112,7 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## だれでもお気軽に 質問・回答 記入シート
+勉強会中に出てきた疑問などぜひこちらに
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
@@ -120,10 +120,10 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
-
-https://commentscreen.com/comments?id=pnIqga5AOiB55NtGjlvq
+https://commentscreen.com/comments?id=NqqS64dXkE1UrcPDGBke
 
 コメント、リアクションをぜひお願いします！
+
 
 ---
 
@@ -133,80 +133,73 @@ https://commentscreen.com/comments?id=pnIqga5AOiB55NtGjlvq
 
 ## 今月の新機能 / 新製品その他お知らせ
 
+---
+## VK Blocks レスポンシブスペーサーのブレイクポイント変更のお知らせ
+
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-28-0-break-point/
+
+---
+## VK Blocks (Pro) / Lightning / Lightning Pro / Katawara で Font Awesome 6 に対応しました
+
+https://www.vektor-inc.co.jp/product-update/support-font-awesome-6/
+
+---
+## 各ブロックから共通の余白設定ができるようになりました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-29-0-block-margin-setting-add/
+
+---
+## VK Grid Column Card ブロックが<br>β版から正式にVK Blocks Proに
+VK Blocks Pro 1.29.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-29-0-add-vk-grid-column-card/
+
+---
+## Google アナリティクスのタグをログイン時は出力しないよう設定できるようになりました
+ExUnit 9.74.0.0
+https://www.vektor-inc.co.jp/product-update/exunit-9-74-0-0-disable-google-analytics-tag/
+
+
+---
+## VK Filter Search Pro でカスタムフィールド検索ブロック（β版）について
+バージョン 1.6.0 
+※非推奨である理由など、ご利用には _注意事項_ をよくご確認ください。
+
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-6-0-add-custom-field-search-block/
+
+---
+## VK Filter Search Pro で検索ボタンにFont Awesomeのアイコンを設定できるようになりました
+バージョン1.7.0
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-7-0-set-font-awesome-icon-on-the-search-button/
+
+
+---
+## VK Filter Search Pro 4月1日価格改訂
+
+https://www.vektor-inc.co.jp/info/product-price-revision-information-vk-filter-search-pro/
+
+対象製品： VK Filter Search Pro（WordPress向け高機能絞り込み検索プラグイン – 買い切りタイプ）
+改定時期： 2022年4月1日（金）より
+現在：29,700円（税込）→ 改定後：31,900円（税込）
+★3月31日までは現在の価格でご提供させて頂きます。
 
 ---
 
-## VWSフォーラムにいいねボタンを設置
-
-https://www.vektor-inc.co.jp/info/vws-forum-add-like-button/
-VWSにログインすればどなたでもいいねできます！役に立った回答やステキな返信に、ぜひいいねしてください👍👍👍
-
-▼ Lightning（ベクトル製品）のサポートについて
-ご自身のケースに合わせてご利用ください：
-https://lightning.vektor-inc.co.jp/support/
-
----
-
-## フォーラムを活用しよう！500ポイントへ増量！キャンペーン実施中です（期間未定）
-ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されます！🎉
-https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
-フォーラムの回答にぜひご参加いただけると嬉しいです！
-
-✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
-
----
-## VK Grid Column Card 0.3.0 で個別のブロックの編集ロック機能を追加しました
-
-https://www.vektor-inc.co.jp/product-update/vk-grid-column-card-0-3-0/
-
----
-## VK Blocks 1.22.1 で枠線ボックスへ任意の色を指定できるようになりました
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-22-1-borderbox-color/
-カラーパレットからお好きな色を指定できるようになってとても便利になりました🎨✨
-
----
-
-## Lightning G3 Pro Unit でパンくずリストの位置をフッター直上に変更できるようになりました
-
-Lightning 14.17.1 / Lightning G3 Pro Unit 0.16.1 
-
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-breadcrumb-to-footer/
-
----
-
-### パンくず構造化データ出力機能追加
-
-VK All in One Expansion Unit 9.71.1.0
-
----
-
-## ブロックテーマ X-T9を公開しました！
-X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
+## FSE対応ブロックテーマ「X-T9」を公開しております
+X-T9は、WordPress5.9から β版 として実装されているフルサイト編集機能に対応したブロックテーマです。
 https://x-t9.vektor-inc.co.jp/
+WordPressの公式テーマディレクトリよりご利用いただけます。
+使用感などのフィードバック大歓迎です！
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 第1部
+# 本編
 
-## Lightning で使えるブロックパターンライブラリのご紹介
+## Lightningで使える便利なブロック徹底解説
 
-Speaker：Toriyama Yuko 
+Speaker：Ishikawa 
 
-ご感想など **#wpvektor** ツイート大歓迎！
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 第2部
-
-## Lightning とブロックパターンで作る歯医者さんサイト
-
-Speaker：Sasaki Kaori
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
@@ -218,10 +211,6 @@ Speaker：Sasaki Kaori
 ## Lightning 質問大会
 
 スプレッドシートで皆さんからの質問・回答を見ていきましょう！
-Lightning を使用していて、
-・こういうところが使い勝手が良くて好き
-・こういうところがもっと改善してほしい
-などのご意見もぜひお聞かせください。
 
 ---
 <!-- _class: title-chapter  -->
@@ -229,15 +218,13 @@ Lightning を使用していて、
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022/3月、4週目予定 　VWSオンライン勉強会 #032
+2022/4月27日（水）予定 VWSオンライン勉強会 #033
 
-__「FSEテーマを触ってみようハンズオン（仮）」__
+__「WordPressのトラブルシューティングについて（仮）」__
 
-WordPress公式ディレクトリ掲載の
-最新のFSEテーマ「X-T9」を一緒に触ってみましょう！
-テーマの仕組みやFSEを体験できます。
+WordPressで作ったサイトを運営する上で押さえておきたい、トラブルシューティングについてご紹介できたらと思います。
+https://vektor.connpass.com/event/243316
 
-日程と詳細が確定次第ご案内いたします。
 
 ---
 
@@ -249,10 +236,10 @@ WordPress公式ディレクトリ掲載の
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/PckjxwuYUPPWWknc8
-お聞きしたいこと：
+https://forms.gle/pTjnAbxaMrkUPQ1L7
+
 - 勉強会の感想
-- VKパターンライブラリに追加してほしい業種やパターン
+- 今回紹介したブロックのうち、よく使うブロック、知らなかったブロック、これから使ってみたいブロックなど
 - 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
@@ -269,6 +256,14 @@ LightningやKatawaraで作成したサイトを掲載して参考にしたり、
 実績掲載・受注の流れ
 https://showcase.vektor-inc.co.jp/flow
 
+---
+
+## フォーラムを活用しよう！500ポイントへ増量！キャンペーン実施中です（期間未定）
+ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されます！🎉
+https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
+フォーラムの回答にぜひご参加いただけると嬉しいです！
+
+✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
 
 ---
 
@@ -281,7 +276,7 @@ https://showcase.vektor-inc.co.jp/flow
 ---
 
 ## Gather の懇親会場
-https://app.gather.town/app/rN9tkVhkZ0kf83Mz/202202-vws
+https://app.gather.town/app/RrlcO1UDQoLwXa0u/202203-vws
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
