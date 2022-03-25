@@ -211,7 +211,9 @@ https://training.vektor-inc.co.jp/courses/lightning-customize/lessons/vk-blocks-
 ExUnit 9.74.0.0
 https://www.vektor-inc.co.jp/product-update/exunit-9-74-0-0-disable-google-analytics-tag/
 
-__ExUnit にアイコンがついたよ！__
+---
+
+## ExUnit にアイコンがついたよ！
 
 ---
 
