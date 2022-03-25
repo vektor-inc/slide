@@ -134,42 +134,25 @@ https://commentscreen.com/comments?id=NqqS64dXkE1UrcPDGBke
 ## 今月の新機能 / 新製品その他お知らせ
 
 ---
-## VK Blocks レスポンシブスペーサーのブレイクポイント変更のお知らせ
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-28-0-break-point/
-
----
 ## VK Blocks (Pro) / Lightning / Lightning Pro / Katawara で Font Awesome 6 に対応しました
-
 https://www.vektor-inc.co.jp/product-update/support-font-awesome-6/
-
----
-## 各ブロックから共通の余白設定ができるようになりました
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-29-0-block-margin-setting-add/
-
----
-## VK Grid Column Card ブロックが<br>β版から正式にVK Blocks Proに
-VK Blocks Pro 1.29.0
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-29-0-add-vk-grid-column-card/
-
----
-## Google アナリティクスのタグをログイン時は出力しないよう設定できるようになりました
-ExUnit 9.74.0.0
-https://www.vektor-inc.co.jp/product-update/exunit-9-74-0-0-disable-google-analytics-tag/
-
-
----
-## VK Filter Search Pro でカスタムフィールド検索ブロック（β版）について
-バージョン 1.6.0 
-※非推奨である理由など、ご利用には _注意事項_ をよくご確認ください。
-
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-6-0-add-custom-field-search-block/
+Font Awesome側で後方互換性を維持しているので、5 から 6 に設定を切り替えても設置済みアイコンの表示に問題が起きないようになっています。
 
 ---
 ## VK Filter Search Pro で検索ボタンにFont Awesomeのアイコンを設定できるようになりました
 バージョン1.7.0
 https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-7-0-set-font-awesome-icon-on-the-search-button/
+例 
+```
+<i class="fa-solid fa-magnifying-glass"></i>
+```
+---
+## VK Filter Search Pro にカスタムフィールド検索ブロック（β版）を追加しました
+バージョン 1.6.0
+以前より多くのご要望をいただいていたため、 __β版__ として実装しました。
+※ご利用には __注意事項__ をよくご確認ください。
 
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-6-0-add-custom-field-search-block/
 
 ---
 ## VK Filter Search Pro 4月1日価格改訂
@@ -180,6 +163,55 @@ https://www.vektor-inc.co.jp/info/product-price-revision-information-vk-filter-s
 改定時期： 2022年4月1日（金）より
 現在：29,700円（税込）→ 改定後：31,900円（税込）
 ★3月31日までは現在の価格でご提供させて頂きます。
+
+---
+## VK Grid Column Card ブロックβ版<br>正式にVK Blocks Proに同梱しました
+VK Blocks Pro 1.29.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-29-0-add-vk-grid-column-card/
+* 単独プラグインの VK Grid Column Card ブロックは自動的に停止されます。
+* パターンの一部は VK Block Patterns に移植しました。
+* 単独プラグインの VK Grid Column Card のサポートは終了します。
+
+---
+## Grid Column Card ブロックで、カードの角丸サイズ指定機能を追加しました
+
+* ピンカドにしたい場合やRを大きくしたい場合は指定する事ができます。
+
+---
+
+
+## VK Blocks レスポンシブスペーサーのブレイクポイント変更のお知らせ
+
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-28-0-break-point/
+Lightning G3 のプレイクポイントに揃えて一式再調整いたしました。
+
+---
+## VK Blocks レスポンシブスペーサー margin-bottom モード追加
+* ブロックテーマが上余白基準なので...追加したけど...
+
+---
+## VK Blocks 各ブロックから共通の余白設定ができるようになりました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-29-0-block-margin-setting-add/
+
+* 今までは書くHTML要素に対して自動で余白がついている場合、mb-0 など指定した上でレスポンシブスペーサーを配置する必要があった
+* 上も下も指定可能
+
+---
+## パンくずリストブロックを追加しました！
+
+* まぁFSE用です。
+
+---
+## 投稿リストブロックで記事がない時の表示内容を変更するフィルターフックを追加
+
+https://training.vektor-inc.co.jp/courses/lightning-customize/lessons/vk-blocks-pro-post-list-no-post-message-custom/
+
+---
+## Google アナリティクスのタグをログイン時は出力しないよう設定できるようになりました
+ExUnit 9.74.0.0
+https://www.vektor-inc.co.jp/product-update/exunit-9-74-0-0-disable-google-analytics-tag/
+
+__ExUnit にアイコンがついたよ！__
 
 ---
 
