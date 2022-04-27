@@ -160,8 +160,22 @@ __★VKパターンライブラリに新規追加パターン続々追加中で�
 https://patterns.vektor-inc.co.jp/
 
 ---
-## VK Blocks Pro 1.31.0 でグリッドカラムカードブロックのカラム全体にリンクを指定できるようになりました
+## VK Blocks Pro 1.31.0 でグリッドカラムカードブロックの「カラム全体にリンクを指定」できるようになりました
 https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-31-0-grid-column-card-item-link/
+
+---
+## VK Blocks Pro グリッドカラムカードブロックで「カラムの最小サイズを画面毎に指定」できるようなりました
+
+---
+## VK Blocks Pro 横並びボタンで<br>「幅の設定(25%・50%・75%・100%)」機能が追加されました
+
+
+---
+## VK Filter Search Pro がブロックテーマに対応しました
+
+---
+
+## VK Filter Search Pro のカスタムフィールド検索ブロックが手入力ではなく、ドロップダウンになりました
 
 ---
 
@@ -200,7 +214,7 @@ Speaker：石川栄和
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022/5月27日（金）予定 VWSオンライン勉強会 #034
+2022年5月27日（金）予定 VWSオンライン勉強会 #034
 
 __「WordPress 最新バージョン6.0 を触ってみよう （仮）」__
 
