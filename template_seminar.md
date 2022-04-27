@@ -121,7 +121,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## Lightningやプラグインのご質問サポート
 
-初めて＆日頃Lightningなどのベクトル製テーマ・プラグインを
+日頃Lightningなどのベクトル製テーマ・プラグインを
 ご利用中に困ったことが出てきたら
 https://lightning.vektor-inc.co.jp/support/
 
@@ -144,9 +144,24 @@ https://commentscreen.com/comments?id=Iq522Ws84xqW1YTGgKcM
 ## 今月の新機能 / 新製品その他お知らせ
 
 ---
-## VK Blocks (Pro) / Lightning / Lightning Pro / Katawara で Font Awesome 6 に対応しました
-https://www.vektor-inc.co.jp/product-update/support-font-awesome-6/
-Font Awesome側で後方互換性を維持しているので、5 から 6 に設定を切り替えても設置済みアイコンの表示に問題が起きないようになっています。
+## Lightning G3 Pro Unit 0.18.0でヘッダートップのボタン部分をカスタマイズするフックを追加しました
+https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-18-0/
+
+---
+## VK Blocks 1.30.0 で VKボタンのリンクURL入力欄をツールバーに移動しました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-30-0-vk-button-move-url-interface/
+
+---
+## VK Block Patterns 1.16.1 で ヘッダーのツールバーへVKパターンライブラリへのリンクを追加しました
+https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-16-1-add-vk-pattern-library-link/
+
+
+__★VKパターンライブラリに新規追加パターン続々追加中です！__
+https://patterns.vektor-inc.co.jp/
+
+---
+## VK Blocks Pro 1.31.0 でグリッドカラムカードブロックのカラム全体にリンクを指定できるようになりました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-31-0-grid-column-card-item-link/
 
 ---
 
