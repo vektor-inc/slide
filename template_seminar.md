@@ -115,6 +115,18 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ---
 
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## Lightningやプラグインのご質問サポート
+
+初めて＆日頃Lightningなどのベクトル製テーマ・プラグインを
+ご利用中に困ったことが出てきたら
+https://lightning.vektor-inc.co.jp/support/
+
+---
+
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
