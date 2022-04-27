@@ -165,10 +165,19 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-31-0-grid-column-car
 
 ---
 
-## VK Blocks 
+## VK Blocks で アイコンフォントのサイズが変更できるようになりました。
 
-* アイコンフォントのサイズが変更できるようになりました。
-* 枠線ボックスの中の要素を中央揃えにする機能追加
+例
+
+```
+<i class="fas fa-exclamation-triangle fa-xl"></i>
+```
+
+https://fontawesome.com/docs/web/style/size
+
+---
+
+## VK Blocks で 枠線ボックスの中の要素を中央揃えにする機能追加
 
 ---
 
