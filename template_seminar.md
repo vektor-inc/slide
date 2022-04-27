@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #032
-__Lightningで使える便利なブロック徹底解説__
+# VWS オンライン勉強会 #033
+__WordPressのトラブルシューティングについて__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -63,7 +63,7 @@ __Lightningで使える便利なブロック徹底解説__
 
 ## ご参加にあたって
 
-勉強会におきましては、品位のない、差別的・迷惑な行動や発言は慎みましょう。優しい言葉を心がけてください。 受け入れ難い行為や発言をもし見かけられましたらスタッフが対応しますのでお知らせください。誰にとっても快適な勉強会となるようにご協力ください。
+勉強会におきましては、品位のない、差別的・迷惑な行動や発言は慎みましょう。優しい言葉を心がけてください。 誰にとっても快適な勉強会となるようにご協力ください。
 
 ---
 
@@ -72,9 +72,7 @@ __Lightningで使える便利なブロック徹底解説__
 * 随時途中で音声でのご質問もOKです。
 * 発言時以外はミュートにしてください。
 （テレビ・同居人・外部の騒音）
-* 質問はSlackや質問スプレッドシートにご記入も可能です。
-* 一部録画・公開します。
-(Slackで過去の勉強会の動画を振り返りできます)
+* 一部録画し、YouTubeにてアーカイブとして公開します。
 
 ---
 
@@ -94,7 +92,7 @@ __Lightningで使える便利なブロック徹底解説__
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編: Lightningで使える便利なブロック徹底解説 (約45分)
+* 本編:WordPressのトラブルシューティングについて(約45分)
 * 質問相談会（〜22:00まで）
 * 22:05くらいから希望者のみ懇親会（Gather）
 
@@ -120,7 +118,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
-https://commentscreen.com/comments?id=NqqS64dXkE1UrcPDGBke
+https://commentscreen.com/comments?id=Iq522Ws84xqW1YTGgKcM
 
 コメント、リアクションをぜひお願いします！
 
@@ -139,83 +137,6 @@ https://www.vektor-inc.co.jp/product-update/support-font-awesome-6/
 Font Awesome側で後方互換性を維持しているので、5 から 6 に設定を切り替えても設置済みアイコンの表示に問題が起きないようになっています。
 
 ---
-## VK Filter Search Pro で検索ボタンにFont Awesomeのアイコンを設定できるようになりました
-バージョン1.7.0
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-7-0-set-font-awesome-icon-on-the-search-button/
-例 
-```
-<i class="fa-solid fa-magnifying-glass"></i>
-```
----
-## VK Filter Search Pro にカスタムフィールド検索ブロック（β版）を追加しました
-バージョン 1.6.0
-以前より多くのご要望をいただいていたため、 __β版__ として実装しました。
-※ご利用には __注意事項__ をよくご確認ください。
-
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-6-0-add-custom-field-search-block/
-
----
-## VK Filter Search Pro 4月1日価格改訂
-
-https://www.vektor-inc.co.jp/info/product-price-revision-information-vk-filter-search-pro/
-
-対象製品： VK Filter Search Pro（WordPress向け高機能絞り込み検索プラグイン – 買い切りタイプ）
-改定時期： 2022年4月1日（金）より
-現在：29,700円（税込）→ 改定後：31,900円（税込）
-★3月31日までは現在の価格でご提供させて頂きます。
-
----
-## VK Grid Column Card ブロックβ版<br>正式にVK Blocks Proに同梱しました
-VK Blocks Pro 1.29.0
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-29-0-add-vk-grid-column-card/
-* 単独プラグインの VK Grid Column Card ブロックは自動的に停止されます。
-* パターンの一部は VK Block Patterns に移植しました。
-* 単独プラグインの VK Grid Column Card のサポートは終了します。
-
----
-## Grid Column Card ブロックで、カードの角丸サイズ指定機能を追加しました
-
-* ピンカドにしたい場合やRを大きくしたい場合は指定する事ができます。
-
----
-
-
-## VK Blocks レスポンシブスペーサーのブレイクポイント変更のお知らせ
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-28-0-break-point/
-Lightning G3 のプレイクポイントに揃えて一式再調整いたしました。
-
----
-## VK Blocks レスポンシブスペーサー margin-bottom モード追加
-* ブロックテーマが上余白基準なので...追加したけど...
-
----
-## VK Blocks 各ブロックから共通の余白設定ができるようになりました
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-29-0-block-margin-setting-add/
-
-* 今までは書くHTML要素に対して自動で余白がついている場合、mb-0 など指定した上でレスポンシブスペーサーを配置する必要があった
-* 上も下も指定可能
-
----
-## パンくずリストブロックを追加しました！
-
-* まぁFSE用です。
-
----
-## 投稿リストブロックで記事がない時の表示内容を変更するフィルターフックを追加
-
-https://training.vektor-inc.co.jp/courses/lightning-customize/lessons/vk-blocks-pro-post-list-no-post-message-custom/
-
----
-## Google アナリティクスのタグをログイン時は出力しないよう設定できるようになりました
-ExUnit 9.74.0.0
-https://www.vektor-inc.co.jp/product-update/exunit-9-74-0-0-disable-google-analytics-tag/
-
----
-
-## ExUnit にアイコンがついたよ！
-
----
 
 ## FSE対応ブロックテーマ「X-T9」を公開しております
 X-T9は、WordPress5.9から β版 として実装されているフルサイト編集機能に対応したブロックテーマです。
@@ -230,9 +151,9 @@ WordPressの公式テーマディレクトリよりご利用いただけます�
 
 # 本編
 
-## Lightningで使える便利なブロック徹底解説
+## WordPressのトラブルシューティングについて
 
-Speaker：Ishikawa 
+Speaker：石川栄和 
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
@@ -252,12 +173,13 @@ Speaker：Ishikawa
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022/4月27日（水）予定 VWSオンライン勉強会 #033
+2022/5月27日（金）予定 VWSオンライン勉強会 #034
 
-__「WordPressのトラブルシューティングについて（仮）」__
+__「WordPress 最新バージョン6.0 を触ってみよう （仮）」__
 
-WordPressで作ったサイトを運営する上で押さえておきたい、トラブルシューティングについてご紹介できたらと思います。
-https://vektor.connpass.com/event/243316
+ブロックエディタの機能の最新版やそのほか追加になった機能を、デモ画面を見ながら一緒に見ていきましょう。
+
+https://vektor.connpass.com/event/246146/
 
 
 ---
@@ -270,25 +192,13 @@ https://vektor.connpass.com/event/243316
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/pTjnAbxaMrkUPQ1L7
+https://forms.gle/usoyYrzSRoTkC7E46
 
 - 勉強会の感想
-- 今回紹介したブロックのうち、よく使うブロック、知らなかったブロック、これから使ってみたいブロックなど
+- WordPressのトラブルで苦労した思い出話などあれば
 - 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
-
----
-<!-- _class: title-chapter -->
-
-## ショーケースについて
-
-https://showcase.vektor-inc.co.jp/
-
-LightningやKatawaraで作成したサイトを掲載して参考にしたり、制作者に制作に関する依頼の問い合わせが出来るサイトです。
-
-実績掲載・受注の流れ
-https://showcase.vektor-inc.co.jp/flow
 
 ---
 
@@ -310,7 +220,7 @@ https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
 ---
 
 ## Gather の懇親会場
-https://app.gather.town/app/RrlcO1UDQoLwXa0u/202203-vws
+https://app.gather.town/app/VfsK1iktjUPTUGyI/202204-vws
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
