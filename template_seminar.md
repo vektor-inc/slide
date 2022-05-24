@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #033
-__WordPressのトラブルシューティングについて__
+# VWS オンライン勉強会 #034
+__WordPress 6.0 を触ってみよう！__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -92,7 +92,7 @@ __WordPressのトラブルシューティングについて__
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編:WordPressのトラブルシューティングについて(約45分)
+* 本編:WordPress 6.0 を触ってみよう(約45分)
 * 質問相談会（〜22:00まで）
 * 22:05くらいから希望者のみ懇親会（Gather）
 
@@ -144,76 +144,70 @@ https://commentscreen.com/comments?id=Iq522Ws84xqW1YTGgKcM
 ## 今月の新機能 / 新製品その他お知らせ
 
 ---
-## Lightning G3 Pro Unit 0.18.0でヘッダートップのボタン部分をカスタマイズするフックを追加しました
-https://www.vektor-inc.co.jp/product-update/lightning-g3-pro-unit-0-18-0/
+## VK Blocks Pro 1.33.0 からアップデートにライセンスキーの入力が必要になります（Katawara除く）
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-33-0-license/
 
 ---
-## VK Blocks 1.30.0 で VKボタンのリンクURL入力欄をツールバーに移動しました
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-30-0-vk-button-move-url-interface/
+
+## WordPress 6.0 対応調整
+- Lightning 14.21.3
+- VK Block Patterns 1.17.4
+- VK Blocks/Pro 
+
 
 ---
-## VK Block Patterns 1.16.1 で ヘッダーのツールバーへVKパターンライブラリへのリンクを追加しました
-https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-16-1-add-vk-pattern-library-link/
 
+## VK Filter Search / VK Filter Search Pro 1.9.0 でブロックテーマに対応しました
 
-__★VKパターンライブラリに新規追加パターン続々追加中です！__
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-1-9-0-fse-block-theme/
+
+---
+## VK Filter Search Pro で検索結果の並び替えができるようになりました
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-sort-order/
+
+---
+
+## WordPressとLightningで構築したサイトにコピペしてサッと使える「VK パターンライブラリ」を公開しています！
+
+新規追加パターン続々追加中です！
+
+VK パターンライブラリ
 https://patterns.vektor-inc.co.jp/
+パターンを使えば、素早く＆簡単にサイトのコンテンツを充実させることができます。
 
 ---
-## VK Blocks Pro 1.31.0 でグリッドカラムカードブロックの「カラム全体にリンクを指定」できるようになりました
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-31-0-grid-column-card-item-link/
+## ブロックテーマ X-T9を公開中！
+X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
 
----
-
-## VK Blocks で アイコンフォントのサイズが変更できるようになりました。
-
-例
-
-```
-<i class="fas fa-exclamation-triangle fa-xl"></i>
-```
-
-https://fontawesome.com/docs/web/style/size
-
----
-
-## VK Blocks で 枠線ボックスの中の要素を中央揃えにする機能追加
-
----
-
-## VK Blocks Pro 
-
-* グリッドカラムカードブロックで「カラムの最小サイズを画面サイズ毎に指定」できるようなりました
-* 横並びボタンで<br>「幅の設定(25%・50%・75%・100%)」機能が追加されました
-* パンくずリストブロックで文字サイズと余白指定ができるようになりました。
-
----
-
-## VK Filter Search Pro 
-
-* カスタムフィールド検索ブロックが手入力ではなく、ドロップダウンになりました
-* ブロックテーマに対応しました
-
----
-
-## FSE対応ブロックテーマ「X-T9」を公開しております
-X-T9は、WordPress5.9から β版 として実装されているフルサイト編集機能に対応したブロックテーマです。
+Webサイト
 https://x-t9.vektor-inc.co.jp/
+
+WordPress公式ディレクトリ
+https://wordpress.org/themes/x-t9/
+
 WordPressの公式テーマディレクトリよりご利用いただけます。
 使用感などのフィードバック大歓迎です！
 
 ---
+
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # 本編
 
-## WordPressのトラブルシューティングについて
+## WordPress 6.0 を触ってみよう
 
 Speaker：石川栄和 
 
 ご感想など **#wpvektor** ツイート大歓迎！
+
+---
+
+## みなさんにちょっと質問！
+コメントスクリーンのリアクションボタンで回答してね！
+
+
 
 ---
 
@@ -231,13 +225,11 @@ Speaker：石川栄和
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022年5月27日（金）予定 VWSオンライン勉強会 #034
+2022年6月23日（木）予定 VWSオンライン勉強会 #035
 
-__「WordPress 最新バージョン6.0 を触ってみよう （仮）」__
+__「WordPress 開発環境について （仮）」__
 
-ブロックエディタの機能の最新版やそのほか追加になった機能を、デモ画面を見ながら一緒に見ていきましょう。
-
-https://vektor.connpass.com/event/246146/
+https://vektor.connpass.com/event/249156/
 
 
 ---
@@ -250,7 +242,7 @@ https://vektor.connpass.com/event/246146/
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/usoyYrzSRoTkC7E46
+https://forms.gle/9xGYrF6GpHjP31HMA
 
 - 勉強会の感想
 - WordPressのトラブルで苦労した思い出話などあれば
@@ -278,7 +270,7 @@ https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
 ---
 
 ## Gather の懇親会場
-https://app.gather.town/app/VfsK1iktjUPTUGyI/202204-vws
+https://app.gather.town/app/CRyqkpaIJ3mploRF/202205-vws
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
