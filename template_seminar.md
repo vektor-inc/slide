@@ -265,7 +265,6 @@ https://vektor.connpass.com/event/249156/
 https://forms.gle/9xGYrF6GpHjP31HMA
 
 - 勉強会の感想
-- WordPressのトラブルで苦労した思い出話などあれば
 - 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
