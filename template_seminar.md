@@ -271,12 +271,16 @@ https://forms.gle/9xGYrF6GpHjP31HMA
 
 ---
 
-## フォーラムを活用しよう！500ポイントへ増量！キャンペーン実施中です（期間未定）
-ベストアンサーに選ばれると、これまで300ポイントだったところ、500ポイント付与されます！🎉
-https://www.vektor-inc.co.jp/info/forum-point-up-campaign/
-フォーラムの回答にぜひご参加いただけると嬉しいです！
+## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
 
-✅質問した人は、解決に役立った返信に「ベストアンサー」をつけてください✨
+https://youtube.com/playlist?list=PL_Z0nmiLLW6tzsuoy15eAwn-8qrtCEyyF
+
+CSSカスタマイズ / PHP超入門 / アクションフック /
+物件情報サイト作成 / ビジネスサイト作成 / パターン活用 /
+Lightningカスタマイズ / 配色の基本 / SEO関連設定
+ 
+
+__🔔チャンネル登録もよろしければぜひ！__
 
 ---
 
