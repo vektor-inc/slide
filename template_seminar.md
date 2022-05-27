@@ -167,6 +167,14 @@ https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-sort-order/
 
 ---
 
+## VK Blocks
+
+* リストブロクのアイコンの色（カスタムカラーパレット）指定対応しました
+* 段落タグからVKボタンブロックへの変換をサポート
+* スライダーブロック（Pro）で高さが自動で揃うように調整
+
+---
+
 ## WordPressとLightningで構築したサイトにコピペしてサッと使える「VK パターンライブラリ」を公開しています！
 
 新規追加パターン続々追加中です！
