@@ -21,8 +21,9 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #034
-__WordPress 6.0 を触ってみよう！__
+# VWS オンライン勉強会 #035
+__受託制作で役立つ
+WordPressブロック開発実践カスタマイズ基礎__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -92,7 +93,7 @@ __WordPress 6.0 を触ってみよう！__
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編:WordPress 6.0 を触ってみよう(約45分)
+* 本編:受託制作で役立つWordPressブロック開発実践カスタマイズ基礎(約50分)
 * 質問相談会（〜22:00まで）
 * 22:05くらいから希望者のみ懇親会（Gather）
 
@@ -130,7 +131,7 @@ https://lightning.vektor-inc.co.jp/support/
 ## ハッシュタグは #wpvektor
 
 ## コメントスクリーンはこちらから 
-https://commentscreen.com/comments?id=jjVEzjq3o2prP523OPh0
+https://commentscreen.com/comments?id=TROqLHwAqf6XaFGP1mcM
 
 コメント、リアクションをぜひお願いします！
 
@@ -144,34 +145,8 @@ https://commentscreen.com/comments?id=jjVEzjq3o2prP523OPh0
 ## 今月の新機能 / 新製品その他お知らせ
 
 ---
-## VK Blocks Pro 1.33.0 からアップデートにライセンスキーの入力が必要になります（Katawara除く）
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-33-0-license/
-
----
-
-## WordPress 6.0 対応調整
-- Lightning 14.21.3
-- VK Block Patterns 1.17.4
-- VK Blocks/Pro 
-
-
----
-
-## VK Filter Search / VK Filter Search Pro 1.9.0 でブロックテーマに対応しました
-
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-1-9-0-fse-block-theme/
-
----
-## VK Filter Search Pro で検索結果の並び替えができるようになりました
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-sort-order/
-
----
-
-## VK Blocks
-
-* リストブロクのアイコンの色（カスタムカラーパレット）指定対応しました
-* 段落タグからVKボタンブロックへの変換をサポート
-* スライダーブロック（Pro）で高さが自動で揃うように調整
+## Outerブロック　全幅の指定を右側の設定
+VK Blocks Pro
 
 ---
 
@@ -204,38 +179,28 @@ WordPressの公式テーマディレクトリよりご利用いただけます�
 
 # 本編
 
-## WordPress 6.0 を触ってみよう
+## 受託制作で役立つWordPressブロック開発実践カスタマイズ基礎
 
 Speaker：石川栄和 
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## みなさんにちょっと質問！ 1/3
+## 特別開催のお知らせ！
+2022年7月15日（金） VWSオンライン勉強会
 
-### WordPress ６.0、アップデートしましたか？
-コメントスクリーンのリアクションボタンで回答してね！
-- __まだです ->__ 😂
-- __はい！ ->__ ❤️
+__新書『現場で使える Googleタグマネージャー実践入門』
+ハンズオン講座__
 
----
-## みなさんにちょっと質問！ 2/3
+Lightningをご紹介いただいた最新書籍の著者陣をお招きしてのオンライン勉強会を開催します。
 
-### 「theme.json」ってご存知ですか？
-コメントスクリーンのリアクションボタンで回答してね！
-- __初めて聞いた ->__ 😂 
-- __聞いたことはあるけどまだ使用したことはない ->__ 👍 
-- __すでに使用している ->__ ❤️
+https://vektor.connpass.com/event/251966/
 
----
-## みなさんにちょっと質問！ 3/3
 
-### 「フルサイト編集」ってご存知ですか？
-コメントスクリーンのリアクションボタンで回答してね！
-- __初めて聞いた ->__ 😂 
-- __聞いたことはあるけどまだ使用したことはない ->__ 👍 
-- __すでに使用している ->__ ❤️
 
 ---
 
@@ -248,19 +213,6 @@ Speaker：石川栄和
 スプレッドシートで皆さんからの質問・回答を見ていきましょう！
 
 ---
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## 次回の勉強会
-2022年6月23日（木）予定 VWSオンライン勉強会 #035
-
-__「WordPress 開発環境について （仮）」__
-
-https://vektor.connpass.com/event/249156/
-
-
----
 
 
 <!-- _class: title-chapter  -->
@@ -270,12 +222,24 @@ https://vektor.connpass.com/event/249156/
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/9xGYrF6GpHjP31HMA
+https://forms.gle/boxBhvhXYJgxd1nV7
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 次回の勉強会
+2022年7月28日（木）予定 VWSオンライン勉強会 #036
+
+__「Lightningで受託制作みんなどうしてる？の会（仮）」__
+
+connpass公開次第お知らせします！
 
 ---
 
@@ -301,7 +265,8 @@ __🔔チャンネル登録もよろしければぜひ！__
 ---
 
 ## Gather の懇親会場
-https://app.gather.town/app/CRyqkpaIJ3mploRF/202205-vws
+https://app.gather.town/app/LCr1WEbHveQsfz9c/202206-vws
+
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
