@@ -145,8 +145,9 @@ https://commentscreen.com/comments?id=TROqLHwAqf6XaFGP1mcM
 ## 今月の新機能 / 新製品その他お知らせ
 
 ---
-## Outerブロック　全幅の指定を右側の設定
-VK Blocks Pro
+## VK Blocks Pro
+
+- Outerブロック：全幅の指定を右側の設定サイドバーから行うのではなく、ツールバーからの指定に変更
 
 ---
 
@@ -157,6 +158,16 @@ VK Blocks Pro
 VK パターンライブラリ
 https://patterns.vektor-inc.co.jp/
 パターンを使えば、素早く＆簡単にサイトのコンテンツを充実させることができます。
+
+---
+
+## ベクトレに新しいコースが追加されました！
+
+### 「パターンを使った歯科医院サイトの構築」コース
+https://training.vektor-inc.co.jp/courses/create-dental-clinic-site/
+
+下記のデモサイトのような歯医者さんサイトの完成を目指しながら、Lightningやパターンの使いを一通り学ぶことができます◎
+https://demo.dev3.biz/dental-clinic/
 
 ---
 ## ブロックテーマ X-T9を公開中！
