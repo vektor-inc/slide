@@ -166,7 +166,7 @@ https://patterns.vektor-inc.co.jp/
 ### 「パターンを使った歯科医院サイトの構築」コース
 https://training.vektor-inc.co.jp/courses/create-dental-clinic-site/
 
-下記のデモサイトのような歯医者さんサイトの完成を目指しながら、Lightningやパターンの使いを一通り学ぶことができます◎
+下記のデモサイトのような歯医者さんサイトの完成を目指しながら、Lightning基本設定やPro機能、そしてパターンの使い方までを一通り学ぶことができます◎
 https://demo.dev3.biz/dental-clinic/
 
 ---
