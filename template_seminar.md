@@ -21,9 +21,9 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #035
-__受託制作で役立つ
-WordPressブロック開発実践カスタマイズ基礎__
+# VWS オンライン勉強会 特別企画
+__新書『現場で使える Googleタグマネージャー実践入門』
+ハンズオン講座__
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -39,36 +39,33 @@ WordPressブロック開発実践カスタマイズ基礎__
 
 ---
 
-## この勉強会について
+## 株式会社ベクトルについて
 
-株式会社ベクトルが運営、WordPressやWeb制作をとりまくさまざまなテーマをとりあげて開催しているオンライン勉強会。
+株式会社ベクトルは、WordPressテーマやプラグインを開発・配布・販売をしている企業です。
 
-ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
+WordPress公式ディレクトリに掲載のテーマ __「Lightning」__ は有効インストール数70,000件を突破。
 
-また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
+最近では、ノーコードで使える絞り込み検索プラグイン __『VK Filter Search』__ や、コピペで使えて爆速でサイトが出来上がる __『VKパターンライブラリ』__ が好評。
 
-基本的に、毎月1回、だいたい第4週目に開催しております。
 
 ---
-![bg](images/Team-Vektor-202201.png)
+## 今回は月例勉強会とは一線を画し、新書の著者陣をお招きしての特別企画です！
+
+株式会社ベクトルでは、毎月1回、WordPressやWeb制作に関するテーマをとりあげ、経験や技術レベルに関係なく、どなたでもご参加いただけるオンライン勉強会を開催しています。
+
+そんな中、今回は __ベクトルのWordPressテーマ「Lighnting」__ を最新書籍 __『現場で使える Googleタグマネージャー実践入門』__ にて取り上げていただいたご縁で特別企画の勉強会を開催させていただけることになりました！
+
 
 ---
 
 ## 歓迎されること
 
-* ライブビューイングのノリでチャットでわいわいいただければと思います。
 * ぜひツイートして盛り上げてください <strong>#wpvektor</strong>
-* 初参加者さんを歓迎してください。
+* 誰にとっても快適な勉強会となるようにご協力ください。
 
 ---
 
-## ご参加にあたって
-
-勉強会におきましては、品位のない、差別的・迷惑な行動や発言は慎みましょう。優しい言葉を心がけてください。 誰にとっても快適な勉強会となるようにご協力ください。
-
----
-
-## ご参加にあたって
+## ご参加にあたって（Zoom参加の方へ）
 
 * 随時途中で音声でのご質問もOKです。
 * 発言時以外はミュートにしてください。
@@ -89,20 +86,43 @@ WordPressブロック開発実践カスタマイズ基礎__
 → connpassに記載のURLをご参考ください。
 
 ---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## スピーカーのご紹介
+__新書『現場で使える Googleタグマネージャー実践入門』__
+
+著者　神谷 英男 (かみや ひでお) さん
+著者　石本 憲貴 (いしもと のりたか) さん
+著者　礒崎 将一 (いそざき まさかず) さん
+監修　小川 卓 (おがわ たく) さん
+勉強会企画/編集 畠山龍次 (はたけやま りゅうじ) さん
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 書籍のご紹介/勉強会にあたって
+
+監修の 小川 卓 (おがわ たく) さんより
+
+---
 
 ## 本日の内容
-
-* 製品アップデート・その他お知らせ（約15分）
-* 本編:受託制作で役立つWordPressブロック開発実践カスタマイズ基礎(約50分)
-* 質問相談会（〜22:00まで）
-* 22:05くらいから希望者のみ懇親会（Gather）
+* __「LOCAL＋Lightningを利用したGoogleタグマネージャーの学習環境構築」__（スピーカー礒崎さん/約30分）
+* __「各種タグ設定」__（スピーカー石本さん/約30分）
+* __「現場で使えるTips紹介」__（スピーカー神谷さん/約20分）
+* 質問相談会（〜21:55くらいまで）
+* 22:05くらいから希望者のみ懇親会（oVice）
 
 ---
 <!-- _paginate: false  -->
 
 ## セッションの内容は後から振り返りできます
 
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+後日動画アーカイブをシェアしますので、安心してゆっくり見てください。
 
 ---
 
@@ -110,138 +130,42 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## だれでもお気軽に 質問・回答 記入シート
-勉強会中に出てきた疑問などぜひこちらに
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+# 本編スタート！
 
----
+## 「LOCAL＋Lightningを利用したGoogleタグマネージャーの学習環境構築」
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## Lightningやプラグインのご質問サポート
-
-日頃Lightningなどのベクトル製テーマ・プラグインを
-ご利用中に困ったことが出てきたら
-https://lightning.vektor-inc.co.jp/support/
-
----
-
-## ハッシュタグは #wpvektor
-
-## コメントスクリーンはこちらから 
-https://commentscreen.com/comments?id=TROqLHwAqf6XaFGP1mcM
-
-コメント、リアクションをぜひお願いします！
-
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## 今月の新機能 / 新製品その他お知らせ
-
----
-## VK Blocks Pro
-
-- Outerブロック：全幅の指定を右側の設定サイドバーから行うのではなく、ツールバーからの指定に変更
-
----
-## G3 Pro Unit
-
-- Lightning ページヘッダー設定で、表示要素に「投稿タイトルとメタ情報」を選択する際、これまでアイキャッチ画像がある時優先的に表示されていましたが、アイキャッチ画像を使わないように選択できるようになりました
-
----
-
-## WordPressとLightningで構築したサイトにコピペしてサッと使える「VK パターンライブラリ」を公開しています！
-
-新規追加パターン続々追加中です！
-
-VK パターンライブラリ
-https://patterns.vektor-inc.co.jp/
-パターンを使えば、素早く＆簡単にサイトのコンテンツを充実させることができます。
-
----
-
-## ベクトレに新しいコースが追加されました！
-
-### 「パターンを使った歯科医院サイトの構築」コース
-https://training.vektor-inc.co.jp/courses/create-dental-clinic-site/
-
-下記のデモサイトのような歯医者さんサイトの完成を目指しながら、Lightning基本設定やPro機能、そしてパターンの使い方までを一通り学ぶことができます◎
-https://demo.dev3.biz/dental-clinic/
-
----
-## ブロックテーマ X-T9を公開中！
-X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
-
-Webサイト
-https://x-t9.vektor-inc.co.jp/
-
-WordPress公式ディレクトリ
-https://wordpress.org/themes/x-t9/
-
-WordPressの公式テーマディレクトリよりご利用いただけます。
-使用感などのフィードバック大歓迎です！
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 本編
-
-## 受託制作で役立つWordPressブロック開発実践カスタマイズ基礎
-
-Speaker：石川栄和 
+Speaker：礒崎 将一 (いそざき まさかず) さん
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 
-## みなさんにちょっと質問！ 1/3
-### 質問１：カスタムフィールド製造業を…
-Slackの投稿か、コメントスクリーンのリアクションボタンで回答してね！
-- __バリバリやってます・やってました ->__ ❤️
-- __聞いたことはある ->__ 👍 
-- __初耳です ->__ 😂
-
----
-## みなさんにちょっと質問！ 2/3
-
-### 質問２：ブロックパターンを…
-- __案件で提供してる ->__ ❤️
-- __ユーザーとして活用中・認識はしている ->__ 👍 
-- __初耳です ->__ 😂
-
----
-## みなさんにちょっと質問！ 3/3
-
-### 質問３：カスタムブロックの制作を…
-- __バリバリやってます ->__ ❤️
-- __トライ中 ->__ 👍 
-- __今日はそれを聞きに来た ->__ 😂
-
----
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 特別開催のお知らせ！
-2022年7月15日（金） VWSオンライン勉強会
+# 本編２
 
-__新書『現場で使える Googleタグマネージャー実践入門』
-ハンズオン講座__
+## 「各種タグ設定」
 
-Lightningをご紹介いただいた最新書籍の著者陣をお招きしてのオンライン勉強会を開催します。
+Speaker：石本 憲貴 (いしもと のりたか) さん
 
-https://vektor.connpass.com/event/251966/
+ご感想など **#wpvektor** ツイート大歓迎！
+
+---
 
 
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 本編３
+
+## 「現場で使えるTips紹介」
+
+Speaker：神谷 英男 (かみや ひでお) さん
+
+ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 
@@ -249,9 +173,9 @@ https://vektor.connpass.com/event/251966/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## Lightning 質問大会
+## 質問相談会
 
-スプレッドシートで皆さんからの質問・回答を見ていきましょう！
+みなさんからの質問を見ていきましょう！
 
 ---
 
@@ -263,12 +187,26 @@ https://vektor.connpass.com/event/251966/
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/boxBhvhXYJgxd1nV7
+https://forms.gle/gNFanUdbWtQy5eME6
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
 
 よろしければご意見をお聞かせください。
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## スピーカーの皆様ありがとうございます！
+
+本日はご厚意により無償で登壇していただきました。
+本日の内容が参考になりましたら、ぜひスピーカーの皆様のAmazonウィッシュリストからスピーカーさんへ贈り物をお願いいたします！
+（Slackにリンクをご案内）
+
 
 ---
 <!-- _class: title-chapter  -->
@@ -278,22 +216,13 @@ https://forms.gle/boxBhvhXYJgxd1nV7
 ## 次回の勉強会
 2022年7月28日（木）予定 VWSオンライン勉強会 #036
 
-__「Lightningで受託制作みんなどうしてる？の会（仮）」__
+__「もう困らない！受託ウェブ制作を円滑にするディレクション術を考える会」__
 
-connpass公開次第お知らせします！
+月例勉強会では、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についても
+ご案内していますので、ご興味のある方はぜひ月例勉強会
+へもご参加ください。
+https://vektor.connpass.com/event/251638/
 
----
-
-## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
-
-https://youtube.com/playlist?list=PL_Z0nmiLLW6tzsuoy15eAwn-8qrtCEyyF
-
-CSSカスタマイズ / PHP超入門 / アクションフック /
-物件情報サイト作成 / ビジネスサイト作成 / パターン活用 /
-Lightningカスタマイズ / 配色の基本 / SEO関連設定
- 
-
-__🔔チャンネル登録もよろしければぜひ！__
 
 ---
 
@@ -305,8 +234,7 @@ __🔔チャンネル登録もよろしければぜひ！__
 
 ---
 
-## Gather の懇親会場
-https://app.gather.town/app/LCr1WEbHveQsfz9c/202206-vws
+## oVice の懇親会場
 
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 名前に★がある人は「気軽に話しかけてね」
