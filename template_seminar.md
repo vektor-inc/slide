@@ -21,9 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-# VWS オンライン勉強会 #035
-__受託制作で役立つ
-WordPressブロック開発実践カスタマイズ基礎__
+### VWS勉強会 [ 特別企画 ] 
+#### 新書『現場で使える Googleタグマネージャー実践入門』<br>ハンズオン講座 
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
