@@ -114,7 +114,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ---
 
 ## VK Blocks / VK Blocks Pro
-バージョン 1.3.9 ~ 1.4.0
+バージョン 1.39.1  - 1.40.0 
 - __[先祖階層からの固定ページリスト]__
 新しいブロック追加
 - __[ボタンブロック]__
