@@ -88,9 +88,14 @@ VWS オンライン勉強会 #037
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編:X-T9とフルサイト編集で作る<br>最新のWordPressサイト (約1時間30分)
+* 本編: X-T9とフルサイト編集で作る<br>最新のWordPressサイト (約1時間30分)
 * 質問相談会（〜22:00まで）
 * 22:05くらいから希望者のみ懇親会
+
+---
+
+## セッションの内容は後から振り返りできます
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
 
 ---
 
@@ -120,46 +125,29 @@ https://commentscreen.com/comments?id=A1ODCvTmUO2faQ6Q0ci9
 
 ---
 
-## VK Blocks / VK Blocks Pro
-バージョン 1.39.0  - 1.40.0 
-- __[先祖階層からの固定ページリスト]__
-新しいブロック追加
-- __[ボタンブロック]__
-インラインフォントサイズを指定できるように。
-合わせてアイコンのサイズも指定できるようになりました。
-- __[アイコンブロック]__ 
-サイズ設定で、小数点が使えるようになりました。
+## VK Blocks でボタンの文字サイズと前後のアイコンサイズを指定できるようになりました
+
+Ver 1.40.0
+
+https://www.vektor-inc.co.jp/product-update/vk-blocks1-40-0-button/
 
 ---
-## VKパターンライブラリ「お気に入り」機能
+## VK Block Patterns デフォルトパターンの停止機能
 
-VKパターンライブラリでお気に入り登録ができるようになりました！
-お知らせ記事：
-https://www.vektor-inc.co.jp/info/vk-pattern-library-add-to-favorites/
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-block-patterns/#hide-default-pattern
 
 ---
 
-## WordPressとLightningで構築したサイトにコピペしてサッと使える「VK パターンライブラリ」を公開しています！
+## VK Blocks で吹き出しブロックの吹き出しの幅を100%に設定できるようになりました
 
-新規追加パターン続々追加中です！
+Ver 1.41.0 
 
-VK パターンライブラリ
-https://patterns.vektor-inc.co.jp/
-パターンを使えば、素早く＆簡単にサイトのコンテンツを充実させることができます。
-
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-41-0-balloon-width-100/
 
 ---
-## ブロックテーマ X-T9を公開中！
-X-T9は、WordPress5.9からβ版として実装されているフルサイト編集機能に対応したブロックテーマです。
 
-Webサイト
-https://x-t9.vektor-inc.co.jp/
-
-WordPress公式ディレクトリ
-https://wordpress.org/themes/x-t9/
-
-WordPressの公式テーマディレクトリよりご利用いただけます。
-使用感などのフィードバック大歓迎です！
+## VK Pattern Library のお気に入りパターンを編集画面で直接呼び出せるようになりました!
+https://patterns.vektor-inc.co.jp/about/about-favorite/#link-vkblockpatterns
 
 ---
 
@@ -173,25 +161,15 @@ WordPressの公式テーマディレクトリよりご利用いただけます�
 
 
 ご感想など **#wpvektor** ツイート大歓迎！
+動画アーカイブ残りますのでゆっくりご覧ください。
+コメントスクリーンでのリアクションもぜひ！
 
 ---
 
 ## X-T9とフルサイト編集で作る最新のWordPressサイト
 
-受託制作の実践的なディレクションのちょっとした工夫、気をつけていること、よく使うツールなどのノウハウをシェアしましょう！
+株式会社ベクトルが開発を進めている「X-T9」はブロックテーマに対応しています。X-T9であれば、今までのテーマではカスタマイズが難しかったエリアも、簡単・柔軟にカスタマイズが可能です。X-T9を使った最新のWordPressサイトの構築方法を詳しくご紹介します。
 
-いくつかのお題を元に、オンラインツールでみんなでアンケート回答をしながらお話するスタイルで進めていきます。
-
----
-
-## Sli.do のリアルタイムアンケートにご参加ください！
-
-▼ 💻 PCブラウザから参加：https://app.sli.do/event/acmxLRtmnRYNewe58hCyrf
-
-▼ 📱スマホから参加：
-画面のQRコードをスマホで読み込むか、
-スマホのブラウザで Sli.do のサイトにアクセスして
-（#Enter code here）のところに __「4589765」__ を入力。
 
 ---
 
@@ -213,7 +191,7 @@ WordPressの公式テーマディレクトリよりご利用いただけます�
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/AYwxF2bkkZMCV6RZ8
+https://forms.gle/3x5VqtfuGiDirviY6
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
@@ -226,11 +204,10 @@ https://forms.gle/AYwxF2bkkZMCV6RZ8
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022年8月25日（木）予定 VWSオンライン勉強会 #037
-「X-T9とフルサイト編集で作る最新のWordPressサイト(仮)」
+2022年9月22日（木）予定 VWSオンライン勉強会 #038
 
-https://vektor.connpass.com/event/256107/
-ご参加登録受付中！
+内容が決まり次第ご案内します！
+先程のアンケートにてご希望もお聞かせください！
 
 ---
 
@@ -242,13 +219,16 @@ https://vektor.connpass.com/event/256107/
 
 ---
 
-## 懇親会場（〜23:00まで）
+## 懇親会場
 
-懇親会は引き続きZoomで行います。
+Gather の懇親会場
 
-（YouTube参加の方はconnpassに記載のZoom URLからお越しください）
+カメラはオフのままでもOK！ウロウロして楽しんでください！
 
-カメラはオフのままでもOK！お気軽にご参加ください。
+名前に★がある人は「気軽に話しかけてね」
+名前に●がある人は「ゆるっと聞くだけ参加」
+
+お気軽にご参加ください。
 
 
 ---
