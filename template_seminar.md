@@ -168,6 +168,8 @@ https://patterns.vektor-inc.co.jp/about/about-favorite/#link-vkblockpatterns
 
 株式会社ベクトルが開発を進めている「X-T9」はブロックテーマに対応しています。X-T9であれば、今までのテーマではカスタマイズが難しかったエリアも、簡単・柔軟にカスタマイズが可能です。X-T9を使った最新のWordPressサイトの構築方法を詳しくご紹介します。
 
+https://github.com/vektor-inc/slide/blob/main_20220825_X-T9/x-t9-make-site.md
+
 
 ---
 
