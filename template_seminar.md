@@ -125,7 +125,7 @@ https://commentscreen.com/comments?id=A1ODCvTmUO2faQ6Q0ci9
 
 ---
 
-## VK Blocks でボタンの文字サイズと前後のアイコンサイズを指定できるようになりました
+## VK Blocks ボタンの文字サイズと前後のアイコンサイズを指定できるようになりました
 
 Ver 1.40.0
 
@@ -138,7 +138,7 @@ https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-block-patterns/#hide-d
 
 ---
 
-## VK Blocks で吹き出しブロックの吹き出しの幅を100%に設定できるようになりました
+## VK Blocks 吹き出しブロックの吹き出しの幅を100%に設定できるようになりました
 
 Ver 1.41.0 
 
@@ -161,8 +161,6 @@ https://patterns.vektor-inc.co.jp/about/about-favorite/#link-vkblockpatterns
 
 
 ご感想など **#wpvektor** ツイート大歓迎！
-動画アーカイブ残りますのでゆっくりご覧ください。
-コメントスクリーンでのリアクションもぜひ！
 
 ---
 
@@ -221,14 +219,12 @@ https://forms.gle/3x5VqtfuGiDirviY6
 
 ## 懇親会場
 
-Gather の懇親会場
-
+Gather の懇親会場（先着25名まで）
+https://app.gather.town/invite?token=u3ahx8-rAlUmArtxLPQonvdPucTJL1Fd
 カメラはオフのままでもOK！ウロウロして楽しんでください！
 
 名前に★がある人は「気軽に話しかけてね」
 名前に●がある人は「ゆるっと聞くだけ参加」
-
-お気軽にご参加ください。
 
 
 ---
