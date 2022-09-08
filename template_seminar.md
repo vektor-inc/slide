@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #037
-# X-T9とフルサイト編集で作る<br>最新のWordPressサイト
+VWS オンライン勉強会 #038
+# 2022年下半期 最近のおすすめ<br>プラグインを共有しよう
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -88,7 +88,7 @@ VWS オンライン勉強会 #037
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編: X-T9とフルサイト編集で作る<br>最新のWordPressサイト (約1時間30分)
+* 本編: 2022年下半期 最近のおすすめプラグインを共有しよう (約50分)
 * 質問相談会（〜22:00まで）
 * 22:05くらいから希望者のみ懇親会
 
@@ -111,7 +111,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://commentscreen.com/comments?id=A1ODCvTmUO2faQ6Q0ci9
+https://commentscreen.com/comments?id=???????????????
 
 コメント、リアクションをぜひお願いします！
 
@@ -131,23 +131,7 @@ Ver 1.40.0
 
 https://www.vektor-inc.co.jp/product-update/vk-blocks1-40-0-button/
 
----
-## VK Block Patterns デフォルトパターンの停止機能
 
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-block-patterns/#hide-default-pattern
-
----
-
-## VK Blocks 吹き出しブロックの吹き出しの幅を100%に設定できるようになりました
-
-Ver 1.41.0 
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-41-0-balloon-width-100/
-
----
-
-## VK Pattern Library のお気に入りパターンを編集画面で直接呼び出せるようになりました!
-https://patterns.vektor-inc.co.jp/about/about-favorite/#link-vkblockpatterns
 
 ---
 
@@ -157,18 +141,16 @@ https://patterns.vektor-inc.co.jp/about/about-favorite/#link-vkblockpatterns
 
 # 本編
 
-## X-T9とフルサイト編集で作る<br>最新のWordPressサイト
-
+## 2022年下半期<br>最近のおすすめプラグインを共有しよう
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
+## 2022年下半期 最近のおすすめプラグインを共有しよう - もくじ -
 
-## X-T9とフルサイト編集で作る最新のWordPressサイト
-
-株式会社ベクトルが開発を進めている「X-T9」はブロックテーマに対応しています。X-T9であれば、今までのテーマではカスタマイズが難しかったエリアも、簡単・柔軟にカスタマイズが可能です。X-T9を使った最新のWordPressサイトの構築方法を詳しくご紹介します。
-
-https://github.com/vektor-inc/slide/blob/main_20220825_X-T9/x-t9-make-site.md
+1. プラグインの選び方どうしてる？チェックポイントや注意するべきこと
+2. チームベクトル的最近のおすすめプラグインのご紹介
+3. プラグインに関する皆さんからの質問をみてみよう
 
 
 ---
@@ -191,7 +173,7 @@ https://github.com/vektor-inc/slide/blob/main_20220825_X-T9/x-t9-make-site.md
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/3x5VqtfuGiDirviY6
+https://forms.gle/3x5VqtfuGiDirviY6 ★未★
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
@@ -204,10 +186,11 @@ https://forms.gle/3x5VqtfuGiDirviY6
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022年9月22日（木）予定 VWSオンライン勉強会 #038
+2022年10月27日（木）予定 VWSオンライン勉強会 #039
+「WordPressの最新バージョン6.1を触ってみよう」
 
-内容が決まり次第ご案内します！
-先程のアンケートにてご希望もお聞かせください！
+connpassお申し込み受付開始しました！
+　★未★
 
 ---
 
@@ -219,7 +202,7 @@ https://forms.gle/3x5VqtfuGiDirviY6
 
 ---
 
-## 懇親会場
+## 懇親会場　★未★
 
 Gather の懇親会場（先着25名まで）
 https://app.gather.town/invite?token=u3ahx8-rAlUmArtxLPQonvdPucTJL1Fd
