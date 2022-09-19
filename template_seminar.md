@@ -152,6 +152,29 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks1-40-0-button/
 2. チームベクトル的最近のおすすめプラグインのご紹介
 3. プラグインに関する皆さんからの質問をみてみよう
 
+---
+## 1. プラグインの選び方どうしてる？
+
+チェックポイントや注意するべきことを見てみましょう！
+
+https://www.vektor-inc.co.jp/post/select-wordpress-plugins/
+
+---
+## 2. チームベクトル的最近のおすすめプラグインのご紹介
+
+定番から最近の気になるプラグインまでを21個ご紹介！
+https://www.vektor-inc.co.jp/post/2022-recomended-wordpress-plugins/
+- 知っている＆使っているよ！というものはありますか？
+- こんなのもオススメ！というのがあればぜひ教えてください！
+
+---
+## 3. プラグインに関する皆さんからの質問をみてみよう
+
+connpassお申し込み時のアンケートにご協力ありがとうございます！
+
+★だれでもお気軽に 質問・回答 記入シート：
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+
 
 ---
 
