@@ -125,13 +125,22 @@ https://commentscreen.com/comments?id=???????????????
 
 ---
 
-## VK Blocks ボタンの文字サイズと前後のアイコンサイズを指定できるようになりました
-
-Ver 1.40.0
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-40-0-button/
+## レスポンシブスペーサーに xs / xl サイズを追加しました
 
 
+---
+
+## 今月のパターン紹介
+
+観光案内
+https://patterns.vektor-inc.co.jp/vk-patterns/town-guide/
+
+ギャラリーレンタル
+https://patterns.vektor-inc.co.jp/vk-patterns/cafe-gallery/
+
+---
+## エックスサーバー様の「WordPressテーマインストール」機能を利用してLightningを直接インストールできるようになりました
+https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
 
 ---
 
@@ -210,10 +219,10 @@ https://forms.gle/3x5VqtfuGiDirviY6 ★未★
 
 ## 次回の勉強会
 2022年10月27日（木）予定 VWSオンライン勉強会 #039
-「WordPressの最新バージョン6.1を触ってみよう」
+「WordPressの最新バージョン6.1を触ってみよう（仮）」
 
 connpassお申し込み受付開始しました！
-　★未★
+https://vektor.connpass.com/event/260567/
 
 ---
 
