@@ -211,7 +211,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/3x5VqtfuGiDirviY6 ★未★
+https://forms.gle/eR79EtBtJRaCFnT88
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
@@ -239,16 +239,7 @@ https://vektor.connpass.com/event/260567/
 # その他の連絡事項、告知など
 
 ---
-
-## 懇親会場　★未★
-
-Gather の懇親会場（先着25名まで）
-https://app.gather.town/invite?token=u3ahx8-rAlUmArtxLPQonvdPucTJL1Fd
-カメラはオフのままでもOK！ウロウロして楽しんでください！
-
-名前に★がある人は「気軽に話しかけてね」
-名前に●がある人は「ゆるっと聞くだけ参加」
-
+![bg](images/konshinkai-38.png)
 
 ---
 <!-- _class: title -->
