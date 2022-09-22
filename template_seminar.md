@@ -99,19 +99,9 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## だれでもお気軽に 質問・回答 記入シート
-勉強会中に出てきた疑問などぜひこちらに
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
-
----
-
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://commentscreen.com/comments?id=???????????????
+https://commentscreen.com/comments?id=3tpRTJZxyuM2ekJH58TV
 
 コメント、リアクションをぜひお願いします！
 
@@ -125,18 +115,23 @@ https://commentscreen.com/comments?id=???????????????
 
 ---
 
-## レスポンシブスペーサーに xs / xl サイズを追加しました
+## VK Blocksでレスポンシブスペーサーに XS / XL サイズを追加しました
 
+version 1.43.0 
+
+https://www.vektor-inc.co.jp/product-update/vk-blocks1-43-0-spacer-add-size/
 
 ---
 
 ## 今月のパターン紹介
+コピペで使えるブロックパターンライブラリを公開しています。新規追加パターン続々追加中です！
 
-観光案内
+### 観光案内
 https://patterns.vektor-inc.co.jp/vk-patterns/town-guide/
 
-ギャラリーレンタル
+### ギャラリーレンタル
 https://patterns.vektor-inc.co.jp/vk-patterns/cafe-gallery/
+
 
 ---
 ## エックスサーバー様の「WordPressテーマインストール」機能を利用してLightningを直接インストールできるようになりました
@@ -155,6 +150,7 @@ https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
+
 ## 2022年最新版 おすすめプラグインを共有しよう - もくじ -
 
 1. プラグインの選び方どうしてる？チェックポイントや注意するべきこと
@@ -162,6 +158,18 @@ https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
 3. プラグインに関する皆さんからの質問をみてみよう
 
 ---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+connpassお申し込み時のアンケートにご協力ありがとうございます！
+
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+
+---
+
 ## 1. プラグインの選び方どうしてる？
 
 チェックポイントや注意するべきことを見てみましょう！
@@ -178,8 +186,6 @@ https://www.vektor-inc.co.jp/post/2022-recomended-wordpress-plugins/
 
 ---
 ## 3. プラグインに関する皆さんからの質問をみてみよう
-
-connpassお申し込み時のアンケートにご協力ありがとうございます！
 
 ★だれでもお気軽に 質問・回答 記入シート：
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
