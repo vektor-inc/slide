@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #038
-# 2022年最新版<br>おすすめプラグインを共有しよう
+VWS オンライン勉強会 #039
+# WordPress最新バージョン<br>6.1を触ってみよう
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -88,9 +88,9 @@ VWS オンライン勉強会 #038
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ（約15分）
-* 本編: 2022年下半期 最近のおすすめプラグインを共有しよう (約50分)
+* 本編: WordPress最新バージョン6.1を触ってみよう (約50分)
 * 質問相談会（〜22:00まで）
-* 22:05くらいから希望者のみ懇親会
+* 22:05頃から懇親会・ユーザーフィードバック会（Zoomのみ、配信なし）
 
 ---
 
@@ -101,7 +101,7 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://commentscreen.com/comments?id=3tpRTJZxyuM2ekJH58TV
+https://www.commentscreen.com/comments?id=07pdtIc7ZTtXgiPcQ7iV
 
 コメント、リアクションをぜひお願いします！
 
@@ -113,29 +113,43 @@ https://commentscreen.com/comments?id=3tpRTJZxyuM2ekJH58TV
 
 ## 今月の新機能 / 新製品その他お知らせ
 
+
 ---
 
-## VK Blocksでレスポンシブスペーサーに XS / XL サイズを追加しました
+## ExUnit でUAとGA4のタグを両方同時に出力できるようになりました
+version 9.82.0 
+https://www.vektor-inc.co.jp/product-update/exunit-9-82-0-ua-ga4-tag/
 
-version 1.43.0 
+---
 
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-43-0-spacer-add-size/
+## VK Blocks でキラッと光るボタンエフェクトを設定できるようになりました
+version 1.44.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-44-0-add-button-effect/
+
+---
+
+## VK Blocks Pro で投稿リストの分類絞り込み条件でANDかORを選べるようになりました
+version 1.44.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro1-44-0-post-list/
+
+---
+
+## VK Filter Search Pro でチェックボックスのタクソノミー検索でユーザーが AND / OR 検索を選べるようになりました
+version 1.11.0
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-11-0/
+
+---
+
+## BillVektor Salary で令和４年10月稼働分以降の雇用保険料率変更に対応いたしました。
+version 0.6 
+https://billvektor.com/billvektor-salary-0-6-0/
 
 ---
 
 ## 今月のパターン紹介
 コピペで使えるブロックパターンライブラリを公開しています。新規追加パターン続々追加中です！
 
-### 観光案内
-https://patterns.vektor-inc.co.jp/vk-patterns/town-guide/
-
-### ギャラリーレンタル
-https://patterns.vektor-inc.co.jp/vk-patterns/cafe-gallery/
-
-
----
-## エックスサーバー様の「WordPressテーマインストール」機能を利用してLightningを直接インストールできるようになりました
-https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
+今月はなし？
 
 ---
 
@@ -145,17 +159,17 @@ https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
 
 # 本編
 
-## 2022年最新版<br>おすすめプラグインを共有しよう
+## WordPress最新バージョン<br>6.1を触ってみよう
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 
-## 2022年最新版 おすすめプラグインを共有しよう - もくじ -
+## WordPress最新バージョン<br>6.1を触ってみよう - もくじ -
 
-1. プラグインの選び方どうしてる？チェックポイントや注意するべきこと
-2. チームベクトル的最近のおすすめプラグインのご紹介
-3. プラグインに関する皆さんからの質問をみてみよう
+1. WordPressのリリースについて / 最近のテーマに関する予備知識
+2. WordPress 6.1の気になる新機能
+3. 開発リーダー石川によるWordPress 6.1の解説
 
 ---
 
@@ -164,31 +178,15 @@ https://www.vektor-inc.co.jp/info/xserver-wordpress-theme-install/
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## だれでもお気軽に 質問・回答 記入シート
-connpassお申し込み時のアンケートにご協力ありがとうございます！
 
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
 
-## 1. プラグインの選び方どうしてる？
+## WordPress 6.1 で気になる新機能・ブロックエディタ周りのアレコレ
 
-チェックポイントや注意するべきことを見てみましょう！
-
-https://www.vektor-inc.co.jp/post/select-wordpress-plugins/
-
----
-## 2. チームベクトル的最近のおすすめプラグインのご紹介
-
-定番から最近の気になるプラグインまでを21個ご紹介！
-https://www.vektor-inc.co.jp/post/2022-recomended-wordpress-plugins/
-- 知っている＆使っているよ！というものはありますか？
-- こんなのもオススメ！というのがあればぜひ教えてください！
-
----
-## 3. プラグインに関する皆さんからの質問をみてみよう
-
-★だれでもお気軽に 質問・回答 記入シート：
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+ブログ記事を公開しています！
+https://www.vektor-inc.co.jp/post/wordpress-6-1-dev-note-note/
 
 
 ---
@@ -211,7 +209,7 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/eR79EtBtJRaCFnT88
+https://forms.gle/bGgdtc96J8xS2efB9
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
@@ -219,16 +217,30 @@ https://forms.gle/eR79EtBtJRaCFnT88
 よろしければご意見をお聞かせください。
 
 ---
+
+## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
+
+https://youtube.com/playlist?list=PL_Z0nmiLLW6tzsuoy15eAwn-8qrtCEyyF
+
+CSSカスタマイズ / PHP超入門 / アクションフック /
+物件情報サイト作成 / ビジネスサイト作成 / パターン活用 /
+Lightningカスタマイズ / 配色の基本 / SEO関連設定
+ 
+
+__🔔チャンネル登録もよろしければぜひ！__
+
+---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会
-2022年10月27日（木）予定 VWSオンライン勉強会 #039
-「WordPressの最新バージョン6.1を触ってみよう（仮）」
+2022/11/24(木)予定 VWSオンライン勉強会 #040
+
+### コピペで簡単！CSSの小技とパターンで作るWordPressサイト
 
 connpassお申し込み受付開始しました！
-https://vektor.connpass.com/event/260567/
+https://vektor.connpass.com/event/264312/
 
 ---
 
