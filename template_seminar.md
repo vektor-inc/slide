@@ -251,7 +251,7 @@ https://vektor.connpass.com/event/264312/
 # その他の連絡事項、告知など
 
 ---
-![bg](images/konshinkai-38.png)
+![bg](images/konshinkai-39.png)
 
 ---
 <!-- _class: title -->
