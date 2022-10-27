@@ -146,10 +146,22 @@ https://billvektor.com/billvektor-salary-0-6-0/
 
 ---
 
-## 今月のパターン紹介
+## 今月のパターン紹介 2/1
 コピペで使えるブロックパターンライブラリを公開しています。新規追加パターン続々追加中です！
 
-今月はなし？
+__下線付きのテーブル__
+https://patterns.vektor-inc.co.jp/vk-patterns/table-underline/
+
+__会社案内 (Evergreen使用)__
+https://patterns.vektor-inc.co.jp/vk-patterns/evergreen-company/
+
+
+---
+## 今月のパターン紹介 2/2
+
+__グリッドカラムカードブロックを使ったレイアウト例：
+カード全体にリンク・背景白__
+https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 
 ---
 
