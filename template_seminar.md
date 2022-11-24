@@ -181,7 +181,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 
 1. WordPressのリリースについて / 最近のテーマに関する予備知識
 2. WordPress 6.1の気になる新機能
-3. 開発リーダー石川によるWordPress 6.1の解説
+3. 6.1で使えるようになる theme.json の機能とLightning での対応について
 
 ---
 
@@ -194,12 +194,17 @@ https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
+## 本編開始！
+1. WordPressのリリースについて / 最近のテーマに関する予備知識
+2. WordPress 6.1の気になる新機能
 
-## WordPress 6.1 で気になる新機能・ブロックエディタ周りのアレコレ
+スピーカー：佐々木
 
-ブログ記事を公開しています！
-https://www.vektor-inc.co.jp/post/wordpress-6-1-dev-note-note/
+---
 
+## 3. 6.1で使えるようになる theme.json の機能と Lightning での対応について
+
+スピーカー：開発リーダー石川
 
 ---
 
