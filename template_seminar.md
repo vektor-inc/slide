@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #039
-# WordPress最新バージョン<br>6.1を触ってみよう
+VWS オンライン勉強会 #040
+# コピペで簡単！CSSの小技と<br>パターンで作るWordPressサイト
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -115,53 +115,29 @@ https://www.commentscreen.com/comments?id=07pdtIc7ZTtXgiPcQ7iV
 
 
 ---
+## アドベントカレンダー今年も開催します！
 
-## ExUnit でUAとGA4のタグを両方同時に出力できるようになりました
-version 9.82.0 
-https://www.vektor-inc.co.jp/product-update/exunit-9-82-0-ua-ga4-tag/
+お知らせ記事
+https://www.vektor-inc.co.jp/info/adventar-2022/
 
----
-
-## VK Blocks でキラッと光るボタンエフェクトを設定できるようになりました
-version 1.44.0
-https://www.vektor-inc.co.jp/product-update/vk-blocks-1-44-0-add-button-effect/
+アドベントカレンダー
+https://adventar.org/calendars/7729
 
 ---
 
-## VK Blocks Pro で投稿リストの分類絞り込み条件でANDかORを選べるようになりました
-version 1.44.0
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro1-44-0-post-list/
+## Lightning 15系アップデートでの theme.json 対応について
+https://www.vektor-inc.co.jp/product-update/lightning-15-theme-json/
 
 ---
 
-## VK Filter Search Pro でチェックボックスのタクソノミー検索でユーザーが AND / OR 検索を選べるようになりました
-version 1.11.0
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-11-0/
+## VK Blocks Pro 1.46.0 でカスタムCSSブロックを追加しました
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-add-custom-css-block/
 
 ---
 
-## BillVektor Salary で令和４年10月稼働分以降の雇用保険料率変更に対応いたしました。
-version 0.6 
-https://billvektor.com/billvektor-salary-0-6-0/
+## Vektor Passport（ベクトルパスポート）をリリースしました！
+https://vws.vektor-inc.co.jp/vektor-passport
 
----
-
-## 今月のパターン紹介 2/1
-コピペで使えるブロックパターンライブラリを公開しています。新規追加パターン続々追加中です！
-
-__下線付きのテーブル__
-https://patterns.vektor-inc.co.jp/vk-patterns/table-underline/
-
-__会社案内 (Evergreen使用)__
-https://patterns.vektor-inc.co.jp/vk-patterns/evergreen-company/
-
-
----
-## 今月のパターン紹介 2/2
-
-__グリッドカラムカードブロックを使ったレイアウト例：
-カード全体にリンク・背景白__
-https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 
 ---
 
@@ -171,17 +147,18 @@ https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 
 # 本編
 
-## WordPress最新バージョン<br>6.1を触ってみよう
+## コピペで簡単！CSSの小技と<br>パターンで作るWordPressサイト
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 
-## WordPress最新バージョン<br>6.1を触ってみよう - もくじ -
+## コピペで簡単！CSSの小技と<br>パターンで作るWordPressサイト もくじ
 
-1. WordPressのリリースについて / 最近のテーマに関する予備知識
-2. WordPress 6.1の気になる新機能
-3. 6.1で使えるようになる theme.json の機能とLightning での対応について
+1. パターンで作る工務店サイトを見てみよう！
+2. CSSでのパターンカスタマイズ方法とカスタムCSS機能(Pro)のご紹介
+3. CSSの小技ご紹介！（パターンコピペ、CSSコピペ可）
+4. 今日のまとめ
 
 ---
 
@@ -194,17 +171,29 @@ https://patterns.vektor-inc.co.jp/vk-patterns/grid-column-card_card_link/
 https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
-## 本編開始！
-1. WordPressのリリースについて / 最近のテーマに関する予備知識
-2. WordPress 6.1の気になる新機能
+## 本編１ パターンで作る工務店サイトを見てみよう
 
-スピーカー：佐々木
+スピーカー：河野
 
 ---
+## 本編２ カスタムCSS機能（Pro）のご紹介
 
-## 3. 6.1で使えるようになる theme.json の機能と Lightning での対応について
+スピーカー：鳥山
 
-スピーカー：開発リーダー石川
+---
+## 本編３ CSSの小技のご紹介
+
+スピーカー：久納
+
+---
+## いかがでしたか？
+
+ー まとめ ー
+
+1. ビジネスサイト作成なら「VKパターンライブラリのパターン」でスピーディに！ぜひ活用してください！
+2. CSSの小技でカスタマイズ楽しんでください！カスタムCSS機能もぜひ活用を！
+3. 新しくなった「ベクトルパスポート」と「プレミアムパターン」をよろしくお願いします！ 
+
 
 ---
 
@@ -251,13 +240,22 @@ __🔔チャンネル登録もよろしければぜひ！__
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 次回の勉強会
-2022/11/24(木)予定 VWSオンライン勉強会 #040
+## 次回の勉強会（予定）
+2022/12/22(木)予定 VWSオンライン勉強会 #041
 
-### コピペで簡単！CSSの小技とパターンで作るWordPressサイト
+### Lightning質問大会&年末プレゼント企画他
 
-connpassお申し込み受付開始しました！
-https://vektor.connpass.com/event/264312/
+コンパス準備中！受付開始をしましたらご案内します！
+ぜひスケジュールをチェックしておいてください。
+
+---
+## アドベントカレンダー今年も開催します！
+
+お知らせ記事
+https://www.vektor-inc.co.jp/info/adventar-2022/
+
+アドベントカレンダー
+https://adventar.org/calendars/7729
 
 ---
 
