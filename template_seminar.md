@@ -101,7 +101,7 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://www.commentscreen.com/comments?id=07pdtIc7ZTtXgiPcQ7iV
+https://www.commentscreen.com/comments?id=w9V4IxYmyksMjm3j9VZW
 
 コメント、リアクションをぜひお願いします！
 
@@ -137,6 +137,7 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-add-custom-css-block/
 
 ## Vektor Passport（ベクトルパスポート）をリリースしました！
 https://vws.vektor-inc.co.jp/vektor-passport
+（佐々木さんへバトンタッチ）
 
 
 ---
@@ -266,7 +267,7 @@ https://adventar.org/calendars/7729
 # その他の連絡事項、告知など
 
 ---
-![bg](images/konshinkai-39.png)
+![bg](images/konshinkai-40.png)
 
 ---
 <!-- _class: title -->
