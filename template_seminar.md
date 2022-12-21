@@ -203,6 +203,8 @@ https://demo.dev3.biz/architect/lp/
 
 ## オススメ！新機能追加で振り返る2022
 
+この１年間にあった便利な新機能追加をまとめてご紹介！
+
 新機能アップデートのお知らせの詳細は全て
 https://www.vektor-inc.co.jp/product-update/
 からご覧いただけます！
