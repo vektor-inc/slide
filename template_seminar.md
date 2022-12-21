@@ -123,20 +123,16 @@ https://www.commentscreen.com/comments?id=w9V4IxYmyksMjm3j9VZW
 
 ---
 
-## 無料版VK Blocks でスライダーブロックが使えるようになりました！
+## 無料版 VK Blocks でスライダーブロックが使えるようになりました！
 https://www.vektor-inc.co.jp/product-update/vk-blocks-1-47-0-slider-block/
 
 ---
-## アドベントカレンダー今年も開催します！
 
-お知らせ記事
-https://www.vektor-inc.co.jp/info/adventar-2022/
+## VK Blocks Proで「よくつかう書式設定機能」追加
 
-アドベントカレンダー
-https://adventar.org/calendars/7729
+---
 
-
-
+## VK Blocks Proで「ブロックのオンオフ機能」追加
 
 ---
 
