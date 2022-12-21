@@ -83,6 +83,7 @@ VWS オンライン勉強会 #041
 - Slackにまだ登録していない/ログイン情報を忘れた場合
 → connpassに記載のURLをご参考ください。
 
+
 ---
 
 ## 本日の内容
@@ -95,8 +96,13 @@ VWS オンライン勉強会 #041
 
 ---
 
-## セッションの内容は後から振り返りできます
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## だれでもお気軽に 質問・回答 記入シート
+
+https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
 
 ---
 
@@ -116,6 +122,11 @@ https://www.commentscreen.com/comments?id=w9V4IxYmyksMjm3j9VZW
 
 
 ---
+
+## 無料版VK Blocks でスライダーブロックが使えるようになりました！
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-47-0-slider-block/
+
+---
 ## アドベントカレンダー今年も開催します！
 
 お知らせ記事
@@ -124,21 +135,7 @@ https://www.vektor-inc.co.jp/info/adventar-2022/
 アドベントカレンダー
 https://adventar.org/calendars/7729
 
----
 
-## Lightning 15系アップデートでの theme.json 対応について
-https://www.vektor-inc.co.jp/product-update/lightning-15-theme-json/
-
----
-
-## VK Blocks Pro 1.46.0 でカスタムCSSブロックを追加しました
-https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-add-custom-css-block/
-
----
-
-## Vektor Passport（ベクトルパスポート）をリリースしました！
-https://vws.vektor-inc.co.jp/vektor-passport
-（佐々木さんへバトンタッチ）
 
 
 ---
@@ -149,52 +146,204 @@ https://vws.vektor-inc.co.jp/vektor-passport
 
 # 本編
 
-## コピペで簡単！CSSの小技と<br>パターンで作るWordPressサイト
+## 2022年の振り返り
+
+ベクトル3大ニュースと、おすすめの新機能追加ニュースを振り返ります！
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
-
-## コピペで簡単！CSSの小技と<br>パターンで作るWordPressサイト もくじ
-
-1. パターンで作る工務店サイトを見てみよう！
-2. CSSでのパターンカスタマイズ方法とカスタムCSS機能(Pro)のご紹介
-3. CSSの小技ご紹介！（パターンコピペ、CSSコピペ可）
-4. 今日のまとめ
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2022年 ベクトル3大ニュース その①__
+## フルサイト編集対応テーマ<br>「X-T9」リリース！ - ２月
+フルサイト編集機能に対応した開発実験テーマ
+X-T9 WordPress Theme
+https://x-t9.vektor-inc.co.jp/
+広がり始めたフルサイト編集の可能性！
 
 ---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2022年 ベクトル3大ニュース その②__
+## コピペで使える「VK パターンライブラリ（VK Pattern Library）」公開！- ２月
 
+ コピペで使えるブロックパターンライブラリ！
+https://patterns.vektor-inc.co.jp/about/
+パターンを選んで組み合わせていくだけで、
+サイトが簡単にできあがる！
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2022年 ベクトル3大ニュース その③__
+## 新パッケージ「Vektor Passport」<br>リリース！- 11月
+https://vws.vektor-inc.co.jp/vektor-passport
+プロ品質のプレミアムパターンが使える！
+Vektor Passport を販売開始しました
+
+---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## だれでもお気軽に 質問・回答 記入シート
+__2022年 ベクトル3大ニュース その③ ＋α__
+新パッケージ「Vektor Passport」リリースにあわせて、
+プレミアムパターンで作成できる工務店サイトも公開！
 
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
+## 工務店デモサイト公開！
+https://demo.dev3.biz/architect/lp/
 
----
-## 本編１ パターンで作る工務店サイトを見てみよう
+先月の勉強会のアーカイブをぜひご参考ください！
 
-スピーカー：河野
-
----
-## 本編２ カスタムCSS機能（Pro）のご紹介
-
-スピーカー：鳥山
 
 ---
-## 本編３ CSSの小技のご紹介
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-スピーカー：久納
+## オススメ！新機能追加で振り返る2022
+
+新機能アップデートのお知らせの詳細は全て
+https://www.vektor-inc.co.jp/product-update/
+からご覧いただけます！
 
 ---
-## いかがでしたか？
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-ー まとめ ー
+__オススメ！新機能追加で振り返る2022__
 
-1. ビジネスサイト作成なら「VKパターンライブラリのパターン」でスピーディに！
-2. CSSの小技でカスタマイズしてみよう！カスタムCSS機能もぜひ活用を！
-3. 新しくなった「ベクトルパスポート」と「プレミアムパターン」をよろしくお願いします！ 
+## Lightning は theme.json に対応
+Lightning 15系 より テーマ内に theme.json が利用出来るようになりました。有効化すると最新のWordPressの便利な機能が使えるようになります。
+https://www.vektor-inc.co.jp/product-update/lightning-15-theme-json/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## Font Awesome 6 に対応しております
+2月の FontAwesome 6 の正式リリースに伴い、3月に以下の製品で対応。下記バージョン以降でご利用可能になっています。
+
+- VK Blocks / VK Blocks Pro 1.27.4 以降
+- Lightning 14.18.0 以降
+- Lightning Pro 8.14.0 以降
+- Katawara 1.12.2 以降
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## VK Blocks（無料版/Pro版） -1/2-
+- 枠線ボックスへ任意の色を指定可能に
+- 各ブロックから共通の余白設定が可能に
+- 枠線ボックスの中の要素を中央揃えに可能に
+- ボタンの文字サイズと前後のアイコンサイズを指定可能に
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## VK Blocks（無料版/Pro版） -2/2-
+- 吹き出しブロックの吹き出しの幅を100%に設定可能に
+- レスポンシブスペーサーに XS / XL サイズを追加
+- キラッと光るボタンエフェクトを設定可能に
+- 無料版でもスライダーブロックが使えるように！
+
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## VK Blocks Pro版 -1/2-
+- VK Grid Column Card ブロックを追加しました
+-- カラム全体のリンクを指定可能に
+-- カラムの最小サイズを画面毎に指定可能に
+- 横並びボタンにデバイス毎のボタン幅、ギャップサイズを指定可能に
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## VK Blocks Pro版 -2/2-
+- 投稿リストの分類絞り込み条件でANDかORを選択可能に
+- カスタムCSS機能を追加
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## ExUnit（無料）
+- Google アナリティクスのタグをログイン時は出力しないよう設定可能に
+- 記事の構造化データを出力する機能を追加しました
+- UAとGA4のタグを両方同時に出力可能に
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+
+## VK Block Patterns（無料）
+- ヘッダーのツールバーへVKパターンライブラリへのリンクを追加
+- デフォルトパターン停止機能を追加
+- お気に入りパターンを編集画面で直接呼び出し可能に
+（ライセンス有効期間ユーザー機能）
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+## Katawara（有料テーマ）
+- ページヘッダーにサブタイトルを追加しやすいようにフィルターフックを追加
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+## Lightning G3 Pro Unit
+- パンくずリストの位置をフッター直上に変更可能に
+- ヘッダートップのボタン部分をカスタマイズするフックを追加
+- ページヘッダーの背景画像にアイキャッチ画像を表示しない設定が可能に
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+__オススメ！新機能追加で振り返る2022__
+## VK Filter Search Pro
+- カスタムフィールド検索ブロック（β版）を追加
+- 検索ボタンにFont Awesomeのアイコンを設定可能に
+- ブロックテーマに対応しました
+- 検索結果の並び替えが可能に
+- チェックボックスのタクソノミー検索でユーザーが AND / OR 検索を選べるように
 
 
 ---
@@ -206,6 +355,14 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 ## Lightning 質問大会
 
 スプレッドシートで皆さんからの質問・回答を見ていきましょう！
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## ベクトル X'mas クイズ大会！
 
 ---
 
@@ -245,10 +402,10 @@ __🔔チャンネル登録もよろしければぜひ！__
 ## 次回の勉強会（予定）
 2023/1/26(木)予定 VWSオンライン勉強会 #042
 
-### VWSオンライン勉強会 #42 Lightningで使える無料スライダーブロック徹底解説！(仮)
+### VWSオンライン勉強会 #42 Lightningや他テーマでも使える無料スライダーブロック徹底解説
 
-コンパス準備中！受付開始をしましたらご案内します！
-ぜひスケジュールをチェックしておいてください。
+コンパス予約受付開始しました！
+ぜひお気軽にご参加ください！
 
 ---
 
