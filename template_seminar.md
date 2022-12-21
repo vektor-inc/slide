@@ -122,6 +122,12 @@ https://www.commentscreen.com/comments?id=w9V4IxYmyksMjm3j9VZW
 
 
 ---
+## Lightningクイックスタート デモデータを最新にアップデートしました
+
+https://www.vektor-inc.co.jp/info/2022-12-ltg-quickstart-data-update/
+配布用デモデータは無料でご利用いただけます。
+
+---
 
 ## 無料版 VK Blocks でスライダーブロックが使えるようになりました！
 https://www.vektor-inc.co.jp/product-update/vk-blocks-1-47-0-slider-block/
@@ -133,6 +139,9 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-1-47-0-slider-block/
 ---
 
 ## VK Blocks Proで「ブロックのオンオフ機能」追加
+
+---
+## XT-9 アップデート
 
 ---
 
@@ -298,7 +307,7 @@ __オススメ！新機能追加で振り返る2022__
 
 - __CTA ブロックの追加__
 - __UAとGA4のタグを両方同時に出力可能に__
-- 記事の構造化データを出力する機能を追加しました
+- 記事の構造化データ出力機能追加
 - パンくずリストの構造化データ出力機能追加
 - Google アナリティクスのタグをログイン時は出力しないよう設定可能に
 
@@ -428,7 +437,7 @@ __🔔チャンネル登録もよろしければぜひ！__
 # その他の連絡事項、告知など
 
 ---
-![bg](images/konshinkai-40.png)
+![bg](images/konshinkai-41.png)
 
 ---
 <!-- _class: title -->
