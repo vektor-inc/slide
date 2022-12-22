@@ -94,8 +94,12 @@ VWS オンライン勉強会 #041
 * X'masクイズ大会 (約20分)
 * 22:05頃から懇親会・ユーザーフィードバック会
 
----
 
+---
+## セッションの内容は後から振り返りできます
+URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
+
+---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
