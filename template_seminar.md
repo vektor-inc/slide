@@ -130,15 +130,21 @@ https://www.vektor-inc.co.jp/info/2022-12-ltg-quickstart-data-update/
 ---
 
 ## 無料版 VK Blocks でスライダーブロックが使えるようになりました！
+Ver. 1.47.0以降
 https://www.vektor-inc.co.jp/product-update/vk-blocks-1-47-0-slider-block/
 
 ---
 
-## VK Blocks Proで「よくつかう書式設定機能」追加
+## VK Blocks Proで「カスタム書式設定機能」追加
+
+Ver. 1.48.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-pro-1-48-0-add-custom-format-setting/
 
 ---
 
-## VK Blocks Proで「ブロックのオンオフ機能」追加
+## VK Blocks / VK Blocks Pro で<br>「ブロックマネージャー機能」追加
+Ver. 1.48.0
+https://www.vektor-inc.co.jp/product-update/vk-blocks-1-48-0-add-block-manager-function/
 
 ---
 ## XT-9 アップデート
