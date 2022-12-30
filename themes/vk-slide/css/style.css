@@ -1,6 +1,7 @@
 /* @theme vk-slide */
 @import "default";
 @charset "UTF-8";
+@import url(../fontawesome-free/css/all.css);
 .container,
 .container-fluid,
 .container-sm,
@@ -1245,7 +1246,7 @@ section {
     margin-bottom: 36px;
     margin-top: 28px; }
   section h4 {
-    margin-top: 28px;
+    margin-top: 24px;
     font-size: 42px; }
   section p,
   section li {
@@ -1263,6 +1264,8 @@ section {
   section table td {
     padding-left: 1em;
     padding-right: 1em; }
+  section .text-center {
+    text-align: center !important; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
@@ -1274,6 +1277,12 @@ section {
     background-color: #e5e5e5; }
   section .text-danger {
     color: #c00; }
+  section.speaking {
+    background-color: #fff09a; }
+  section.speaking-ja {
+    background-color: #ffcaca; }
+    section.speaking-ja p, section.speaking-ja li {
+      font-size: 28px; }
 
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;

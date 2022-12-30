@@ -49,6 +49,9 @@ section {
 			padding-right:1em;
 		}
 	}
+	.text-center {
+		text-align: center !important;
+	}
 
 	/* スライドタイトルなどの特殊スタイル ----------------*/
 	&.title {
@@ -69,5 +72,14 @@ section {
 	}
 	.text-danger {
 		color:#c00;
+	}
+	&.speaking {
+		background-color:#fff09a;
+	}
+	&.speaking-ja {
+		background-color:#ffcaca;
+		p,li {
+			font-size:28px;
+		}
 	}
 }

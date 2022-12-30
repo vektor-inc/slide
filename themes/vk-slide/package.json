@@ -1,36 +1,36 @@
 {
-  "name": "slide",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "sass --watch --style=compressed --no-source-map _scss:css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vektor-inc/slide.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vektor-inc/slide/issues"
-  },
-  "homepage": "https://github.com/vektor-inc/slide#readme",
-  "devDependencies": {
-    "css-loader": "^5.0.1",
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.1.0",
-    "style-loader": "^2.0.0",
-    "webpack": "^5.8.0",
-    "webpack-cli": "^4.2.0"
-  },
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.4",
-    "bootstrap": "^4.5.3",
-    "gulp-style-aliases": "^1.1.11",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
-  }
+	"name": "slide",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"sass": "sass --watch --style=compressed --no-source-map _scss:css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vektor-inc/slide.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/vektor-inc/slide/issues"
+	},
+	"homepage": "https://github.com/vektor-inc/slide#readme",
+	"devDependencies": {
+		"css-loader": "^5.0.1",
+		"gulp": "^4.0.2",
+		"gulp-concat": "^2.6.1",
+		"gulp-sass": "^4.1.0",
+		"style-loader": "^2.0.0",
+		"webpack": "^5.8.0",
+		"webpack-cli": "^4.2.0"
+	},
+	"dependencies": {
+		"@fortawesome/fontawesome-free": "^6.2.1",
+		"bootstrap": "^4.5.3",
+		"gulp-style-aliases": "^1.1.11",
+		"jquery": "^3.5.1",
+		"popper.js": "^1.16.1"
+	}
 }

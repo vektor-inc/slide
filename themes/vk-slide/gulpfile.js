@@ -15,6 +15,9 @@ gulp.task('sass', function(done) {
 		.pipe(aliases({
 			"@bootstrap": "./node_modules/bootstrap/scss"
 		}))
+		.pipe(aliases({
+			"@fontawesome": "./node_modules/@fontawesome/fontawesome-free/css"
+		}))
         .pipe(sass())
 		.pipe(gulp.dest('./css/'));
 		done();

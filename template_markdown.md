@@ -27,6 +27,15 @@ section{
 
 ---
 
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# ようこそ！はじめに
+
+---
+
+
 # 見出し１
 
 ---

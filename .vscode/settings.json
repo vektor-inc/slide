@@ -1,7 +1,6 @@
 {
 	"markdown.marp.themes": [
-		"./themes/vk-slide/css/style.css",
-		"./themes/vk-slide/node_modules/@fontawesome/fontawesome-free/css/all.css"
+		"./themes/vk-slide/css/style.css"
 	],
 	"markdown.marp.enableHtml": true
 }
