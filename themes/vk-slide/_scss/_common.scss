@@ -52,6 +52,11 @@ section {
 	.text-center {
 		text-align: center !important;
 	}
+	.text-huge{
+		font-size:2em;
+		line-height: 2;
+		font-weight: bold;
+	}
 
 	/* スライドタイトルなどの特殊スタイル ----------------*/
 	&.title {
@@ -73,6 +78,7 @@ section {
 	.text-danger {
 		color:#c00;
 	}
+	// セリフ用
 	&.speaking {
 		background-color:#fff09a;
 	}

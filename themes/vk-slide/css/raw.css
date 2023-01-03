@@ -1264,6 +1264,10 @@ section {
     padding-right: 1em; }
   section .text-center {
     text-align: center !important; }
+  section .text-huge {
+    font-size: 2em;
+    line-height: 2;
+    font-weight: bold; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
