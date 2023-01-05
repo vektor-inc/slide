@@ -40,6 +40,11 @@ section{
 
 ---
 
+![bg right:30%](images/1_profile.png)
+
+https://marpit.marp.app/image-syntax
+---
+
 ## 表
 
 | | 表示名 | スラッグ |

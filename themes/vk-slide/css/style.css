@@ -1266,6 +1266,12 @@ section {
   section table td {
     padding-left: 1em;
     padding-right: 1em; }
+  section .colmuns {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between; }
   section .text-center {
     text-align: center !important; }
   section .text-huge {
@@ -1280,6 +1286,29 @@ section {
     margin-bottom: 0 !important; }
   section .mt-0 {
     margin-top: 0 !important; }
+  section .telop {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 0.6em 1em;
+    display: block; }
+    section .telop h1, section .telop h2, section .telop h3, section .telop h4 {
+      margin: 0 1em;
+      display: block; }
+    section .telop--center {
+      width: 100%;
+      text-align: center; }
+    section .telop--left {
+      left: 0; }
+    section .telop--right {
+      right: 0;
+      left: auto;
+      padding-right: 1em; }
+    section .telop--bg-white {
+      background-color: rgba(255, 255, 255, 0.8);
+      color: #000; }
+  section .caption {
+    font-size: 36px; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
