@@ -1253,6 +1253,13 @@ section {
     font-size: 38px; }
   section ul {
     margin-bottom: 50px; }
+    section ul li:last-child {
+      margin-bottom: 0; }
+  section .alert {
+    padding-left: 1em;
+    padding-right: 1em; }
+    section .alert ul {
+      margin-bottom: 0; }
   section p i {
     position: relative;
     top: 2px;
@@ -1284,6 +1291,8 @@ section {
     margin-bottom: 0 !important; }
   section .mt-0 {
     margin-top: 0 !important; }
+  section .pb-0 {
+    padding-bottom: 0 !important; }
   section .telop {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
@@ -1307,6 +1316,8 @@ section {
       color: #000; }
   section .caption {
     font-size: 36px; }
+  section .hidden {
+    display: none !important; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }
@@ -1321,7 +1332,7 @@ section {
   section.speaking {
     background-color: #fff09a; }
   section.speaking-ja {
-    background-color: #ffcaca; }
+    background-color: #e5e5e5; }
     section.speaking-ja p, section.speaking-ja li {
       font-size: 28px; }
 

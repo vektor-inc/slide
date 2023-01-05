@@ -30,7 +30,18 @@ section {
 		font-size: 38px; }
 
 	ul {
-		margin-bottom: 50px; }
+		margin-bottom: 50px;
+		li:last-child {
+			margin-bottom: 0;
+		}
+	}
+	.alert {
+		padding-left:1em;
+		padding-right:1em;
+		ul {
+			margin-bottom: 0;
+		}
+	}
 
 	p i {
 		position: relative;
@@ -78,6 +89,9 @@ section {
 	.mt-0 {
 		margin-top:0 !important;
 	}
+	.pb-0 {
+		padding-bottom:0 !important;
+	}
 	.telop {
 		position:absolute;
 		background-color: rgba( 0,0,0,0.8);
@@ -108,6 +122,9 @@ section {
 	.caption {
 		font-size:36px;
 	}
+	.hidden{
+		display:none !important;
+	}
 
 	/* スライドタイトルなどの特殊スタイル ----------------*/
 	&.title {
@@ -133,8 +150,13 @@ section {
 	&.speaking {
 		background-color:#fff09a;
 	}
+	@media print {
+
+	}
 	&.speaking-ja {
-		background-color:#ffcaca;
+		// display: none !important;
+		// height:0 !important;
+		background-color:#e5e5e5;
 		p,li {
 			font-size:28px;
 		}
