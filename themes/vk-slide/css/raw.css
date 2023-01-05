@@ -1229,6 +1229,8 @@ section {
   font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
   -ms-word-wrap: break-word;
   word-wrap: break-word;
+  --color-icon: #c00;
+  /* utilities ----------------*/
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
   section h1 {
     font-size: 64px !important;
@@ -1268,6 +1270,14 @@ section {
     font-size: 2em;
     line-height: 2;
     font-weight: bold; }
+  section .list-icon {
+    line-height: 2; }
+    section .list-icon i {
+      color: var(--color-icon); }
+  section .mb-0 {
+    margin-bottom: 0 !important; }
+  section .mt-0 {
+    margin-top: 0 !important; }
   section.title-chapter {
     border-top: 5px solid #B81C22;
     background-color: #e5e5e5; }

@@ -3,6 +3,7 @@ section {
 	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Hiragino Sans, "Noto Sans JP", sans-serif;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
+	--color-icon : #c00;
 	h1 {
 		font-size: 64px !important;
 		color: #000 
@@ -49,6 +50,7 @@ section {
 			padding-right:1em;
 		}
 	}
+	/* utilities ----------------*/
 	.text-center {
 		text-align: center !important;
 	}
@@ -56,6 +58,18 @@ section {
 		font-size:2em;
 		line-height: 2;
 		font-weight: bold;
+	}
+	.list-icon {
+		line-height: 2;
+		i {
+			color:var(--color-icon);
+		}
+	}
+	.mb-0 {
+		margin-bottom:0 !important;
+	}
+	.mt-0 {
+		margin-top:0 !important;
 	}
 
 	/* スライドタイトルなどの特殊スタイル ----------------*/
