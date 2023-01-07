@@ -1343,3 +1343,6 @@ section.title {
   color: #fff; }
   section.title h1 {
     color: #fff; }
+
+section.title-chapter {
+  background-color: white !important; }
