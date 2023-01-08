@@ -4,6 +4,9 @@ section {
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
 	--color-icon : #c00;
+	* {
+		z-index: 1;
+	}
 	h1 {
 		font-size: 64px !important;
 		color: #000 

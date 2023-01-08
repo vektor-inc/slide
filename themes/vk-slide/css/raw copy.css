@@ -1231,6 +1231,8 @@ section {
   --color-icon: #c00;
   /* utilities ----------------*/
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
+  section * {
+    z-index: 1; }
   section h1 {
     font-size: 64px !important;
     color: #000; }

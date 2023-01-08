@@ -24,4 +24,16 @@ section {
 	&.title-chapter {
 		background-color:rgba(255,255,255,1) !important;
 	}
+	.bg-kao {
+		position: absolute;
+		color:rgba(0,0,0,0.1) !important;
+		font-size:58px !important;
+		z-index:0;
+		&--left {
+			left:0 !important;
+		}
+		&--right {
+			right:0;
+		}
+	}
 }

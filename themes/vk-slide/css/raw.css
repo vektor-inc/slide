@@ -1232,6 +1232,8 @@ section {
   --color-icon: #c00;
   /* utilities ----------------*/
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
+  section * {
+    z-index: 1; }
   section h1 {
     font-size: 64px !important;
     color: #000; }
@@ -1346,3 +1348,13 @@ section.title {
 
 section.title-chapter {
   background-color: white !important; }
+
+section .bg-kao {
+  position: absolute;
+  color: rgba(0, 0, 0, 0.1) !important;
+  font-size: 58px !important;
+  z-index: 0; }
+  section .bg-kao--left {
+    left: 0 !important; }
+  section .bg-kao--right {
+    right: 0; }
