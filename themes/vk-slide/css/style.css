@@ -1232,10 +1232,12 @@ section {
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   --color-icon: #c00;
+  /* utilities bootstrap overwide----------------*/
   /* utilities ----------------*/
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
   section * {
-    z-index: 1; }
+    z-index: 1;
+    box-sizing: border-box; }
   section h1 {
     font-size: 64px !important;
     color: #000; }
@@ -1353,7 +1355,7 @@ section.title-chapter {
 
 section .bg-kao {
   position: absolute;
-  color: rgba(0, 0, 0, 0.05) !important;
+  color: rgba(0, 0, 0, 0.1) !important;
   font-size: 58px !important;
   z-index: 0; }
   section .bg-kao--left {

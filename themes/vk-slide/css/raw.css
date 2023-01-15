@@ -1230,10 +1230,12 @@ section {
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   --color-icon: #c00;
+  /* utilities bootstrap overwide----------------*/
   /* utilities ----------------*/
   /* スライドタイトルなどの特殊スタイル ----------------*/ }
   section * {
-    z-index: 1; }
+    z-index: 1;
+    box-sizing: border-box; }
   section h1 {
     font-size: 64px !important;
     color: #000; }

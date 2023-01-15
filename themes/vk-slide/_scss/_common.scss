@@ -6,10 +6,11 @@ section {
 	--color-icon : #c00;
 	* {
 		z-index: 1;
+		box-sizing: border-box;
 	}
 	h1 {
 		font-size: 64px !important;
-		color: #000 
+		color: #000;
 	}
 	h2 {
 		font-size: 56px;
@@ -64,6 +65,7 @@ section {
 			padding-right:1em;
 		}
 	}
+	/* utilities bootstrap overwide----------------*/
 	.colmuns {
 		width:100%;
 		display: flex;
