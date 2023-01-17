@@ -1293,6 +1293,11 @@ section {
     line-height: 2; }
     section .list-icon i {
       color: var(--color-icon); }
+    section .list-icon ul {
+      padding-left: 0;
+      list-style: none; }
+      section .list-icon ul li {
+        margin-left: 0; }
   section .mb-0 {
     margin-bottom: 0 !important; }
   section .mt-0 {
@@ -1301,6 +1306,8 @@ section {
     margin-top: 10px !important; }
   section .mt-20 {
     margin-top: 20px !important; }
+  section .mt-30 {
+    margin-top: 30px !important; }
   section .pb-0 {
     padding-bottom: 0 !important; }
   section .telop {

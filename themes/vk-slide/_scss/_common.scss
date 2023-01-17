@@ -87,6 +87,13 @@ section {
 		i {
 			color:var(--color-icon);
 		}
+		ul {
+			padding-left:0;
+			list-style: none;
+			li {
+				margin-left:0;
+			}
+		}
 	}
 	.mb-0 {
 		margin-bottom:0 !important;

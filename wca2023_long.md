@@ -25,6 +25,10 @@ section{
 WordCamp Asia 2023
 # How can theme developers monetize in the era of Block Themes?
 
+<span class="hidden">
+ブロックテーマ時代にテーマ開発者はどうやってマネタイズできる？
+</span>
+
 Hidekazu Ishikawa
 @kurudrive
 
@@ -57,7 +61,7 @@ From now on, I would like to talk about
 <div><img src="images/1_profile.png" alt="" style="width:30vw" /></div>
 </div>
 
-In 2012, General-purpose theme development
+Since 2012, I have developed and distributed general-purpose WordPress themes for business in Japan.
 
 <!-- 
 First of all, 
@@ -67,8 +71,8 @@ My name is Hidekazu Ishikawa
 I came from japan.
 I am a WordPress theme developer.
 
-In 2012, 
-I Developed and released a general-purpose WordPress theme in Japan.
+Since 2012, 
+I have developed and distributed general-purpose WordPress themes for business in Japan.
  -->
 
 
@@ -91,6 +95,7 @@ Thanks to 80,000+ active installs
 <!-- 
 In 2015 
 I published Theme Lightning on wordpress.org
+This theme is currently used by over 80,000 sites
 -->
 
 ---------------------------------------------------------------------------
@@ -116,6 +121,7 @@ In addition, development and sales of other plug-ins
 <!-- 
 In 2022
 I published Block theme X-T9 on wordpress.org
+As for the block theme, I'm still trial and error.
 
 I also make a living by developing and selling other plug-ins.
 -->
@@ -124,11 +130,9 @@ I also make a living by developing and selling other plug-ins.
 
 ## Business model of theme authors<br>( Before full site editing )
 
-Sale
-
-* Premium Theme  (Classic theme)
-* theme extension plugin
-* block extension plugin ... etc.
+* Theme sales (Classic)
+* Selling plugins of theme function extension
+* Selling plugins of extension block ... etc.
 <div class="hidden">
 *  ( Undertake customizing own themes. )
 </div>
@@ -140,13 +144,19 @@ Relatively possible to sell and make money.
 like me,
 Business model of theme authors is
 
-sell 
-
-* Premium Theme
-* theme extension plugin
-* block extension plugin
+* Theme sales (Classic)
+* Selling plugins of theme function extension
+* Selling plugins of extension block ...etc
 
 I think these were the mainstream.
+
+━━━━━━━━━ 省略 ━━━━━━━━━━━
+one more,
+
+Theme authors can also undertake customizing their own themes, 
+but that is not the purpose of this session, 
+so I won't go into that.
+━━━━━━━━━ 省略 ━━━━━━━━━━━
 
 We could simply create a theme and sell it as a zip file.
 It was relatively possible to sell and make money.
@@ -169,55 +179,67 @@ Points where monetization has become more difficult than before
 # # 01
 # Traditional monetization points become less effective
 
-<!-- 
-No.1
-Traditional monetization points become less effective
- -->
 
 ---------------------------------------------------------------------------
 ## Before Full Site Editting
 
-
-
-<div class="row colmuns" style="margin-top:30px"> 
-<div class="col-6">
-
-<div class="alert alert-info">
-
-Selling Premium theme
-
+User want to change
 <div class="list-icon">
 
-<i class="fa-solid fa-sliders"></i> Header Setting
-<i class="fa-solid fa-sliders"></i> Footer Setting
-<i class="fa-solid fa-sliders"></i> Layout Setting
-<i class="fa-solid fa-sliders"></i> Slider Setting ...etc
+<i class="fa-solid fa-comment-dots"></i>Display element of the header
+<i class="fa-solid fa-comment-dots"></i>Layout of my site
+<i class="fa-solid fa-comment-dots"></i>Fonts and colors ... etc
 
 </div>
 
+<div class="alert alert-warning text-center mb-0" style="padding-left:10px;padding-right:10px">
+<i class="fa-regular fa-face-frown"></i> Users who don't understand code and CSS can't customize as desired.<br>
 </div>
-	</div>
-	<div class="col-6  text-center">
+
+<!-- 
+Before FSE
+
+For example
+user want to change
+
+* Display element of the header
+* Layout of own site
+* Fonts and colors ... etc
+
+But users who don't understand code and CSS 
+can't customize as desired.
+-->
+
+---------------------------------------------------------------------------
+
+Theme authors
+develop themes with unique editing functions
+and sell Premium themes
+
+<div class="row colmuns" style="margin-top:30px"> 
+	<div class="col-4">
 		<div class="alert alert-warning text-center">
-		<i class="fa-regular fa-face-smile"></i> User<br> 
+		<i class="fa-regular fa-face-smile"></i> Users<br> 
 		</div>
-		<i class="fa-solid fa-arrow-up"></i> Easily edit / 
-		<i class="fa-solid fa-sack-dollar" style="color:#d29922"></i> Reward <i class="fa-solid fa-arrow-down"></i>
-		<div class="alert alert-success text-center mt-30">
+	</div>
+	<div class="col-4 text-center">
+		<i class="fa-solid fa-arrow-left"></i> Easily edit<br>
+		<i class="fa-solid fa-sack-dollar" style="color:#d29922"></i> Paid <i class="fa-solid fa-arrow-right"></i>
+	</div>
+	<div class="col-4">
+		<div class="alert alert-success text-center">
 		<i class="fa-regular fa-face-smile"></i> Theme authors
 		</div>
 	</div>
 </div>
 
 <!-- 
-Before FSE
-
-Theme authors
-develop themes with unique editing functions
+Therefore, 
+theme authors develop themes with unique editing functions,
 and sell Premium themes
 
-User can easily edit
-Theme creators could get rewarded
+User can easily edit,
+Theme authors get paid
 
 Such a relationship existed and
 there was one monetization point here
@@ -229,17 +251,18 @@ there was one monetization point here
 
 The entire site can be customized with no code!
 
-<div class="list-icon">
-
-<i class="fa-solid fa-paintbrush"></i> Header and footer layout
-<i class="fa-solid fa-paintbrush"></i> Specify color and font size
-<i class="fa-solid fa-paintbrush"></i> Margin / Padding / Gap settings ...etc
-</div>
+* Header and footer layout
+* Specify color and font size
+* Margin / Padding / Gap settings ...etc
 
 <i class="fa-sharp fa-solid fa-arrow-right"></i> Much less theme dependent.
 
 <!-- 
 However, in FSE,
+
+* Header and footer layout
+* Specify color and font size
+* Margin / Padding / Gap settings ...etc
 
 Users can customize entire site with no code, 
 just standard WordPress features.
@@ -251,7 +274,7 @@ This makes it much less dependent on the theme.
 
 <center>
 
-### Then as someone who made a living out of theme sales...
+#### Then as someone who made a living out of theme sales...
 
  <!-- 
 Then as someone who made a living out of theme sales...
@@ -287,47 +310,35 @@ a matter of life and death.
 
 # Decreased monetization effect by original Block features.
 
-<!-- 
-No.2
-Decreased monetization effect by original Block features.
- -->
-
 ---------------------------------------------------------------------------
-<!-- _paginate: false  -->
-![bg right:26%](images/asia-group-panel-old.png)
 
-### Early block editors
+Early days when block editors were implemented,
+WordPress blocks lacked a lot of features.
 
+ex.
+* Margin adjustment function
+* Border setting
+* Advanced layout Block( like Media Block )  ... etc
 
-
-
-<div class="list-icon">
-
-<i class="fa-regular fa-face-frown-open"></i>No margin adjustment function
-<i class="fa-regular fa-face-frown-open"></i>No border setting
-<i class="fa-regular fa-face-frown-open"></i>Can't Advanced layout
-　 ( need like Media Block )  ... etc
-
-</div>
-
-We have developed our original blocks
-
-
-<i class="fa-sharp fa-solid fa-arrow-right"></i> Used them as added value (monetization points).
+<i class="fa-sharp fa-solid fa-arrow-right"></i>We have developed our original blocks and 
+used them as added value (monetization points).
 
 <!-- 
-Early block editors had poor editing capabilities
+Early days when block editors were implemented
+WordPress blocks lacked a lot of features.
+
+for example
+
+* Margin adjustment
+* Border setting
+* Advanced layout Block  ... etc
 
 so
-
-We have developed original blocks with various adjustment functions and layouts,
-and 
-Used them as added value (monetization points).
+We have developed our original blocks and 
+used them as added value (monetization points).
 -->
 
 ---------------------------------------------------------------------------
-<!-- _paginate: false  -->
-![bg right:19%](images/asia-group-palel.png)
 
 ### WordPress version upgrade...
 
@@ -369,7 +380,7 @@ the monetization points have disappeared.
 
 ---------------------------------------------------------------------------
 
-### In addition ...
+#### In addition ...
 
 <div class="alert alert-danger">
 

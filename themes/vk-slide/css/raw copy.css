@@ -1290,6 +1290,11 @@ section {
     line-height: 2; }
     section .list-icon i {
       color: var(--color-icon); }
+    section .list-icon ul {
+      padding-left: 0;
+      list-style: none; }
+      section .list-icon ul li {
+        margin-left: 0; }
   section .mb-0 {
     margin-bottom: 0 !important; }
   section .mt-0 {
