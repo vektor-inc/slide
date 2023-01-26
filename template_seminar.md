@@ -143,6 +143,10 @@ https://www.vektor-inc.co.jp/product-update/vk-blocks-pro1-49-0-custom-block-sty
 
 
 ---
+## VK Blocks のスライダーブロックでカルーセル機能が強化されました
+
+
+---
 
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
