@@ -82,8 +82,19 @@ section {
 		line-height: 2;
 		font-weight: bold;
 	}
+	ul {
+		padding-left:0;
+		li{
+			margin-left:1em;
+			padding-left:0;
+			&.ls-none {
+				list-style: none;
+				margin-left:0;
+				padding-left: 0;
+			}
+		}
+	}
 	.list-icon {
-		line-height: 2;
 		i {
 			color:var(--color-icon);
 		}
@@ -92,23 +103,54 @@ section {
 			list-style: none;
 			li {
 				margin-left:0;
+				margin-bottom:0.5em;
 			}
 		}
 	}
 	.mb-0 {
 		margin-bottom:0 !important;
 	}
+	.mb-0 {
+		margin-bottom:0 !important;
+	}
+	.mb-8 {
+		margin-bottom:8px !important;
+	}
+	.mb-16 {
+		margin-bottom:16px !important;
+	}
+	.mb-24 {
+		margin-bottom:24px !important;
+	}
+	.mb-32 {
+		margin-bottom:32px !important;
+	}
+	.mb-40 {
+		margin-bottom:40px !important;
+	}
+	.mb-48 {
+		margin-bottom:48px !important;
+	}
 	.mt-0 {
 		margin-top:0 !important;
 	}
-	.mt-10 {
-		margin-top:10px !important;
+	.mt-8 {
+		margin-top:8px !important;
 	}
-	.mt-20 {
-		margin-top:20px !important;
+	.mt-16 {
+		margin-top:16px !important;
 	}
-	.mt-30 {
-		margin-top:30px !important;
+	.mt-24 {
+		margin-top:24px !important;
+	}
+	.mt-32 {
+		margin-top:32px !important;
+	}
+	.mt-40 {
+		margin-top:40px !important;
+	}
+	.mt-48 {
+		margin-top:48px !important;
 	}
 	.pb-0 {
 		padding-bottom:0 !important;
