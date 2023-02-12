@@ -1283,6 +1283,10 @@ section {
     justify-content: space-between; }
   section .text-center {
     text-align: center !important; }
+  section .align-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
   section .text-huge {
     font-size: 2em;
     line-height: 2;
