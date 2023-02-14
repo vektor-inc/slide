@@ -1310,6 +1310,11 @@ section {
     section .list-icon ul li {
       margin-left: 0;
       margin-bottom: 0.5em; }
+  section .title-parent {
+    position: absolute;
+    right: 15px !important;
+    top: 15px;
+    font-size: 32px; }
   section .mb-0 {
     margin-bottom: 0 !important; }
   section .mb-0 {
