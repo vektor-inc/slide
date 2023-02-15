@@ -1389,10 +1389,6 @@ section {
     section.speaking-ja p, section.speaking-ja li {
       font-size: 28px; }
 
-.bespoke-marp-note {
-  border: 1px solid #ff0000;
-  font-size: 36px !important; }
-
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;
   background-size: cover !important;
