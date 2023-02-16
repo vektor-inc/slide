@@ -1382,12 +1382,6 @@ section {
     background-color: #e5e5e5; }
   section .text-danger {
     color: #c00; }
-  section.speaking {
-    background-color: #fff09a; }
-  section.speaking-ja {
-    background-color: #e5e5e5; }
-    section.speaking-ja p, section.speaking-ja li {
-      font-size: 28px; }
 
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;

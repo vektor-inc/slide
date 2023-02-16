@@ -224,19 +224,7 @@ section {
 	.text-danger {
 		color:#c00;
 	}
-	// セリフ用
-	&.speaking {
-		background-color:#fff09a;
-	}
 	@media print {
 
-	}
-	&.speaking-ja {
-		// display: none !important;
-		// height:0 !important;
-		background-color:#e5e5e5;
-		p,li {
-			font-size:28px;
-		}
 	}
 }

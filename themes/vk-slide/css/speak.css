@@ -1,0 +1,28 @@
+section {
+  padding: 2em !important;
+  --body-font-size:42px;
+  --margin-p: 15px;
+  --line-height:1.2; }
+  section p {
+    font-size: var(--body-font-size) !important; }
+  section, section p, section h2, section h3, section h4, section h5, section h6, section ul, section li {
+    line-height: var(--line-height) !important;
+    margin-top: var(--margin-p) !important;
+    margin-bottom: var(--margin-p) !important;
+    border: none; }
+  section ul li:first-child {
+    margin-top: 0 !important; }
+  section ul li:last-child {
+    margin-bottom: 0 !important; }
+  section img.speak-bg {
+    position: absolute;
+    opacity: 0.15; }
+  section h3 {
+    font-size: calc( var(--body-font-size) * 1.1) !important; }
+  section .text-ghost {
+    color: rgba(0, 0, 0, 0.1) !important; }
+  section .title-parent {
+    font-size: 24px !important;
+    color: #999; }
+  section strong {
+    color: #c00; }
