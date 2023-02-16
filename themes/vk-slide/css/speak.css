@@ -1,5 +1,6 @@
 section {
   padding: 2em !important;
+  --body-font-size:42px;
   --line-height:1.2; }
   section p {
     font-size: 42px !important; }
@@ -7,18 +8,25 @@ section {
     line-height: var(--line-height) !important;
     margin-top: 10px !important;
     margin-bottom: 10px !important;
-    border: none; }
+    border: none;
+    text-shadow: 0px 0px 15px #fff; }
   section ul li:first-child {
     margin-top: 0 !important; }
   section ul li:last-child {
     margin-bottom: 0 !important; }
   section img.speak-bg {
     position: absolute;
-    opacity: 0.15; }
+    opacity: 0.2; }
+    section img.speak-bg--op-30 {
+      opacity: 0.3; }
+    section img.speak-bg--op-50 {
+      opacity: 0.5; }
+    section img.speak-bg--op-80 {
+      opacity: 0.8; }
   section h2 {
-    font-size: calc( $body-font-size * 1.1) !important; }
+    font-size: calc( var(--body-font-size) * 1.1) !important; }
   section h3 {
-    font-size: calc( $body-font-size * 1.1) !important; }
+    font-size: calc( var(--body-font-size) * 1.1) !important; }
   section .text-ghost {
     color: rgba(0, 0, 0, 0.1) !important; }
   section .title-parent {

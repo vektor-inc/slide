@@ -2,6 +2,7 @@
 section {
 	padding:2em !important; 
 	$body-font-size:42px;
+	--body-font-size:42px;
 	$margin_p : 10px;
 	--line-height:1.2;
 	p {
@@ -12,6 +13,7 @@ section {
 		margin-top:$margin_p !important;
 		margin-bottom:$margin_p !important;
 		border:none;
+		text-shadow: 0px 0px 15px #fff;
 	}
 	ul li {
 		&:first-child{
@@ -23,13 +25,23 @@ section {
 	}
 	img.speak-bg {
 		position: absolute;
-		opacity: 0.15
+		opacity: 0.2;
+
+		&--op-30{
+			opacity: 0.3
+		}
+		&--op-50{
+			opacity: 0.5
+		}
+		&--op-80{
+			opacity: 0.8
+		}
 	}
 	h2 {
-		font-size: calc( $body-font-size * 1.1 ) !important;
+		font-size: calc( var(--body-font-size) * 1.1 ) !important;
 	}
 	h3 {
-		font-size: calc( $body-font-size * 1.1 ) !important;
+		font-size: calc( var(--body-font-size) * 1.1 ) !important;
 	}
 	.text-ghost {
 		color:rgba(0,0,0,0.1) !important;

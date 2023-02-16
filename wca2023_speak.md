@@ -670,9 +670,9 @@ How to control display elements according to screen size?
 * However, when it comes to **layout on multiple width are actually not that easy**.
 
 ---------------------------------------------------------------------------
-<img class="speak-bg" src="images/bg-many-business-opportunites.svg" alt="" />
+<img class="speak-bg speak-bg--op-80" src="images/bg-many-business-opportunites.svg" alt="" />
 
-<div style="padding-bottom:22vh">
+<div style="padding-bottom:35vh">
 
 I feel it will be difficult to monetize the theme alone, but...
 
