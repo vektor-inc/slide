@@ -131,11 +131,11 @@ This makes it much less dependent on the theme.
 ---------------------------------------------------------------------------
 
 
-Monetization points disappeared.
+#### Monetization points disappeared.
 
  (´；ω；｀)
 
- and it is
+ <p class="mt-40">and it is</p>
 
 ---------------------------------------------------------------------------
 
@@ -205,16 +205,14 @@ Monetization points <br>disappeared...
 
 ### In addition to
 
-In addition to
-
 * Once released
 Original blocks become an 
-ongoing maintenance burden
+**ongoing maintenance burden**
 
 and 
 
 * It became necessary to 
-keep a close watch on Gutenberg's developments.
+**keep a close watch on Gutenberg's developments.**
 
 
 ---------------------------------------------------------------------------
@@ -235,10 +233,12 @@ section p{
 </style>
 
 Probably 
-many theme & custom block developers are facing this issue?
+
+Many theme & custom block developers are facing this issue?
 
 However, 
-it is inevitable in the evolution of WordPress.
+
+It is inevitable in the evolution of WordPress.
 
 <div class="bg-kao bg-kao--left" style="bottom:10px">
 |Ｔ－Ｔ）.oO（ I know ）
@@ -256,7 +256,7 @@ greatly influenced by FSE.
 
 As a result, I feel 
 
-it has become difficult to monetize 
+It has become difficult to monetize 
 traditional "theme sales"
 
  ---------------------------------------------------------------------------
@@ -291,9 +291,9 @@ Selling themes and plugins that includes various block patterns.
 However, as mentioned earlier
 
 <div class="alert alert-warning" style="margin-right:35%;">
-There is nothing that 
-users cannot create on their own, 
-so it is weak as a point of monetization.
+
+There is nothing that users cannot create on their own, so it is **weak as a point of monetization**.
+
 </div>
 
 ---------------------------------------------------------------------------
@@ -347,7 +347,7 @@ However
 
 * Expected to taper off due to less reliance on the theme
 
-* Even if sell only the pattern, it seems to be difficult because even users have the impression that they can make them on their own.
+* Even if sell only the pattern, it seems to be difficult / because even users have the impression that they can make them on their own.
 
 in addition to
 
@@ -375,12 +375,12 @@ Premium Patterns added
 
 This configuration is
 
-* User can use both
+* **User can use both**
 the classic theme and the new block theme
 
-* Keep existing users by the value of the Premium Patterns
+* **Keep existing users by the value of the Premium Patterns**
 
-* Acquire new users through the 
+* **Acquire new users** through the 
 value of our Premium Patterns
 
 and the 
@@ -414,9 +414,7 @@ This is a site similar to the official pattern directory.
 
 Because
 
-### Still difficult only with core blocks
-
-Still difficult only with core blocks,
+### Still difficult only with core blocks,
 
 so
 I wanted to use my own original blocks 
@@ -491,10 +489,13 @@ For us,
 we need to make an effort to 
 get users to continue to license 
 even if the dependency of the theme decreases.
-( Acquisition of new users )
 
 then,
 ### How to increase product value?
+
+<div class="bg-kao bg-kao--right" style="bottom:10px;font-size:120px !important;">
+（・ｗ・
+</div>
 
 ---------------------------------------------------------------------------
 
@@ -552,14 +553,14 @@ for a specific industry.
 
 There is 
 
-**For the end user**
+<b>For the end user</b>
 They are Just rewrite the text to suit their business.
 
 for the 
-**Commissioned creation**
+<b>Commissioned creation</b>
 
 By using a pattern as a draft of the page, 
-the **meeting with the client becomes smooth**
+the <b>meeting with the client becomes smooth</b>
 
 ---------------------------------------------------------------------------
 <style scope>
@@ -578,8 +579,6 @@ When providing as a pattern for the entire page including sentences
 
 * Content and design trends vary by region
 
-* Localized versions also have the benefit of not competing with English-speaking developers.
-
 <div class="alert alert-info">
 
 <b>Localized versions</b> also have the benefit of not competing with English-speaking developers.
@@ -596,7 +595,7 @@ Second
 
 This function allows 
 users to register own favorite patterns 
-and easily recall them.
+and **easily recall them**.
 
 <div class="bg-kao bg-kao--right" style="bottom:0px;right:10vw;font-size:250px !important;color:#c00 !important; opacity:0.15">
 <i class="fa-solid fa-heart"></i>
@@ -645,7 +644,7 @@ problem with the uniformity of the design.
 
 Even in the era of FSE
 
-## Users need good themes and <br>highly practical patterns
+## Users need good themes and highly practical patterns
 
 FSE is highly configurable and customizable but, 
 **too much configuration work**.

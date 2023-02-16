@@ -1,6 +1,6 @@
 section {
   padding: 2em !important;
-  --body-font-size:42px;
+  --body-font-size:48px;
   --margin-p: 15px;
   --line-height:1.2; }
   section p {
@@ -17,6 +17,8 @@ section {
   section img.speak-bg {
     position: absolute;
     opacity: 0.15; }
+  section h2 {
+    font-size: calc( var(--body-font-size) * 1.1) !important; }
   section h3 {
     font-size: calc( var(--body-font-size) * 1.1) !important; }
   section .text-ghost {
