@@ -1,16 +1,16 @@
 
 section {
 	padding:2em !important; 
-	--body-font-size:48px;
-	--margin-p : 15px;
+	$body-font-size:42px;
+	$margin_p : 10px;
 	--line-height:1.2;
 	p {
-		font-size:var(--body-font-size) !important;
+		font-size:$body-font-size !important;
 	}
 	&,p,h2,h3,h4,h5,h6,ul,li {
 		line-height: var(--line-height) !important;
-		margin-top:var( --margin-p ) !important;
-		margin-bottom:var( --margin-p ) !important;
+		margin-top:$margin_p !important;
+		margin-bottom:$margin_p !important;
 		border:none;
 	}
 	ul li {
@@ -26,10 +26,10 @@ section {
 		opacity: 0.15
 	}
 	h2 {
-		font-size: calc( var(--body-font-size) * 1.1 ) !important;
+		font-size: calc( $body-font-size * 1.1 ) !important;
 	}
 	h3 {
-		font-size: calc( var(--body-font-size) * 1.1 ) !important;
+		font-size: calc( $body-font-size * 1.1 ) !important;
 	}
 	.text-ghost {
 		color:rgba(0,0,0,0.1) !important;
@@ -40,5 +40,14 @@ section {
 	}
 	strong {
 		color:#c00;
+	}
+	.alert {
+		padding:0 10px;
+		&>*:first-child{
+			margin-top:0 !important;
+		}
+		&>*:last-child{
+			margin-bottom:0 !important;
+		}
 	}
 }

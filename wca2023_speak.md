@@ -248,6 +248,13 @@ It is inevitable in the evolution of WordPress.
 
 ![bg](images/bg-influenced-by-fse.svg)
 
+<style scoped>
+section p{
+  font-size:48px !important;
+}
+</style>
+
+
 In this way,
 
 The area that theme developers 
@@ -278,6 +285,12 @@ traditional "theme sales"
 
 ---------------------------------------------------------------------------
 
+<style scoped>
+section p{
+  font-size:34px !important;
+}
+</style>
+
 <img class="speak-bg" src="images/bg-diff-block-patterns.svg" alt="" />
 
 First, we can consider 
@@ -290,7 +303,7 @@ Selling themes and plugins that includes various block patterns.
 
 However, as mentioned earlier
 
-<div class="alert alert-warning" style="margin-right:35%;">
+<div class="alert alert-warning" style="margin-right:25%;">
 
 There is nothing that users cannot create on their own, so it is **weak as a point of monetization**.
 
@@ -366,10 +379,10 @@ Premium Patterns added
 
 
 ---------------------------------------------------------------------------
-<style scope>
-	section {
-		--body-font-size:40px;
-	}
+<style scoped>
+section p{
+  font-size:38px !important;
+}
 </style>
 
 
@@ -549,7 +562,7 @@ for a specific industry.
 
 ---------------------------------------------------------------------------
 
-![bg right:40%](images/bg-john-schnobrich-FlPc9_VocJ4-unsplash.jpg)
+![bg right:20%](images/bg-john-schnobrich-FlPc9_VocJ4-unsplash.jpg)
 
 There is 
 
@@ -563,12 +576,6 @@ By using a pattern as a draft of the page,
 the <b>meeting with the client becomes smooth</b>
 
 ---------------------------------------------------------------------------
-<style scope>
-	section {
-		--body-font-size:36px;
-		--margin-p : 10px;
-	}
-</style>
 
 
 When providing as a pattern for the entire page including sentences
