@@ -66,7 +66,7 @@ I also make a living by developing and selling theme extension plugins and other
 
 <img class="speak-bg" src="images/bg-bussines-model-01.svg" alt="" />
 
-like me, Business model of theme authors is
+like me, the business model of theme developers is
 
 Create and sell 
 
@@ -103,7 +103,7 @@ It was relatively possible to sell and make money.
 
 ## Before FSE
 
-Theme authors
+Theme developers
 develop themes with unique editing functions
 and sell Premium themes
 
