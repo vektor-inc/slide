@@ -41,7 +41,7 @@ I'm a WordPress theme developer.
 <hr>
 
 In 2012, 
-I released a general-purpose WordPress theme in Japan.
+I published my first business WordPress theme on my site.
 
 
 ---------------------------------------------------------------------------
