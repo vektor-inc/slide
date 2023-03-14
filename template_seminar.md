@@ -103,7 +103,7 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://www.commentscreen.com/comments?id=yON1csBVwso87zBaC1Uv
+https://commentscreen.com/comments?id=IIDfWRgwBVeikyRM859x
 
 コメント、リアクションをぜひお願いします！
 
@@ -192,7 +192,7 @@ https://vektor-inc.co.jp/wca2023/
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/CgSpzXMXLJkWgUCq7
+https://forms.gle/dX76RV9izP7s4sya9
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
