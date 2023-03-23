@@ -243,7 +243,7 @@ https://vektor.connpass.com/event/278659/
 # その他の連絡事項、告知など
 
 ---
-![bg](images/konshinkai-40.png)
+![bg](images/konshinkai-43.png)
 
 ---
 <!-- _class: title -->
