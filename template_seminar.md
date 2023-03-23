@@ -212,11 +212,10 @@ https://forms.gle/dX76RV9izP7s4sya9
 
 ## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
 
-https://youtube.com/playlist?list=PL_Z0nmiLLW6tzsuoy15eAwn-8qrtCEyyF
+https://www.youtube.com/@VektorInc
+🌟2022年12月までの勉強会動画がまるッとみれます！
 
-CSSカスタマイズ / PHP超入門 / アクションフック /
-物件情報サイト作成 / ビジネスサイト作成 / パターン活用 /
-Lightningカスタマイズ / 配色の基本 / SEO関連設定
+おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
  
 
 __🔔チャンネル登録もよろしければぜひ！__
