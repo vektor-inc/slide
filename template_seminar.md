@@ -21,8 +21,8 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #043
-# WordPress最新バージョン6.2を<br>触ってみよう
+VWS オンライン勉強会 #044
+# CSSの小技とパターンで作るWordPressサイト第2弾
 
 まもなくスタート
 #wpvektor ツイート大歓迎！
@@ -74,13 +74,13 @@ VWS オンライン勉強会 #043
 
 ## 勉強会中のチャット
 
-勉強会中のチャットはzoom上ではなくslackで行っております。
+勉強会中のチャットはZoom・YouTube上ではなくDiscordで行っております。
 
-<strong>VWS の Slack #ミーティング チャンネル に一言どうぞ！</strong>
+<strong>VWS の Discord #ミーティング チャンネル に一言どうぞ！</strong>
 
-- Slackのデスクトップアプリもあり便利です
+- Discordのデスクトップアプリもあり便利です
 
-- Slackにまだ登録していない/ログイン情報を忘れた場合
+- Discordにまだ登録していない/ログイン情報を忘れた場合
 → connpassに記載のURLをご参考ください。
 
 ---
@@ -88,9 +88,9 @@ VWS オンライン勉強会 #043
 ## 本日の内容
 
 * 製品アップデート・その他お知らせ
-* 『WordPress最新バージョン6.2を触ってみよう』
-  * 前半：ブロックエディターユーザー向け(約40分)
-  * 後半：開発者向け(約20分)
+* 『CSSの小技とパターンで作るWordPressサイト第2弾』
+  * 前半:現場で使える見出しパターン21選！
+  * 後半: サイト作成をスムーズに！パターンで作るWordPressサイト LP編
 * なんでも質問相談会（〜22:00まで）
 * 22:05頃から懇親会・ユーザーフィードバック会（Zoomのみ、配信なし）
 
@@ -125,32 +125,35 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ## 今月の新機能 / 新製品その他お知らせ
 
+---
+
+![bg](images/Vektor-product-2023.png)
 
 ---
 
-## VK Blocks のスライダーブロックで複数枚表示の際にデバイス毎の表示数を指定できるようになりました（再度のご案内）
-
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-50-0-slider/
+![bg](images/Vektor-plugin-2023.png)
 
 ---
 
-## VK Block Patterns で 作成したパターンを任意の投稿タイプのデフォルトパターンに指定する機能を追加しました。
-
-https://www.vektor-inc.co.jp/product-update/vk-block-patterns-1-26-0/
+![bg](images/Vektor-plugin-pro-2023.png)
 
 ---
 
-## VK Blocks のスライダーブロックで左右のスライドを少し見せる設定ができるようになりました
+## VK All in One Expansion Unit で特定の固定ページをページリストから除外する機能を追加しました。
 
-Ver. 1.53.0
-https://www.vektor-inc.co.jp/product-update/vk-blocks1-53-0-slides-per-view/
+Ver. 9.88.0.0
+
+https://www.vektor-inc.co.jp/product-update/vk-all-in-one-expansion-unit-9-88-0-0/
 
 ---
 
-## WordCamp Asia 2023 バンコクに行ってきました！
-https://vektor-inc.co.jp/wca2023/
+## VWSオンラインコミュニティをDiscordに移行します。
+https://www.vektor-inc.co.jp/info/migration-to-discord/
 
-懇親会で舞台裏のお話をする予定です！
+---
+
+## 有料版インポートデータの配布を開始しました
+
 
 ---
 
@@ -160,26 +163,35 @@ https://vektor-inc.co.jp/wca2023/
 
 # 本編
 
-## WordPress 最新バージョン 6.2 を<br>触ってみよう
+## CSSの小技とパターンで作る <br>WordPressサイト第2弾
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
-## WordPress 最新バージョン 6.2 を触ってみよう
-### 前半：ブロックエディターユーザー向け
+## CSSの小技とパターンで作るWordPressサイト第2弾
+### 1. 現場で使える見出しパターン21選！
 
-スピーカー：ベクトルスタッフ佐々木さん
+スピーカー：ベクトルスタッフ 久納さん
 
-6.2 で気になる新機能・ブロックエディタ周りのアレコレ
-https://www.vektor-inc.co.jp/post/wordpress-6-2-dev-note-note/
+https://www.vektor-inc.co.jp/post/copy-and-paste-heading/
 
 ---
 
-## WordPress 最新バージョン 6.2 を触ってみよう
-### 後半：開発者向け
+## VK Simple Copy Block のご紹介
 
-スピーカー：ベクトル開発リーダー石川
+__スピーカー：ベクトル開発リーダー石川__
 
+WordPressサイトでよく使うブロックパターンを管理する場合に、ブロックパターンのコピーボタンを追加できる便利なプラグインを公開しました！
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-simple-copy-block/
+
+---
+
+## CSSの小技とパターンで作るWordPressサイト第2弾
+### 3. サイト作成をスムーズに！パターンで作るWordPressサイト LP編
+
+スピーカー：ベクトルスタッフ 久納さん&鳥山さん
+
+https://www.vektor-inc.co.jp/post/vk-pattern-library-lp/
 
 ---
 
@@ -201,7 +213,7 @@ https://www.vektor-inc.co.jp/post/wordpress-6-2-dev-note-note/
 # 参加後アンケートのお願い
 
 参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/dX76RV9izP7s4sya9
+https://forms.gle/yPb4VWPB1S6TcesNA
 
 - 勉強会の感想
 - 今後取り上げてほしいテーマなど
@@ -227,12 +239,12 @@ __🔔チャンネル登録もよろしければぜひ！__
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会（予定）
-2023/4/20(木)予定 VWSオンライン勉強会 #044
+2023/5/21(日)15時30分〜 【東京開催＆ライブ配信】
 
-### CSSの小技とパターンで作る<br>WordPressサイト第2弾
+### WordPress 最新機能フルサイト編集での制作実演
+今回は東京にて4年ぶりに現地開催をすることになりました！
 コンパスにてご参加登録受付中！
-
-https://vektor.connpass.com/event/278659/
+https://vektor.connpass.com/event/280075/
 
 ---
 
