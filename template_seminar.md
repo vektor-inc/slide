@@ -161,15 +161,23 @@ https://www.vektor-inc.co.jp/info/migration-to-discord/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 本編
+## CSSの小技とパターンで作るWordPressサイト第2弾
 
-## CSSの小技とパターンで作る <br>WordPressサイト第2弾
+
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 ## CSSの小技とパターンで作るWordPressサイト第2弾
-### 1. 現場で使える見出しパターン21選！
+### 前半: 現場で使える見出しパターン21選！
+（無料版・他社テーマでもコピペOK）
+
+### 後半: サイト作成をスムーズに！パターンで作るWordPressサイト LP編
+(有料版ベース・デザインと組み合わせのご参考に)
+
+---
+## CSSの小技とパターンで作るWordPressサイト第2弾
+### 前半：現場で使える見出しパターン21選！
 
 スピーカー：ベクトルスタッフ 久納さん
 
