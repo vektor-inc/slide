@@ -129,14 +129,25 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 
 ![bg](images/Vektor-product-2023.png)
 
+
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-95&t=J1LhNNlIF3qqVELK-4
+-->
+
 ---
 
 ![bg](images/Vektor-plugin-2023.png)
 
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-154&t=J1LhNNlIF3qqVELK-4
+-->
 ---
 
 ![bg](images/Vektor-plugin-pro-2023.png)
 
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-170&t=J1LhNNlIF3qqVELK-4
+-->
 ---
 
 ## VK All in One Expansion Unit で特定の固定ページをページリストから除外する機能を追加しました。
@@ -258,6 +269,9 @@ https://vektor.connpass.com/event/280075/
 
 ![bg](images/Vektor-Passport-2023.png)
 
+<!-- Figmaデータはこちら:
+-->
+
 ---
 
 <!-- _class: title-chapter  -->
@@ -267,7 +281,11 @@ https://vektor.connpass.com/event/280075/
 # その他の連絡事項、告知など
 
 ---
-![bg](images/konshinkai-43.png)
+![bg](images/konshinkai-plain.jpg)
+
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/jmqd4U5MpLRQeFRF2lxN4o/%E6%87%87%E8%A6%AA%E4%BC%9A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85?node-id=202-2&t=mtFDFswNDhyA0pgU-4
+-->
 
 ---
 <!-- _class: title -->
