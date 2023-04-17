@@ -256,6 +256,10 @@ https://vektor.connpass.com/event/280075/
 
 ---
 
+![bg](images/Vektor-Passport-2023.png)
+
+---
+
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
