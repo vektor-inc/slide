@@ -103,7 +103,7 @@ URLリンク情報などはSlackや後日のレポートブログで共有いた
 
 ## ハッシュタグは #wpvektor
 ## コメントスクリーンはこちらから
-https://commentscreen.com/comments?id=IIDfWRgwBVeikyRM859x
+https://www.commentscreen.com/comments?id=NkmoFYoOovycfTVqxXR4
 
 コメント、リアクションをぜひお願いします！
 
@@ -158,6 +158,14 @@ https://www.vektor-inc.co.jp/product-update/vk-all-in-one-expansion-unit-9-88-0-
 
 ---
 
+## VK Filter Search Pro で送信ボタンの背景色や文字サイズの変更などができるようになりました。
+
+Ver. 1.14.1
+
+https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-14-1-add-button-setting/
+
+---
+
 ## VWSオンラインコミュニティをDiscordに移行します。
 https://www.vektor-inc.co.jp/info/migration-to-discord/
 
@@ -165,6 +173,11 @@ https://www.vektor-inc.co.jp/info/migration-to-discord/
 
 ## 有料版インポートデータの配布を開始しました
 
+---
+
+## Ligthing の SEO に関する設定をまとめたページを公開しました
+
+https://lightning.vektor-inc.co.jp/setting/seo/
 
 ---
 
