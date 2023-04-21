@@ -166,6 +166,19 @@ https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-14-1-add-butt
 
 ---
 
+## VK Blocks Pro 
+
+* 余白設定でCSS変数などが使用できるようになりました
+
+* アーカイブリストブロック
+* タクソノミーブロック
+
+## ダイナミック If ブロック
+
+https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/
+
+---
+
 ## VWSオンラインコミュニティをDiscordに移行します。
 https://www.vektor-inc.co.jp/info/migration-to-discord/
 
