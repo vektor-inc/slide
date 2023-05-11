@@ -21,11 +21,14 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #044
-# CSSの小技とパターンで作るWordPressサイト第2弾
+ベクトル勉強会 東京開催＆ライブ配信
+2023年5月21日　15時30分〜
+# WordPress 最新機能<br>フルサイト編集での制作実演
 
-まもなくスタート
 #wpvektor ツイート大歓迎！
+
+※会場の写真撮影は、他の参加者さんの写り込みに
+　ご配慮ください。
 
 
 ---
@@ -38,92 +41,11 @@ VWS オンライン勉強会 #044
 
 ---
 
-## この勉強会について
-
-株式会社ベクトルが運営、WordPressやウェブ制作にかかせないさまざまなテーマをとりあげて開催しているオンライン勉強会。
-
-ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
-
-また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
-
-基本的に、毎月1回、だいたい第4週目に開催しております。
-
----
-![bg](images/Team-Vektor-202208.png)
-
----
-
-## 歓迎されること
-
-* ライブビューイングのノリで __チャットでわいわい__ していただければと思います。
-* ぜひツイートして盛り上げてください <strong>#wpvektor</strong>
-* __初参加者さんを歓迎__ してください。
-* __やさしい言葉使い__ を心がけて、誰にとっても快適な勉強会となるようにご協力ください。
-
----
-
-## ご参加にあたって
-
-* 随時途中で音声でのご質問もOKです。
-* 発言時以外はミュートにしてください。
-（テレビ・同居人・外部の騒音）
-* 一部録画し、YouTubeにてアーカイブとして公開します。
-
-
----
-
-## 勉強会中のチャット
-
-勉強会中のチャットはZoom・YouTube上ではなくDiscordで行っております。
-
-<strong>VWS の Discord #ミーティング チャンネル に一言どうぞ！</strong>
-
-- Discordのデスクトップアプリもあり便利です
-
-- Discordにまだ登録していない/ログイン情報を忘れた場合
-→ connpassに記載のURLをご参考ください。
-
----
-
-## 本日の内容
-
-* 製品アップデート・その他お知らせ
-* 『CSSの小技とパターンで作るWordPressサイト第2弾』
-  * 前半:現場で使える見出しパターン24選！
-  * 後半: サイト作成をスムーズに！パターンで作るWordPressサイト LP編
-* なんでも質問相談会（〜22:00まで）
-* 22:05頃から懇親会・ユーザーフィードバック会（Zoomのみ、配信なし）
-
----
-
-## セッションの内容は後から振り返りできます
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
-
----
-
-## ハッシュタグは #wpvektor
-## コメントスクリーンはこちらから
-https://www.commentscreen.com/comments?id=NkmoFYoOovycfTVqxXR4
-
-コメント、リアクションをぜひお願いします！
-
----
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## だれでもお気軽に 質問・回答 記入シート
-
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## 今月の新機能 / 新製品その他お知らせ
+# 株式会社ベクトルについて
 
 ---
 
@@ -136,61 +58,52 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ---
 
-![bg](images/Vektor-plugin-2023.png)
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-154&t=J1LhNNlIF3qqVELK-4
--->
----
-
 ![bg](images/Vektor-plugin-pro-2023.png)
 
 <!-- Figmaデータはこちら:
 https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-170&t=J1LhNNlIF3qqVELK-4
 -->
----
 
-## VK All in One Expansion Unit で特定の固定ページをページリストから除外する機能を追加しました。
-
-Ver. 9.88.0.0
-
-https://www.vektor-inc.co.jp/product-update/vk-all-in-one-expansion-unit-9-88-0-0/
 
 ---
+![bg](images/Team-Vektor-202208.png)
 
-## VK Filter Search Pro で送信ボタンの背景色や文字サイズの変更などができるようになりました。
-
-Ver. 1.14.1
-
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-14-1-add-button-setting/
 
 ---
+## 本日の内容
 
-## VK Blocks Pro 
-
-* 余白設定でCSS変数などが使用できるようになりました
-
-* アーカイブリストブロック
-* タクソノミーブロック
-
-## ダイナミック If ブロック
-
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/
+* ご参加にあたって & 会場のご案内
+* WordPress 最新機能フルサイト編集での制作実演（60分）
+* 休憩（ライブ配信はここまで）
+* アンカンファレンス、プレゼント企画（〜17:50頃まで）
+* 記念撮影（希望者のみで）
+* 18時終了（会場は18時まで）
 
 ---
 
-## VWSオンラインコミュニティをDiscordに移行します。
-https://www.vektor-inc.co.jp/info/migration-to-discord/
+
+## ご参加にあたって（１）
+
+* WordPressでのサイト制作（特に受託制作）にご興味がある方 であれば、どなたでもご参加いただけます。
+* PHPの知識はなくても大丈夫ですが、WordPressとCSS＋HTMLの基礎知識があることが前提の内容になります。
+
 
 ---
 
-## Lightning G3 Pro クイックスタート<br>有料版インポートデータの配布を開始しました
+## ご参加にあたって（２）
+
+* WordPressが全く初心者の方には難しい内容となっています。（本日のスピーカー石川の共著のWordPress入門最新書籍を後程ご案内します。プレゼント企画も！）
+* 本日対面で参加の方への後日サポートなどは特に設けておりませんのでご了承ください。後半のアンカンファレンスの際に一緒に解決していきましょう。
+* ライブ配信はオマケです。視聴のみでご参加のみの場合、テキストチャットサポートなどはありませんのでご了承ください。
 
 ---
 
-## Ligthing の SEO に関する設定をまとめたページを公開しました
+## セッションの内容は後から振り返りできます
+動画アーカイブや本日の関連資料は後日のレポートブログで共有いたします。安心してゆっくり見てください。
 
-https://lightning.vektor-inc.co.jp/setting/seo/
+### ベクトル公式 Twitter @vektor_inc 
+ぜひフォローしてください
+
 
 ---
 
@@ -198,88 +111,53 @@ https://lightning.vektor-inc.co.jp/setting/seo/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## CSSの小技とパターンで作るWordPressサイト第2弾
+## 会場について
 
+（Zoom画面共有をストップ）
+
+
+---
+## 会場について
+- Wi-Fi のご案内
+- お手洗い、非常口
+- お飲み物、ごみばこ
+
+---
+
+## 会場の皆さんとのやりとり Sli.do
+
+- 今日ご参加の皆さんへ質問
+- 本編で出てきた質問を気軽に書き込めます
+- 後半のアンカンファレンスでご質問を見ていきます
+
+---
+
+(Zoom 画面共有再開)
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 本編
+## WordPress 最新機能<br>フルサイト編集での制作実演
+スピーカー：石川栄和 
 
 ご感想など **#wpvektor** ツイート大歓迎！
 
 ---
 
-## セッションの内容は後から振り返りできます
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
-
----
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 前半: 現場で使える見出しパターン24選！
-（無料版・他社テーマでもコピペOK）
-
-### 後半: サイト作成をスムーズに！パターンで作るWordPressサイト LP編
-(有料版ベース・デザインと組み合わせのご参考に)
-
----
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 前半：現場で使える見出しパターン24選！
-
-スピーカー：ベクトルスタッフ 久納さん
-
-https://www.vektor-inc.co.jp/post/copy-and-paste-heading/
+（本編終了後、ライブ配信の締め）
 
 ---
 
-## VK Simple Copy Block のご紹介
+## VWSオンライン勉強会について（月例）
+ベクトルがWordPressやウェブ制作にかかせないさまざまなテーマをとりあげて、月1回、だいたい第4週目に開催しているオンライン勉強会です。
 
-WordPressサイトでよく使うブロックパターンを自分で管理する場合に便利な、ブロックパターンのコピー機能ボタンを追加できるプラグインを公開しました！
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-simple-copy-block/
-※ 無料プラグインですが、サブスクライセンスパッケージの Vektor Passport をご利用中の方のみに先行公開中です。
+ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
----
-
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 後半：サイト作成をスムーズに！パターンで作るWordPressサイト LP編
-
-スピーカー：ベクトルスタッフ 久納さん&鳥山さん
-
-https://www.vektor-inc.co.jp/post/vk-pattern-library-lp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## Lightning 質問大会
-
-スプレッドシートで皆さんからの質問・回答を見ていきましょう！
-
----
-
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 参加後アンケートのお願い
-
-参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/yPb4VWPB1S6TcesNA
-
-- 勉強会の感想
-- 今後取り上げてほしいテーマなど
-
-よろしければご意見をお聞かせください。
-
----
-
-## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
-
-https://www.youtube.com/@VektorInc
-🌟2022年12月までの勉強会動画がまるッとみれます！
-
-おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
- 
-
-__🔔チャンネル登録もよろしければぜひ！__
-
+また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
 ---
 <!-- _class: title-chapter  -->
@@ -296,6 +174,41 @@ https://vektor.connpass.com/event/280075/
 
 ---
 
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 休憩
+
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## アンカンファレンス
+
+皆さんからの質問・回答を見ていきましょう！
+
+---
+
+## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
+
+https://www.youtube.com/@VektorInc
+🌟2022年12月までの勉強会動画がまるッとみれます！
+
+おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
+ 
+
+__🔔チャンネル登録もよろしければぜひ！__
+
+
+
+---
+
 ![bg](images/Vektor-Passport-2023.png)
 
 <!-- Figmaデータはこちら:
@@ -308,13 +221,6 @@ https://vektor.connpass.com/event/280075/
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 # その他の連絡事項、告知など
-
----
-![bg](images/konshinkai-plain.jpg)
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/jmqd4U5MpLRQeFRF2lxN4o/%E6%87%87%E8%A6%AA%E4%BC%9A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85?node-id=202-2&t=mtFDFswNDhyA0pgU-4
--->
 
 ---
 <!-- _class: title -->
