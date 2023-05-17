@@ -93,7 +93,7 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 ## ご参加にあたって（２）
 
 * WordPressが全く初心者の方には難しい内容となっています。（本日のスピーカー石川の共著のWordPress入門最新書籍を後程ご案内します。プレゼント企画も！）
-* 本日対面で参加の方への後日サポートなどは特に設けておりませんのでご了承ください。後半のアンカンファレンスの際に一緒に解決していきましょう。
+* 本日対面で参加の方への後日サポートなどは特に設けておりませんのでご了承ください。不明点などは後半のアンカンファレンスの際に一緒に解決していきましょう。
 * ライブ配信はオマケです。視聴のみでご参加のみの場合、テキストチャットサポートなどはありませんのでご了承ください。
 
 ---
@@ -102,6 +102,7 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 動画アーカイブや本日の関連資料は後日のレポートブログで共有いたします。安心してゆっくり見てください。
 
 ### ベクトル公式 Twitter @vektor_inc 
+レポートブログなどお知らせしております。
 ぜひフォローしてください
 
 
@@ -129,7 +130,7 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 - 今日ご参加の皆さんへ質問
 - 本編で出てきた質問を気軽に書き込めます
-- 後半のアンカンファレンスでご質問を見ていきます
+- 後半のアンカンファレンスで、出てきた質問をみんなで見ていきましょう
 
 ---
 
@@ -158,7 +159,7 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
-また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
+また、ベクトル製WordPressテーマLightning・X-T9などの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
 ---
 <!-- _class: title-chapter  -->
@@ -166,12 +167,9 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 次回の勉強会（予定）
-2023/5/21(日)15時30分〜 【東京開催＆ライブ配信】
+2023/6/22(木)20時〜 【Zoom＆ライブ配信】
 
-### WordPress 最新機能フルサイト編集での制作実演
-今回は東京にて4年ぶりに現地開催をすることになりました！
-コンパスにてご参加登録受付中！
-https://vektor.connpass.com/event/280075/
+準備中。コンパスにてご案内します！
 
 ---
 
