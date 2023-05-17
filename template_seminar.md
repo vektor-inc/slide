@@ -150,6 +150,13 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ---
 
+## ブロックテーマでの解説にフルリニューアル  「いちばんやさしいWordPressの教本 第６版」発売されました！
+
+初版の発売から早9年、WordPressをはじめて触る人にもウェブサイトが開設できるところまで細かく解説した「いちばんやさしいWordPressの教本」第6版が2023年4月25日に発売！
+https://www.vektor-inc.co.jp/info/wp-book-v6/
+
+---
+
 （本編終了後、ライブ配信の締め）
 
 ---
