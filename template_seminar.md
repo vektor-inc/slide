@@ -58,6 +58,14 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ---
 
+![bg](images/Vektor-plugin-2023.png)
+
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-170&t=J1LhNNlIF3qqVELK-4
+-->
+
+---
+
 ![bg](images/Vektor-plugin-pro-2023.png)
 
 <!-- Figmaデータはこちら:
@@ -128,9 +136,16 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ## 会場の皆さんとのやりとり Sli.do
 
-- 今日ご参加の皆さんへ質問
-- 本編で出てきた質問を気軽に書き込めます
+- 本編で気になったこと、ご質問を気軽に書き込めます
 - 後半のアンカンファレンスで、出てきた質問をみんなで見ていきましょう
+
+---
+
+![bg](images/slido-20230520.png)
+
+<!-- Figmaデータはこちら:
+https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?type=design&node-id=802-94&t=85Rr5CC2dj6QYzd2-4
+-->
 
 ---
 
@@ -161,24 +176,28 @@ https://www.vektor-inc.co.jp/info/wp-book-v6/
 
 ---
 
-## VWSオンライン勉強会について（月例）
-ベクトルがWordPressやウェブ制作にかかせないさまざまなテーマをとりあげて、月1回、だいたい第4週目に開催しているオンライン勉強会です。
+## VWSオンライン勉強会について
+ベクトルがWordPressやウェブ制作にかかせないさまざまなテーマをとりあげて開催しているオンライン勉強会です。
 
 ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
 また、ベクトル製WordPressテーマLightning・X-T9などの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
 
 ---
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 次回の勉強会（予定）
-2023/6/22(木)20時〜 【Zoom＆ライブ配信】
+## 過去の動画アーカイブをYouTubeでご覧いただけます！
 
-準備中。コンパスにてご案内します！
+https://www.youtube.com/@VektorInc
+🌟2022年12月までの勉強会動画がまるッとみれます！
+
+おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
+ 
+
+__🔔チャンネル登録もよろしければぜひ！__
+
 
 ---
+
 
 
 <!-- _class: title-chapter  -->
@@ -198,18 +217,18 @@ https://www.vektor-inc.co.jp/info/wp-book-v6/
 ## アンカンファレンス
 
 皆さんからの質問・回答を見ていきましょう！
+（17:45頃まで）
 
 ---
 
-## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
 
-https://www.youtube.com/@VektorInc
-🌟2022年12月までの勉強会動画がまるッとみれます！
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
- 
-
-__🔔チャンネル登録もよろしければぜひ！__
+## プレゼント企画！
+じゃんけんで勝利した方にお好きなアイテムをプレゼント！
+ステッカーもぜひ持って帰ってください⭐︎
 
 
 
