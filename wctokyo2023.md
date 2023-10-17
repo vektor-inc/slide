@@ -29,10 +29,9 @@ Hidekazu Ishikawa
 
 <div class="list-icon">
 
-<i class="fa-solid fa-laptop-code"></i>Theme developer / CEO
+<i class="fa-solid fa-laptop-code"></i>Vektor，Inc．代表 / テーマ開発
 <i class="fa-brands fa-x-twitter"></i>kurudrive
 <i class="fa-brands fa-facebook"></i>hidekazu.ishikawa
-<i class="fa-solid fa-heart"></i> SUP / 将棋
 
 </div>
 
@@ -42,66 +41,18 @@ Hidekazu Ishikawa
 </div>
 
 ---
-![bg](images/theme-biz-vektor.svg)
-
-<div class="telop telop--left" style="top:3em;">
 
 #### 2012
 
-</div>
-
-
-<div class="telop telop--left" style="bottom:2em;">
-ビジネス向けレスポンシブ対応WordPressテーマ 「BizVektor」を公開
-</div>
-
----
-<!-- _paginate: false  -->
-
-![bg](images/theme-lightning.png)
-
-<div class="telop telop--left" style="top:3em;">
+ビジネスサイト向けレスポンシブ対応WordPressテーマを公開
 
 #### 2015
 
-</div>
-
-<div class="telop telop--left" style="bottom:2em;">
-<b style="color:yellow">テーマ Lightning</b> を wordpress.org で公開<br>
-お陰様でアクティブ <b style="color:yellow">90,000+</b> インストール
-</div>
-
-<!-- 
-In 2015 
-I published Theme Lightning on wordpress.org
--->
-
----
-<!-- _paginate: false  -->
-
-![bg](images/theme-x-t9.png)
-
-<div class="telop telop--left" style="top:3em;">
+公式ディレクトリでビジネス向けWordPressテーマを公開
 
 #### 2022
 
-</div>
-
-<div class="telop telop--left" style="bottom:4.2em;">
-<b style="color:yellow">ブロックテーマ X-T9</b> を公開
-</div>
-
-<div class="telop telop--left" style="bottom:1em;">
-テーマ拡張プラグインやそのほかのプラグインを開発・販売しています。
-</div>
-
-<!-- 
-In 2022
-I published Block theme X-T9 on wordpress.org
-
-I also make a living by developing and selling 
-theme extension plugins and other plug-ins.
--->
+公式ディレクトリでブロックテーマ公開
 
 ---
 ![bg](images/bg-bussines-model-01.svg)
@@ -113,11 +64,11 @@ theme extension plugins and other plug-ins.
 
 <i class="fa-solid fa-brush"></i>**有料テーマ**
 <i class="fa-solid fa-plug"></i>**テーマ拡張** プラグイン
-<i class="fa-solid fa-plug"></i>**ブロック拡張** プラグイン ... 他.
+<i class="fa-solid fa-plug"></i>**ブロック拡張** プラグイン ... 他
 </div>
 
 <div class="alert alert-warning mt-32" style="width:69%">
-<i class="fa-solid fa-sack-dollar"></i> <b class="text-danger">比較的簡単にマネタイズすする事が可能だった</b></div>
+<i class="fa-solid fa-sack-dollar"></i> <b class="text-danger">比較的簡単にマネタイズする事が可能だった</b></div>
 
 ---
 <!-- _class: title-chapter  -->
@@ -317,7 +268,7 @@ section p{
 テーマやカスタムブロック開発者の多くが
 この問題に直面しているのではないか？
 
-WordPress の進化の過程としては避けられない。
+<i class="fa-regular fa-face-meh"></i>WordPress の進化の過程としては避けられない
 
 <div class="bg-kao bg-kao--left" style="bottom:1em;">
 |Ｔ－Ｔ）.oO（ まぁ...仕方ないよね... ）
@@ -339,8 +290,8 @@ section p{
 }
 </style>
 
-フルサイト編集機能のは、
-今までテーマ開発者がマネタイズのポイントとしてきたエリアに大きく影響する。
+フルサイト編集機能は、
+今までテーマ開発者がマネタイズのポイントとしてきた領域に大きく影響する。
 
 <p class="mt-16">従来のテーマ販売でマネタイズする事が<br>
 難しくなった。</p>
@@ -372,7 +323,7 @@ section p{
 
 <h4 class="mt-48"><i class="fa-regular fa-hand-point-right"></i> 最も簡単な手法</h4>
 
-様々なブロックパターンを含める.
+様々なブロックパターンを含める
 
 <span class="hidden">I think most theme developers are already working on these.
 </span>
@@ -383,7 +334,7 @@ section p{
 
 </div>
 
-<i class="fa-solid fa-arrow-right"></i><b class="text-danger">マネタイズポイントとしては弱い</b>。
+<i class="fa-solid fa-arrow-right"></i><b class="text-danger">マネタイズポイントとしては弱い</b>
 
 
 
@@ -412,7 +363,7 @@ section p{
 <br>
 
 <div class="alert alert-success text-center" style="font-size:42px">
-<i class="fa-regular fa-thumbs-up"></i> <b class="text-danger">新しい拡張性</b> & <b class="text-danger">マネタイズポイント</b>.
+<i class="fa-regular fa-thumbs-up"></i> <b class="text-danger">新しい拡張性</b> & <b class="text-danger">マネタイズポイント</b>
 </div>
 
 ---
@@ -427,9 +378,9 @@ section p{
 
 <div class="list-icon">
 
-<i class="fa-solid fa-brush"></i> テーマ（ Lightning / クラシックテーマ / 無料 ）
-<i class="fa-solid fa-plug"></i><span class="text-danger"> **テーマ拡張** プラグイン</span>（ Lightning Pro Unit ）
-<i class="fa-solid fa-plug"></i><span class="text-danger"> **ブロック拡張** プラグイン</span>（ VK Blocks Pro ）
+<i class="fa-solid fa-brush"></i> テーマ（ クラシックテーマ / 無料 ）
+<i class="fa-solid fa-plug"></i><span class="text-danger"> **テーマ拡張** プラグイン</span>
+<i class="fa-solid fa-plug"></i><span class="text-danger"> **ブロック拡張** プラグイン</span>
 <i class="fa-solid fa-user-tie"></i><span class="text-danger"> サポート</span>
 
 </div>
@@ -460,11 +411,11 @@ section li{
 
 <div class="list-icon">
 
-<i class="fa-solid fa-brush"></i> **テーマ**（ クラシックテーマ Lightning / 無料 ）
-<i class="fa-solid fa-plug"></i> **テーマ拡張** プラグイン（ Lightning Pro Unit ）
-<i class="fa-solid fa-plug"></i> **ブロック拡張** プラグイン（ VK Blocks Pro ）
+<i class="fa-solid fa-brush"></i> **テーマ**（ クラシックテーマ / 無料 ）
+<i class="fa-solid fa-plug"></i> **テーマ拡張** プラグイン
+<i class="fa-solid fa-plug"></i> **ブロック拡張** プラグイン
 <i class="fa-solid fa-user-tie"></i> サポート
-<span class="text-danger"><i class="fa-solid fa-brush"></i> **テーマ**（ ブロックテーマ X-T9 / Free ）
+<span class="text-danger"><i class="fa-solid fa-brush"></i> **テーマ**（ ブロックテーマ / Free ）
 <span class="text-danger"><i class="fa-solid fa-brush"></i> **プレミアムパターン <i class="fa-solid fa-arrow-left-long"></i> New!!**
 
 </div>
@@ -496,7 +447,6 @@ section li{
 
 ## 独自のブロックパターン<br>ディレクトリを公開
 
-https://patterns.vektor-inc.co.jp/
 
 <i class="fa-solid fa-language"></i>日本語のみ対応
 
@@ -522,7 +472,7 @@ https://wordpress.org/patterns/
 ### 1. コアのブロックだけではまだ厳しい
 
 クオリティの高いパターンを提供するために
-VK Blocks など独自のブロックや CSS を使いたい
+独自のブロックや CSS を使いたい
 
 <div class="alert alert-warning mt-24">
 
@@ -565,18 +515,6 @@ VK Blocks など独自のブロックや CSS を使いたい
 （・ｗ・
 </span>
 
-<!-- 
-
-For us, 
-we need to make an effort to 
-get users to continue to license 
-even if the dependency of the theme decreases.
-( ofcourse Acquisition of new users too )
-
-then,
-どのように製品付加価値を高めるか？
- -->
-
 ---
 
 <p class="title-parent">どのように製品付加価値を高めるか？</p>
@@ -585,7 +523,7 @@ then,
 
 * 課金ユーザーのみ利用可能
 
-* デザインやサンプルテキストの<br><b class="text-danger">クオリティが高くてすぐに使える</b>.
+* デザインやサンプルテキストの<br><b class="text-danger">クオリティが高くてすぐに使える</b>
 
 
 <div class="bg-kao bg-kao--right" style="bottom:0px;right:10vw;font-size:250px !important;color:orange !important">
@@ -645,7 +583,8 @@ then,
 パターンは次々追加してどんどん数が増える
 → <b>見つけにくい</b>
 
-ユーザーがお気に入りのパターンを登録する事で<b class="text-danger">簡単に呼び出す事ができる</b>
+ユーザーがお気に入りのパターンを登録する事で
+<b class="text-danger">簡単に呼び出す事ができる</b>
 
 ※ 似たような機能は wordpress.org にもある
 
@@ -676,7 +615,7 @@ then,
 テーマとパターンはグローバルスタイルの都合上密接に関係する
 
 パターンを外部から持ってきて使ったとしても、
-<i class="fa-solid fa-arrow-right"></i>**デザインの統一性の問題が発生する**.
+<i class="fa-solid fa-arrow-right"></i>**デザインの統一性の問題が発生する**
 
 <div class="alert alert-warning mt-32">
 
@@ -725,7 +664,7 @@ section p{
 
 テーマ単体でのマネタイズは難しくなるが...
 
-**付加価値の高いパターン** と組み合わせる事で<b>多くのビジネスチャンスがあるのではないか</b>.
+**付加価値の高いパターン** と組み合わせる事で<b>多くのビジネスチャンスがあるのではないか</b>
 
 </div>
 
@@ -747,9 +686,8 @@ section p{
 
 ---
 
-##  VK Google Job Posting Manager 
+##  Googleしごと検索に対応するプラグイン
 
-Googleしごと検索に対応するプラグイン
 検索結果画面に求人情報が表示される
 
 → 高いお金払って求人サイトに出さなくても露出が増える
@@ -762,25 +700,24 @@ Googleしごと検索に対応するプラグイン
 
 ---
 
-## VK Filter Search
+## ブロックエディタで絞り込み検索を設置できるするプラグイン
 
-ブロックエディタで絞り込み検索を設置できるするプラグイン
-
-* 有料版を販売しているが...まぁ何とか採算...取れてるくらい。
+* 有料版を販売しているが...まぁ...
+  何とか採算...取れて...る? くらい...
 * 無料版のアクティブが5,000しかいってない。
-* 海外向けの販売を狙って WCAsia 2023 や WordCamp マレーシア で広告出したりしてるが実際のところ全然海外で売れてない...。
+* 海外向けの販売を狙って WordCamp Asia 2023 や WordCamp Malaysia でスポンサーとして露出を増やしたりしたが実際のところ全然海外で売れてない...
 
 ---
 
-## VK Dynamic If Block
+## PHP の if 文みたいに条件分岐できるプラグイン
 
-PHP の if 文みたいに条件分岐できるプラグイン
-フルサイト編集で条件分岐どうすんねん？という人に刺さると思った
+フルサイト編集で条件分岐どうすんねん？
+という人に刺さると思った
 
 * 無料なのにあんましインストール増えてない...
 * 似たような事できる他のプラグインもあった...
   
-→ インストール増えたら高機能な有料版をとも思ったけど無理っぽい...。
+→ インストール増えたら高機能な有料版をとも思ったけど無理っぽい...
 
 ---
 
@@ -811,10 +748,6 @@ PHP の if 文みたいに条件分岐できるプラグイン
 * テーマやプラグインのように膨大な実装は必要ない
 * パターンを定期的に作ってSNSに投稿したりして認知度を上げる
 
-→ VK Simple Copy Block 使ったら誰でも簡単にパターンを配布できる。
-
-（宣伝でごめんなさい）
-
 ---
 
 ### 有料パターンを販売する
@@ -829,7 +762,7 @@ PHP の if 文みたいに条件分岐できるプラグイン
 テーマやプラグインと違って
 利用ユーザーに対する継続メンテナンスの必要がない
 
-<c＿人人人人人人人人人人人＿
+＿人人人人人人人人人人人＿
 ＞　圧倒的手離れの良さ　＜
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^￣
 
@@ -843,9 +776,10 @@ PHP の if 文みたいに条件分岐できるプラグイン
 * 開発者として認知されやすくなる
 * 自分の製品のカスタマイズ依頼などが来るようになる
 
-受託メインの場合現状を変化させるきっかけになる。
-今は受託だったとしても受託もやりやすくなるし、
-未来につながる
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+* 受託メインの場合現状を変化のきっかけになる
+* 受託も仕事が取りやすくなるし未来につながる
 
 ---
 
