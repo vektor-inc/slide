@@ -170,7 +170,7 @@ a matter of life and death.
 <!-- _paginate: false  -->
 ![bg right:26%](images/asia-group-panel-old.png)
 
-### 初期のブロックエディタ
+### 初期のブロックエディター
 
 
 
@@ -232,7 +232,7 @@ section li{
 
 
 * 一旦リリースしてしまったブロック 
-<b class="text-danger">継続的なメエンテナンスの負荷がかかる</b>
+<b class="text-danger">継続的なメンテナンスの負荷がかかる</b>
 * 以前よりもGutenbergの開発など<b class="text-danger">コアの動向を細かくチェックしないといけなくなった</b>
 ※ 似たような機能を開発したりするのを避けるため
 
@@ -430,7 +430,7 @@ section li{
 <ul>
 <li data-marpit-fragment="1" data-bespoke-marp-fragment="inactive"><b class="text-danger">ユーザーはどちらも使える</b><br>
   ( <b>クラシックテーマ</b> と <b>ブロックテーマ</b> )</li>
-<li data-marpit-fragment="1" data-bespoke-marp-fragment="inactive">クラシックテーマの価値が下がっていったとしても<br><b class="text-danger">プレミアムパターンで既存ユーザーに別を価値を提供する</b><br>
+<li data-marpit-fragment="1" data-bespoke-marp-fragment="inactive">クラシックテーマの価値が下がっていったとしても<br><b class="text-danger">プレミアムパターンで既存ユーザーに別の価値を提供する</b><br>
 </li>
 <li data-marpit-fragment="1" data-bespoke-marp-fragment="inactive">
   プレミアムパターンの価値を通じて<b class="text-danger">新しいユーザーを獲得する</b></li>
@@ -700,7 +700,7 @@ section p{
 
 ---
 
-## ブロックエディタで絞り込み検索を設置できるするプラグイン
+## ブロックエディターで絞り込み検索を設置できるするプラグイン
 
 * 有料版を販売しているが...まぁ...
   何とか採算...取れて...る? くらい...
