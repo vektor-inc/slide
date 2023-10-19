@@ -32,7 +32,9 @@ _paginate: false
 * 外の世界を知る - 一般の人にちゃんと伝わるissueやプルリクの書き方に慣れる
 * 知らずに独自実装してしまい無駄な開発工数になる事を防ぐ
 
-→ 技術勉強会でコアのドキュメントを読んだりコントリ活動を確実に積み重ねる
+<div class="row">  <div class="col-6"></div>  <div class="col-6"></div></div>
+<i class="fa-solid fa-circle-right"></i>
+技術勉強会でコアのドキュメントを読んだりコントリ活動を確実に積み重ねる
 
 ---
 
