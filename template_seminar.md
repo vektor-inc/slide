@@ -127,8 +127,8 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 ---
 ## 会場について
-- Wi-Fi のご案内
-- お手洗い、非常口
+- Wi-Fi のご案内（Coedo-seminar　パスワードなし）
+- お手洗い（3F男性、4F女性、5F男女兼用）
 - お飲み物、ごみばこ
 - 写真撮影について（ツイートなどする場合、他の参加者さんの写り込みにご配慮お願いします。スピーカーの石川を始め、ベクトルスタッフは大丈夫です。）
 
@@ -204,7 +204,10 @@ __🔔チャンネル登録もよろしければぜひ！__
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 休憩
+## 休憩　17:25~ 再開
+
+# ご質問受け付けております！
+# slido.com #3082 475
 
 
 ---
