@@ -107,11 +107,50 @@ https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAj
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## 2023年振り返り
+# 第1部
+## 2023年の振り返り
 ベクトル３大ニュースと、おすすめの新機能追加ニュースを振り返ります！
 
 ご感想など **#wpvektor** ツイート大歓迎！
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2023年 ベクトル3大ニュース その①__
+## WordCamp Asia バンコクへ - ２月
+スポンサーブースと石川リーダーの登壇で参加！
+https://www.vektor-inc.co.jp/wca2023/
+コロナ禍を乗り越えたイベント、すごい熱量でした！
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2023年 ベクトル3大ニュース その②__
+## WordCamp マレーシアへ - 9月
+海外スポンサーブース単独初出店！
+https://www.vektor-inc.co.jp/post/2023-vektor-asia-market/
+ブースらしくなった！
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2023年 ベクトル3大ニュース その③__
+## WordCamp Tokyoに参加！ - 10月
+日本も現地開催イベントが復活！
+https://www.vektor-inc.co.jp/post/wordcamp-tokyo-2023-report/
+2019年から4年ぶりの開催となりました！
+お疲れ様ピザパーティで交流もできました♪
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+__2023年 まだあるよ ベクトルニュース__
+
+- 　「よくある交通案内図・時刻表」パターンが万バズ話題に
 
 ---
 
