@@ -187,7 +187,7 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 
 __オススメ！新機能追加で振り返る2023__
 
-## 石川リーダーにバトンタッチ
+## 石川リーダーにバトンタッチ！
 
 ---
 ## 2023年もご利用ありがとうございます！
@@ -206,6 +206,7 @@ https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
+# 第2部
 ## 質問相談大会
 
 スプレッドシートで皆さんからの質問・回答を見ていきましょう！
@@ -216,7 +217,8 @@ https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# ベクトル X'mas クイズ大会！
+# 第3部
+## ベクトル X'mas クイズ大会！
 
 ---
 
@@ -236,12 +238,12 @@ __🔔チャンネル登録もよろしければぜひ！__
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
 ## 今後の予定（告知）
-2023/5/21(日)15時30分〜 【東京開催＆ライブ配信】
+- __12月23日(土)__  岐阜 WordPress Meetup 石川登壇予定
+- __1月27日(土)__  山梨WordPress Meetup 石川登壇予定
+- __2月23(金)・24(土)__  WordCamp Kansai 神戸 スポンサー
 
-### WordPress 最新機能フルサイト編集での制作実演
-今回は東京にて4年ぶりに現地開催をすることになりました！
-コンパスにてご参加登録受付中！
-https://vektor.connpass.com/event/280075/
+毎月のYouTube製品アップデート情報も
+チェックよろしくお願いします！
 
 ---
 
