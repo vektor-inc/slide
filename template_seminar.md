@@ -129,7 +129,7 @@ https://www.vektor-inc.co.jp/wca2023/
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 __2023年 ベクトル3大ニュース その②__
 ## WordCamp マレーシアへ - 9月
-海外スポンサーブース単独初出店！
+海外スポンサーブース単独初出展！
 https://www.vektor-inc.co.jp/post/2023-vektor-asia-market/
 ブースらしくなった！
 
