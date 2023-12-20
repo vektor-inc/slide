@@ -148,9 +148,14 @@ https://www.vektor-inc.co.jp/post/wordcamp-tokyo-2023-report/
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-__2023年 まだあるよ ベクトルニュース__
 
-- 　「よくある交通案内図・時刻表」パターンが万バズ話題に
+## オススメ！新機能追加で振り返る2023
+
+この１年間にあった便利な新機能追加をまとめてご紹介！
+
+新機能アップデートのお知らせの詳細は全て
+https://www.vektor-inc.co.jp/product-update/
+からご覧いただけます！
 
 ---
 
@@ -176,48 +181,24 @@ https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A
 https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-170&t=J1LhNNlIF3qqVELK-4
 -->
 ---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## VK All in One Expansion Unit で特定の固定ページをページリストから除外する機能を追加しました。
+__オススメ！新機能追加で振り返る2023__
 
-Ver. 9.88.0.0
-
-https://www.vektor-inc.co.jp/product-update/vk-all-in-one-expansion-unit-9-88-0-0/
-
----
-
-## VK Filter Search Pro で送信ボタンの背景色や文字サイズの変更などができるようになりました。
-
-Ver. 1.14.1
-
-https://www.vektor-inc.co.jp/product-update/vk-filter-search-pro-1-14-1-add-button-setting/
+## 石川リーダーにバトンタッチ
 
 ---
+## 2023年もご利用ありがとうございます！
 
-## VK Blocks Pro 
+__2023年度ベクトル有償製品ユーザーアンケートを実施しております__
 
-* 余白設定でCSS変数などが使用できるようになりました
+製品とサービスの継続的な開発・改善のために、あなたの声をぜひお聞かせください。
 
-* アーカイブリストブロック
-* タクソノミーブロック
+アンケート調査期間：2024年3月31日（火）まで
+https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
 
-## ダイナミック If ブロック
-
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-dynamic-if-block/
-
----
-
-## VWSオンラインコミュニティをDiscordに移行します。
-https://www.vektor-inc.co.jp/info/migration-to-discord/
-
----
-
-## Lightning G3 Pro クイックスタート<br>有料版インポートデータの配布を開始しました
-
----
-
-## Ligthing の SEO に関する設定をまとめたページを公開しました
-
-https://lightning.vektor-inc.co.jp/setting/seo/
 
 ---
 
@@ -225,82 +206,23 @@ https://lightning.vektor-inc.co.jp/setting/seo/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## CSSの小技とパターンで作るWordPressサイト第2弾
-
-
-ご感想など **#wpvektor** ツイート大歓迎！
-
----
-
-## セッションの内容は後から振り返りできます
-URLリンク情報などはSlackや後日のレポートブログで共有いたします。動画もシェアされますので安心してゆっくり見てください。
-
----
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 前半: 現場で使える見出しパターン24選！
-（無料版・他社テーマでもコピペOK）
-
-### 後半: サイト作成をスムーズに！パターンで作るWordPressサイト LP編
-(有料版ベース・デザインと組み合わせのご参考に)
-
----
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 前半：現場で使える見出しパターン24選！
-
-スピーカー：ベクトルスタッフ 久納さん
-
-https://www.vektor-inc.co.jp/post/copy-and-paste-heading/
-
----
-
-## VK Simple Copy Block のご紹介
-
-WordPressサイトでよく使うブロックパターンを自分で管理する場合に便利な、ブロックパターンのコピー機能ボタンを追加できるプラグインを公開しました！
-https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-simple-copy-block/
-※ 無料プラグインですが、サブスクライセンスパッケージの Vektor Passport をご利用中の方のみに先行公開中です。
-
----
-
-## CSSの小技とパターンで作るWordPressサイト第2弾
-### 後半：サイト作成をスムーズに！パターンで作るWordPressサイト LP編
-
-スピーカー：ベクトルスタッフ 久納さん&鳥山さん
-
-https://www.vektor-inc.co.jp/post/vk-pattern-library-lp/
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## Lightning 質問大会
+## 質問相談大会
 
 スプレッドシートで皆さんからの質問・回答を見ていきましょう！
 
 ---
 
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 参加後アンケートのお願い
-
-参加後アンケートよろしくおねがいします！（1〜2分）
-https://forms.gle/yPb4VWPB1S6TcesNA
-
-- 勉強会の感想
-- 今後取り上げてほしいテーマなど
-
-よろしければご意見をお聞かせください。
+# ベクトル X'mas クイズ大会！
 
 ---
 
-## 勉強会はいかがでしたか？過去の動画アーカイブをYouTubeでご覧いただけます！
+## 過去の動画アーカイブをYouTubeでご覧いただけます！
 
 https://www.youtube.com/@VektorInc
-🌟2022年12月までの勉強会動画がまるッとみれます！
 
 おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
  
@@ -313,7 +235,7 @@ __🔔チャンネル登録もよろしければぜひ！__
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 次回の勉強会（予定）
+## 今後の予定（告知）
 2023/5/21(日)15時30分〜 【東京開催＆ライブ配信】
 
 ### WordPress 最新機能フルサイト編集での制作実演
@@ -350,4 +272,4 @@ https://www.figma.com/file/jmqd4U5MpLRQeFRF2lxN4o/%E6%87%87%E8%A6%AA%E4%BC%9A%E3
 
 # ありがとうございました
 
-また次の勉強会でお会いしましょう！
+またイベントや質問相談会でお会いしましょう！
