@@ -190,6 +190,25 @@ __オススメ！新機能追加で振り返る2023__
 ## 石川リーダーにバトンタッチ！
 
 ---
+
+## コピペで使える！<br>VK Pattern Library がさらに充実!
+https://patterns.vektor-inc.co.jp/
+
+---
+
+## 今年のバズオブザイヤー🎉
+### 『交通案内図とバス時刻表』
+https://patterns.vektor-inc.co.jp/vk-patterns/access-guide-timetable/
+X(ツイート)で1万件以上のインプレッションがありました🙌
+
+---
+
+## 今年のLP部門オブザイヤー🎉
+### 『トップページ_工務店_001』
+https://patterns.vektor-inc.co.jp/vk-patterns/architect_top/
+累積2888回コピーして利用されました！
+
+---
 ## 2023年もご利用ありがとうございます！
 
 __2023年度ベクトル有償製品ユーザーアンケートを実施しております__
@@ -221,7 +240,6 @@ https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
 ## ベクトル X'mas クイズ大会！
 
 ---
-
 ## 過去の動画アーカイブをYouTubeでご覧いただけます！
 
 https://www.youtube.com/@VektorInc
