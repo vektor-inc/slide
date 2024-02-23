@@ -8,10 +8,19 @@ paginate: true
 style: |
 _paginate: false 
 -->
+
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-Vektor,Inc. 14期 前期 方針
-# Vektor,Inc. 再構築
+今回ご紹介するのは、
+ABテストがめちゃめちゃ簡単にできるプラグイン
+
+
+---
+
+# VK AB Testing
+
+
+---
 
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
