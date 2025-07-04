@@ -32,12 +32,6 @@ PHPベースのクラシックテーマに慣れたユーザー向けに
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
----
-
 ## ブロックテーマ使ってますか？
 
 * 受託とかの案件でもバリバリ使ってる
@@ -87,14 +81,18 @@ PHPベースのクラシックテーマに慣れたユーザー向けに
 
 お品書き
 
-* ゼロからブロックテーマを作る
 * 簡単セットアップ
 * パターンライブラリ
 * グローバルスタイル
 * 投稿一覧ループの構築・カスタマイズ
 * 部分的な条件分岐で表示を切り替える
-* 編集者にナビゲーションの編集権限を与える
+
+---
+
+* カスタムフィールドの値を表示したい
 * 同期パターンで一部上書き可能にする
+* 低い権限のユーザーでも<br>ナビゲーションだけは編集許可する
+* テスト → 本番反映 への問題と対応
 
 ---
 
@@ -301,12 +299,31 @@ home / index / archive の一覧への表示だけなら、
 
 <img src="images/post-loop-text-inline.png" alt="" />
 
+<div class="telop telop--left" style="bottom:150px;">
+
+#### テンプレート編集画面からはデフォルトにできるが...
+
+</div>
+
+---
+
+<img src="images/post-loop-text-inline-parts.png" alt="" />
+
+<div class="telop telop--left" style="bottom:150px;">
+
+#### テンプレートパーツの編集画面からは<br>デフォルトが指定できない
+
+</div>
+
 ---
 
 ## 投稿ループのクエリのカスタマイズ
 
+固定ページの中などに投稿一覧を配置する場合
+指定のカテゴリーだけどかもう少し細かい条件を指定
+
 * Advanced Query Loop
-  https://ja.wordpress.org/plugins/advanced-query-loop/
+  https://wordpress.org/plugins/advanced-query-loop/
 
 ※ アーカイブ用のテンプレートなどで使うと、本来のページに応じた表示内容にならなくなるので注意
 
@@ -317,7 +334,7 @@ home / index / archive の一覧への表示だけなら、
 ---
 
 投稿一覧アーカイブページなど、レイアウトは概ね同じだが、
-投稿タイプによってサイドバーだけ変更したいとか...
+__投稿タイプによってサイドバーだけ変更したい__ とか...
 
 一部分のためにテンプレートファイルを増やすと管理が面倒になる
 
@@ -330,18 +347,58 @@ PHPのテンプレートファイルで if 分で条件分岐をしていたよ�
 
 ---
 
-# カスタムフィールドを表示したい
+# カスタムフィールドの値を表示したい
 
-* カスタムブロック手作りすればいいけどちょっとハードル高い
-* カスタムフィールドを表示できるプラグインとかもあるで
-  VK Blocks Pro のダイナミックテキストブロックとか...
-* 該当のカスタムフィールドを表示するショートコードを自作するなら簡単
-* PHPでクラシックテーマ自作してた人なら Lazy Blocks とかで作るのも手軽
-  https://ja.wordpress.org/plugins/lazy-blocks/
+---
+
+## ブロック自作
+
+ちょっとハードル高いよね
+
+<br>
+
+## プラグインなど
+
+カスタムフィールドを表示できるプラグインとかもあるで
+VK Blocks Pro のダイナミックテキストブロックとか...
+
+  ---
+
+## ショートコードを作るとか...
+
+該当のカスタムフィールドを表示するショートコードを自作するなら簡単
+
+```
+function my_custom_field_price() {
+	$field_name = 'cf-price';
+	$cf_value = get_post_meta( get_the_ID(), $field_name, true );
+	return nl2br( esc_textarea( $cf_value ) );
+}
+add_shortcode( 'cf_price', 'my_custom_field_price' );
+```
+
+[cf_price] で表示される
+
+---
+
+## カスタムブロック作るプラグイン
+
+PHPでクラシックテーマ自作してた人なら Lazy Blocks とかで作るのも手軽
+https://wordpress.org/plugins/lazy-blocks/
+
+ブロックにPHPを登録
+```
+<?php
+$cf_value = get_post_meta( get_the_ID(), 'works-tech', true );
+echo nl2br(esc_textarea( $cf_value ));
+?>
+```
 
 ---
 
 ## 同期パターンで一部上書き可能にする
+
+カスタムフィールド使わなくてもいける場合も多い
 
 同期パターンの中の要素は、テキストと画像に限って上書き可能にする事ができる
 
@@ -349,12 +406,18 @@ PHPのテンプレートファイルで if 分で条件分岐をしていたよ�
 
 ---
 
-## ナビゲーションだけは編集許可する
+# 低い権限のユーザーでも<br>ナビゲーションだけは編集許可する
+
+---
 
 ブロックテーマはテーマファイルがノーコードで編集可能
-→ 通常クライアントに迂闊にさわってほしくない。
+<br>
 
-でもナビゲーション項目は変更できるようにしたい
+＿人人人人人人人人人人人人人人人人人人人人人人人人＿
+＞　クライアントに迂闊にテーマをさわってほしくない　＜
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+<br>
+でもナビゲーション項目は変更できるようにしたい (´・ω・｀)
 
 ---
 
@@ -409,8 +472,6 @@ https://www.vektor-inc.co.jp/post/allow-navigation-edit-for-editor/
 
 ### 2. よほど大きくなければ本番サイトで...
 
-例） ヘッダーの構成変更をする
-
 #### A. 確認用ページテンプレートで
 
 1. 確認用のページテンプレートを作る
@@ -426,6 +487,9 @@ https://www.vektor-inc.co.jp/post/allow-navigation-edit-for-editor/
 条件分岐で表示できるプラグインを使って
 ログインしている特定のユーザー権限の場合には改修用のヘッダーが表示されるようにする
 
+---
+
+# みんなどうしてる？
 
 ---
 
