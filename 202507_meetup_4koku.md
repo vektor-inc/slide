@@ -381,6 +381,12 @@ VK Blocks Pro のダイナミックテキストブロックとか...
 
 ---
 
+メモ : ショートコード使う場合
+
+https://www.vektor-inc.co.jp/post/shortcode-in-query-loop/
+
+---
+
 ## カスタムブロック作るプラグイン
 
 PHPでクラシックテーマ自作してた人なら Lazy Blocks とかで作るのも手軽
