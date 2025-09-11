@@ -88,13 +88,21 @@ VWS オンライン勉強会 サイド企画
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## 今後の予定（告知）
-- __12月23日(土)__  岐阜 WordPress Meetup 石川登壇予定
-- __1月27日(土)__  山梨WordPress Meetup 石川登壇予定
-- __2月23(金)・24(土)__  WordCamp Kansai 神戸 スポンサー
+# そろそろお時間になりました
+お付き合いありがとうございます！ 
+後日、ブログか動画でまとめたいと思います！
 
-毎月のYouTube製品アップデート情報も
-チェックよろしくお願いします！
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+## 今後の予定（告知）
+- __来週！9月25日(木) 21:00 〜 22:30 無料開催 <br>VWSオンライン勉強会 #045<br>「WordPressブロックテーマで作る実用サイト制作術」__
+https://vektor.connpass.com/event/367658/
+
+ベクトルのYouTube製品アップデート情報も
+よろしければぜひチェックしてください！
 
 ---
 <!-- _class: title -->
