@@ -21,11 +21,10 @@ section{
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 年末企画！
-# 2023年のVWS製品アップデート一挙振り返り&参加者全員プレゼントありクイズ企画他
+VWS オンライン勉強会 サイド企画
+# Wix や Studio って最近どうなん？<br>雑談会
 
-まもなくスタート
-#wpvektor ツイート大歓迎！
+まもなくスタート！
 
 
 ---
@@ -36,218 +35,52 @@ VWS オンライン勉強会 年末企画！
 
 # ようこそ！はじめに
 
-リアルタイムZoom開催は久しぶり！
 
 ---
 
-## この勉強会について
+## この雑談会について
 
-株式会社ベクトルが運営、WordPressやウェブ制作にかかせないさまざまなテーマをとりあげて開催しているオンライン勉強会。
-
-ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
-
-また、ベクトル製品のWordPressテーマLightningなどの最新機能情報・カスタマイズ・運用方法についてもご案内しています。
-
-最近は毎月第４木曜日の製品アップデート情報をメインに質問相談会を開催中。
-
----
-![bg](images/Team-Vektor-202312.png)
+株式会社ベクトルでは近年は WordPress しか扱っていませんが、Studio / Wix は最近どんな感じなのか？という情報に乏しいので、実務で使用している方を招待してゆるーくお話を伺う会です。最近の WordPress はこんな感じですかねーという事も話しつつそれぞれの長所・短所・使い所の情報共有ができればいいなと思っています。
+一般のセミナーのように 登壇者ががっちり準備して〜という形式ではありませんので、あらかじめご了承ください。
 
 ---
 
 ## ご参加にあたって
 
-* お気軽にチャットでワイワイしてください  ᐠ(  ᐢ ᵕ ᐢ )ᐟ
-* 随時途中で音声でのご質問もOKです。
-* 発言時以外はミュートにしてください。
-（テレビ・同居人・外部の騒音）
-* ぜひツイートしてね #wpvektor
-
+* この雑談会は録画保存されますが、一般公開はされません。
+* 録画データはベクトル社内の参考資料として利用されます。また、パネリストの皆様とのみ共有させていただく予定です。
+* 後日、ベクトル石川より、ブログ記事もしくは動画コンテンツにて何かしらのご報告まとめを発信予定です。
 
 ---
 
-## 勉強会中のチャット
+## コメントはZoomのチャット欄へ
 
-勉強会中のチャットはZoom上ではなくDiscordで行っております。
-
-<strong>VWS の Discord #ミーティング チャンネル に一言どうぞ！</strong>
-
-- Discordのデスクトップアプリもあり便利です
-
-- Discordにまだ登録していない/ログイン情報を忘れた場合
-→ connpassに記載のURLをご参考ください。
+- 「こんな使い方もあるよ」「私はこうしてるよ」「あるある」など、ぜひお気軽に教えていただけると嬉しいです🙏
+- ご質問にお答えするのがメインの会ではないのですが、チャットにご質問があれば、後半の雑談タイムに取り上げさせていただきます。全てに回答できない可能性がある旨、ご了承ください。
 
 ---
 
-## 本日の内容
+## パネリストのみなさま
+- 川井昌彦 （かわい まさひこ）様
+- 深沢 幸治郎 （ふかざわ こうじろう）様
+- もりの ゆきこ 様
+- 瓶子可南子 （へいし かなこ）様
 
-* 第1部：2023年振り返り（約45分）
-* 第2部：なんでも質問相談会（約15分）
-* 第3部：X'masクイズ大会（約30分）
-* 22:05頃から懇親会・ユーザーフィードバック会
-
----
-
-## ハッシュタグは #wpvektor
-
-コメント、リアクションをぜひお願いします！
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-## だれでもお気軽に 質問・回答 記入シート
-
-https://docs.google.com/spreadsheets/d/1Yvk3AN4pWn2tjL7DBe0HZm4OvvWOWhfp9ub76bAjmpQ/edit?usp=sharing
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-# 第1部
-## 2023年の振り返り
-ベクトル３大ニュースと、おすすめの新機能追加ニュースを振り返ります！
-
-ご感想など **#wpvektor** ツイート大歓迎！
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-__2023年 ベクトル3大ニュース その①__
-## WordCamp Asia バンコクへ - ２月
-スポンサーブースと石川リーダーの登壇で参加！
-https://www.vektor-inc.co.jp/wca2023/
-コロナ禍を乗り越えたイベント、すごい熱量でした！
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-__2023年 ベクトル3大ニュース その②__
-## WordCamp マレーシアへ - 9月
-海外スポンサーブース単独初出展！
-https://www.vektor-inc.co.jp/post/2023-vektor-asia-market/
-ブースらしくなった！
-
----
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-__2023年 ベクトル3大ニュース その③__
-## WordCamp Tokyoに参加！ - 10月
-日本も現地開催イベントが復活！
-https://www.vektor-inc.co.jp/post/wordcamp-tokyo-2023-report/
-2019年から4年ぶりの開催となりました！
-お疲れ様ピザパーティで交流もできました♪
+ご参加誠にありがとうございます！
 
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-## オススメ！新機能追加で振り返る2023
+# 雑談会スタート！
 
-この１年間にあった便利な新機能追加をまとめてご紹介！
-
-新機能アップデートのお知らせの詳細は全て
-https://www.vektor-inc.co.jp/product-update/
-からご覧いただけます！
-
----
-
-![bg](images/Vektor-product-2023.png)
-
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-95&t=J1LhNNlIF3qqVELK-4
--->
-
----
-
-![bg](images/Vektor-plugin-2023.png)
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-154&t=J1LhNNlIF3qqVELK-4
--->
----
-
-![bg](images/Vektor-plugin-pro-2023.png)
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/KG5vrcxtDwQGBOwHRiJlHm/VWS%E5%8B%89%E5%BC%B7%E4%BC%9A-%2F-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%81%AA%E3%81%A9?node-id=705-170&t=J1LhNNlIF3qqVELK-4
--->
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-__オススメ！新機能追加で振り返る2023__
-
-## 石川リーダーにバトンタッチ！
-
----
-
-## コピペで使える！<br>VK Pattern Library がさらに充実!
-https://patterns.vektor-inc.co.jp/
-
----
-
-## 今年のバズオブザイヤー🎉
-### 『交通案内図とバス時刻表』
-https://patterns.vektor-inc.co.jp/vk-patterns/access-guide-timetable/
-X(ツイート)で1万件以上のインプレッションがありました🙌
-
----
-
-## 今年のLP部門オブザイヤー🎉
-### 『トップページ_工務店_001』
-https://patterns.vektor-inc.co.jp/vk-patterns/architect_top/
-累積2888回コピーして利用されました！
-
----
-## 2023年もご利用ありがとうございます！
-
-__2023年度ベクトル有償製品ユーザーアンケートを実施しております__
-
-製品とサービスの継続的な開発・改善のために、あなたの声をぜひお聞かせください。
-
-アンケート調査期間：2024年3月31日（火）まで
-https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
-
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 第2部
-## 質問相談大会
-
-スプレッドシートで皆さんからの質問・回答を見ていきましょう！
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 第3部
-## ベクトル X'mas クイズ大会！
-
----
-## 過去の動画アーカイブをYouTubeでご覧いただけます！
-
-https://www.youtube.com/@VektorInc
-
-おすすめプラグイン / フルサイト編集 / Googleタグマネージャー / トラブルシューティング / CSSカスタマイズ / PHP超入門 / アクションフック / 物件情報サイト作成 / ビジネスサイト作成 / パターン活用 / Lightningカスタマイズ / 配色の基本 / SEO関連
- 
-
-__🔔チャンネル登録もよろしければぜひ！__
+# 
 
 
 ---
@@ -262,40 +95,6 @@ __🔔チャンネル登録もよろしければぜひ！__
 
 毎月のYouTube製品アップデート情報も
 チェックよろしくお願いします！
-
----
-
-![bg](images/Vektor-Passport-2023.png)
-
-<!-- Figmaデータはこちら:
--->
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# その他の連絡事項、告知など
-
-
----
-## 再度のご案内！
-
-__2023年度ベクトル有償製品ユーザーアンケートを実施しております__
-
-製品とサービスの継続的な開発・改善のために、あなたの声をぜひお聞かせください。
-
-アンケート調査期間：2024年3月31日（火）まで
-https://www.vektor-inc.co.jp/info/2023-vektor-annual-survey/
-
-
----
-![bg](images/konshinkai-plain.jpg)
-
-<!-- Figmaデータはこちら:
-https://www.figma.com/file/jmqd4U5MpLRQeFRF2lxN4o/%E6%87%87%E8%A6%AA%E4%BC%9A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85?node-id=202-2&t=mtFDFswNDhyA0pgU-4
--->
 
 ---
 <!-- _class: title -->
