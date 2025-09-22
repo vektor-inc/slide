@@ -10,11 +10,9 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# ブロックテーマ と 最新ツールで作る実用サイト制作術
+# WordPressブロックテーマで作る<br>実用サイト制作術
 
-※というほど大した内容ではありません。
-
-四国合同 WordPress Meetup @高知
+VWSオンライン勉強会 #045
 
 Hidekazu Ishikawa@Vektor,Inc.
 
