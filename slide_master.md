@@ -96,6 +96,19 @@ https://x.com/vektor_inc
 
 ---
 
+## 本編の前に...
+
+＿人人人人人人人人人人人人人人人人人人人人人人人＿
+＞　ブロックテーマ ≠ ブロックエディタ対応テーマ　＜
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+
+### ブロックテーマ
+
+テンプレートファイルが html ファイルで構成されていて、
+ヘッダーやフッターを含めてページ全体がサイトエディタから自由に編集可能なテーマ
+
+---
+
 ## ブロックテーマ使ってますか？
 
 * 受託とかの案件でもバリバリ使ってる
@@ -114,10 +127,10 @@ https://x.com/vektor_inc
 ## デメリット
 
 * クライアントがサイトを壊しやすい
-  - ※対策はある（後述）
-* テーマの Git 管理がしにくい
+  ※対策はある（後述）
+* テーマファイルの Git 管理がしにくい
   （編集内容はすべてデータベースに保存される）
-* テストサーバー → 本サーバー への反映がしにくい
+* テストサーバー → 本サーバー の運用がしにくい
 
 ---
 
@@ -168,19 +181,20 @@ https://x.com/vektor_inc
 
 ## ゼロから作るなら
 
-プラグイン Create Block Theme 
-https://wordpress.org/plugins/create-block-theme/
+プラグイン __Create Block Theme__
+<span style="font-size:28px">https://wordpress.org/plugins/create-block-theme/</span>
 
-管理画面 > エディタからいろいろ設定してテーマを書き出す事ができる
+<div class="row"><div class="col-6">
+<p class="mb-48">管理画面 > エディタ から各種設定をしてテーマを書き出す事ができる</p>
 
-※最初は既存テーマ触って感覚を把握した方が良い &
-これやりだすとそれだけで時間なくなるのでスキップ
+<caption>既存テーマを触ってサイトエディタに慣れてから必要に応じて使えばOK</caption></div>  <div class="col-6"><img src="images/plugin-create-block-theme.png" alt="" /></div></div>
+
 
 ---
 
 ## 既存のテーマからのカスタマイズなど
 
-ゼロから作るのめんどくさい
+ウェブサイトをゼロから作るのめんどくさい
 → VK FullSite Installer で
 サイトごとセットアップする事ができます。
 
