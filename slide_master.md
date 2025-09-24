@@ -454,7 +454,7 @@ PHPのテンプレートファイルで if 分で条件分岐をしていたよ�
 AIに作ってもらえるような時代になったけれど...
 
 * プログラマー以外には少しハードル高い
-* プラグインとして作って管理とか面倒
+* プラグインとして作って管理とか面倒...
 
 ---
 
@@ -492,20 +492,22 @@ echo nl2br(esc_textarea( $cf_value ));
 
 カスタムフィールドを表示できるプラグインもある
 
-* VK Blocks Pro のダイナミックテキストブロック
+例）VK Blocks Pro のダイナミックテキストブロック
 
 
 <img src="images/dynamic-text-cf.png" alt="" />
 
 ---
 
-メモ : ショートコード使う場合
+## <i class="fa-solid fa-triangle-exclamation"></i> ショートコードでの表示は要注意
 
+カスタムフィールドの値を表示するショートコードを作るのはおすすめしない。
+クエリーループブロックの中のショートコードはレンダリングされるタイミングの都合上、ショートコードの中で global の $post や get_the_ID() がループ中のアイテムの情報にならない。
+
+回避方法はあるが面倒。
 https://www.vektor-inc.co.jp/post/shortcode-in-query-loop/
 
----
-
-
+それならダイナミックブロック作った方が...
 
 ---
 
@@ -519,6 +521,38 @@ https://www.vektor-inc.co.jp/post/shortcode-in-query-loop/
 2. 同期パターンの編集画面移動
 3. 編集可能にさせたいブロックを選択
    高度な設定 > 上書きを有効化
+
+---
+
+参考
+https://www.vektor-inc.co.jp/post/pattern-synchronous-asynchronous/
+
+---
+
+# クライアントにレイアウトを<br>壊されたくない
+
+---
+
+### <i class="fa-solid fa-brush"></i> サイトエディタは編集権限では編集できない
+
+### <i class="fa-regular fa-copy"></i> 固定ページ本文などの表示ロック
+
+#### プラグイン Locky Blocky
+https://wordpress.org/plugins/locky-blocky/
+
+
+---
+
+親ブロックで編集ロックしておくと...
+
+<img src="images/Locky-Blocky-admin.png" alt="" />
+
+---
+
+管理者以外は、文字は変更できるが、
+レイアウトやデザインの変更はできなくなる
+
+<img src="images/Locky-Blocky-editor.png" alt="" />
 
 ---
 
@@ -588,20 +622,25 @@ https://www.vektor-inc.co.jp/post/allow-navigation-edit-for-editor/
 
 ### 2. よほど大きくなければ本番サイトで...
 
-#### A. 確認用ページテンプレートで
+#### A. 条件分岐で表示を切り替えて確認してもらう
+
+条件分岐できるプラグインを使って
+ログインしている特定のユーザー権限の場合には改修用のコンテンツが表示されるようにする
+ログインしていない場合は既存コンテンツ
+
+---
+
+<img src="images/dynamic-if-kakunint.png" alt="" />
+
+---
+
+#### B. 確認用ページテンプレートで
 
 1. 確認用のページテンプレートを作る
 2. 非公開ページを作成して確認用のページテンプレートを適用
 3. OKが出たら確認用のページテンプレートの中身を本番テンプレートの中身に入れ替え
 
 バージョン管理はバックアッププラグインなどでサイト全体として使えばいいのでは？
-
----
-
-#### B. 条件分岐で
-
-条件分岐で表示できるプラグインを使って
-ログインしている特定のユーザー権限の場合には改修用のヘッダーが表示されるようにする
 
 ---
 
