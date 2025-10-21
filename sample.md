@@ -564,18 +564,6 @@ https://wordpress.org/patterns/
 
 ---
 
-![bg right:40%](images/bg-john-schnobrich-FlPc9_VocJ4-unsplash.jpg)
-
-#### エンドユーザー <br>( ビジネスオーナー )
-
-自身のビジネスに合うようにテキストを書き換えるだけ
-
-#### 受託制作
-
-ページのたたき台として使う事で **クライアントとの打ち合わせをスムーズに進める事ができる**
-
----
-
 <p class="title-parent">どのように製品付加価値を高めるか？</p>
 
 ### 2. お気に入り登録機能
