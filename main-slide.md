@@ -430,10 +430,10 @@ https://ja.wordpress.org/plugins/two-factor/
 
 # 次回
 
-2025/10/23(木) 21:00 〜 22:15
-### 怖くない・大変じゃない<br>WordPressサイトの維持管理
+2025/11/20(木) 21:00 〜 22:30
+### ゼロから覚えたくないフルサイト編集
 
-https://vektor.connpass.com/event/370498/
+https://vektor.connpass.com/event/373620/
 
 ---
 
