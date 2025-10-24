@@ -325,13 +325,15 @@ https://ja.wordpress.org/plugins/wpvivid-backuprestore/
 
 ### エックスサーバー
 
-<img src="images/backup-x.png" alt="" style="max-width:80%" />
+<img src="images/backup-x.png" alt="" style="max-width:60%" />
+
+レンタルサーバーの領域全体を自動でバックアップされている
 
 ---
 
 ### さくらのレンタルサーバー
 
-<div class="row">  <div class="col-6"><img src="images/ip-block-sakura.png" alt="" style="max-width:100%" /></div>  <div class="col-6">ディレクトリや簡単インストールでインストールしたWordPressを指定して、ステージング環境の作成やスケジュールバックアップができる！</div></div>
+<div class="row">  <div class="col-6"><img src="images/staging-sakura.png" alt="" style="max-width:100%" /></div>  <div class="col-6">ディレクトリや簡単インストールでインストールしたWordPressを指定して、ステージング環境の作成やスケジュールバックアップができる！</div></div>
 
 ---
 
