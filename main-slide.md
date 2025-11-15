@@ -10,7 +10,7 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# ゼロから覚えたくないフルサイト編集
+# ゼロから覚えたくない<br>WordPress の最新フルサイト編集
 
 VWSオンライン勉強会 #047
 
@@ -34,13 +34,53 @@ VWSオンライン勉強会 #047
 
 ## この勉強会について
 
-運営 : 株式会社ベクトル
-
 WordPressやウェブ制作にまつわる様々なテーマをとりあげて開催しているオンライン勉強会。
 
 ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
 
-また、ベクトル製品のアップデート情報・カスタマイズ・運用方法についてもご案内しています。
+---
+
+## 運営元 : 株式会社ベクトル
+
+WordPress テーマ「Lightning」をはじめ、WordPress 関連のテーマ・プラグインなどを多数開発しています。
+
+---
+
+<!-- _paginate: false  -->
+
+![bg right](images/WordCamp_Kansai_2025.jpg)
+
+国内外の WordCamp に協賛しています。
+
+WordCamp Kansai 2025 
+WordCamp Asia 2025 
+など...
+
+<img class="mt-32" src="images/wca2025-top.png" alt="" />
+
+---
+
+## メディアスポンサー
+
+<img src="images/logo-sakura.png" alt="" style="margin-top:20px;" />
+
+---
+
+<img src="images/staging-sakura.png" alt="" style="max-width:80%;margin-bottom:20px;border:1px solid #ccc;" />
+
+指定のディレクトリを対象にしたバックアップ・ステージング環境をつくれる機能が特におすすめ！
+
+---
+
+<div class="row">  <div class="col-6"><img src="images/sakura-conpane-a.png" alt="" class="mb-32" style="border:1px solid #ccc;" /></div>  <div class="col-6"><img src="images/sakura-fsi.png" alt="" class="mb-24" />
+さくらのレンタルサーバーのコントロールパネルから弊社製品2,000円割引のクーポンが入手できます。</div></div>
+
+
+
+
+
+
+https://rs.sakura.ad.jp/biz/solutions/web-development/vektor/
 
 ---
 
@@ -60,9 +100,9 @@ WordPressやウェブ制作にまつわる様々なテーマをとりあげて�
 ## 本日の内容
 
 * ご挨拶・その他お知らせ（約10分）
-* 本編
+* 本編（45分程度）
 * 質疑応答（〜30分程度）
-* 懇親会・ユーザーフィードバック会
+* 懇親会・質問回・ユーザーフィードバック会
 
 ---
 
@@ -86,13 +126,13 @@ https://x.com/vektor_inc
 
 ## この勉強会の対象
 
-* とりあえずウェブサイト作ってみたい人
-* ブロックテーマでサイト構築をした事がない人
-* 他の人がブロックテーマをどう使ってるのか見たい人
+* ビジネス用のウェブサイトを簡単に作りたい人
+  （個人事業主・店舗オーナーなど）
+・WordPressの基本操作はわかるが、ブロックテーマでフルサイト編集に慣れていない人
+・他の人がブロックテーマをどう使ってるのか見たい人
 
 ---
 
-## 主なお品書き
 
 * デモサイトのインポート
 * WordPressの編集箇所に関する大まかな概念について（ページコンテンツとテンプレート）
@@ -113,19 +153,12 @@ https://vk-fullsite-installer.com/
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
 # WordPressの編集箇所に関する<br>大まかな概念
 ※ 今まで WordPressを使ってない非エンジニア向け
 
 ---
 
 ## WordPress は静的HTMLファイルを表示しているわけじゃない
-
-
----
 
 ## コンテンツがデータベースに保存される
 
@@ -157,97 +190,87 @@ https://vk-fullsite-installer.com/
 * フッターの変更
 * ページテンプレートの変更
 
+---
 
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 質疑応答
 
 ---
 
-## 簡単なパスワードは使わない
+最後までご参加ありがとうございました！
 
-簡単なパスワードは使わないでと散々言われていますが...
-
-<center class="mt-48" style="font-size:48px">＿人人人人人人人人人人人人人人人人人＿
-<center>＞　相変わらず多い簡単なパスワード　＜
-<center>￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+# 告知とお知らせ
 
 ---
 
-## 管理画面のセキュリティ対策
+## 次回の告知
 
-■ 管理画面に別途表示される画像に表示された文字を入力
-■ ログイン試行回数を制限
+2025/12/25?(木) 21:00 〜 22:30
+### 何かやります
 
-これらの対策は有効で、やるに越した事はないが...
-そもそも管理画面に辿り着かせない方が確実
-
----
-
-## 国外IPのアクセスブロック
-
-海外から操作する事がなければ国外IPアドレスからのアクセス制限を有効にする
-
-エックスサーバーやさくらのレンタルサーバーなどは標準で国外IPからのアクセス制限機能がるので、海外から記事の更新などをしないのであれば有効にしておく。
+https://vektor.connpass.com/
 
 ---
 
-<img src="images/ip-block-sakura.png" alt="" />
+🎄ベクトル製品にまつわるブログリレー🎄
+
+## 12月開催 VWS アドベントカレンダー<br>ぜひご参加ください🎁
+
+カレンダーに参加登録をして、自分のサイトにベクトル製品に関する記事を書いて公開していただくと、ベクトル製品のお買い物に使える __1,000円分__ のクーポンをプレゼント！🎟️✨
+
+無料版のテーマやプラグインに関するブログ記事でもOK！
+https://adventar.org/calendars/11894
 
 ---
 
-## 管理画面のBASIC認証
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-ログイン画面と /wp-admin/ ディレクトリにBASIC認証を追加
 
-Botなどはログイン画面に対して突破処理をするので、
-サーバーには負荷がかかったりもする。
-
-→ BASIC認証でログイン画面自体に辿り着けなくする方が効果大
-
----
-
-### BASIC認証の設定
-
-↓ で解説してあります。
-https://www.vektor-inc.co.jp/post/basic-auth/
+ベクトルって、どんな製品があるの？
+# ベクトル製品ご紹介
+沢山あるので、おすすめトップ３をご紹介
 
 ---
 
-## ２段階認証
+# おすすめ ①
 
-BASIC認証も突破される可能性が0ではないので、
-念のためログインを２段階認証に設定しておくのがおすすめ。
-
-<img src="images/two-factor.png" alt="" style="max-width:60%" />
-
-https://ja.wordpress.org/plugins/two-factor/
-
----
-
-各ユーザーの編集画面から設定
-
-<img src="images/2-fac.png" alt="" />
+本日のセッション序盤でも活用しました！
+## VK フルサイトインストーラー
+https://vk-fullsite-installer.com/
+お好みのデモサイトを数クリックで爆速セットアップ！
+選択するデモサイトによって無料版・有料版があります。
 
 ---
 
-## とりあえず
+# おすすめ ②
 
-■ パスワードは絶対複雑なものにする
-■ 定期バックアップ
-■ 管理画面のBASIC認証
-■ ２段階認証
-
-を設定しておけばそんなに大変な事になる事はない。
+## VK パターンライブラリ
+https://patterns.vektor-inc.co.jp/
+コピペで使える WordPress のブロックパターンライブラリ
+ただいま 470 パターンを公開中（無料版も沢山！）
+実用的なビジネスLPも丸ごとコピペできる有料パターンも好評✨
 
 ---
 
-# 次回
+# おすすめ ③
+ベクトル主要製品とサービス使えるお得なライセンス
+## ベクトルパスポート
+https://vws.vektor-inc.co.jp/vektor-passport
+コピペで使える豊富なプロ品質プレミアムパターンをはじめ、
+高機能プラグインや、お気に入り機能・学習サービスなどが
+オールインワン！
+プロの受託制作者さまにも多数ご活用いただいております。
 
-2025/11/20(木) 21:00 〜 22:30
-### ゼロから覚えたくないフルサイト編集
-
-https://vektor.connpass.com/event/373620/
 
 ---
 
 # ありがとうございましたん
+懇親会でもお待ちしております
 
 
