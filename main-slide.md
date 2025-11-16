@@ -133,6 +133,14 @@ https://x.com/vektor_inc
 
 ---
 
+## ブロックエディタの操作自体に慣れてない人
+
+ゼロから覚えたくない人のためのWordPressブロックエディタハンズオン
+
+https://training.vektor-inc.co.jp/courses/wordpress-block-editor/lessons/creating-web-pages-using-block-patterns/
+
+---
+
 
 * デモサイトのインポート
 * WordPressの編集箇所に関する大まかな概念について（ページコンテンツとテンプレート）
@@ -188,7 +196,15 @@ https://vk-fullsite-installer.com/
   - URL変更したらリンク切れるで
 * サイトアイコンの変更
 * フッターの変更
+  - メニューのハンバーガーの切り替え
 * ページテンプレートの変更
+
+---
+
+おまけ
+
+* サイトタイトルのフォント変更 / タグの分岐
+
 
 ---
 
