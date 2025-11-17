@@ -60,6 +60,32 @@ WordCamp Asia 2025
 
 ---
 
+## 自己紹介 <span class="caption">- Self introduction -</span>
+
+<div class="row colmuns" style="margin-bottom:0em"> 
+
+<div class="col-8">
+
+<h3 class="mb-8">石 川 栄 和</h3>
+
+Hidekazu Ishikawa
+
+<div class="list-icon">
+
+<i class="fa-solid fa-laptop-code"></i>Vektor,Inc．代表 / テーマ開発
+<i class="fa-brands fa-x-twitter"></i>kurudrive
+<i class="fa-brands fa-facebook"></i>hidekazu.ishikawa
+<i class="fa-solid fa-heart"></i>SUP / ランニング / ベース / 将棋
+
+</div>
+
+</div>
+
+<div><img src="images/1_profile.png" alt="" style="width:30vw" /></div>
+</div>
+
+---
+
 ## メディアスポンサー
 
 <img src="images/logo-sakura.png" alt="" style="margin-top:20px;" />
@@ -74,11 +100,6 @@ WordCamp Asia 2025
 
 <div class="row">  <div class="col-6"><img src="images/sakura-conpane-a.png" alt="" class="mb-32" style="border:1px solid #ccc;" /></div>  <div class="col-6"><img src="images/sakura-fsi.png" alt="" class="mb-24" />
 さくらのレンタルサーバーのコントロールパネルから弊社製品2,000円割引のクーポンが入手できます。</div></div>
-
-
-
-
-
 
 https://rs.sakura.ad.jp/biz/solutions/web-development/vektor/
 
@@ -97,7 +118,7 @@ https://rs.sakura.ad.jp/biz/solutions/web-development/vektor/
 
 ---
 
-## 本日の内容
+## 本日の流れ
 
 * ご挨拶・その他お知らせ（約10分）
 * 本編（45分程度）
@@ -188,29 +209,39 @@ https://vk-fullsite-installer.com/
 
 ---
 
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
 # WordPressの編集箇所に関する<br>大まかな概念
 ※ 今まで WordPressを使ってない非エンジニア向け
 
 ---
 
-## WordPress は静的HTMLファイルを表示しているわけじゃない
+## WordPress はページ毎のファイルを<br>表示しているわけじゃない
 
-### コンテンツがデータベースに保存される
+タイトルや本文などがデータベースに保存される。
 
-固定ページや投稿の、タイトルや本文などがデータベースに保存される。
+<img src="images/post-edit.png" alt="" style="border:1px solid #ccc;" />
 
 ---
 
 ## URLにアクセスされたらページを生成する
 
-ページにアクセスされたら、テンプレートにコンテンツデータを反映させて返す。
+<img src="images/wp-system.svg" alt="ページにアクセスされたら、テンプレートにコンテンツデータを反映させて返す。" style="max-width:85%" />
 
 ---
 
 ## テンプレートがノーコードで編集可能
 
-クラシックテーマ ・・・　PHPファイル
-ブロックテーマ ・・・ ブロックエディタで編集可能
+<img src="images/wp-system-2.svg" alt="クラシックテーマ ・・・　PHPファイル
+ブロックテーマ ・・・ ブロックエディタで編集可能" style="max-width:85%" />
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+
+# テンプレートを編集していきましょう
 
 ---
 
@@ -311,6 +342,10 @@ https://vk-fullsite-installer.com/
 
 ---
 
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
 最後までご参加ありがとうございました！
 
 # 告知とお知らせ
@@ -380,7 +415,11 @@ https://vws.vektor-inc.co.jp/vektor-passport
 
 ---
 
-# ありがとうございましたん
+<!-- _paginate: false  -->
+
+<center>
+
+# ありがとうございました！
 懇親会でもお待ちしております
 
 

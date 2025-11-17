@@ -29,7 +29,7 @@ Hidekazu Ishikawa
 
 <div class="list-icon">
 
-<i class="fa-solid fa-laptop-code"></i>Vektor，Inc．代表 / テーマ開発
+<i class="fa-solid fa-laptop-code"></i>Vektor,Inc．代表 / テーマ開発
 <i class="fa-brands fa-x-twitter"></i>kurudrive
 <i class="fa-brands fa-facebook"></i>hidekazu.ishikawa
 
@@ -39,20 +39,6 @@ Hidekazu Ishikawa
 
 <div><img src="images/1_profile.png" alt="" style="width:30vw" /></div>
 </div>
-
----
-
-#### 2012
-
-ビジネスサイト向けレスポンシブ対応WordPressテーマを公開
-
-#### 2015
-
-公式ディレクトリでビジネス向けWordPressテーマを公開
-
-#### 2022
-
-公式ディレクトリでブロックテーマ公開
 
 ---
 ![bg](images/bg-bussines-model-01.svg)
