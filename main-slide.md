@@ -73,7 +73,7 @@ Hidekazu Ishikawa
 <div class="list-icon">
 
 <i class="fa-solid fa-laptop-code"></i>Vektor,Inc．代表 / テーマ開発
-<i class="fa-brands fa-x-twitter"></i>kurudrive
+<i class="fa-brands fa-x-twitter"></i>[kurudrive](https://x.com/kurudrive)
 <i class="fa-brands fa-facebook"></i>hidekazu.ishikawa
 <i class="fa-solid fa-heart"></i>SUP / ランニング / ベース / 将棋
 
@@ -123,7 +123,7 @@ https://rs.sakura.ad.jp/biz/solutions/web-development/vektor/
 * ご挨拶・その他お知らせ（約10分）
 * 本編（45分程度）
 * 質疑応答（〜30分程度）
-* 懇親会・質問回・ユーザーフィードバック会
+* 懇親会・質問会・ユーザーフィードバック会
 
 ---
 
@@ -162,8 +162,6 @@ https://x.com/vektor_inc
 
 https://www.vektor-inc.co.jp/post/vws-45-report/
 
-<!--
-
 ---
 
 ## ちなみに
@@ -175,9 +173,8 @@ https://www.vektor-inc.co.jp/post/vws-45-report/
 ### ブロックテーマ
 
 テンプレートファイルが html ファイルで構成されていて、
-ヘッダーやフッターを含めてページ全体がサイトエディタから自由に編集可能なテーマ
+ヘッダーやフッターを含めてページ全体がサイトエディタから自由に編集可能な __<span class="text-danger">フルサイト編集に対応したテーマ</span>__
 
--->
 
 ---
 
@@ -259,10 +256,11 @@ https://vk-fullsite-installer.com/
 
 ## ヘッダーレイアウトの変更
 
-  - パターンに登録しておく（同期でも同期じゃなくてもOK）
-  - メニューセットの入れ替え（ロゴ+サイトタイトル）
+  - パターン（同期）に登録しておく
+  - ヘッダーパターンの変更（ロゴ+サイトタイトル）
+  - メニューセットの入れ替え
   - サイトタイトルとキャッチコピーは連動してる
-  - ※ サイトタイトルは h1 タグになっちゃうやで...
+  - サイトタイトルのフォント変更
 
 ---
 
@@ -309,7 +307,7 @@ https://vk-fullsite-installer.com/
 ## おまけ（時間があれば）
 
 * リビジョン（過去のバージョンに戻す）
-* サイトタイトルのフォント変更 / タグの分岐
+* サイトタイトルは h1 タグになっちゃうやで...
 
 ---
 
@@ -369,7 +367,7 @@ https://www.vektor-inc.co.jp/post/vws-45-report/
 
 * X-T9 Pro 版ビジネス
   https://demo.dev3.biz/x-t9-pro/
-* X-T9 X-T9 工務店（ ナチュラル ）
+* X-T9 工務店（ ナチュラル ）
   https://demo.vk-fullsite-installer.com/architect/
 
 ---
