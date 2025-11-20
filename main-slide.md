@@ -74,11 +74,10 @@ WordCamp Asia 2025
 
 <div class="telop telop--right" style="bottom:1.5em;">
 
-<h3 class="mb-16"> 自己紹介 <span class="caption">- Self introduction -</span></h3>
+<h3 class="mb-16 mt-24"> 自己紹介 <span class="caption">- Self introduction -</span></h3>
 
-<h4 class="mb-8">石 川 栄 和</h4>
+<h4 class="mb-8">石 川 栄 和 <span style="font-size:24px">Hidekaz Ishikawa</span></h4>
 
-Hidekazu Ishikawa
 
 <div class="list-icon">
 
