@@ -406,7 +406,7 @@ https://vektor.connpass.com/
 カレンダーに参加登録をして、自分のサイトにベクトル製品に関する記事を書いて公開していただくと、ベクトル製品のお買い物に使える __1,000円分__ のクーポンをプレゼント！🎟️✨
 
 無料版のテーマやプラグインに関するブログ記事でもOK！
-https://adventar.org/calendars/11894
+https://www.vektor-inc.co.jp/info/adventar-2025/
 
 ---
 
