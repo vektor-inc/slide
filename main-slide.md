@@ -44,6 +44,8 @@ WordPressやウェブ制作にまつわる様々なテーマをとりあげて�
 
 WordPress テーマ「Lightning」をはじめ、WordPress 関連のテーマ・プラグインなどを多数開発しています。
 
+<img src="images/vektor_vws-v2a-yoko.png" alt="" style="margin:30px auto;max-width:60%" />
+
 ---
 
 <!-- _paginate: false  -->
@@ -99,6 +101,8 @@ WordCamp Asia 2025
 
 </div>
 
+<!--
+
 ---
 
 ## 自己紹介 <span class="caption">- Self introduction -</span>
@@ -124,6 +128,8 @@ Hidekazu Ishikawa
 
 <div><img src="images/1_profile.png" alt="" style="width:30vw" /></div>
 </div>
+
+-->
 
 ---
 

@@ -5,8 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"sass": "gulp watch",
-		"sass:build": "gulp sass"
+		"sass": "SASS_SILENCE_DEPRECATIONS=legacy-js-api,import,global-builtin gulp watch",
+		"sass:build": "SASS_SILENCE_DEPRECATIONS=legacy-js-api,import,global-builtin gulp sass"
 	},
 	"repository": {
 		"type": "git",
@@ -30,9 +30,9 @@
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^6.2.1",
-		"bootstrap": "^4.5.3",
+		"@popperjs/core": "^2.11.8",
+		"bootstrap": "^5.3.3",
 		"gulp-style-aliases": "^1.1.11",
-		"jquery": "^3.5.1",
-		"popper.js": "^1.16.1"
+		"jquery": "^3.7.1"
 	}
 }

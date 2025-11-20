@@ -19,7 +19,10 @@ gulp.task('sass', function(done) {
 		.pipe(aliases({
 			"@fontawesome": "./node_modules/@fontawesome/fontawesome-free/css"
 		}))
-        .pipe(gulpSass())
+        .pipe(gulpSass({
+			quietDeps: true,
+			silenceDeprecations: ['legacy-js-api','import','global-builtin','color-functions']
+		}))
 		.pipe(gulp.dest('./css/'));
 		done();
 });
