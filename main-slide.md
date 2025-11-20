@@ -50,13 +50,55 @@ WordPress テーマ「Lightning」をはじめ、WordPress 関連のテーマ・
 
 ![bg right](images/WordCamp_Kansai_2025.jpg)
 
-国内外の WordCamp に協賛しています。
+国内外の WordCamp に
+協賛しています。
 
 WordCamp Kansai 2025 
 WordCamp Asia 2025 
 など...
 
 <img class="mt-32" src="images/wca2025-top.png" alt="" />
+
+---
+
+![bg](images/wca2023_stage.jpg)
+
+
+<div class="telop telop--right" style="top:100px;">
+
+
+
+</div>
+
+
+
+<div class="telop telop--right" style="bottom:1.5em;">
+
+<h3 class="mb-16"> 自己紹介 <span class="caption">- Self introduction -</span></h3>
+
+<h4 class="mb-8">石 川 栄 和</h4>
+
+Hidekazu Ishikawa
+
+<div class="list-icon">
+
+<i class="fa-solid fa-laptop-code" style="color:#fff;"></i>Vektor,Inc．代表 / テーマ開発
+<i class="fa-brands fa-x-twitter" style="color:#fff;"></i>kurudrive
+<i class="fa-brands fa-facebook" style="color:#fff;"></i>hidekazu.ishikawa
+<i class="fa-solid fa-heart" style="color:#fff;"></i>SUP / ランニング / ベース / 将棋
+
+</div>
+
+</div>
+
+<div class="row colmuns" style="margin-bottom:0em"> 
+
+<div class="col-8">
+
+
+
+
+</div>
 
 ---
 
@@ -460,4 +502,6 @@ https://vws.vektor-inc.co.jp/vektor-passport
 # ありがとうございました！
 懇親会でもお待ちしております
 
-
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)

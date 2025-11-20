@@ -1,8 +1,9 @@
 // var fs = require('fs');
 // var pkg = JSON.parse(fs.readFileSync('./package.json'));
 var gulp = require('gulp');
-// sass compiler
-var sass = require('gulp-sass');
+// sass compiler (dart-sass via gulp-sass v5)
+var dartSass = require('sass');
+var gulpSass = require('gulp-sass')(dartSass);
 // ファイル結合
 var concat = require("gulp-concat");
 
@@ -18,7 +19,7 @@ gulp.task('sass', function(done) {
 		.pipe(aliases({
 			"@fontawesome": "./node_modules/@fontawesome/fontawesome-free/css"
 		}))
-        .pipe(sass())
+        .pipe(gulpSass())
 		.pipe(gulp.dest('./css/'));
 		done();
 });
