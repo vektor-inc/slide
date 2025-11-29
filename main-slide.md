@@ -71,6 +71,19 @@ _paginate: false
 
 ---
 
+## UpdraftPlus
+
+<img src="images/updraftPlus.png" alt="" style="margin:0 auto 20px !important;max-width:80%;border:1px solid #ccc;" />
+
+https://ja.wordpress.org/plugins/updraftplus/
+
+---
+
+---
+
+<!-- _paginate: false  -->
+
+<img src="images/ogp-live20251023.png" alt="" />
 
 ---
 

@@ -8,9 +8,13 @@ section {
 		z-index: 1;
 		box-sizing: border-box;
 	}
+	h1,h2,h3,h4,h5 {
+		font-weight: bold;
+	}
 	h1 {
 		font-size: 64px !important;
 		color: #000;
+		font-weight: bold;
 	}
 	h2 {
 		font-size: 56px;
@@ -37,6 +41,9 @@ section {
 		margin-bottom: 50px;
 		li:last-child {
 			margin-bottom: 0;
+		}
+		ul {
+			margin-top:16px;
 		}
 	}
 	.alert {
