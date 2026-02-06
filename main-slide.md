@@ -464,7 +464,7 @@ https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skil
 
 ---
 
-### 実装内容のレビュー
+## 実装内容のレビュー
 
 * skills で指定したルールになってるか改めて確認してください。
 * 懸念点・改善点などないか確認してください  
@@ -476,7 +476,7 @@ GitHub で coderabbit っての使ってます。
 
 ---
 
-### 最終的
+### 現状のAI関連構成
 
 * `AGENTS.md` : AIエージェントが最初に読み込む
 * `docs/`
@@ -485,6 +485,9 @@ GitHub で coderabbit っての使ってます。
     * `skills/` ... 実装時に守って欲しいルール  
       ※ 実際には `.claude` や `.cursor` など各エージェント用のディレクトリに自動複製する。
   * `ui/` ... スタイルガイドのHTML
+
+---
+
 * `tests`
   * `e2e` ... ブラウザで実際に操作するテスト
   * `phpunit` ... クラスのメソッドや関数などが期待値を返すかテスト
@@ -498,7 +501,7 @@ GitHub で coderabbit っての使ってます。
 
 ---
 
-* 仕様をプロジェクト内において、エージェントに読ませる
+* 仕様書をプロジェクト内に設置してAGENTS.mdに読ませる
 * コーディング規約などあらかじめ指定する 
 * デザインに関するスタイルガイドもあらかじめ作成する
 * ちゃんとテストを書く
@@ -517,7 +520,7 @@ GitHub で coderabbit っての使ってます。
 
 ## 懸念点
 
-なんだかんだメッチャ時間かかって作ったとする
+なんだかんだメッチャ時間かかるけど...
 
 ユーザーは一旦入手したら、そこから先、ライセンス費用払わなくても
 
@@ -528,14 +531,14 @@ GitHub で coderabbit っての使ってます。
 
 ---
 
-## ドキュメントの扱いが迷う
+## ドキュメントの重要性
 
-開発ドキュメントやテストコードがないと、AIがカスタマイズなどした時に、今までの機能・品質の保証が難しい
+開発ドキュメントやテストコードがないと、AIがカスタマイズなどした時に、今までの機能・品質の保証されない
 
 <i class="fa-sharp fa-solid fa-arrow-right"></i> この部分を非公開・配布しなければ実用性が微妙になる  
 <i class="fa-sharp fa-solid fa-arrow-right"></i> ライセンス買った方が早い
 
-ってなるから成り立つのでは？
+という状況になるから正規品が成り立つのでは？
 
 ---
 
@@ -546,11 +549,25 @@ GitHub で coderabbit っての使ってます。
 ---
 
 <p class="text-center" style="margin-top:2em;font-size:64px;font-weight:900">
-オープンじゃないとか、ケチとか...
+ソースコード（ドキュメント）<br>オープンじゃないってどうなんよ？
 </p>
+
+<center>とか...ねぇ．．．オープンソース的じゃねえだろ的なごにょごにょごにょ...</center>
 
 ---
 
 <p class="text-center" style="margin-top:2em;font-size:70px;font-weight:900">
 どう思います？
 </p>
+
+
+<!-- _paginate: false  -->
+
+<center>つづきは懇親会などで...
+
+<p class="mt-48">ありがとうございました</p>
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
