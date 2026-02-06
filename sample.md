@@ -588,9 +588,9 @@ https://wordpress.org/patterns/
 
 何か思いついても既に他のプラグインがあったりする...
 
-＿人人人人人人人人人人＿
-＞　レッドオーシャン　＜
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+<div style="font-size:48px;font-weight:bold;text-align:center;" >＿人人人人人人人人人人＿<br />
+＞　レッドオーシャン　＜<br />
+￣Y^Y^Y^Y^Y^Y^Y^Y￣
 
 ---
 
