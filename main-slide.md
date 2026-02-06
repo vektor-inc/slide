@@ -273,6 +273,8 @@ https://vk-booking-manager.com/
 * 決まった事は `docs/` ディレクトリの中に機能毎などでファイルを分けて記載してもらう
 * AIが最初に読むリポジトリ直下の `AGENTS.md` に `docs/` の仕様に従うように記載
 
+https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/AGENTS.md
+
 ---
 
 ### 結局技術仕様もこのあたりで詰められていく
@@ -280,9 +282,9 @@ https://vk-booking-manager.com/
 どんな機能が必要か？の仕様を考えていると、
 結局技術的にどう実装するかという事も含まれていく。
 
-バイブコーディングと言ってもそういった仕様をつめていく過程でやはり一定のプログラムのスキルは必要になってくる。
-
 カスタム投稿タイプ / カスタムフィールド / オプション値 / カスタムテーブル など情報をどう扱うか？
+
+バイブコーディングと言ってもそういった仕様をつめていく過程でやはり一定のプログラムのスキルは必要になってくる。
 
 ---
 <!-- _class: title-chapter  -->
@@ -296,7 +298,8 @@ https://vk-booking-manager.com/
 ### 実装初期の段階（2025年11月頃）
 
 `docs/coding-rules.md` にさっくり以下のように記載  
-https://github.com/vektor-inc/vk-booking-manager-pro/blob/main/docs/ai-skills/skills/coding-rules.md
+
+https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skills/skills/coding-rules.md
 
 ---
 
@@ -312,7 +315,7 @@ https://github.com/WordPress/agent-skills/
 ##### そもそも skills とは
 
 `docs/coding-rules.md` に書いてあっても毎回ちゃんと参照してくれるわけでもないし、イマイチ効きが弱い。
-skills を設定しておくと、skills の情報を前提に実装してくれるし、skills 全体の情報量が多くても、その実装に必要な情報だけを参照して処理してくれる。
+skills を設定しておくと、skills の情報を前提に実装してくれるし、skills 全体の情報量が多くても、その実装に必要な情報だけを参照して処理してくれる...らしい。
 
 ---
 
@@ -342,11 +345,14 @@ WordPressの公式ドキュメントから正しい情報をAIに提供してく
 
 ### 部分的に作る
 
-当然ながらいきなり全部実装スタートさせるなんて恐ろしい事しない  
+いきなり全部実装スタートさせるなんて恐ろしい事しない  
 細かい画面や機能単位で実装してもらう
 
 AIでの規模の大きい実装ははじめてなので、  
-実装計画自体は細かく練ってもどうせ想定外だらけになるので雑にスタート
+細かく実装計画練ってもどうせ想定外だらけになる
+→ 雑にスタート
+
+---
 
 例）
 1. スタッフの投稿タイプ作成
@@ -356,21 +362,22 @@ AIでの規模の大きい実装ははじめてなので、
 
 ---
 
-ってやってると...
+<center>ってやってると...
 
 ---
 
-<div style="font-size:48px;font-weight:bold;text-align:center;" >＿人人人人人人人人人人＿<br />
+<div style="font-size:48px;font-weight:bold;text-align:center;" >＿人人人人人人人人人人人人人＿<br />
 ＞　無限に出てくる仕様の穴！　＜<br />
-￣Y^Y^Y^Y^Y^Y^Y^Y￣
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 
 ---
 
-### デザイン関連の一貫性に問題が出る
+## デザイン関連の一貫性に問題が出る
 
-### 最初のデザイン関連コーディング指定
+#### 最初のデザイン関連コーディング指定
 
-* 汎用製品でユーザーがCSSを上書きする事を想定して基本的にBEMで。
+* 汎用製品でユーザーがCSSを上書きする事を想定
+  → 基本的にBEMで指示
 * プリフィックス
 
 ---
@@ -384,7 +391,8 @@ AIでの規模の大きい実装ははじめてなので、
 
 ### 反省して再指定
 
-* よく使う色やサイズ指定などCSS変数を用意して基本的にそれを使うように
+* よく使う色やサイズ指定のCSS変数を用意
+→ 基本的にそれを使うように
 * 共通のUIコンポーネント用の雑なスタイルガイドをHTMLで作成人力調整
 * スタイルガイドに沿って構築して、むやみに独自のクラス名を作らないように指示
 
@@ -394,13 +402,19 @@ AIでの規模の大きい実装ははじめてなので、
 
 ---
 
-<p class="text-center" style="margin-top:2em;font-size:70px;font-weight:900">
+<p class="text-center" style="margin-top:2em;font-size:64px;font-weight:900">
 普通は先にスタイルガイド作るよね！
 </p>
 
 ---
 
-### 細かい実装・調整を繰り返す
+https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ui/style-guide.html
+
+https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skills/skills/design-rules.md
+
+---
+
+## 細かい実装・調整を繰り返す
 
 #### 触りながら操作すると次から次へと必要な機能・処理
 
@@ -413,35 +427,40 @@ AIでの規模の大きい実装ははじめてなので、
 
 ---
 
-### Skill のブラッシュアップ
+## Skill のブラッシュアップ
 
 同じような実装指示をする都度、実装ルールとして追加していく
 
 ---
 
-### テストの追加
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-いつの間にか動かなくなったりしないようにテストを書いていく。
+# テストの追加
 
-#### PHPUnit テスト
+いつの間にか動かなくなったりしないように！
+
+---
+
+## PHPUnit テスト
 
 ##### テスト形式の指定
 
 おまかせで書いてもらうと、どんなテストをしてるのかさっぱりわからないテストコードが量産されるので、  
 テストの書き方のルールを指定
 
-`phpunit.md`
+https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skills/skills/phpunit.md
 
 ---
 
-#### E2Eテスト
+## E2Eテスト
 
-ブラウザで実際に操作するテストを書く
+ブラウザで実際に操作するテスト
 
 手動で書くと超絶面倒なので、これを自動で書いてくれるのがほんとうにありがたい！
 
-これも何をしているのかしているのか人間が見て把握しやすいように、  
-操作内容を日本語でコメントを入れておいて貰う
+何をしているのかしているのか人間が見て把握しやすいように、操作内容を日本語でコメントを入れておいて貰う
 
 ---
 
