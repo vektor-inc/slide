@@ -10,10 +10,14 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
+セッションサブタイトル
 
+# セッションタイトル
+
+石川栄和@Vektor,Inc.
 
 <!-- _class: title -->
-![bg](images/session_a2.png)
+![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
 ---
 
@@ -42,9 +46,9 @@ Hidekazu Ishikawa
 
 ---
 ![bg](images/bg-bussines-model-01.svg)
-## 従来のテーマ開発者のビジネスモデル
+## ページのタイトル
 
-開発 & 販売
+簡単な文章簡単な文章簡単な文章簡単な文章簡単な文章簡単な文章簡単な文章
 
 <div class="list-icon">
 
@@ -59,9 +63,9 @@ Hidekazu Ishikawa
 ---
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
-![bg](images/main_bg_op_15.png)
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# マネタイズが難しくなったと感じる点
+# セクションタイトル
 
 ---
 
@@ -400,27 +404,6 @@ section li{
 
 ---
 
-現在
-
-<div class="alert alert-warning" style="padding:1em 2em;">
-
-<h4 class="text-center mb-32">パスポートライセンス</h4>
-
-<div class="list-icon">
-
-<i class="fa-solid fa-brush"></i> **テーマ**（ クラシックテーマ / 無料 ）
-<i class="fa-solid fa-plug"></i> **テーマ拡張** プラグイン
-<i class="fa-solid fa-plug"></i> **ブロック拡張** プラグイン
-<i class="fa-solid fa-user-tie"></i> サポート
-<span class="text-danger"><i class="fa-solid fa-brush"></i> **テーマ**（ ブロックテーマ / Free ）
-<span class="text-danger"><i class="fa-solid fa-brush"></i> **プレミアムパターン <i class="fa-solid fa-arrow-left-long"></i> New!!**
-
-</div>
-
-</div>
-
----
-
 
 この構成のメリット
 
@@ -594,24 +577,6 @@ https://wordpress.org/patterns/
 </ul>
 
 ---
-
-<style scoped>
-section p{
-  font-size:40px !important;
-}
-</style>
-<!-- _paginate: false  -->
-![bg](images/bg-many-business-opportunites.svg)
-
-<div style="padding-bottom:20vh">
-
-テーマ単体でのマネタイズは難しくなるが...
-
-**付加価値の高いパターン** と組み合わせる事で<b>多くのビジネスチャンスがあるのではないか</b>
-
-</div>
-
----
 <!-- _paginate: false  -->
 ![bg](images/main_bg_op_15.png)
 
@@ -667,10 +632,6 @@ section p{
 * 受託メインの場合現状を変化のきっかけになる
 * 受託も仕事が取りやすくなるし未来につながる
 
----
-
-テーマ・プラグイン・パターンなど、まぁどれも認知してもらったりユーザーに価値を伝えたりするのはなかなかにハードルが高いが、**開発・宣伝は本当に地道な積み重ね**です。
-積み重ねていくと、知名度・収益ともに良い方向に向いていくと思うので、地道にがんばっていきましょう。
 
 ---
 <!-- _class: title-chapter  -->
