@@ -1,0 +1,353 @@
+---
+marp: true
+---
+<!-- 
+theme: vk-slide
+size: 16:9
+paginate: true
+style: |
+_paginate: false 
+-->
+<link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
+
+AIは敵か味方か？
+
+# AI時代のテーマ・プラグイン開発者の生存戦略
+
+発表者 : 石川栄和@Vektor,Inc.
+
+<!-- _class: title -->
+![bg](themes/vk-slide/images/vws_title_01_red.svg)
+
+---
+
+急激なAIの進化によって、今までのビジネスモデルで生きていけるのか恐怖の日々を送っている私ですが、そんな状況を打開して新たな収益源を確保するために、AIの力を借りてかなり複雑なごにょごにょシステム（開発中につき詳細はまだ秘密）を作成してみました。
+
+ほぼほぼバイブコーディングですが、どんな感じで作ったのか？品質や保守性、ビジネスとして成り立つのか？など、実際作ってみた知見をご紹介したいと思います。
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# はじめに
+
+---
+
+この内容はあくまで発表者が手探りでやっている事です。
+勘違いな思考をはじめ、
+実装について時代遅れだったりベストプラクティスではない部分も多々含まれていると思います。
+あらかじめご了承ください & こうした方が捗るで などありましたらよろしくお願いいたします。
+
+---
+
+### みなさん、AI 使ってます？
+
+<div class="list-icon">
+
+<i class="fa-regular fa-message"></i> ChatGPT や Gemini に聞いてコードを貼り付ける  
+<i class="fa-brands fa-github"></i> GitHub Copilot  
+<i class="fa-solid fa-terminal"></i> OpenAI Codex  
+<i class="fa-solid fa-pen-ruler"></i> Cursor  
+<i class="fa-solid fa-robot"></i> Claude  
+<i class="fa-solid fa-wand-magic-sparkles"></i> Antigravity
+
+</div>
+
+---
+
+### AI のサイト制作の能力がすごすぎる...
+
+1. ポン出しでもそれっぽいサイト作ってくれる
+2. だがしかし調整が結局大変で実用性微妙
+3. 設計書やデザインシステムとかあらかじめ定義すると実用に耐えるようになってきた
+
+---
+
+* 自然言語で指示してそのまま公開できちゃうようなサービスが出てきた  
+  ※ まだいろいろ怖くて実用性が微妙な印象だけど、僕が知らないだけで恐らく諸問題は概ね解決されてる
+* 画像とかも自然言語で指示してそのまま生成・配置してくれたりする
+
+---
+
+テーマやパターン開発者のの普段の思考としては...
+
+<div class="list-icon">
+
+<i class="fa-solid fa-puzzle-piece"></i> どうやって自動的にパターンに割り振ろう？  
+<i class="fa-solid fa-table-cells-large"></i> どうやったら適切なブロックでレイアウトしてくれるだろう？
+
+</div>
+
+<i class="fa-sharp fa-solid fa-arrow-right"></i> WordPressのブロックやパターンに当てはめる工程が発生する
+
+---
+
+AI がレイアウトしたHTMLをWordPressのブロックに変換するようなAIツールも出てきたけど...
+
+<div class="alert alert-warning mt-32" style="width:78%">
+<i class="fa-solid fa-triangle-exclamation"></i> そんな回りくどいことしなくても HTML で出来てるなら WordPress 使わなくてもそのまま公開しちゃえばいいじゃん
+</div>
+
+---
+
+小規模なウェブサイト制作においてはある程度WordPressの需要が奪われる
+
+ベクトルの主力は小規模サイト制作向けのテーマ・プラグイン・ブロックパターン・ウェブサイトデータなので競合する
+
+---
+
+更に
+
+* コロナによる副業ブームの終了（WordPressでのウェブ制作を勉強する人数の減少）
+* AIによる検索の影響力低下やnoteやzennの台頭によるブログ需要の低下
+* デモサイトをそのままインポートできる VK FullSite Installer  
+  → AIの勢いが強すぎるのも相まって想定よりも広がってない...
+
+---
+
+スタッフ複数名抱える企業として、小規模ウェブサイト制作だけ全振りしたビジネスを続けてるのは危ない
+
+<i class="fa-sharp fa-solid fa-arrow-right"></i> 定期収入を見込める製品を持っておきたい
+
+---
+
+ヘアサロンのデモサイトデータを制作  
+https://demo.vk-fullsite-installer.com/hairsalon/
+
+予約システムはみなさん大手のとか使ってるからそっち使ってもらう前提でいいたろうと思ってたのですが...
+
+<div class="alert alert-warning mt-32" style="width:70%">
+<i class="fa-solid fa-sack-dollar"></i> かなり高額。安いサービスでも月額 5,000円〜
+</div>
+
+---
+
+* これならプラグインで年間2万円くらいとかでも売れるんじゃない？
+* AI前提で複雑な実装を実際やってみる
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 作ってみた
+
+---
+
+（現在進行系...）
+
+---
+
+主にサロン向けウェブ予約システムプラグイン！
+
+---
+
+・・・。
+
+---
+
+まだちゃんと出来てません...orz
+
+途中経過報告という事で...。
+
+---
+
+VK Booking Manager  
+https://vk-booking-manager.com/
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# プロダクト仕様作成
+
+---
+
+* かなり多機能になるため当然複雑になる
+* プロンプト一発でできるわけもない
+
+実装がブレたりしないように仕様書を作成します。
+
+---
+
+実装を進める過程でいつの間にかAIが仕様から外れたものを作らないように、
+定期的に参照させるのでプロジェクトのリポジトリ内の `docs/` ディレクトリに仕様のファイルを作成しました。
+
+---
+
+技術的な細かい仕様ではなく、そもそもどういうモノを作りたいか？
+
+1. 作りたいものの概要とコンセプトを伝える
+2. 必要な機能を出してもらう
+3. 各機能について自分の意見や他のサービスでの状況を踏まえてつめていく
+4. それを実現するために指定しないといけない事があるれば出してもらう
+5. 考えて回答するかおすすめ案を貰う
+
+3〜5を無限に繰り返して....
+
+---
+
+<p class="text-center" style="margin-top:2em;font-size:60px">
+脳が疲れてきて...
+</p>
+
+---
+
+6. おまかせで...
+7. おまかせで...
+8. はい...
+9. それで...
+
+---
+
+<p class="text-center" style="margin-top:2em;font-size:60px">
+ってなりませんかね？
+</p>
+
+---
+
+いくら脳内でシミュレーションしたところで、
+触ってみたら結局「あ...」ってなるのは普通だと思うので、
+動く最小限の基本仕様のみ。
+
+---
+
+##### 予想
+おまかせで仕様考えてもらったら、優秀なAIさんがちゃちゃちゃっとやってくれるだろう
+
+##### 現実
+想定する状況や好みに左右される部分が大きく人間が決めないといけない部分もなかなかに膨大
+
+---
+
+### ドキュメントに落とし込んでいく
+
+* 決まった事は `docs/` ディレクトリの中に機能毎などでファイルを分けて記載してもらう
+* AIが最初に読むリポジトリ直下の `AGENTS.md` に `docs/` の仕様に従うように記載
+
+---
+
+### 結局技術仕様もこのあたりで詰められていく
+
+どんな機能が必要か？の仕様を考えていると、
+結局技術的にどう実装するかという事も含まれていく。
+
+バイブコーディングと言ってもそういった仕様をつめていく過程でやはり一定のプログラムのスキルは必要になってくる。
+
+カスタム投稿タイプ / カスタムフィールド / オプション値 / カスタムテーブル など情報をどう扱うか？
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# プログラムの実装ルールの指定
+
+---
+
+### 実装初期の段階（2025年11月頃）
+
+`docs/coding-rules.md` にさっくり以下のように記載  
+https://github.com/vektor-inc/vk-booking-manager-pro/blob/main/docs/ai-skills/skills/coding-rules.md
+
+---
+
+### 最近
+
+WordPressでの実装用の Agent Skills というのが公開された  
+https://github.com/WordPress/agent-skills/
+
+エージェント スキルは、AI アシスタント (Claude、Copilot、Codex、Cursor など) が WordPress 開発パターンを理解し、よくある間違いを回避し、ベスト プラクティスに従うのに役立つ手順、チェックリスト、スクリプトのポータブルなバンドルです。
+
+---
+
+##### そもそも skills とは
+
+`docs/coding-rules.md` に書いてあっても毎回ちゃんと参照してくれるわけでもないし、イマイチ効きが弱い。
+skills を設定しておくと、skills の情報を前提に実装してくれるし、skills 全体の情報量が多くても、その実装に必要な情報だけを参照して処理してくれる。
+
+---
+
+##### 設定方法
+
+導入したいリポジトリ内で「https://github.com/WordPress/agent-skills/ をこのリポジトリで設定したいです。」  
+みたいに AI にお願いしたらよしなにしてくれる。
+
+---
+
+#### MCPサーバーは？
+
+https://mcp.digitalcu.be/ja  
+WordPressの公式ドキュメントから正しい情報をAIに提供してくれる
+
+個人的には今まで、無しでやってきました。
+公式の Agent Skills が公開されたのでほとんどのケースはそれで事たりるかなと思いますが、AIが困った時に参照できるように一応設定しました。
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 実装
+
+---
+
+### 部分的に作る
+
+当然ながらいきなり全部実装スタートさせるなんて恐ろしい事しない  
+細かい画面や機能単位で実装してもらう
+
+AIでの規模の大きい実装ははじめてなので、
+実装計画自体は細かく練ってもどうせ想定外だらけになるので雑にスタート
+
+例）
+1. スタッフの投稿タイプ作成
+2. サービスメニューの投稿タイプ作成
+3. シフトの投稿タイプ作成
+4. 基本設定画面作成
+
+---
+
+ってやってると...
+
+---
+
+<p class="text-center" style="margin-top:2em;font-size:80px;font-weight:900">
+無限に出てくる仕様の穴！
+</p>
+
+---
+
+### デザイン関連の一貫性
+
+汎用製品でユーザーがCSSを上書きする事を想定して基本的にBEMで。  
+進めてもらうと...
+
+同じようなデザインでも個別に
+
+---
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# やった方がいい事
+
+---
+
+### コーディング規約をあらかじめ指定する
+
+### スタイルガイドを先に作る
+
+勝手にどんどんクラスを追加してデザインやCSSに一貫性がなくグダグダになる
+
+### テストの形式を指定する
+
+* テストが書きやすい
+
+---
+
+## 単純な修正でも AI にお願いしないと不安になる...
+
+https://github.com/WordPress/agent-skills/

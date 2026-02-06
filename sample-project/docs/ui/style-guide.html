@@ -1,0 +1,138 @@
+<section>
+	<h2 class="vkbm-sg-h2">Text</h2>
+	<p class="text-center">.text-center</p>
+	<p class="text-right">.text-right</p>
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">Buttons</h2>
+
+	<h3 class="vkbm-sg-h3">Variants</h3>
+	<div class="vkbm-buttons">
+		<button class="vkbm-button vkbm-button__primary">Primary</button>
+		<button class="vkbm-button vkbm-button__secondary">Secondary</button>
+		<button class="vkbm-button vkbm-button__danger">Danger</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__primary">Outline Primary</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__secondary">Outline Secondary</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__danger">Outline Danger</button>
+		<button class="vkbm-button vkbm-button__link">Link</button>
+		<button class="vkbm-button vkbm-button__primary" disabled>Disabled</button>
+	</div>
+
+	<h3 class="vkbm-sg-h3">Sizes</h3>
+	<div class="vkbm-buttons">
+		<button class="vkbm-button vkbm-button__primary vkbm-button__xs">Extra Small</button>
+		<button class="vkbm-button vkbm-button__primary vkbm-button__sm">Small</button>
+		<button class="vkbm-button vkbm-button__primary vkbm-button__md">Medium</button>
+		<button class="vkbm-button vkbm-button__primary vkbm-button__lg">Large</button>
+	</div>
+
+	<h3 class="vkbm-sg-h3">Align</h3>
+	<div class="vkbm-buttons">
+		<button class="vkbm-button vkbm-button__primary">Left</button>
+		<button class="vkbm-button vkbm-button__secondary">Left</button>
+	</div>
+	<div class="vkbm-buttons vkbm-buttons__center">
+		<button class="vkbm-button vkbm-button__primary">Center</button>
+		<button class="vkbm-button vkbm-button__secondary">Center</button>
+	</div>
+	<div class="vkbm-buttons vkbm-buttons__right">
+		<button class="vkbm-button vkbm-button__primary">Right</button>
+		<button class="vkbm-button vkbm-button__secondary">Right</button>
+	</div>
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">Alerts</h2>
+
+	<div class="vkbm-alert vkbm-alert__info">
+		<h3>Info</h3>
+		<ul>
+			<li>メッセージ1</li>
+			<li>メッセージ2</li>
+		</ul>
+	</div>
+
+	<div class="vkbm-alert vkbm-alert__success">Success alert</div>
+	<div class="vkbm-alert vkbm-alert__warning">Warning alert</div>
+	<div class="vkbm-alert vkbm-alert__danger">Danger alert</div>
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">Auth card / form</h2>
+
+	<div class="vkbm-auth-card">
+		<h3 class="vkbm-auth-card__title">タイトル</h3>
+		<p class="vkbm-auth-card__description">説明文が入ります。</p>
+
+		<div class="vkbm-alert vkbm-alert__danger">
+			エラー例
+			<ul>
+				<li>入力内容を確認してください。</li>
+			</ul>
+		</div>
+
+		<div class="vkbm-auth-form__field">
+			<label class="vkbm-auth-form__label">メールアドレス<span class="vkbm-auth-form__required">*</span></label>
+			<input class="vkbm-auth-form__input" type="email" />
+			<div class="vkbm-auth-form__note">補足テキスト</div>
+			<div class="vkbm-auth-form__feedback" style="display:block;">エラーメッセージ表示例</div>
+		</div>
+
+		<div class="vkbm-auth-form__actions">
+			<button class="vkbm-button vkbm-button__primary vkbm-auth-button">送信</button>
+		</div>
+
+		<div class="vkbm-auth-form__footer" style="display:block;">
+			<a class="vkbm-auth-form__link" href="#">リンク例</a>
+		</div>
+	</div>
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">Comfirm card</h2>
+
+	<div class="vkbm-confirm">
+		<div class="vkbm-confirm__summary">
+			<div class="vkbm-confirm__summary-title">
+				<div class="vkbm-confirm__datetime">[ 仮予約 ] 
+					<span class="vkbm-confirm__date">2026-01-08(木)</span><span class="vkbm-confirm__time"> 10:00 am - 12:00 pm</span>
+				</div>
+				<button type="button" class="vkbm-button vkbm-button__sm vkbm-button__secondary vkbm-confirm__cancel-button">キャンセル</button>
+			</div>
+			<dl class="vkbm-confirm__summary-item">
+				<dt class="vkbm-confirm__summary-item-title">メニュー</dt>
+				<dd class="vkbm-confirm__summary-item-value">似合わせカット + 透明感カラー + 髪質改善トリートメント</dd>
+			</dl>
+			<dl class="vkbm-confirm__summary-item">
+				<dt class="vkbm-confirm__summary-item-title">スタッフ</dt>
+				<dd class="vkbm-confirm__summary-item-value">見習い次郎</dd>
+			</dl>
+			<dl class="vkbm-confirm__summary-item">
+				<dt class="vkbm-confirm__summary-item-title">基本料金合計</dt>
+				<dd class="vkbm-confirm__summary-item-value vkbm-confirm__summary-item-value--price">¥10,000</dd>
+			</dl>
+			<dl class="vkbm-confirm__summary-item vkbm-confirm__summary-item--other-conditions">
+				<dt class="vkbm-confirm__summary-item-title">その他条件</dt>
+				<dd class="vkbm-confirm__summary-value--multiline">ミディアム ＋¥1,000<br />ロング ＋¥2,000</dd>
+			</dl>
+		</div>
+	</div>
+
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">Agreements</h2>
+	<div class="vkbm-agreements">
+		<div class="vkbm-agreement">
+			<h3 class="vkbm-agreement__title">システム利用規約</h3>
+			<div class="vkbm-agreement__body vkbm-agreement__body--scroll">【システム利用規約】
+
+本規約は、当店が提供する予約システム（以下「本サービス」）の利用条件を定めるものです。本サービスをご利用いただくお客様（以下「利用者」）は、本規約に同意のうえご利用ください。
+			</div>
+			<div class="vkbm-agreement__check">
+				<input type="checkbox" id="vkbm-confirm-terms"><label for="vkbm-confirm-terms">利用規約に同意します</label>
+			</div>
+		</div>
+	</div>
+</section>

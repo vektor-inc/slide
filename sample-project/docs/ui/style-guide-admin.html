@@ -1,0 +1,114 @@
+<section>
+	<h2 class="vkbm-sg-h2">WordPress 管理画面（標準UI）</h2>
+
+	<h3 class="vkbm-sg-h3">Buttons</h3>
+	<div class="vkbm-buttons">
+		<a class="button" href="#">button</a>
+		<a class="button button-secondary" href="#">button-secondary</a>
+		<a class="button button-primary" href="#">button-primary</a>
+		<a class="button disabled" href="#" aria-disabled="true">disabled</a>
+	</div>
+
+	<h3 class="vkbm-sg-h3">Notices</h3>
+	<div class="vkbm-notice vkbm-notice__success">
+		<h3>Success</h3>
+		<p>VKBM独自の通知（success）です。</p>
+		<ul>
+			<li>リストアイテム1</li>
+			<li>リストアイテム2</li>
+			<li>リストアイテム3</li>
+		</ul>
+		<nav class="vkbm-buttons">
+			<a class="button button-primary" href="#">ボタン</a>
+			<a class="button button-secondary" href="#">ボタン</a>
+		</nav>
+	</div>
+	<div class="vkbm-notice vkbm-notice__info">
+		<h3>Info</h3>
+		<p><a href="#">リンク例</a> を含めた通知（info）です。</p>
+	</div>
+	<div class="vkbm-notice vkbm-notice__warning">
+		<h3>Warning</h3>
+		<p>注意喚起の通知（warning）です。</p>
+	</div>
+	<div class="vkbm-notice vkbm-notice__danger">
+		<h3>Danger</h3>
+		<p>エラー/重要な通知（danger）です。</p>
+	</div>
+
+	<div class="vkbm-notice vkbm-notice__warning is-dismissible" data-vkbm-notice-id="style_guide_dismissible_user_v1">
+		<button type="button" class="vkbm-notice__dismiss" aria-label="閉じる"><span aria-hidden="true">×</span></button>
+		<h3>Dismissible（ユーザー単位）</h3>
+		<p>is-dismissible のみ：user meta に保存する想定。</p>
+	</div>
+
+	<div class="vkbm-notice vkbm-notice__info is-dismissible is-dismissible-all" data-vkbm-notice-id="style_guide_dismissible_global_v1">
+		<button type="button" class="vkbm-notice__dismiss" aria-label="閉じる"><span aria-hidden="true">×</span></button>
+		<h3>Dismissible（全体）</h3>
+		<p>is-dismissible-all：wp_options に保存する想定。</p>
+	</div>
+
+	<h3 class="vkbm-sg-h3">Form table</h3>
+	<table class="form-table" role="presentation">
+		<tbody>
+			<tr>
+				<th scope="row">
+					<label for="vkbm-style-guide-text">テキスト</label>
+				</th>
+				<td>
+					<input id="vkbm-style-guide-text" type="text" class="regular-text" value="例" />
+					<p class="description">説明テキスト（.description）</p>
+				</td>
+			</tr>
+			<tr>
+				<th scope="row">セレクト</th>
+				<td>
+					<select>
+						<option>選択肢A</option>
+						<option>選択肢B</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<th scope="row">チェックボックス</th>
+				<td>
+					<label>
+						<input type="checkbox" checked />
+						有効
+					</label>
+				</td>
+			</tr>
+			<tr>
+				<th scope="row">テキストエリア</th>
+				<td>
+					<label for="vkbm-sample-textarea" class="vkbm-form__label--block">プライバシーポリシー</label>
+					<textarea class="large-text" rows="4" id="vkbm-sample-textarea" name="vkbm_provider_settings[provider_payment_method]">お支払いは来店時に店舗でお願いいたします。
+現金・クレジットカード・交通系ICをご利用いただけます。</textarea>
+					<p class="description">来店時支払いの案内や対応決済方法（現金・クレカ・IC など）を入力します。</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+
+<section>
+	<h2 class="vkbm-sg-h2">VK Booking Manager（管理画面で使うパターン）</h2>
+
+	<h3 class="vkbm-sg-h3">vkbm Buttons（独自）</h3>
+	<div class="vkbm-buttons">
+		<button class="vkbm-button vkbm-button__primary">Primary</button>
+		<button class="vkbm-button vkbm-button__secondary">Secondary</button>
+		<button class="vkbm-button vkbm-button__danger">Danger</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__primary">Outline Primary</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__secondary">Outline Secondary</button>
+		<button class="vkbm-button vkbm-button-outline vkbm-button-outline__danger">Outline Danger</button>
+	</div>
+
+	<h3 class="vkbm-sg-h3">vkbm Alerts（独自）</h3>
+	<div class="vkbm-alert vkbm-alert__info">
+		Info alert（vkbm）
+	</div>
+	<div class="vkbm-alert vkbm-alert__success">Success alert（vkbm）</div>
+	<div class="vkbm-alert vkbm-alert__warning">Warning alert（vkbm）</div>
+	<div class="vkbm-alert vkbm-alert__danger">Danger alert（vkbm）</div>
+</section>
