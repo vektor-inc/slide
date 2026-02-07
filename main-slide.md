@@ -528,7 +528,7 @@ GitHub で coderabbit っての使ってます。
 不具合発生 ... 自分でAIに直してもらう  
 機能追加は改造 ... 自分でAIに直してもらう
 
-<i class="fa-sharp fa-solid fa-arrow-right"></i> お金払ってもらえなくて開発費用改修できないのでは？
+<i class="fa-sharp fa-solid fa-arrow-right"></i> お金払ってもらえなくて開発費用回収できない（；ｗ；
 
 ---
 
