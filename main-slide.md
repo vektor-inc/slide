@@ -158,6 +158,7 @@ WordPressのブロックやパターンに当てはめる工程
 そんな頃...
 
 ヘアサロンのデモサイトデータを制作  
+※ 予約システム無し
 https://demo.vk-fullsite-installer.com/hairsalon/
 
 予約システムはみなさん大手のとか使ってるからそっち使ってもらう前提でいいたろうと思ってたのですが...
@@ -197,8 +198,8 @@ __なかなか高額__
 
 ---
 
-VK Booking Manager  
-https://vk-booking-manager.com/
+VK Booking Manager Pro を導入したデモ
+https://demo.dev3.biz/booking-manager/
 
 ---
 <!-- _class: title-chapter  -->
