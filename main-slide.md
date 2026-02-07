@@ -394,7 +394,8 @@ AIでの規模の大きい実装ははじめてなので、
 
 * よく使う色やサイズ指定のCSS変数を用意
 → 基本的にそれを使うように
-* 共通のUIコンポーネント用の雑なスタイルガイドをHTMLで作成人力調整
+* 共通のUIコンポーネント用の簡単なスタイルガイドをHTMLで作成
+→ 人力調整
 * スタイルガイドに沿って構築して、むやみに独自のクラス名を作らないように指示
 
 ---
@@ -459,7 +460,7 @@ https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skil
 
 ブラウザで実際に操作するテスト
 
-手動で書くと超絶面倒なので、これを自動で書いてくれるのがほんとうにありがたい！
+手動で書くと超絶面倒なので、これを自動で書いてくれるのが本当にありがたい！
 
 何をしているのかしているのか人間が見て把握しやすいように、操作内容を日本語でコメントを入れておいて貰う
 
@@ -473,7 +474,7 @@ https://github.com/vektor-inc/slide/blob/202602_gifu/sample-project/docs/ai-skil
 
 https://www.coderabbit.ai/ja
 
-GitHub で coderabbit っての使ってます。
+GitHub で Coderabbit っての使ってます。
 
 ---
 
@@ -528,7 +529,7 @@ GitHub で coderabbit っての使ってます。
 不具合発生 ... 自分でAIに直してもらう  
 機能追加は改造 ... 自分でAIに直してもらう
 
-<i class="fa-sharp fa-solid fa-arrow-right"></i> お金払ってもらえなくて開発費用回収できない（；ｗ；
+<i class="fa-sharp fa-solid fa-arrow-right"></i> お金払ってもらえなくて開発費用を回収できない（；ｗ；
 
 ---
 
