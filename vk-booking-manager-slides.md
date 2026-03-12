@@ -192,11 +192,10 @@ WordPress上で動作する予約管理プラグイン
 
 ## まとめ / 質疑応答
 
-**VK Booking Manager**
-
 - WordPressで使える、サロン向け予約プラグイン
 - 柔軟な導入スタイル（組み込み型・単体運用・独立型）
 - リーズナブルなサブスクリプション価格
 
 ご質問・ご意見はお気軽に！
 
+https://docs.google.com/forms/d/e/1FAIpQLSduurV4oahbf_3RKisI2fLRe87ybyv21IZ1koBx_MoKzdCSWQ/viewform
