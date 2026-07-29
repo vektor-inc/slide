@@ -10,16 +10,157 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-AIは敵か味方か？
+# Claude Code で作る<br>全自動並列AI駆動開発システム
 
-# AI時代のテーマ・<br>プラグイン開発者の生存戦略
+VWSオンライン勉強会 #046
 
-発表者 : 石川栄和@Vektor,Inc.
+石川栄和@Vektor,Inc.
+
+<!-- https://www.meetup.com/ja-JP/kochi-wordpress-meetup-group/events/307763191/ -->
+
 
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
 ---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# ようこそ！はじめに
+
+---
+
+## この勉強会について
+
+運営 : 株式会社ベクトル
+
+WordPressやウェブ制作にまつわる様々なテーマをとりあげて開催しているオンライン勉強会。
+
+ご興味がある方であれば、経験や技術レベルに関係なく、どなたでもご参加いただけます。
+
+また、ベクトル製品のアップデート情報・カスタマイズ・運用方法についてもご案内しています。
+
+---
+
+勉強会は無料ですが...
+
+知見をシェアします！
+
+というような崇高な精神ではやっていません。
+
+---
+
+<div style="font-size:3rem;margin-bottom:3rem;text-align:center">
+＿人人人人人人人人人人人人人人人＿<br>
+＞　全ては製品PRのためです！！　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+</div>
+
+---
+
+## 宣伝
+
+■ WordPress テーマ Lightning / X-T9
+
+■ コピペで簡単にページが作れる VK Pattern Library
+https://patterns.vektor-inc.co.jp/
+
+■ 数クリックでデモサイトをまるごとインポート
+https://vk-fullsite-installer.com/
+
+無料版もあるけど... 
+
+---
+
+■ Vektor Passport
+
+* 合計500以上のブロックパターン
+* パスポートユーザー専用デモサイトデータ
+* ブロック拡張プラグイン
+* スマポンシブテーマ
+* AB テストプラグイン
+
+その他多機能プラグインなどいろいろ使えます！
+
+https://vws.vektor-inc.co.jp/vektor-passport
+
+---
+
+## 宣伝 その2
+
+■ 予約管理プラグイン
+https://vk-booking-manager.com/
+
+---
+
+<h2 style="position:absolute;">メディアスポンサー</h2>
+
+
+![75%](images/sakura-logo.png)
+
+---
+
+### さくらのレンタルサーバー
+
+<div class="row" style="margin-bottom:30px;">  <div class="col-6"><img src="images/staging-sakura.png" alt="" style="max-width:100%" /></div>  <div class="col-6"></div></div>
+
+ディレクトリ単位や簡単インストールでインストールした
+WordPressを指定してステージング環境の作成や
+スケジュールバックアップができます
+
+---
+
+<div class="row">  <div class="col-6"><img src="images/sakura-side.png" alt="" style="max-width:100%" /></div><div class="col-6"><img src="images/sakura-fsi.png" alt="" style="max-width:100%" /><br><br>ベクトル製品 2,000円OFF クーポン付き</div></div>
+
+---
+
+## 勉強会中のコメント
+
+勉強会中のコメントは YouTube の方によろしくお願いします。
+できるかぎり拾っていきたいとは思っています。
+
+#### 歓迎されること
+
+* __チャットでわいわい__ コメントしてください。
+* ぜひSNSにも投稿して盛り上げてください <strong>#wpvektor</strong>
+* __やさしい言葉使い__ を心がけて、誰にとっても快適な勉強会となるようにご協力ください。
+
+---
+
+## 本日の内容
+
+* ご挨拶・その他お知らせ（約10分）
+* 本編
+* 質疑応答（〜30分程度）
+
+<!-- * 懇親会・ユーザーフィードバック会 -->
+---
+
+## セッションの内容は後から振り返りできます
+
+URLリンク情報などはコメント欄や X のアカウントから投稿します。
+
+https://x.com/vektor_inc
+
+<!-- 動画もシェアされますので安心してゆっくり見てください。 -->
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# それでは本編スタート
+
+---
+
+## この勉強会の対象
+
+* WordPressの保守管理は大変だと思ってる人
+* 「アップデートすると不具合が発生するかもしれない」と思ってアップデートをしていない人
+
 
 急激なAIの進化によって今までのビジネスモデルで生きていけるのか恐怖の日々を送ってます！
 
