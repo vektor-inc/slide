@@ -1241,6 +1241,22 @@ VK Terminals のモバイルページと HTTP API は認証なし。
 
 ---
 
+ちなみにこの VK Orchestrator ...
+
+---
+
+Vektor Passport のユーザーは
+お試しでマイアカウントページからダウンロードできます。
+
+まだドキュメントも使い方ガイドも動作保証もしないので、
+このために Vektor Passport 購入はおすすめしません。
+
+まぁ動かなくてもルールとかスキルとかどう書いてるのかは
+参考になるとは思います。
+
+---
+
+YouTube チャンネル登録してね
 https://www.youtube.com/@VektorInc
 
 ---
