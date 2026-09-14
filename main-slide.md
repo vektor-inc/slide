@@ -12,7 +12,7 @@ _paginate: false
 
 # Claude Code で作る<br>全自動並列AI駆動開発システム
 
-VWSオンライン勉強会 #046
+VWSオンライン勉強会 #049
 
 石川栄和@Vektor,Inc.
 
