@@ -376,7 +376,7 @@ Git 本体はコマンドで動くものですが、
 
 ---
 
-## 今日は VS Code を使います
+## 今回は VS Code を使います
 
 https://code.visualstudio.com/
 
@@ -385,11 +385,11 @@ https://code.visualstudio.com/
 * 日本語で使いたい場合は、拡張機能から  
 「Japanese Language Pack」を検索してインストール  
 
-※ 普段お使いのツールがある方はそちらでも構いません。
+※ Cursor は VS Code の派生製品なので、Cursorユーザーはそのまま Cursor で構いません。
 
 ---
 
-## Git の機能は標準で入っています
+## VS Code は Git の操作機能が入っています
 
 * リポジトリのクローン  
 * コミット・プッシュ  
@@ -439,7 +439,7 @@ OS、PCの設定、会社のセキュリティ設定……
 
 ---
 
-## まず GitHub にサインイン（デモ）
+## VS Code で GitHub にサインイン（デモ）
 
 VS Code の左下にあるアカウントのアイコンから、  
 GitHub にサインインします。
