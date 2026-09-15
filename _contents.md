@@ -500,13 +500,18 @@ https://github.com/vektor-inc/vws-github-hands-on/blob/main/style.css
 
 ---
 
-## コミットするファイルや箇所をステージする
+## コミットするファイルや箇所をステージにセットする
 
+* 変更されているファイルが直接すべてコミットされるわけではない
+* 選んだファイルや、ファイルの中の変更箇所の一部だけを指定してコミットが可能
 
+コミットする対象を「ステージ」に入れます。
 
 ---
 
-## コミットメッセージの書き方
+## メッセージを書いてコミットする
+
+### コミットメッセージの書き方
 
 後から読む自分のために書きます。
 
@@ -524,10 +529,9 @@ https://github.com/vektor-inc/vws-github-hands-on/blob/main/style.css
 
 ---
 
-## コミットして送る（デモ）
+## コミットした内容を送る（Push）（デモ）
 
-1. メッセージを書いて「コミット」  
-2. 「変更の同期」で GitHub に送る
+「変更の同期（Publish Branch）」で GitHub に送信します。
 
 <i class="fa-solid fa-arrow-right"></i> GitHub の画面を再読み込みすると、  
 ファイルが上がっています。
@@ -536,6 +540,7 @@ https://github.com/vektor-inc/vws-github-hands-on/blob/main/style.css
 
 ## コミット と プッシュ は別もの
 
+* ステージにセット … コミットする対象を指定する
 * **コミット** … 自分のPCの中に履歴を記録する  
 * **プッシュ（同期）** … その履歴を GitHub に送る  
 
@@ -546,9 +551,13 @@ https://github.com/vektor-inc/vws-github-hands-on/blob/main/style.css
 
 ## 宅配便に例えると
 
+#### ステージにセット
+
+送る荷物を箱に入れる
+
 #### コミット
 
-荷物を箱に詰めて、伝票に中身を書いた状態。  
+箱の蓋をしめて伝票に中身を書いた状態。  
 **箱はまだ自分の手元にあります。**
 
 #### プッシュ
