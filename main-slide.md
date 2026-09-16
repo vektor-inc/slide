@@ -208,6 +208,8 @@ GitHub、名前はよく聞くけれど...
 
 ---
 
+<!-- _paginate: false -->
+
 ## 今日のゴール
 
 <p style="font-size:44px;font-weight:bold;line-height:1.6;margin-top:1em;">
@@ -289,6 +291,8 @@ GitHub で何ができるのかがわかる<br>
 # 1. Git / GitHub って何？
 
 ---
+
+<!-- _paginate: false -->
 
 # みなさん、<br>制作データどう管理してます？
 
@@ -647,6 +651,8 @@ https://code.visualstudio.com/
 VS Code なら、<b class="text-danger">拡張機能を入れなくても</b>使えます。
 
 ---
+
+<!-- _paginate: false -->
 
 ## 一番つまずくのはここ
 
@@ -1242,6 +1248,8 @@ section li{ font-size:30px !important; }
 
 ---
 
+<!-- _paginate: false -->
+
 ## みなさんもやってみましょう
 
 さきほど作ったリポジトリは公開設定なので、  
@@ -1562,6 +1570,8 @@ section li{ font-size:30px !important; }
 </div>
 
 ---
+
+<!-- _paginate: false -->
 
 ## 質疑応答
 
