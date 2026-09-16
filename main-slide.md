@@ -1560,6 +1560,21 @@ section li{ font-size:30px !important; }
 （・ｗ・？
 </div>
 
+
+---
+
+## フォローしてね
+
+不定期で勉強会開催してます
+https://vektor.connpass.com/
+
+YouTube（アーカイブなどはこちら）
+https://www.youtube.com/@VektorInc
+
+X
+https://x.com/kurudrive
+https://x.com/vektor_inc
+
 ---
 
 ### <center>ありがとうございました
