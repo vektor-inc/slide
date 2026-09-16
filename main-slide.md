@@ -62,6 +62,18 @@ WordPressやウェブ制作にまつわる様々なテーマをとりあげて�
 
 ## 宣伝
 
+■ WordPress 用予約管理プラグイン
+https://vk-booking-manager.com/
+
+* ヘアサロン/ 整体 / セミナー / ツアーガイド など幅広く対応
+  （ 宿泊にはまだ対応微妙 ）
+* 買い切り & インストール数無制限
+  → 自分で AI で作るより安い！
+
+---
+
+## 宣伝 その2
+
 ■ WordPress テーマ Lightning / X-T9 （無料）
 
 ■ コピペで簡単にページが作れる VK Pattern Library
@@ -79,7 +91,7 @@ https://vk-fullsite-installer.com/
 * 合計500以上のブロックパターン
 * パスポートユーザー専用デモサイトデータ
 * ブロック拡張プラグイン
-* スマポンシブテーマ
+* スマポンシブの WordPress テーマ
 * AB テストプラグイン
 
 その他多機能プラグインなどいろいろ使えます！
@@ -88,10 +100,26 @@ https://vws.vektor-inc.co.jp/vektor-passport
 
 ---
 
-## 宣伝 その2
+## なぜ今回勉強会の題材が GitHub なのか？
 
-■ 予約管理プラグイン
-https://vk-booking-manager.com/
+https://www.vektor-inc.co.jp/service/products/vk-orchestrator/
+
+GitHub の登録した issue を複数並列全自動で処理してくれる
+Vektor Passport ユーザー向けのオマケとして配布したのに...
+
+---
+
+<div style="font-size:3rem;margin-bottom:3rem;text-align:center">
+＿人人人人人人人人人人人人人人人人人人人人＿<br>
+＞　GitHub の使い方わかってないと無意味　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+</div>
+
+
+<center>せっかくだから一般公開の勉強会にするか...
+
+
+<!--
 
 ---
 
@@ -113,6 +141,8 @@ WordPressを指定してステージング環境の作成や
 ---
 
 <div class="row">  <div class="col-6"><img src="images/sakura-side.png" alt="" style="max-width:100%" /></div><div class="col-6"><img src="images/sakura-fsi.png" alt="" style="max-width:100%" /><br><br>ベクトル製品 2,000円OFF クーポン付き</div></div>
+
+-->
 
 ---
 
@@ -147,7 +177,7 @@ https://x.com/vektor_inc
 
 フォローよろしくお願いいたします。
 
-https://www.threads.com/@vektor_inc
+
 
 <!-- 動画もシェアされますので安心してゆっくり見てください。 -->
 
@@ -212,7 +242,7 @@ GitHub で何ができるのかがわかる<br>
 <div class="alert alert-warning">
 
 * 難しい Git コマンドを覚える
-* 複雑なブランチ戦略の話
+* 複雑なブランチ操作の話
 * CI/CD や自動デプロイの話
 
 </div>
@@ -301,7 +331,7 @@ cafe-site_最新/
 
 ## フォルダを日付で分ける方式
 
-こちらはかなり健全です。
+こちらは...まぁ健全とは言える...の...かな...
 
 <div class="list-icon">
 
@@ -329,7 +359,7 @@ section li{ font-size:32px !important; }
 
 ---
 
-## つまり欲しいのは
+## 実際に欲しいのは
 
 <div class="list-icon">
 
@@ -341,7 +371,7 @@ section li{ font-size:32px !important; }
 </div>
 
 <div class="alert alert-success text-center mt-16">
-これを全部やってくれるのが <b class="text-danger">Git</b> です
+これを全部解消できるのが <b class="text-danger">Git</b> です
 </div>
 
 ---
