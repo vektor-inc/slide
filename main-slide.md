@@ -527,7 +527,7 @@ AI用のスキルファイルなど、なんでも管理できます。
 AIのための特別な機能があるわけではなく、  
 もともとある仕組みがそのまま効いてくる、という話です。
 
-※ 後半で詳しくやります
+※ 後半で改めて説明します。
 
 ---
 
@@ -579,21 +579,23 @@ https://github.com/
 #### Windows
 
 https://git-scm.com/downloads  
-（オプションは基本そのまま「次へ」でOK）
+オプションは基本そのまま
+「次へ」でOK
 
 </div>
 <div class="col-6">
 
 #### macOS
 
-ターミナルで `git --version` を実行  
+ターミナルで  
+`git --version` を実行  
 <i class="fa-solid fa-arrow-right"></i> ダイアログが出たら、  
 そのままインストール
 
 </div>
 </div>
 
-※ よくわからない場合はAIに相談（次ページ）
+※ よくわからない場合はAIに相談（後述）
 
 ---
 
@@ -605,8 +607,9 @@ Git 本体はコマンドで動くものですが、
 <div class="list-icon">
 
 <i class="fa-solid fa-laptop-code"></i> **VS Code** … エディタ。編集と履歴管理が1つで完結
-<i class="fa-brands fa-github"></i> **GitHub Desktop** … GitHub 公式。Git 操作に特化したアプリ
-<i class="fa-solid fa-code-branch"></i> **SourceTree** … 老舗の Git 操作アプリ
+<i class="fa-brands fa-github"></i> **GitHub Desktop** …  GitHub 公式アプリ
+　　Git 操作に特化
+<i class="fa-solid fa-code-branch"></i> **SourceTree** … 老舗の Git 操作アプリ。見やすい
 <i class="fa-solid fa-terminal"></i> ターミナルでコマンドを直接叩く
 
 </div>
@@ -631,7 +634,7 @@ https://code.visualstudio.com/
 
 ---
 
-## VS Code は Git の操作機能が入っています
+## VS Code は Git の操作機能が入ってる
 
 <div class="list-icon">
 
