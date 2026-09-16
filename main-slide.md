@@ -654,7 +654,7 @@ VS Code なら、<b class="text-danger">拡張機能を入れなくても</b>使
 
 <!-- _paginate: false -->
 
-## 一番つまずくのはここ
+## 一番つまずくのは初期の認証
 
 <div class="alert alert-danger">
 
@@ -675,9 +675,7 @@ OS、PCの設定、会社のセキュリティ設定……
 ## そんなときこそ AI に相談
 
 <div class="alert alert-success" style="font-size:40px">
-
 <i class="fa-solid fa-robot"></i> 「このPCで GitHub が使えるようにしたいです」
-
 </div>
 
 * 自分の環境に合わせた手順を出してくれます
@@ -702,7 +700,7 @@ OS、PCの設定、会社のセキュリティ設定……
 
 ---
 
-## VS Code で GitHub にサインイン（デモ）
+## VS Code で GitHub にサインイン
 
 VS Code の左下にあるアカウントのアイコンから、  
 GitHub にサインインします。
@@ -775,7 +773,7 @@ GitHub の画面右上「＋」→ New repository
 </div>
 </div>
 
-<p class="text-center" style="font-size:36px"><b class="text-danger">お客様の案件は Private</b> で作りましょう。</p>
+<p class="text-center" style="font-size:36px"><b class="text-danger">クライアントワークは Private</b> で作りましょう。</p>
 
 ---
 
