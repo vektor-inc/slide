@@ -757,7 +757,8 @@ GitHub の画面右上「＋」→ New repository
 #### Public（公開）
 
 誰でも中身を見られる  
-無料。オープンソースや教材向け
+無料
+オープンソースや教材向け
 
 </div>
 </div>
@@ -848,7 +849,8 @@ https://github.com/vektor-inc/vws-github-hands-on
 ファイルを置いた瞬間、  
 **変更されたファイルが一覧に出てきます**。
 
-クリックすると変更箇所が色付きで表示されます。
+ファイル内の一部変更の場合は、
+ファイルをクリックすると変更箇所が色付きで表示されます。
 
 <div class="list-icon">
 
@@ -929,7 +931,7 @@ https://github.com/vektor-inc/vws-github-hands-on
 <div class="list-icon">
 
 <i class="fa-solid fa-box-open"></i> **ステージにセット** … コミットする対象を指定する
-<i class="fa-solid fa-floppy-disk"></i> **コミット** … 自分のPCの中に履歴を記録する
+<i class="fa-solid fa-floppy-disk"></i> **コミット** … 自分のPCの中で変更履歴として記録する
 <i class="fa-solid fa-cloud-arrow-up"></i> **プッシュ（同期）** … その履歴を GitHub に送る
 
 </div>
@@ -947,7 +949,7 @@ https://github.com/vektor-inc/vws-github-hands-on
 <div class="col-4">
 <div class="alert alert-info" style="min-height:300px">
 
-#### <i class="fa-solid fa-box-open"></i> ステージにセット
+#### <i class="fa-solid fa-box-open"></i> ステージ
 
 送る荷物を箱に入れる
 
@@ -1242,22 +1244,6 @@ section li{ font-size:30px !important; }
 <i class="fa-regular fa-face-smile"></i> お客様からの依頼を放置しない仕組みになる
 <i class="fa-regular fa-envelope-open"></i> メールやチャットに埋もれない
 
-</div>
-
----
-
-<!-- _paginate: false -->
-
-## みなさんもやってみましょう
-
-さきほど作ったリポジトリは公開設定なので、  
-<b class="text-danger">どなたでも Issue を作成できます</b>。
-
-URL はコメント欄に貼りますので、  
-「こんなお店の情報も載せたい」など気軽に立ててみてください。
-
-<div class="bg-kao bg-kao--right" style="bottom:20px;font-size:130px !important;">
-（・ｗ・
 </div>
 
 ---
