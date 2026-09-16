@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" font-family="Hiragino Sans, Noto Sans JP, sans-serif">
+  <!-- main line -->
+  <line x1="120" y1="360" x2="1120" y2="360" stroke="#555" stroke-width="6"/>
+  <text x="70" y="370" text-anchor="middle" font-size="28" font-weight="bold" fill="#555">main</text>
+
+  <!-- branch line -->
+  <path d="M380,360 C440,360 450,200 520,200 L840,200 C910,200 920,360 980,360"
+        fill="none" stroke="#c9252d" stroke-width="6"/>
+  <text x="520" y="150" font-size="28" font-weight="bold" fill="#c9252d">作業ブランチ</text>
+
+  <!-- commits on main -->
+  <circle cx="180" cy="360" r="16" fill="#fff" stroke="#555" stroke-width="5"/>
+  <circle cx="290" cy="360" r="16" fill="#fff" stroke="#555" stroke-width="5"/>
+  <circle cx="380" cy="360" r="16" fill="#fff" stroke="#555" stroke-width="5"/>
+  <circle cx="980" cy="360" r="20" fill="#2f855a" stroke="#2f855a" stroke-width="5"/>
+
+  <!-- commits on branch -->
+  <circle cx="600" cy="200" r="16" fill="#fff" stroke="#c9252d" stroke-width="5"/>
+  <circle cx="720" cy="200" r="16" fill="#fff" stroke="#c9252d" stroke-width="5"/>
+  <circle cx="840" cy="200" r="16" fill="#fff" stroke="#c9252d" stroke-width="5"/>
+
+  <text x="660" y="255" text-anchor="middle" font-size="24" fill="#888">ここで自由に変更・コミット</text>
+
+  <text x="380" y="425" text-anchor="middle" font-size="24" fill="#666">ここで枝分かれ</text>
+  <text x="980" y="425" text-anchor="middle" font-size="24" font-weight="bold" fill="#2f855a">Merge（合流）</text>
+  <text x="980" y="460" text-anchor="middle" font-size="22" fill="#888">Pull Request で確認してから</text>
+
+  <text x="600" y="70" text-anchor="middle" font-size="26" fill="#333">本線（main）は動かさずに、枝の上で作業する</text>
+</svg>

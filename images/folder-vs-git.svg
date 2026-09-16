@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Hiragino Sans, Noto Sans JP, sans-serif">
+  <!-- left : folder -->
+  <text x="300" y="60" text-anchor="middle" font-size="30" font-weight="bold" fill="#666">フォルダを日付で分ける</text>
+  <g fill="#fff" stroke="#bbb" stroke-width="3">
+    <rect x="130" y="95" width="340" height="62" rx="8"/>
+    <rect x="130" y="172" width="340" height="62" rx="8"/>
+    <rect x="130" y="249" width="340" height="62" rx="8"/>
+    <rect x="130" y="326" width="340" height="62" rx="8"/>
+  </g>
+  <g font-size="25" fill="#555">
+    <text x="160" y="135">cafe-site_20260901/</text>
+    <text x="160" y="212">cafe-site_20260910/</text>
+    <text x="160" y="289">cafe-site_20260910_修正/</text>
+    <text x="160" y="366">cafe-site_最新/</text>
+  </g>
+  <text x="300" y="430" text-anchor="middle" font-size="24" fill="#c9252d">丸ごとコピーが増えていく</text>
+  <text x="300" y="468" text-anchor="middle" font-size="24" fill="#c9252d">何を変えたかは名前からわからない</text>
+
+  <!-- divider -->
+  <line x1="600" y1="80" x2="600" y2="500" stroke="#ddd" stroke-width="3"/>
+
+  <!-- right : git -->
+  <text x="900" y="60" text-anchor="middle" font-size="30" font-weight="bold" fill="#2b4a72">Git で管理する</text>
+  <rect x="700" y="95" width="400" height="62" rx="8" fill="#eef3fa" stroke="#9db8dd" stroke-width="3"/>
+  <text x="900" y="135" text-anchor="middle" font-size="25" fill="#2b4a72">cafe-site/　（フォルダは1つだけ）</text>
+
+  <line x1="760" y1="185" x2="760" y2="400" stroke="#9db8dd" stroke-width="5"/>
+  <g>
+    <circle cx="760" cy="210" r="13" fill="#fff" stroke="#2b6cb0" stroke-width="5"/>
+    <text x="795" y="205" font-size="24" fill="#333">サイトの初回登録</text>
+    <text x="795" y="236" font-size="21" fill="#999">9/01　石川</text>
+
+    <circle cx="760" cy="290" r="13" fill="#fff" stroke="#2b6cb0" stroke-width="5"/>
+    <text x="795" y="285" font-size="24" fill="#333">メニューの価格を変更</text>
+    <text x="795" y="316" font-size="21" fill="#999">9/10　石川</text>
+
+    <circle cx="760" cy="370" r="13" fill="#fff" stroke="#2b6cb0" stroke-width="5"/>
+    <text x="795" y="365" font-size="24" fill="#333">定休日の記載ミスを修正</text>
+    <text x="795" y="396" font-size="21" fill="#999">9/12　石川</text>
+  </g>
+  <text x="900" y="455" text-anchor="middle" font-size="24" fill="#2f855a">変更した箇所と理由が1回ずつ残る</text>
+  <text x="900" y="493" text-anchor="middle" font-size="24" fill="#2f855a">この変更だけ戻す、もできる</text>
+</svg>

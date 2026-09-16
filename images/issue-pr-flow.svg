@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" font-family="Hiragino Sans, Noto Sans JP, sans-serif">
+  <defs>
+    <marker id="a1" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#999"/>
+    </marker>
+  </defs>
+
+  <g>
+    <rect x="30" y="120" width="190" height="110" rx="12" fill="#fff4e5" stroke="#d9a441" stroke-width="3"/>
+    <text x="125" y="165" text-anchor="middle" font-size="28" font-weight="bold" fill="#8a5a00">Issue</text>
+    <text x="125" y="200" text-anchor="middle" font-size="22" fill="#8a5a00">やることを登録</text>
+  </g>
+  <line x1="230" y1="175" x2="270" y2="175" stroke="#999" stroke-width="4" marker-end="url(#a1)"/>
+
+  <g>
+    <rect x="275" y="120" width="190" height="110" rx="12" fill="#fdecec" stroke="#c9252d" stroke-width="3"/>
+    <text x="370" y="165" text-anchor="middle" font-size="28" font-weight="bold" fill="#c9252d">Branch</text>
+    <text x="370" y="200" text-anchor="middle" font-size="22" fill="#c9252d">作業用の枝を作る</text>
+  </g>
+  <line x1="475" y1="175" x2="515" y2="175" stroke="#999" stroke-width="4" marker-end="url(#a1)"/>
+
+  <g>
+    <rect x="520" y="120" width="190" height="110" rx="12" fill="#f4f4f4" stroke="#777" stroke-width="3"/>
+    <text x="615" y="165" text-anchor="middle" font-size="28" font-weight="bold" fill="#444">Commit</text>
+    <text x="615" y="200" text-anchor="middle" font-size="22" fill="#444">修正して記録</text>
+  </g>
+  <line x1="720" y1="175" x2="760" y2="175" stroke="#999" stroke-width="4" marker-end="url(#a1)"/>
+
+  <g>
+    <rect x="765" y="120" width="190" height="110" rx="12" fill="#eef3fa" stroke="#2b6cb0" stroke-width="3"/>
+    <text x="860" y="165" text-anchor="middle" font-size="26" font-weight="bold" fill="#2b6cb0">Pull Request</text>
+    <text x="860" y="200" text-anchor="middle" font-size="22" fill="#2b6cb0">内容を確認</text>
+  </g>
+  <line x1="965" y1="175" x2="1005" y2="175" stroke="#999" stroke-width="4" marker-end="url(#a1)"/>
+
+  <g>
+    <rect x="1010" y="120" width="170" height="110" rx="12" fill="#e9f5ee" stroke="#2f855a" stroke-width="3"/>
+    <text x="1095" y="165" text-anchor="middle" font-size="28" font-weight="bold" fill="#2f855a">Merge</text>
+    <text x="1095" y="200" text-anchor="middle" font-size="22" fill="#2f855a">本線に反映</text>
+  </g>
+
+  <path d="M1095,240 L1095,330 L125,330 L125,240" fill="none" stroke="#d9a441" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#a1)"/>
+  <text x="610" y="365" text-anchor="middle" font-size="24" fill="#8a5a00">Merge すると Issue が自動的に閉じる（Closes #1）</text>
+
+  <text x="600" y="60" text-anchor="middle" font-size="28" fill="#333">「何を」「なぜ」直したかが、ぜんぶ繋がって残る</text>
+</svg>

@@ -10,14 +10,13 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# Claude Code で作る<br>全自動並列AI駆動開発システム
+# AI時代に最低限<br>知っておきたい<br>GitHub入門
 
-VWSオンライン勉強会 #049
+VWSオンライン勉強会 #50
 
 石川栄和@Vektor,Inc.
 
-<!-- https://www.meetup.com/ja-JP/kochi-wordpress-meetup-group/events/307763191/ -->
-
+<!-- https://vektor.connpass.com/event/405149/ -->
 
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
@@ -164,96 +163,92 @@ https://www.threads.com/@vektor_inc
 
 ## 今日の内容
 
-AIでコードを書くだけではなくできるだけ自動化したい！
+GitHub、名前はよく聞くけれど...
 
-* 複数のAIに役割を分担させる
-* レビューや修正まで自動化する
-* 並列でタスクを進める
+<div class="list-icon">
 
-といった開発を実現するために...
+<i class="fa-regular fa-circle-question"></i> そもそも何をするサービスなの？
+<i class="fa-regular fa-circle-question"></i> Git とは何が違うの？
+<i class="fa-regular fa-circle-question"></i> エンジニアじゃなくても使えるの？
+<i class="fa-regular fa-circle-question"></i> リポジトリ、コミット、プルリクエスト……言葉が難しい
+
+</div>
+
+という方に向けて、実際に操作しながら基本を紹介します。
 
 ---
 
-* ルールの作成
-* スキルの作成
-* エージェントの作成
-* チームでのAI設定の共有
-* 統合GUIの作成
-* 自動化システムの作成
-* スマホで出先やお風呂から制御
+## 今日のゴール
 
-についてお話します。
+<p style="font-size:44px;font-weight:bold;line-height:1.6;margin-top:1em;">
+GitHub で何ができるのかがわかる<br>
+自分の案件での活用方法がわかる
+</p>
+
+<div class="bg-kao bg-kao--right" style="bottom:30px;font-size:130px !important;">
+（・ｗ・
+</div>
+
+---
+
+## 今日覚える言葉は5つ
+
+<div class="list-icon" style="font-size:40px">
+
+<i class="fa-solid fa-box-archive"></i> **Repository**（リポジトリ）
+<i class="fa-solid fa-floppy-disk"></i> **Commit**（コミット）
+<i class="fa-solid fa-code-branch"></i> **Branch**（ブランチ）
+<i class="fa-solid fa-code-pull-request"></i> **Pull Request**（プルリクエスト）
+<i class="fa-regular fa-circle-dot"></i> **Issue**（イシュー）
+
+</div>
+
+この5つだけ押さえれば、とりあえず使い始められます。
+
+---
+
+## 今日やらないこと
+
+<div class="alert alert-warning">
+
+* 難しい Git コマンドを覚える
+* 複雑なブランチ戦略の話
+* CI/CD や自動デプロイの話
+
+</div>
+
+<i class="fa-sharp fa-solid fa-arrow-right"></i> 今日は<b class="text-danger">ブラウザと VS Code だけ</b>で進めます。
 
 ---
 
 ※ はじめに
 
-参加者にはAIコーディングに慣れてない人もいると思います。
-そういった人にもなんとなく流れがわかるように、
-ロードマップ的に説明します。
-特に前半の説明では
-「今時そんなやり方しねーよ」って手法から入りますが、
-なぜ現状の手法にたどり着くのかを説明するためにあえて
-セオリーでないかもしれないやり方から説明します。
+本日は「普段コードを書かないウェブ制作者」を想定して、  
+かなりざっくりした説明をします。
+
+厳密には違う表現も出てくると思いますが、  
+まずは全体像をつかんでもらうことを優先します。  
 あらかじめご了承ください。
 
----
-
-あと...
-
----
-
-
-<div style="font-size:3rem;margin-bottom:3rem;text-align:center">
-＿人人人人人人人人人人人人人人＿<br>
-＞　そもそも私も手探りです　＜<br>
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+<div class="bg-kao bg-kao--left" style="bottom:1em;">
+|・ｗ・）.oO（ ざっくり ）
 </div>
 
-<center>
-<p>
-間違い・やり方が古いなどあるかもしれませんが、<br>
-生暖かく見守りいただけると幸いです。
-
-<!--
-
 ---
 
-## 作るモノの仕様は先に作ろう
+## 本日の流れ
 
-実際にAIに実装させる前には、AIとディスカッションなどして、作るもモノ仕様は固めましょう。
+<div style="font-size:30px;line-height:1.7">
 
-* 何を目的とするものなのか
-* 技術的な仕様
+1. Git / GitHub って何？
+2. 環境準備
+3. リポジトリを作ってファイルを管理してみよう
+4. Branch と Pull Request を使ってみよう
+5. Issue を使って作業を管理してみよう
+6. AI時代になぜ GitHub を使うのか
+7. まとめ・質疑応答
 
-など、仕様はプロジェクトフォルダの ./docs/ ディレクトリなどに纏めて用意した上で実装してもらいましょう。
-
----
-
-* どう仕様を作ればいいのかわからない
-* 仕様の精度を上げたい
-
-できあいのスキルを使いましょう。
-
-例) superpowers
-
-https://github.com/obra/superpowers
-
-※ 意味がよくわからない人はとりあえず日本語に翻訳してインストールしてみて
-
----
-
-### 仕様書は AGENTS.md から明示する
-
-./docs/ などのディレクトリに仕様書を置いても明示しないとAIは参照しないので、読み込むように指定します。
-
-```
-./docs/ 以下に仕様を纏めてあるので、各作業でAIが参照するようにプロジェクト直下の AGENTAS.md を設定してください。
-```
-
-みたいにAIに投げれば良きにはからってくれます。
-
--->
+</div>
 
 ---
 
@@ -261,283 +256,248 @@ https://github.com/obra/superpowers
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-
-# ルールの整備
-
----
-
-## コーディング規約などを指定
-
-実装にあたって持たせておきたいルールを設定
-
-* 一般的にスタンダードな規約
-  - WordPressなら WordPress Coding Standards
-  - Pythonなら PEP 8 (命名、整形、docstring)
-  - Goなら gofmt と Go のレビュー規約
+# 1. Git / GitHub って何？
 
 ---
 
-#### その他事前に用意するルール例
+# みなさん、<br>制作データどう管理してます？
 
-* チーム内の共通独自ルールなど
-  - 関数やメソッドの命名規則やディレクトリ構造など
-    coding-rules.md
-  - CSSの命名規則やネストやディレクトリ構造など
-    css-rules.md
-  - デザインシステム
-    design-rules.md
-  - PHPUnit テストの形式
-    phpunit-rules.md
+<div class="bg-kao bg-kao--right" style="bottom:30px;font-size:150px !important;">
+（・ｗ・？
+</div>
 
 ---
 
-### 特に気にしているルールなどの例
+### ファイル名で分ける派
 
-PHPUnit テストの形式
-
-自動でテストコードを量産されてもそのテストコードが何をしているのかもわかりにくい
-  - 設定値と期待値をセットで記載して、そこだけ確認すれば抑えないといけない動作の漏れがないか確認できるように
-
----
-
-## ルールの保存先例
-
-* 全プロジェクト共通
-  Users/ユーザー名/.claude/rules/*****.md
-* プロジェクト固有
-  ./claude/rules/*****.md
-
-任意に設置した場所のファイルを自動では読んでくれない。
-→ プロジェクト直下に AGENTS.md ファイルを置いてそこからからルールファイルを読み込ませたりしてたのですが...
+<div style="font-size:40px;line-height:1.7;font-family:monospace;margin-top:0.5em">
+index.html<br>
+index_修正.html<br>
+index_最新.html<br>
+index_最新_最終.html<br>
+index_最新_最終_これ.html
+</div>
 
 ---
 
-本当は必要な時だけルールを読み込まないと...
+### フォルダを日付で分ける派
 
-* 無駄にルールを全部読み込んでトークンを消費する
-* 不要なルールまで読み込むと精度が落ちる
-
-後々作るスキルやエージェントで、必要な時だけ必要なルールで読み込むように設定します。
-
----
-
-よくわからなければ
-
-<code>◯◯◯ の開発をするにあたって、
-コーディング規約を作っておきたいです。
-どんなルールにしておくのが一般的？</code>
-
-みたいに雑に聞いてもそれなりに案内してくれます。
+<div style="font-size:40px;line-height:1.7;font-family:monospace;margin-top:0.5em">
+cafe-site_20260901/<br>
+cafe-site_20260910/<br>
+cafe-site_20260910_修正/<br>
+cafe-site_最新/
+</div>
 
 ---
 
-## 初期実装
+<div style="font-size:3rem;margin-bottom:3rem;text-align:center">
+＿人人人人人人人人人人人＿<br>
+＞　どれが最新やねん　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+</div>
 
 ---
 
-### 仕様やルールができたら部分的にテスト実装
+## フォルダを日付で分ける方式
 
-最初は Claud Code や Codex みたいな
-ターミナルから一気に実装するのではなく、
-VS Code や Cursor などのエディタのチャットウィンドウで
-対話しながら部分的に実装してもらいます。
+こちらはかなり健全です。
 
-→ AIが実装した内容を確認・チューニングするため
+<div class="list-icon">
 
----
+<i class="fa-regular fa-circle-check"></i> ある時点の状態にまるごと戻せる
+<i class="fa-regular fa-circle-check"></i> 日付順に並ぶので、時系列は追える
 
-### 実際に実装してもらうと...
+</div>
 
-「いや...そうじゃないんだなぁ...（＝ｗ＝」
-
-という不満が沢山出ると思います。
+実際これで回している方も多いと思います。
 
 ---
 
-### ルール化してあったのに...
+## それでも出てくる困りごと
 
-ルールはある程度読ませてあっても、
-実際にプロが今まで気を配っていた細かい知識は膨大
+<style scoped>
+section li{ font-size:32px !important; }
+</style>
 
-* 関数やCSSの命名（一般的ではなく独自ルール）
-* テストの書き方
-* UIでの説明文のわかりやすさの粒度
-* マークアップの作法
-* 余白のとり方
-* デザインの視線誘導
-
----
-
-A. やっぱりAIは使えない。→ 一生使えるようにならない。
-B. ダメな部分を言語化してルールをブラッシュアップしていく
+* フォルダが増え続けて、**どれが本番と同じ状態かわからなくなる**
+* 変わっていないファイルも丸ごとコピーされる（容量も食う）
+* **「何を」「なぜ」変えたのかはフォルダ名からはわからない**
+* 「一部分だけ前に戻したい」ができない
+* 複数人で作業すると、各自が別々のフォルダを育てはじめる
+* 結局、比較ツールで差分を取るはめになる
 
 ---
 
-## ルールは定期的にブラッシュアップする
+## つまり欲しいのは
 
-運用しているとどんどん追加されて長くなる。
+<div class="list-icon">
 
-#### 長ければいいわけではない
+<i class="fa-solid fa-star"></i> 最新がどれかが**ひとつに決まっている**こと
+<i class="fa-solid fa-star"></i> いつ・誰が・どこを・なぜ変えたかが**記録されている**こと
+<i class="fa-solid fa-star"></i> 変更した箇所だけを**あとから確認・復元できる**こと
+<i class="fa-solid fa-star"></i> 複数人で作業しても**混ざらない**こと
 
-* トークン消費量が増える
-* 長いとそれだけノイズが増えて、ルールが守られなくなる。
+</div>
 
-<code>既存のルールファイルについて、表現が誤解を招きやすかったり、
-説明が冗長になっていないか確認して、AIが誤解無くルールを理解できるように
-改善してください。</code>
-
-というように精度の見直しをさせます
-
----
-
-## コーディング以外もルール化
-
-初期実装以降であれ追加変更であれ、
-ファイル変更のコミットやプルリクエストの作成を繰り返す
-
-* コミットメッセージを考えるのが面倒
-* プルリクの本文を書くのが面倒
-
-→ AI に「コミットして」「プルリク出して」って言えばやってくれるけど...
+<div class="alert alert-success text-center mt-16">
+これを全部やってくれるのが <b class="text-danger">Git</b> です
+</div>
 
 ---
 
-社内でやってたルールと違うフォーマットだったりする
+## Git とは
 
-* コミットメッセージのルール
-* プルリクタイトルのルール
-* プルリク本文に書く内容や情報の粒度
+ファイルの「変更履歴」を記録してくれる仕組み
 
-→ ルール化
+<div class="list-icon">
 
-余談1 : 例えばプルリクのタイトルは changelog / 更新履歴のお知らせページ / SNSでの更新通知 などにそのまま反映させたりするのでとても重要
+<i class="fa-regular fa-clock"></i> いつ
+<i class="fa-regular fa-user"></i> 誰が
+<i class="fa-regular fa-file"></i> どのファイルの、どこを
+<i class="fa-regular fa-comment"></i> なぜ（コメント）
 
----
+</div>
 
-余談2 : ルールがあっても人力だと...
-
-* 社内でルールがあっても守らない人がいる
-* PRの本文など、雑に書かれると何をチェックすればいいのか意味がわからずレビューに時間がかかる
-
-ルールに沿ってAIにつくってもらった方が作業者によるブレがなくて安定する。
+変更したかが全部残り、<b class="text-danger">いつでも過去に戻せる</b>。
 
 ---
 
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+## フォルダ運用と Git の違い
 
-# スキルの作成
-
----
-
-## スキルとは？
-
-* よく行う作業の手順書のようなもの
-* コマンドで簡単に呼び出せる
+<div class="text-center">
+<img src="images/folder-vs-git.svg" alt="" style="width:88%" />
+</div>
 
 ---
 
-ルールがある上で、
+## GitHub とは
 
-* 普通に「プルリク出して」とAIに伝えても ルールファイルを読み込んでくれなかったりする
-* 「pull-request-rules.md を読んでルールに沿ってプルリク出して」と毎回言うのもだるい
+その Git の履歴をインターネット上に置いて、  
+みんなで共有・共同作業できるようにしたサービス
 
-→ スキル化します。
+<div class="list-icon">
 
----
+<i class="fa-solid fa-gears"></i> **Git** = 履歴を記録する「仕組み」（自分のPCの中）
+<i class="fa-brands fa-github"></i> **GitHub** = それを置いて共有する「場所」＋便利機能
 
-### スキル例
+</div>
 
-<pre style="font-size:1em;">
----
-name: vk-pr
-description: "PR ルールに従い、コミット・changelog 記載・確認手順を含む PR を作成する。PR 作成を依頼されたときに使用"
----
-
-# /vk-pr スキル
-
-このスキルは `rules/pull-request.md` の PR ルールに従い、**PR 作成まで** を担う。
-
-〜 以下略　〜
-</pre>
+Microsoft が運営。個人利用は基本無料。
 
 ---
 
-（実際の vk-pr/SKILL.md で軽く解説）
+## 補足 : GitHub は<br>「Gitを使ったサービスのひとつ」
+
+Git はあくまで仕組みの名前。  
+その Git を置いて共有するサービスは他にもあります。
+
+<div class="list-icon">
+
+<i class="fa-brands fa-github"></i> **GitHub** … 一番よく使われている。今日はこれ
+<i class="fa-brands fa-gitlab"></i> **GitLab** … 自社サーバーに自前で構築することもできる
+<i class="fa-brands fa-bitbucket"></i> **Bitbucket** … Jira や Confluence と組み合わせやすい
+<i class="fa-solid fa-ellipsis"></i> その他
+
+</div>
 
 ---
 
-ちなみにスキルファイルは手で書いたりしてません。
-要望とスキルのコマンド名を指定してAIに作ってもらってます。
+## どれを使っても Git は同じ
 
-./claude/skills/vk-pr/SKILL.md
-./claude/skills/vk-add-phpunit/SKILL.md
+中身の仕組み（Git）は共通なので、  
+**コミット / ブランチ / マージ** といった考え方や操作は、  
+サービスが変わってもほぼそのまま通用します。
 
-など、ユーザー直下に `.エージェント名/skills/スキル名` のディレクトリに `SKILL.md` ファイルで保存されます。
-
----
-
-## 人間がボトルネックになる
-
-開発・PR作成をAIがするようになる
-→ レビューの数が増える
-→ 手動で人間が確認とかめんどくさくてやってられない
-
-→ レビュー用のスキルを作る
-
-※ 標準で code-review ってスキルもあるけどね...
+<div class="alert alert-success text-center">
+「GitHubを覚える」＝<b class="text-danger">潰しが効く</b>
+</div>
 
 ---
 
-## レビュー用のスキルも作る
+## 迷ったら GitHub でOK
 
-ルールがあっても実装者が100%それに従うとは限らない。
+<div class="list-icon">
 
-* タイトルやプルリク本文がルール通りになってるか？
-* 各種コーディングルールが守られているか？
-* PHPUnit / e2eテスト がルール通りに書かれているか？
+<i class="fa-regular fa-thumbs-up"></i> 利用者が多いので、困ったときに情報が見つけやすい
+<i class="fa-regular fa-thumbs-up"></i> 制作会社や外注先とのやり取りで話が通じやすい
+<i class="fa-regular fa-thumbs-up"></i> AI系のツールが連携先として対応していることが多い
 
-ルールチェックに加えて...
-
----
-
-* セキュリティチェック / UXチェック
-* e2eテストを実施＆スクリーンショット撮影
-* 結果報告
-
-→ スキルとして登録しておけば同じ処理を自動でしてくれる！
-
-え？ 
-
-その作り方を知りたいんだ？
+</div>
 
 ---
 
-プルリクのURLを投げたら上記項目を自動でチェック・報告してくれるスキルを作成してください。
-参照する ◯◯ルールは **.md、✕✕ルールは **.md です
+## よくある誤解
 
-とか投げれば作ってくれますよ！
+<p style="font-size:40px;font-weight:bold">「GitHub ってプログラマーが使うものでしょ？」</p>
 
----
+中身はただのファイルなので、HTML / CSS / JavaScript、  
+テーマやプラグインのファイル、テキストの原稿やメモ、  
+AI用のスキルファイルなど、なんでも管理できます。
 
-## ルールとスキルの棲み分けが効いてくる
-
-* 実装やプルリクを立てる時
-* レビューする時
-
-→ ルールは同じ
+<div class="alert alert-info text-center">
+実際<b class="text-danger">このスライドも GitHub で管理</b>しています
+</div>
 
 ---
 
-実装スキルとレビュースキルで同じ注意事項をそれぞれ書くと...
-二重、三重管理になっていく。
+## バックアップとは何が違うの？
 
-* ルールのばらつき
-* 片方の変更・追加漏れ
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
+<div class="alert alert-warning" style="min-height:300px">
 
-実装のスキルもレビューのスキルも、
-同じルールファイルを参照させる。
+#### 普通のバックアップ
+
+ファイル一式を  
+まるごとコピー
+
+<i class="fa-solid fa-arrow-right"></i> 「全部戻す」だけ
+
+</div>
+</div>
+<div class="col-6">
+<div class="alert alert-success" style="min-height:300px">
+
+#### Git / GitHub
+
+変更した箇所とその理由が  
+1回ずつ記録されている
+
+<i class="fa-solid fa-arrow-right"></i> <b class="text-danger">この変更だけ戻せる</b>  
+<i class="fa-solid fa-arrow-right"></i> 理由が後から読める
+
+</div>
+</div>
+</div>
+
+---
+
+## ウェブ制作者が GitHub を使うメリット
+
+<div class="list-icon">
+
+<i class="fa-solid fa-clock-rotate-left"></i> 変更履歴が残るので、いつでも前の状態に戻せる
+<i class="fa-solid fa-user-pen"></i> 「誰がいつ何を変えたか」が全部わかる
+<i class="fa-solid fa-users"></i> 複数人で作業しても上書き事故が起きない
+<i class="fa-solid fa-magnifying-glass"></i> 公開前に変更内容をレビューできる
+<i class="fa-regular fa-circle-dot"></i> やることリスト（Issue）も同じ場所で管理できる
+
+</div>
+
+---
+
+## そしてこれらが揃っていると
+
+<p style="font-size:44px;font-weight:bold;line-height:1.5;margin-top:0.5em">
+<i class="fa-solid fa-arrow-right"></i> <span class="text-danger">AIにやらせたいことを管理したり、<br>
+変更内容を確認したりできる</span>
+</p>
+
+AIのための特別な機能があるわけではなく、  
+もともとある仕組みがそのまま効いてくる、という話です。
+
+※ 後半で詳しくやります
 
 ---
 
@@ -545,377 +505,973 @@ description: "PR ルールに従い、コミット・changelog 記載・確認�
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# サブエージェントの作成
+# 2. 環境準備
+
+<!-- 内容は preparation.md と同じ。片方を直したら両方直すこと -->
 
 ---
 
-## さらに自動処理したい
+## GitHub のアカウント
 
-「プルリク作成スキル」「レビュースキル」ができるなら...
+https://github.com/
 
-* issue に対する実装前の仕様検討・提案
-* 実装後にレビューでひっかかった場合の自動修正
+<div class="list-icon">
 
-→ 組み合わせたスキルを作れば issue に対して  
-  検討 → 実装 → テスト → レビュー（ 必要に応じて修正 ）  
-  まで一気にやってくれる自動化スキル作れそうよね？
+<i class="fa-solid fa-user-plus"></i> 画面右上の「Sign up」から作成
+<i class="fa-regular fa-envelope"></i> 必要なもの : メールアドレス / ユーザー名 / パスワード
+<i class="fa-solid fa-key"></i> 登録後、メールに届く認証コードの入力が必要
+<i class="fa-solid fa-yen-sign"></i> **無料プラン**で問題ありません
 
----
-
-## 1人のAIに全部やらせると...
-
-全部同じAIが、自分で実装して、自分でレビューすることに...
-
-→ 役割を持ったサブエージェントを作る
+</div>
 
 ---
 
-* ディレクター
-* WordPress実装担当
-* UI / UX担当
-* ブラウザテスト担当
-* コード品質・セキュリティ担当
+## ユーザー名は少し慎重に
 
-役割ごとに、参照するルール・使うスキル・完了条件をもった
-サブエージェントを定義する
+一度決めると URL などに使われ、  
+**他の人からも見える名前**になります。
 
----
+仕事でも使う可能性を考えて、無難なものがおすすめです。
 
-## 役割を分けるメリット
-
-#### コンテキストを分離できる
-
-それぞれ必要な専門知識だけを読み込ませられる
-
-#### 並列で作業進められる
-
-特定の機能追加について、実装担当と UI / UX 担当が同時に検討してそれぞれの見解を issue にコメントするなど。
+<div class="alert alert-info">
+（例 : yamada-taro / t-yamada など）
+</div>
 
 ---
 
-#### チェックの独立性が上がる
+## 1. Git 本体のインストール
 
-レビュー担当は完成した差分を第三者視点で確認。
-「自分が書いたコードだから大丈夫」という前提を持たずに確認できる。
+これが入っていないと手元の PC で Git が扱えません
 
-#### エージェントやモデルを変えられる
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
 
-* 設計には性能のいいモデル、単純作業にはコストの低いモデルを割り当てたりできる
-* 実装エージェントは Claude / レビューエージェントには Codex などを割り振る
+#### Windows
 
----
+https://git-scm.com/downloads  
+（オプションは基本そのまま「次へ」でOK）
 
-## 作成したエージェント
+</div>
+<div class="col-6">
 
-| 名前 | 主な役割 |
-|---|---|
-| 司 | 全体の進行管理・担当者への割り振り |
-| 和田 | 主に WordPress 関連などプログラムの実装 |
-| 植草 | UI設計・UX・アクセシビリティ |
-| 麗美 | Playwright によるブラウザ動作テスト |
-| 安藤 | コード品質・セキュリティの最終レビュー |
+#### macOS
 
----
+ターミナルで `git --version` を実行  
+<i class="fa-solid fa-arrow-right"></i> ダイアログが出たら、  
+そのままインストール
 
-え？ 
+</div>
+</div>
 
-その作り方を知りたいんだ？
+※ よくわからない場合はAIに相談（次ページ）
 
 ---
 
-<code>ディレクター / プログラマー / UI・UXデザイナー / UIテスター / 
-セキュリティーレビュワー のサブエージェントを作りたいです</code>
+## 2. Git を操作するツールの準備
 
-とか
+Git 本体はコマンドで動くものですが、  
+画面付きで簡単に操作できるツールがあります。
 
-<code>GitHub の issue を解決してプルリクを出すためのサブエージェントを作りたいです</code>
+<div class="list-icon">
 
-とか投げれば相談にのってくれますよ！
+<i class="fa-solid fa-laptop-code"></i> **VS Code** … エディタ。編集と履歴管理が1つで完結
+<i class="fa-brands fa-github"></i> **GitHub Desktop** … GitHub 公式。Git 操作に特化したアプリ
+<i class="fa-solid fa-code-branch"></i> **SourceTree** … 老舗の Git 操作アプリ
+<i class="fa-solid fa-terminal"></i> ターミナルでコマンドを直接叩く
 
----
+</div>
 
-## エージェントは「名前をつけたAI」ではない
-
-必要なのはキャラクター設定よりも、責任範囲の明文化。
-
-* 何を担当するのか
-* 何を判断してよいのか
-* どのルールを読むのか
-* どこまで作業したら完了なのか
-* 誰に、何を報告するのか
+どれを使っても、やっていること（中身の Git）は同じです。
 
 ---
 
-ってこの部分の原稿はAIが提案したのですが...
+## 今回は VS Code を使います
+
+https://code.visualstudio.com/
+
+<div class="list-icon">
+
+<i class="fa-solid fa-yen-sign"></i> Microsoft が提供している**無料**のコードエディタ
+<i class="fa-brands fa-windows"></i><i class="fa-brands fa-apple"></i> Windows / macOS どちらも同じページから
+<i class="fa-solid fa-language"></i> 日本語で使いたい場合は、拡張機能から「Japanese Language Pack」を検索してインストール
+
+</div>
+
+※ Cursor は VS Code の派生製品なので、Cursorユーザーはそのまま Cursor で構いません。
 
 ---
 
-# <center>わかってない  
-# <center>┐(´д｀)┌
+## VS Code は Git の操作機能が入っています
+
+<div class="list-icon">
+
+<i class="fa-regular fa-circle-check"></i> リポジトリのクローン
+<i class="fa-regular fa-circle-check"></i> コミット・プッシュ
+<i class="fa-regular fa-circle-check"></i> GitHub へのサインイン
+
+</div>
+
+VS Code なら、<b class="text-danger">拡張機能を入れなくても</b>使えます。
 
 ---
 
-### <center>エージェントに必要なのは...</center>
+## 一番つまずくのはここ
 
-----
+<div class="alert alert-danger">
 
-<div style="font-size:3rem;margin-bottom:3rem;">
-<center>＿人人人人人人人人人人人人人＿<br>
-＞　キャラクター設定だ！　＜<br>
+* Git のインストール
+* GitHub の認証（サインイン）
+
+</div>
+
+OS、PCの設定、会社のセキュリティ設定……  
+**症状が人によってバラバラ**で、全パターンはカバーできませんので...
+
+<div class="bg-kao bg-kao--right" style="bottom:20px;font-size:130px !important;">
+（＝ｗ＝
+</div>
+
+---
+
+## そんなときこそ AI に相談
+
+<div class="alert alert-success" style="font-size:40px">
+
+<i class="fa-solid fa-robot"></i> 「このPCで GitHub が使えるようにしたいです」
+
+</div>
+
+* 自分の環境に合わせた手順を出してくれます
+* **エラーメッセージをそのまま貼る**と早いです
+
+<div class="alert alert-danger text-center">
+<i class="fa-solid fa-triangle-exclamation"></i> パスワードやアクセストークンは貼らないこと
+</div>
+
+---
+
+## 準備が間に合わなくても大丈夫
+
+会社のPCなどで、インストールに制限がかかっている場合もあります。
+
+<p style="font-size:40px;font-weight:bold" class="text-center">
+見ているだけでも内容がわかるように進めます。
+</p>
+
+スライドや動画は公開しますので  
+後でじっくり見かえしながら触ってください。
+
+---
+
+## VS Code で GitHub にサインイン（デモ）
+
+VS Code の左下にあるアカウントのアイコンから、  
+GitHub にサインインします。
+
+* ブラウザが開いて、GitHub 側で許可を求められます
+* 許可すると VS Code に戻ってきます
+
+<div class="alert alert-warning">
+<i class="fa-solid fa-triangle-exclamation"></i> サインインしていないと、<b class="text-danger">自分のリポジトリの一覧が出てきません</b>
+</div>
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 3. リポジトリを作って<br>ファイルを管理してみよう
+
+---
+
+## Repository（リポジトリ）とは
+
+<p style="font-size:40px;font-weight:bold">プロジェクト1つ分の入れ物</p>
+
+<div class="list-icon">
+
+<i class="fa-solid fa-box-archive"></i> 案件1つ = リポジトリ1つ
+<i class="fa-solid fa-box-archive"></i> WordPress テーマ Lightning 1つ = リポジトリ1つ
+<i class="fa-solid fa-box-archive"></i> WordPress プラグイン VK Blocks = リポジトリ1つ
+
+</div>
+
+ファイル一式＋その変更履歴が丸ごと入っています。
+
+---
+
+## リポジトリを作ってみる（デモ）
+
+GitHub の画面右上「＋」→ New repository
+
+* リポジトリ名（小文字＋ハイフンがおすすめ）
+* Public / Private
+* README を追加するか
+
+---
+
+## Public と Private
+
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
+<div class="alert alert-info" style="min-height:260px">
+
+#### Public（公開）
+
+誰でも中身を見られる  
+無料。オープンソースや教材向け
+
+</div>
+</div>
+<div class="col-6">
+<div class="alert alert-warning" style="min-height:260px">
+
+#### Private（非公開）
+
+自分と招待した人だけが見られる  
+現在は無料アカウントでも作成可能
+
+</div>
+</div>
+</div>
+
+<p class="text-center" style="font-size:36px"><b class="text-danger">お客様の案件は Private</b> で作りましょう。</p>
+
+---
+
+## 入れ物ができました
+
+まだ README しか入っていない、空っぽの状態です。
+
+ここに制作データを入れていきます。
+
+<div class="bg-kao bg-kao--left" style="bottom:1.5em;">
+|・ｗ・）.oO（ ここから ）
+</div>
+
+---
+
+## GitHub と自分のPCの関係
+
+<div class="text-center">
+<img src="images/git-local-remote.svg" alt="" style="width:88%" />
+</div>
+
+---
+
+## VS Code でリポジトリを取り込む（デモ）
+
+さきほど作った「空のリポジトリ」を自分のPCに持ってきます。
+
+<div class="list-icon">
+
+<i class="fa-solid fa-1"></i> 「リポジトリの複製（Clone Repository）」
+<i class="fa-solid fa-2"></i> 「Clone from GitHub」を選ぶ
+<i class="fa-solid fa-3"></i> 一覧から、さきほど作ったリポジトリを選択
+<i class="fa-solid fa-4"></i> 保存先のフォルダを指定  
+（保存先フォルダの中にリポジトリ名のフォルダが作成される）
+
+</div>
+
+これで **GitHub と同期するフォルダ** がPC上にできます。
+
+---
+
+## Clone（クローン）とは
+
+GitHub にあるリポジトリを、  
+**履歴ごと**自分のPCにコピーしてくること。
+
+* 以後、このフォルダで普通に制作すればOK
+* 変更は自分で「送る」まで GitHub には反映されません
+
+---
+
+## 制作データを入れてみる（デモ）
+
+### 今日の題材
+
+架空のカフェサイト。`index.html` と `style.css` だけの  
+ごくシンプルな1ページサイトです。
+
+<div class="alert alert-info">
+https://github.com/vektor-inc/vws-github-hands-on
+</div>
+
+この2つのファイルをダウンロードして、  
+クローンしたフォルダに入れてください。
+
+---
+
+## VS Code の「ソース管理」タブ
+
+左のアイコンの中にある、枝分かれしたマーク
+
+ファイルを置いた瞬間、  
+**変更されたファイルが一覧に出てきます**。
+
+クリックすると変更箇所が色付きで表示されます。
+
+<div class="list-icon">
+
+<i class="fa-solid fa-square" style="color:#2f855a"></i> 緑 : 追加された行
+<i class="fa-solid fa-square" style="color:#c9252d"></i> 赤 : 削除された行
+
+</div>
+
+---
+
+## Commit（コミット）とは
+
+<p style="font-size:40px;font-weight:bold">「ここまでの変更を履歴として記録する」という操作</p>
+
+* 変更内容のまとまり
+* 「なぜそうしたか」のメモ（コミットメッセージ）
+* 誰が、いつ
+
+をセットで記録します。
+
+<div class="alert alert-info text-center">
+セーブポイントを作るようなイメージ
+</div>
+
+---
+
+## コミットするファイルや箇所を<br>ステージにセットする
+
+* 変更されているファイルが直接すべてコミットされるわけではない
+* 選んだファイルや、ファイルの中の変更箇所の一部だけを指定してコミットが可能
+
+<div class="alert alert-success text-center">
+コミットする対象を「ステージ」に入れます
+</div>
+
+---
+
+## メッセージを書いてコミットする
+
+### コミットメッセージの書き方 <span class="caption">- 後から読む自分のために -</span>
+
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
+<div class="alert alert-danger" style="min-height:200px">
+
+#### いまいち
+
+* 修正
+* 更新
+
+</div>
+</div>
+<div class="col-6">
+<div class="alert alert-success" style="min-height:200px">
+
+#### 良い
+
+* トップのキャッチコピーを変更
+* 定休日の記載ミスを修正
+
+</div>
+</div>
+</div>
+
+---
+
+## コミットした内容を送る（Push）（デモ）
+
+「変更の同期（Publish Branch）」で GitHub に送信します。
+
+<i class="fa-solid fa-arrow-right"></i> GitHub の画面を再読み込みすると、  
+ファイルが上がっています。
+
+---
+
+## コミット と プッシュ は別もの
+
+<div class="list-icon">
+
+<i class="fa-solid fa-box-open"></i> **ステージにセット** … コミットする対象を指定する
+<i class="fa-solid fa-floppy-disk"></i> **コミット** … 自分のPCの中に履歴を記録する
+<i class="fa-solid fa-cloud-arrow-up"></i> **プッシュ（同期）** … その履歴を GitHub に送る
+
+</div>
+
+<div class="alert alert-warning">
+コミットしただけでは GitHub には反映されません。<br>
+（VS Code の「変更の同期」がプッシュにあたります）
+</div>
+
+---
+
+## 宅配便に例えると
+
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-4">
+<div class="alert alert-info" style="min-height:300px">
+
+#### <i class="fa-solid fa-box-open"></i> ステージにセット
+
+送る荷物を箱に入れる
+
+</div>
+</div>
+<div class="col-4">
+<div class="alert alert-warning" style="min-height:300px">
+
+#### <i class="fa-solid fa-box"></i> コミット
+
+箱の蓋をしめて伝票に中身を書いた状態。  
+**箱はまだ手元にあります**
+
+</div>
+</div>
+<div class="col-4">
+<div class="alert alert-success" style="min-height:300px">
+
+#### <i class="fa-solid fa-truck-fast"></i> プッシュ
+
+その箱を実際に発送する。  
+ここで初めて GitHub に届きます
+
+</div>
+</div>
+</div>
+
+---
+
+## だから
+
+* 箱詰め（コミット）は何回やってもいい
+* まとめて発送（プッシュ）してもいい
+* 詰めただけで送っていない箱は、自分にしか見えていない
+
+<div class="alert alert-warning">
+「あれ、GitHubに反映されてない」の原因は<br>
+だいたい<b class="text-danger">送っていない</b>だけです。
+</div>
+
+---
+
+## もう一度変更してみる（デモ）
+
+style.css の色の設定を1行変えて保存。
+
+ソース管理タブに、  
+**変更した行だけが赤と緑で表示される**
+
+<div class="alert alert-success text-center">
+ここがフォルダ管理との<b class="text-danger">決定的な違い</b>
+</div>
+
+---
+
+## GitHub 側で履歴を見てみる（デモ）
+
+<div class="list-icon">
+
+<i class="fa-solid fa-list"></i> コミット一覧
+<i class="fa-solid fa-code-compare"></i> 各コミットの変更箇所（赤緑の差分）
+<i class="fa-solid fa-clock-rotate-left"></i> ファイルごとの履歴（History）
+<i class="fa-solid fa-user-pen"></i> 1行ずつ「誰がいつ変えたか」（Blame）
+
+</div>
+
+---
+
+## コミットの粒度のコツ
+
+* 意味のまとまりごとに区切る
+* 「作業が一区切りついたらコミット」でOK
+* 迷ったら細かめに。多すぎて困ることはあまりない
+
+<div class="alert alert-warning">
+大きくまとめすぎると、後で戻したいときに戻せなくなります。
+</div>
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 4. Branch と<br>Pull Request を<br>使ってみよう
+
+---
+
+## いきなり本番を直すのは怖い
+
+<div class="list-icon">
+
+<i class="fa-regular fa-face-frown"></i> 修正したけど、やっぱり元に戻したい
+<i class="fa-regular fa-face-frown"></i> 確認してもらってから反映したい
+<i class="fa-regular fa-face-frown"></i> 別の人が同じファイルを触っているかもしれない
+
+</div>
+
+---
+
+## Branch（ブランチ）とは
+
+<p style="font-size:40px;font-weight:bold">作業用に枝分かれさせたコピー</p>
+
+* 本線（main）はそのまま動かさない
+* 枝の上で自由に変更できる
+* うまくいったら本線に合流させる
+* ダメなら捨てればいい
+
+---
+
+## ブランチのイメージ
+
+<div class="text-center">
+<img src="images/branch-flow.svg" alt="" style="width:92%" />
+</div>
+
+---
+
+## ブランチ名のつけ方
+
+「何をするブランチか」がわかる名前にします。
+
+<div style="font-size:36px;font-family:monospace;line-height:1.8">
+add-news-section<br>
+fix-business-hours<br>
+update-menu-price
+</div>
+
+日本語も使えますが、英数字＋ハイフンが無難です。
+
+---
+
+## ブランチを作って作業（デモ）
+
+VS Code の左下にブランチ名が出ています。
+
+<div class="list-icon">
+
+<i class="fa-solid fa-1"></i> クリックして「新しいブランチの作成」
+<i class="fa-solid fa-2"></i> 名前を入力
+<i class="fa-solid fa-3"></i> お知らせセクションを追加して保存
+<i class="fa-solid fa-4"></i> コミット
+<i class="fa-solid fa-5"></i> 「Branch の発行（Publish Branch）」で GitHub に送る
+
+</div>
+
+---
+
+## Pull Request（プルリクエスト）とは
+
+<p style="font-size:38px;font-weight:bold">「この変更を本線に入れていいですか？」という申請</p>
+
+<div class="list-icon">
+
+<i class="fa-solid fa-code-compare"></i> 何を変更したのかが一覧で見られる
+<i class="fa-regular fa-comments"></i> コメントで相談できる
+<i class="fa-regular fa-circle-check"></i> 確認してから反映できる
+
+</div>
+
+略して「PR」「プルリク」と呼ばれます。
+
+---
+
+## Pull Request を作る（デモ）
+
+GitHub 側に「Compare & pull request」ボタンが出ています。
+
+* タイトルと説明を書く
+* Files changed タブで変更箇所を確認
+* 行を指定してコメントもできる
+
+---
+
+## Merge（マージ）する（デモ）
+
+内容に問題がなければ「Merge pull request」
+
+* 作業ブランチの変更が main に合流する
+* 使い終わったブランチは削除してOK（履歴は残ります）
+
+---
+
+## ローカルにも反映する
+
+GitHub 側で main が新しくなったので、  
+自分のPCにも取り込みます。
+
+* VS Code でブランチを main に切り替え
+* 「変更の同期」（pull）
+
+---
+
+## ひとりでもPRを使う意味
+
+<style scoped>
+section li{ font-size:30px !important; }
+</style>
+
+「自分ひとりの案件なのに申請って意味ある？」
+
+* １つの機能変更が複数回のコミットにわたる場合  
+  <i class="fa-solid fa-arrow-right"></i> コミット単位でなく機能変更全体のソースコードを纏めて確認できる
+* 後から「この変更なんだっけ」を追いやすい  
+  コミットは作業の区切りで頻繁に行ったりする。プルリクの履歴を見た方が大きい改修単位で見返しやすい
+* 大きい機能追加作業中に、現行版で緊急対応が発生した時に対応しやすい
+* <b class="text-danger">AIが書いた変更をチェックする場所</b>になる
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 5. Issue を使って<br>作業を管理してみよう
+
+---
+
+## Issue（イシュー）とは
+
+そのリポジトリに紐づいた  
+「やることリスト」「困りごとメモ」
+
+<div class="list-icon">
+
+<i class="fa-solid fa-screwdriver-wrench"></i> 修正依頼
+<i class="fa-solid fa-bug"></i> 不具合報告
+<i class="fa-regular fa-lightbulb"></i> やりたいこと・アイデア
+
+</div>
+
+<b class="text-danger">コードと同じ場所で管理できる</b>のがポイント。
+
+---
+
+## Issue を作ってみる（デモ）
+
+* Issues タブ → New issue
+* タイトル : 何を、どうしたいか
+* 本文 : 現状と、どうなってほしいか
+
+<div class="alert alert-info">
+例）「定休日の記載が間違っている」
+</div>
+
+---
+
+## ラベル・担当者
+
+<div class="list-icon">
+
+<i class="fa-solid fa-tag"></i> ラベル : bug / 要望 / 質問 などの分類
+<i class="fa-regular fa-user"></i> 担当者（Assignees）: 誰がやるか
+<i class="fa-regular fa-calendar"></i> マイルストーン : いつまでにやるか
+
+</div>
+
+最初はラベルだけでも十分です。
+
+---
+
+## Issue → 修正 → PR → Merge（デモ）
+
+<div class="text-center">
+<img src="images/issue-pr-flow.svg" alt="" style="width:95%" />
+</div>
+
+---
+
+## 手順
+
+<div class="list-icon">
+
+<i class="fa-solid fa-1"></i> Issue を登録する
+<i class="fa-solid fa-2"></i> その Issue 用のブランチを作る
+<i class="fa-solid fa-3"></i> 修正してコミット
+<i class="fa-solid fa-4"></i> Pull Request を作る
+<i class="fa-solid fa-5"></i> 説明に `Closes #1` と書く
+<i class="fa-solid fa-6"></i> Merge すると **Issue が自動的に閉じる**
+
+</div>
+
+---
+
+## Issue を使うメリット
+
+<div class="list-icon">
+
+<i class="fa-solid fa-link"></i> 「何を直したか」と「なぜ直したか」が紐づく
+<i class="fa-solid fa-magnifying-glass"></i> 後から「この変更、何の依頼だったっけ？」を辿れる
+<i class="fa-regular fa-face-smile"></i> お客様からの依頼を放置しない仕組みになる
+<i class="fa-regular fa-envelope-open"></i> メールやチャットに埋もれない
+
+</div>
+
+---
+
+## みなさんもやってみましょう
+
+さきほど作ったリポジトリは公開設定なので、  
+<b class="text-danger">どなたでも Issue を作成できます</b>。
+
+URL はコメント欄に貼りますので、  
+「こんなお店の情報も載せたい」など気軽に立ててみてください。
+
+<div class="bg-kao bg-kao--right" style="bottom:20px;font-size:130px !important;">
+（・ｗ・
+</div>
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 6. AI時代になぜ<br>GitHub を使うのか
+
+---
+
+## AIに任せる機会が増えた
+
+<div class="list-icon">
+
+<i class="fa-solid fa-robot"></i> Claude Code
+<i class="fa-solid fa-robot"></i> Codex
+<i class="fa-solid fa-robot"></i> Cursor
+
+</div>
+
+「このページのここ直しといて」で、本当に直してくれる時代。
+
+---
+
+## でも、ちょっと待ってほしい
+
+AIは一瞬で**大量のファイルを書き換えます**。
+
+<div class="list-icon">
+
+<i class="fa-regular fa-circle-question"></i> どこが変わったのか把握できてますか？
+<i class="fa-regular fa-circle-question"></i> おかしくなったとき、元に戻せますか？
+<i class="fa-regular fa-circle-question"></i> 頼んでないところまで変えられていませんか？
+
+</div>
+
+---
+
+<div style="font-size:3rem;margin-bottom:3rem;text-align:center">
+＿人人人人人人人人人人人人人＿<br>
+＞　把握できてないとヤバい　＜<br>
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 </div>
 
----
-
-( 実際の vk-agents-personas ファイルを軽く紹介 )
-
----
-
-エージェントの設定ができたので
-issue を自動処理するスキルを作ります！
+<div class="bg-kao bg-kao--left" style="bottom:1em;">
+|Ｔ－Ｔ）.oO（ 別物に... ）
+</div>
 
 ---
 
-## やりたい事
+## だから Git での管理が効いてくる
 
-* issue のURLを投げる
-* 司さん（ディレクター）が中身を確認
-  - 和田くん（開発担当） / 植草君（UX担当） / 
-    安藤さん（セキュリティー担当）など、  
-	必要なサブエージェントを起動して仕様を提案させる
+### 1. 何が変更されたか確認できる
 
----
+AIが書き換えた箇所が赤緑の差分で全部出る。
 
-* 明確な不具合修正や issue で既に仕様がしっかり固まっているものなど、人間の確認が不要
-  → 実装開始
-* 議論の結果人間に方針確認が必要
-  → issue に仕様提案をコメントして指示を待機
+<div class="alert alert-success">
+「言ってないところまで触ってないか」がひと目でわかる
+</div>
 
 ---
 
-* 実装完了したら  
-  - PHPUnitテスト実行
-  - 各種レビュー
-    - 安藤さんのセキュリティレビュー
-    - 植草君の UX レビュー
-    - 麗美ちゃんの e2e テスト
-  - 問題があれば差し戻して和田君が修正 → 再レビュー
+## だから Git での管理が効いてくる
+
+### 2. いつでも戻せる
+
+こまめにコミットしておけば、  
+AIが盛大に壊しても**コミット1つ分だけ巻き戻せる**。
+
+<div class="alert alert-success text-center" style="font-size:36px">
+「とりあえずコミットしてから、AIに任せる」<br>
+これが<b class="text-danger">AI時代の安全ベルト</b>
+</div>
 
 ---
 
-* 一通り完了したら /vk-pr スキルでプルリク作成
-* プルリクの内容がプルリクのルールに沿っているかを
-  司さんが確認
-  - 問題があれば修正
-* 司さんがプルリクのコメントで人間に最終報告
+## だから GitHub が効いてくる
 
-この一連の処理を一気に実行するスキルを作ります。
+### 3. Issue がそのまま指示書になる
 
----
+Issue に「何をどうしてほしいか」を書いておけば、  
+それをそのままAIに渡して作業してもらえます。
 
-え？ 
-
-その作り方？
+* 人間向けの依頼メモ = AI向けの指示書
+* やり取りの記録も Issue に残る
 
 ---
 
-<code style="font-size:1.2em">こういう流れで処理したいんだけどスキル作って！</code>
+## だから GitHub が効いてくる
 
-とか投げれば相談にのってくれますよ！
+### 4. Pull Request でレビューできる
 
-って事で...
+AIの変更をいきなり本番に入れず、  
+一度PRにして内容を確認してから反映する。
 
----
+さらに、**PRのレビュー自体をAIに任せる**こともできます。
 
-## issue 自動処理スキル完成！
-
-GitHub の issue の URL を投げれば自動で各種レビュー済みのプルリクまで出してくれる
-
-`/vk-kore {url}` スキル（これやっといてスキル）爆誕！
+例) CodeRabbit  
+https://www.coderabbit.ai/ja
 
 ---
 
-## 定期的にチューニングは必要...
+## AIを使うほど、履歴管理の価値が上がる
 
-スキルができると
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
+<div class="alert alert-info" style="min-height:230px">
 
-「うひょー！これで超ラクだぜ！ヒャッハー！」
+#### 昔
 
-と思いがちですが、そんな事はない...。
+自分で書いたから、  
+だいたい覚えている
 
-意図せず途中で止まったり精度に問題があったりするので、
-都度ブラッシュアップの繰り返していきます。
+</div>
+</div>
+<div class="col-6">
+<div class="alert alert-danger" style="min-height:230px">
 
----
+#### 今
 
-## ちゃんと自動処理してもらうために
+AIが書くので、  
+**記録がないと誰も  
+把握していない状態**になる
 
-issue に完了条件を書いておくのは超重要
+</div>
+</div>
+</div>
 
-脳内で「これ対応してもらうはずだったのに」と思っても
-AIにとっては「そんなん知らんがな。書いとけや。」となる。
-
-無駄な差し戻しや事前につぶしておきましょう。
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# チームでの共有
+だからこそ、コミット・PR・Issue が効いてきます。
 
 ---
 
-## ルールやスキルなどのリポジトリで管理
+## ベクトルでの実際の使い方（参考）
 
-以下のような構成のGitのリポジトリを作りつつ...
+<div class="list-icon">
 
-* agents
-* rules
-* skills
-* scripts
+<i class="fa-regular fa-file-lines"></i> 仕様やルールをリポジトリ内のドキュメントに置く
+<i class="fa-regular fa-circle-dot"></i> Issue を起点にAIへ作業を依頼
+<i class="fa-solid fa-code-pull-request"></i> AIの変更は必ずPR経由
+<i class="fa-solid fa-magnifying-glass"></i> PRはAIレビュー＋人間の確認
+<i class="fa-solid fa-vial"></i> テストも一緒に書いてもらう
 
-./Users/ユーザー名/.claude/ ディレクトリに複製するスクリプトを書いて貰う
+</div>
 
----
-
-## スキルのアップデート用のスキルを作る
-
-「スキルをアップデートして」と言ったら
-
-* リポジトリからメインブランチを pull して最新版を取得
-* .claude ディレクトリへの複製（展開）スクリプトを走らせる
-
-という事をしてくれるスキルを作成
-
-→ チーム全員が簡単にアップデートできる
+このあたりは前回 #49 でお話ししています。
 
 ---
 
-## 共有スキルの注意点
+## その他の便利な使い方の例
 
-各メンバーのPCのグローバルな .claude/ ディレクトリに展開
+GitHub には、ファイルの管理以外にも  
+いろいろな機能があります。
 
-→ メンバー独自で作ったり入れたりしてるスキルと名前が被ってると上書きされる。
-
-→ vk- などプリフィックスをつけている
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 並列実行
+今日は使いませんが、  
+「こんなこともできる」という紹介です。
 
 ---
 
-### 自動処理はできるようになったが...
+## GitHub Actions
 
-待ち時間が長い。
+リポジトリで**何かが起きたら、自動で処理を走らせる**仕組み。
 
-* 実装待ち
-* テスト実行待ち
-* 外部レビュー待ち
-* 修正・修正後の再確認待ち
+<style scoped>
+section li{ font-size:30px !important; }
+</style>
 
-1件が終わるまで待ってから次へ進むのはもったいない。
-
----
-
-## 複数のタスクを同時に動かす
-
-VS Code や Cursol などのエディタで実行するのではなく、
-ターミナルを複数開いて同時に処理させる
-
-```
-タスク A ─ 実装 ─ テスト ─ レビュー ─ PR
-タスク B ─ 実装 ─ テスト ─ レビュー ─ PR
-タスク C ─ 実装 ─ テスト ─ レビュー ─ PR
-```
----
-
-## 標準ターミナルの場合
-
-並列処理自体はできるが数が増えると...
-
-* どのターミナルで、どの issue 処理してるかわからない
-* どれが実行中で、どれが入力待ちかわからない
-* ウィンドウを順番に開いて確認する必要がある
-* 終了したセッションを見落とす
-* ターミナルを並べ直すだけでも面倒
+* Pull Request が出されたら、**自動でテストを実行する**  
+  <i class="fa-solid fa-arrow-right"></i> テストが通らないと Merge できないようにできる
+* main に Merge されたら、**自動でサーバーにアップする**（デプロイ）
+* リリース用の **zip を自動生成**（テーマ・プラグインの配布物）
 
 ---
 
-### AIの処理速度より人間の監視がボトルネックに
+## 何がうれしいか
 
-並列数を増やすほど、
-人間がターミナルを見回る仕事が増えていく。
+* 「確認し忘れたまま本番に出ていく」事故を仕組みで防げる
+* 手作業のアップロード忘れ・上げ間違いがなくなる
+* **AIが書いた変更も、テストが通らなければ入らない**
 
-→ 複数セッションの状態を一覧できるUIが必要。
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-
-# 統合UIの作成
+<div class="alert alert-success text-center">
+人間の注意力ではなく、<b class="text-danger">仕組みで品質を守る</b>
+</div>
 
 ---
 
-## VK Terminals
+## チームで使う場合
 
-複数のターミナルを自動折返しグリッドで表示する
-Electron 製デスクトップアプリを作成しました。
+今日作ったのは、**個人アカウントの下**のリポジトリでした。
 
-https://github.com/vektor-inc/vk-terminals/
-
-※tmux 使えよという説もありますが独自機能つけたかったし...
-
----
-
-### 複数のClaudeを一画面で操作
-
-* ペインごとに Claude Code を起動
-* ペインを追加・並べ替え・リサイズ
-* 不要なペインはサイドバーへ格納
-* Claude の使用量を表示
+会社やチームで使う場合は  
+<b>Organization（組織アカウント）</b>を作って、  
+その中にリポジトリを置くのが基本です。
 
 ---
 
-## 統合UIで「見やすく」はなった
+## Organization のイメージ
 
-* ターミナルウィンドウがばらつくよりはかなり見やすい
-* 入力待ちの場合にラベルがつくようにした
+<div class="row colmuns" style="margin-top:0px">
+<div class="col-6">
+<div class="alert alert-warning" style="min-height:230px">
 
-けれど...
+#### 個人アカウント
 
-* どのペイン（ターミナル）が、どのタスクかわかりにくい
-  issue やプルリクの URL が探しにくい。ブラウザのタブが散らかる
+└ 自分のリポジトリ
+
+</div>
+</div>
+<div class="col-6">
+<div class="alert alert-success" style="min-height:230px">
+
+#### Organization
+
+├ メンバー（社員・外注先）  
+└ 会社のリポジトリ
+
+</div>
+</div>
+</div>
+
+* 会社の資産が**個人アカウントにぶら下がらない**
+* 担当者が退職・交代しても、リポジトリは会社に残る
 
 ---
 
-加えて、まだ人間がやる事が多い
+## 権限も細かく設定できる
 
-* issue を確認する
-* ペインを開いて Claude に issue を投入する
-* GitHub の issue や PR のページにアクセスして
-  コメントや状態を確認する
-* 完了・失敗を判断する
-* 次のタスクを投入する
+<div class="list-icon">
+
+<i class="fa-regular fa-eye"></i> このリポジトリは閲覧だけ
+<i class="fa-solid fa-pen"></i> このリポジトリは編集もOK
+<i class="fa-solid fa-lock"></i> main への直接の変更は禁止（**必ず Pull Request 経由**にする）
+
+</div>
+
+外注先や新しいメンバーにも、**必要な範囲だけ**渡せます。
+
+<div class="alert alert-info">
+小規模なら無料プランでも Organization は作れます
+</div>
 
 ---
 
-## 人間がディスパッチャーになっている
+## 今日は設定方法までは触れません
 
-一部はAIに作業を任せたが、
-人間がAIへ仕事を配り続けている。
-監視確認も面倒。
+いずれも設定が必要なものなので、  
+今日は「こんなことができる」という紹介だけ。
 
-→ タスクの割り当てと状態遷移も自動化する。
+<div class="alert alert-success text-center">
+まずは <b class="text-danger">Commit / Branch / Pull Request / Issue</b><br>
+が使えるようになれば十分です
+</div>
 
 ---
 
@@ -923,351 +1479,68 @@ https://github.com/vektor-inc/vk-terminals/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 統合制御システム
-VK Orchestrator
+# 7. まとめ
 
 ---
 
-並列実行を円滑にするために
-
-* 進行中の issue や 実行待ちの issue を見える化
-* 人間の入力が必要な状態の見える化
-* 後で処理したい issue などをタスクキューとして登録
-  * 他の作業の完了後に実行したい
-  * トークンリミットの都合で今走らせられない
-
----
-
-## VK Orchestrator の構成
-
-* 作業を実行する AI のルールやスキルなど各種設定  
-  → VK Agents  
-* 作業を行う実行GUI  
-  → VK Terminals  
-* 進行を制御するシステム  
-  → VK Orchestrator  
-
-<!-- 
-  - タスクキュー  
-    作業対象の issue を登録する  
-	専用リポジトリ（ 別途 ローカルファイルで管理する機能あり ）
- -->
-
----
-
-## やりたいイメージ
-
-* 作業させる issue をタスクキューとして登録
-* そのタスクキューをオーケストレーターが定期巡回
-* 実行待ち issue 情報を取得して VK Terminals の api に投げる
-  - issue のタイトル
-  - issue のURL
-  - Claude に投げるスキル（ vk-kore ） など
-
----
-
-* VK Terminals が受け取って自動的に処理用のペインを開く  
-* VK Terminals のペイン内の Claude へ自動投入、
-  自動処理スキル（ vk-kore ）で プルリクまで作成
-  - VK Terminals で状態確認ができる
-
----
-
-## 専用リポジトリの issue を受付票にする
-
-✕ 各プロジェクトに issue が存在しているので横断して見にくい
-
-* 自動処理の対象の issue を管理する専用のタスクキューリポジトリを作成し、そのリポジトリの issue に 自動処理する issue を登録していく。
-
----
-
-1. 各プロジェクトの issue にタスクキュー登録用のラベル付与  
-   ※ チームで運用の場合はアサイン（担当ユーザー）を自分に
-2. オーケストレーターが定期巡回、タスクキューラベルを検出
-3. 専用のリポジトリの issue に同名の issue を起票  
-  中身は元 issue へのリンク
-
----
-
-## タスクキューリポジトリの issue の情報
-
-AIが作業を始めるために必要な情報を持たせる
-
-* アサインユーザー
-* 作業対象 issue の url
-* 作業ステータス
-* 並列でよいか、順番に実行するか
-* 優先度
-* 自動マージしてよいか
-
----
-
-## ラベルを状態管理に使う
-
-タスクキューリポジトリに登録されても即時実行はされない
-
-例：
-
-```
-status:waiting-approval
-    ↓
-status:ready
-    ↓
-status:in-progress
-    ↓
-status:waiting-merge
-    ↓
-status:done
-```
-
-<!--
-## オーケストレーター（全体）が行うこと
-
-* 実行可能なタスクを取得
-* 優先度と直列・並列条件を判断
-* 空きペイン（ターミナル）を作成
-* 対象リポジトリの作業ディレクトリを決定
-* issue URLをエージェントへ投入
-
----
-
-
-* PR・CI・レビュー状態を監視
-* 状態ラベルを更新
-* 必要に応じて処理を再開
-* 完了条件を満たしたら次のタスクへ
-
--->
-
----
-
-## エージェントとオーケストレーターの責務
-
-#### オーケストレーター
-
-* タスクを選ぶ
-* 実行場所を割り当てる
-* 状態を監視する
-* 完了条件を判定する
-* 次のタスクを流す
-
----
-
-#### エージェント
-
-* 仕様を理解する
-* 実装・テスト・レビューを行う
-* PRを作成する
-* 結果を報告する
-
----
-
-## 例外設計
-
-長時間動かすと必ず例外が起きる。
-
-* ペインが消えた
-* Claude Codeの起動に失敗
-* 指示本文が届かなかった
-* PR作成前にセッションが止まった
-* 一時的にGitHub APIへ接続できない
-
-「成功経路」だけでなく再試行・人間への引き継ぎまで対策
-
----
-
-と書くと聞こえがいいですが、
-トラブルの都度 issue 起票 → 改善
-の繰り返しです。
-
----
-
-## オーケストレーターで出来るようになった事
-
-VK Terminals との連携により...
-
-* タスクキューの見える化
-* 処理中のペイン（ターミナル）で
-  - 処理してる issue タイトルがわかる
-  - 処理してる issue のページを簡単に開ける
-  - プルリクの URL を簡単に開ける
-
----
-
-* 入力待ち状態かどうか
-* 人間の確認が不要そうなものは自動マージ
-* タスクキューの issue を順番に自動実行
-
-など
-
----
-
-え？ 
-
-その作り方を知りたいんだ？
-
----
-
-* タスクキューの issue をサイドバーに表示したいです
-* 各ペインの状態をラベルで表示したいです
-* 各ペインで処理中の issue タイトルをペインの上部に表示してリンクしたいです
-* プルリクが出たら、ラベルを表示してリンクしたいです
-
-とか投げてブラッシュアップしまくればよろし。
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# スマホからの制御
-
-遊びに行ってる時の罪悪感を減らしたい
-
----
-
-わたし...
-
----
-
-![bg](images/sup_tsunegami.jpg)
-
-<div class="telop telop--right" style="bottom:100px;">
-
-#### SUPが大好きです
+## 今日の5つの言葉
+
+<div class="list-icon" style="font-size:32px">
+
+<i class="fa-solid fa-box-archive"></i> **Repository** : プロジェクトの入れ物
+<i class="fa-solid fa-floppy-disk"></i> **Commit** : 変更を履歴として記録する
+<i class="fa-solid fa-code-branch"></i> **Branch** : 作業用の枝。本線を壊さない
+<i class="fa-solid fa-code-pull-request"></i> **Pull Request** : 変更を確認してから反映する
+<i class="fa-regular fa-circle-dot"></i> **Issue** : やることリスト・困りごとメモ
 
 </div>
 
 ---
 
-## SUPの良くないところ
+## ひとつだけ注意
 
-* 海や川など移動に時間がかかる
-* 準備・片付けにも時間がかかる
+<div class="alert alert-danger">
+
+<i class="fa-solid fa-triangle-exclamation"></i> 公開リポジトリに**秘密の情報を置かない**
+
+</div>
+
+* wp-config.php
+* パスワードやAPIキー
+* お客様の個人情報
+
+`.gitignore` に書いておくと、そもそも記録対象外にできます。  
+一度コミットすると<b class="text-danger">履歴に残り続ける</b>ので要注意。
 
 ---
 
-<div style="font-size:3rem;margin-bottom:3rem;">
-<center>＿人人人人人人人人人人人人人人人人人人人＿<br>
-＞　儲かってないのに遊んでて大丈夫！？　＜<br>
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
+## 明日からできる3ステップ
+
+<div class="list-icon">
+
+<i class="fa-solid fa-1"></i> GitHub のアカウントを作る（まだの方）
+<i class="fa-solid fa-2"></i> 今日と同じ手順で、練習用のリポジトリを1つ作ってみる
+<i class="fa-solid fa-3"></i> 自分の案件のファイルを1つ、Private リポジトリに入れてみる
+
+</div>
+
+<div class="alert alert-info">
+いきなり全案件でやろうとしないのがコツです
 </div>
 
 ---
 
-移動や遊んでる間もAIが稼働すれば罪悪感が軽減できるのでは...
+## 質疑応答
+
+* GitHub についてわからないこと
+* 実際のウェブ制作での使い方
+
+なんでもどうぞ。
+
+<div class="bg-kao bg-kao--right" style="bottom:20px;font-size:130px !important;">
+（・ｗ・？
+</div>
 
 ---
 
-## スマートフォン用のWeb画面を追加
-
-ブラウザから全ペインの状態を確認。
-
-* タスクリスト
-* ステータス
-* プルリクへのリンク
-* ターミナル操作
-
-など。アプリのインストールは不要。
-
----
-
-## スマートフォンから簡単な応答もできる
-
-* 任意のテキスト送信
-* ペイン（ターミナル）の追加・終了
-
-GitHub のスマホアプリから新規 issue を登録して、
-実行させる事もできる。
-
----
-
-## スリープ対策
-
-mac にはもともとスリープ制御する caffeinate というコマンドがある
-
-オーケストレーターは caffeinate コマンドと併せてペインの Claude Code を起動してるので、オーケストレーターが起動してれば mac 本体はスリープしない。
-→ 外出からでも操作可能
-
----
-
-### モバイルからのアクセス
-
-VK Terminals のモバイルページと HTTP API は認証なし。
-
-* 信頼できる自宅・社内LANで使う
-* 外出先からは Tailscale でプライベートネットワーク経由
-* 不特定多数が接続できるネットワークへ公開しない
-
-便利さと同時に、操作経路の保護が必要。
-
----
-
-え？ 
-
-その作り方を知りたいんだ？
-
----
-
-<code style="font-size:1em">モバイルからもアクセスしたいっす。よしなにたのむ！</code>
-<code style="font-size:1em">ただし、スリープしないようによろしく！</code>
-
-とかAIに投げてブラッシュアップすればいけますよ！
-
----
-
-## そんな感じで....
-
----
-
-### 最初から全自動を作ったわけではない
-
-1. 不満をルールへ変える
-2. 繰り返す作業をスキルへ変える
-3. 役割をエージェントへ分けて工程の多いタスクを自動処理できるようにする
-4. 複数タスクを並列で動かす
-6. 見づらいので統合UIを作る
-7. 人間の監視・投入もオーケストレーターへ移す
-
-困りごとを1段ずつ仕組みに変えた結果。
-
----
-
-## 注意点
-
-* 調子に乗って並列で回すとめちゃめちゃ消費する
-* ここまで作るのにもめちゃめちゃトライ&エラーの繰り返し
-
----
-
-ちなみにこの VK Orchestrator ...
-
----
-
-Vektor Passport のユーザーは
-お試しでマイアカウントページからダウンロードできます。
-
-まだドキュメントも使い方ガイドも動作保証もしないので、
-このために Vektor Passport 購入はおすすめしません。
-
-まぁ動かなくてもルールとかスキルとかどう書いてるのかは
-参考になるとは思います。
-
----
-
-YouTube チャンネル登録してね
-https://www.youtube.com/@VektorInc
-
----
-
-<!-- _paginate: false  -->
-
-<center>
-
-<p class="mt-48">ありがとうございました</p>
-
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+### <center>ありがとうございました
