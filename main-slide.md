@@ -1270,9 +1270,7 @@ section li{ font-size:30px !important; }
 
 ---
 
-## でも、ちょっと待ってほしい
-
-AIは一瞬で**大量のファイルを書き換えます**。
+## AIは一瞬で**大量のファイルを書き換える
 
 <div class="list-icon">
 
@@ -1282,16 +1280,10 @@ AIは一瞬で**大量のファイルを書き換えます**。
 
 </div>
 
----
-
 <div style="font-size:3rem;margin-bottom:3rem;text-align:center">
-＿人人人人人人人人人人人人人＿<br>
-＞　把握できてないとヤバい　＜<br>
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
-</div>
-
-<div class="bg-kao bg-kao--left" style="bottom:1em;">
-|Ｔ－Ｔ）.oO（ 別物に... ）
+＿人人人人人人人人＿<br>
+＞　把握が難しい　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y￣
 </div>
 
 ---
@@ -1458,8 +1450,9 @@ section li{ font-size:30px !important; }
 
 #### Organization
 
-├ メンバー（社員・外注先）  
-└ 会社のリポジトリ
+┠ メンバー
+┃（社員・外注先）  
+┗ 会社のリポジトリ
 
 </div>
 </div>
@@ -1476,7 +1469,8 @@ section li{ font-size:30px !important; }
 
 <i class="fa-regular fa-eye"></i> このリポジトリは閲覧だけ
 <i class="fa-solid fa-pen"></i> このリポジトリは編集もOK
-<i class="fa-solid fa-lock"></i> main への直接の変更は禁止（**必ず Pull Request 経由**にする）
+<i class="fa-solid fa-lock"></i> main への直接の変更は禁止
+　　（**必ず Pull Request 経由**にする）
 
 </div>
 
@@ -1525,9 +1519,7 @@ section li{ font-size:30px !important; }
 ## ひとつだけ注意
 
 <div class="alert alert-danger">
-
-<i class="fa-solid fa-triangle-exclamation"></i> 公開リポジトリに**秘密の情報を置かない**
-
+<i class="fa-solid fa-triangle-exclamation"></i> 公開リポジトリに**秘密の情報を置かない
 </div>
 
 * wp-config.php
@@ -1545,7 +1537,7 @@ section li{ font-size:30px !important; }
 
 <i class="fa-solid fa-1"></i> GitHub のアカウントを作る（まだの方）
 <i class="fa-solid fa-2"></i> 今日と同じ手順で、練習用のリポジトリを1つ作ってみる
-<i class="fa-solid fa-3"></i> 自分の案件のファイルを1つ、Private リポジトリに入れてみる
+<i class="fa-solid fa-3"></i> 自分の案件のファイルをPrivate リポジトリに入れてみる
 
 </div>
 
