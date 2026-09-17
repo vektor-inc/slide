@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --version)",
+      "Bash(npx @marp-team/marp-cli --version)",
+      "Bash(marp main-slide.md --theme-set themes/vk-slide/css/style.css --html --allow-local-files -o main-slide.html)",
+      "Bash(marp main-slide.md --theme-set themes/vk-slide/css/style.css --html --allow-local-files --pdf -o main-slide.pdf)",
+      "Bash(marp main-slide.md --theme-set themes/vk-slide/css/style.css --html --allow-local-files --pdf -o main-slide-debug.pdf --engine)",
+      "Bash(command -v pdfinfo)",
+      "Bash(pdfinfo main-slide.pdf)",
+      "Bash(rm -f main-slide-debug.pdf)",
+      "Bash(grep -c '^---$' main-slide.md)"
+    ]
+  }
+}
