@@ -10,7 +10,7 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# AI時代に最低限<br>知っておきたい<br>GitHub入門
+# VK Booking Manager
 
 VWSオンライン勉強会 #50
 
