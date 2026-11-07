@@ -22,6 +22,10 @@ Gifu WordPRess MeetUp
 
 ---
 
+## 自己紹介 <span class="caption">- Self introduction -</span>
+
+
+
 ### 石川栄和
 
 株式会社ベクトル
