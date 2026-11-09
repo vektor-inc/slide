@@ -414,15 +414,12 @@ e2e の場合
 
 ---
 
-file:///Users/kurudrive/Documents/develop/dev/wordpress/wp-content/plugins/vk-booking-manager-pro/tests/test-catalog.html
-
----
-
 <!-- _class: title-chapter  -->
 <!-- _paginate: false  -->
 
 # 独自アプリでの取り組み（おまけ）
 VK Orchestrator
+https://www.vektor-inc.co.jp/service/products/vk-orchestrator/
 
 ---
 
