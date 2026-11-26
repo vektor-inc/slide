@@ -10,9 +10,9 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# VK Booking Manager
+# 何がかわった？ <br>WordPress 7.2 を見てみよう
 
-VWSオンライン勉強会 #50
+VWSオンライン勉強会 #53
 
 石川栄和@Vektor,Inc.
 
