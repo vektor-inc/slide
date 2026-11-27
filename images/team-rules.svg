@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560">
+  <defs>
+    <style>
+      .jp { font-family: 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', sans-serif; }
+      .mono { font-family: Menlo, Consolas, 'Courier New', monospace; font-weight: 700; }
+      .dark { fill: #3f3b3a; }
+      .blue { fill: #203fa5; }
+      .line { fill: none; stroke: #3f3b3a; stroke-width: 3; }
+      .card { fill: #fff; stroke: #3f3b3a; stroke-width: 2.5; }
+      .head { fill: #203fa5; }
+    </style>
+    <!-- ファイルアイコン -->
+    <g id="file">
+      <path d="M0,0 h26 l12,12 v38 a2,2 0 0 1 -2,2 h-34 a2,2 0 0 1 -2,-2 v-48 a2,2 0 0 1 2,-2 z" fill="#fff" stroke="#fff" stroke-width="0"/>
+      <path d="M26,0 v12 h12" fill="none" stroke="#203fa5" stroke-width="3"/>
+      <rect x="7" y="22" width="24" height="3" fill="#203fa5"/>
+      <rect x="7" y="30" width="24" height="3" fill="#203fa5"/>
+      <rect x="7" y="38" width="16" height="3" fill="#203fa5"/>
+    </g>
+  </defs>
+
+  <!-- フォルダ -->
+  <g transform="translate(40 205)">
+    <path class="dark" d="M0,14 a8,8 0 0 1 8,-8 h62 l16,16 h138 a8,8 0 0 1 8,8 v112 a8,8 0 0 1 -8,8 h-216 a8,8 0 0 1 -8,-8 z"/>
+    <text class="mono" x="116" y="98" fill="#fff" font-size="38" text-anchor="middle">rules/</text>
+    <text class="jp" x="116" y="190" fill="#3f3b3a" font-size="22" font-weight="700" text-anchor="middle">チーム共通の独自ルール</text>
+  </g>
+
+  <!-- ツリーの線 -->
+  <path class="line" d="M272,285 H332"/>
+  <path class="line" d="M352,30 H332 V530 H352"/>
+
+  <!-- カード 1: coding-rules.md -->
+  <g transform="translate(372 30)">
+    <rect class="card" x="0" y="0" width="380" height="210" rx="10"/>
+    <path class="head" d="M10,0 h360 a10,10 0 0 1 10,10 v62 h-380 v-62 a10,10 0 0 1 10,-10 z"/>
+    <use href="#file" x="20" y="10"/>
+    <text class="mono" x="72" y="48" fill="#fff" font-size="28">coding-rules.md</text>
+    <text class="jp dark" x="24" y="122" font-size="24" font-weight="700">・関数・メソッドの命名規則</text>
+    <text class="jp dark" x="24" y="166" font-size="24" font-weight="700">・ディレクトリ構造 など</text>
+  </g>
+
+  <!-- カード 2: css-rules.md -->
+  <g transform="translate(790 30)">
+    <rect class="card" x="0" y="0" width="380" height="210" rx="10"/>
+    <path class="head" d="M10,0 h360 a10,10 0 0 1 10,10 v62 h-380 v-62 a10,10 0 0 1 10,-10 z"/>
+    <use href="#file" x="20" y="10"/>
+    <text class="mono" x="72" y="48" fill="#fff" font-size="28">css-rules.md</text>
+    <text class="jp dark" x="24" y="122" font-size="24" font-weight="700">・CSS の命名規則・ネスト</text>
+    <text class="jp dark" x="24" y="166" font-size="24" font-weight="700">・ディレクトリ構造 など</text>
+  </g>
+
+  <!-- カード 3: design-rules.md -->
+  <g transform="translate(372 320)">
+    <rect class="card" x="0" y="0" width="380" height="210" rx="10"/>
+    <path class="head" d="M10,0 h360 a10,10 0 0 1 10,10 v62 h-380 v-62 a10,10 0 0 1 10,-10 z"/>
+    <use href="#file" x="20" y="10"/>
+    <text class="mono" x="72" y="48" fill="#fff" font-size="28">design-rules.md</text>
+    <text class="jp dark" x="24" y="122" font-size="24" font-weight="700">・デザインのルール</text>
+    <text class="jp dark" x="24" y="166" font-size="24" font-weight="700">・余白のルール など</text>
+  </g>
+
+  <!-- カード 4: phpunit-rules.md -->
+  <g transform="translate(790 320)">
+    <rect class="card" x="0" y="0" width="380" height="210" rx="10"/>
+    <path class="head" d="M10,0 h360 a10,10 0 0 1 10,10 v62 h-380 v-62 a10,10 0 0 1 10,-10 z"/>
+    <use href="#file" x="20" y="10"/>
+    <text class="mono" x="72" y="48" fill="#fff" font-size="28">phpunit-rules.md</text>
+    <text class="jp dark" x="24" y="122" font-size="24" font-weight="700">・PHPUnit テストの形式</text>
+    <text class="jp dark" x="24" y="166" font-size="24" font-weight="700">・テストの書き方 など</text>
+  </g>
+</svg>
