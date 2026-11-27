@@ -255,7 +255,7 @@ issue を自動処理するスキルを作ります！
 
 ## こんな感じで issue 自動処理スキル完成！
 
-GitHub の Claude に issue の URL を投げれば
+Claude に GitHub の issue の URL を投げれば
 自動で各種レビュー済みのプルリクまで出してくれる
 
 `/vk-kore {url}` スキル（これやっといてスキル）爆誕！
