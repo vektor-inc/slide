@@ -10,9 +10,10 @@ _paginate: false
 -->
 <link href="./themes/vk-slide/fontawesome-free/css/all.css" rel="stylesheet">
 
-# AIによる開発効率改善の取り組み
+どこまで自動化できる？
+# 全自動並列AI駆動開発への取り組み
 
-Gifu WordPRess MeetUp
+
 
 石川栄和@Vektor,Inc.
 
@@ -24,21 +25,49 @@ Gifu WordPRess MeetUp
 
 ## 自己紹介 <span class="caption">- Self introduction -</span>
 
+<div class="row colmuns" style="margin-bottom:0em"> 
+
+<div class="col-9">
+
+<h3 class="mb-24">石 川 栄 和 <span class="caption">Hidekazu Ishikawa</span> </h3>
 
 
-### 石川栄和
 
-株式会社ベクトル
+<div class="list-icon">
 
-* プラグインの開発はほとんどAIで構築
+<i class="fa-regular fa-building"></i> Vektor,Inc．代表
+<i class="fa-solid fa-laptop-code"></i>テーマ・プラグイン開発
+<i class="fa-brands fa-x-twitter"></i> kurudrive
+<i class="fa-brands fa-facebook"></i> hidekazu.ishikawa
+
+</div>
+
+</div>
+
+<div><img src="images/1_profile.png" alt="" style="width:30vw" /></div>
+</div>
+
+* 開発はほぼAIで構築
 * なるべく楽に効率よく開発できるように日々改善
-* 個人的には自作の全自動並列AI駆動開発システムを使用
 
 ---
 
 ## 今日の内容
 
-今日のお話は主に、開発効率を上げるためにどんなルールやスキル設定をしてるのか、あ。みなさんの環境でも取り入れられそうなポイントを紹介していきます。
+今日のお話は主に、開発効率を上げるためにどんなルールやスキル設定をしてるのか、みなさんの環境でも取り入れられそうなポイントを紹介していきます。
+
+---
+
+* 個人的には自作の全自動並列AI駆動開発システムを使用
+
+---
+
+## 有名な ADE <span class="caption">（Agent Development Environment）</div>
+
+* Orca https://orca.dev/
+* Herdr https://herdr.dev/
+
+など
 
 ---
 
